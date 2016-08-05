@@ -20,18 +20,18 @@ Within each folder you'll find three things:
 
 ### PDFs
 
-- [1896](https://github.com/hadro/brewery-guides/raw/master/Brewers_guide_for_the_United_States_Canada_and_Mexico_containing_complete_lists_of_brewers_maltsters_bd047d10-cf0f-0131-cc6d-58d385a7bbd0/Brewers_guide_for_the_United_States_Canada_and_Mexico_containing_complete_lists_of_brewers_maltsters_bd047d10-cf0f-0131-cc6d-58d385a7bbd0.pdf)
-- [1898](https://github.com/hadro/brewery-guides/raw/master/Brewers_guide_for_the_United_States_Canada_and_Mexico_containing_complete_lists_of_brewers_maltstersc8613600-c4d6-0131-c359-58d385a7b928/Brewers_guide_for_the_United_States_Canada_and_Mexico_containing_complete_lists_of_brewers_maltstersc8613600-c4d6-0131-c359-58d385a7b928.pdf)
-- [1899](https://github.com/hadro/brewery-guides/raw/master/Toveys_official_brewers_and_maltsters_directory_of_the_United_States_and_Canada_1899_13036980-d881-0131-ed0b-58d385a7b928/Toveys_official_brewers_and_maltsters_directory_of_the_United_States_and_Canada_1899_13036980-d881-0131-ed0b-58d385a7b928.pdf)
-- [1903](https://github.com/hadro/brewery-guides/raw/master/Toveys_official_brewers_and_maltsters_directory_of_the_United_States_and_Canada_1903_1c3611d0-c4d5-0131-5925-58d385a7bbd0/Toveys_official_brewers_and_maltsters_directory_of_the_United_States_and_Canada_1903_1c3611d0-c4d5-0131-5925-58d385a7bbd0.pdf)
-- [1904](https://github.com/hadro/brewery-guides/raw/master/Toveys_official_brewers_and_maltsters_directory_of_the_United_States_and_Canada_1904_e43210e0-d880-0131-d2d3-58d385a7b928/Toveys_official_brewers_and_maltsters_directory_of_the_United_States_and_Canada_1904_e43210e0-d880-0131-d2d3-58d385a7b928.pdf)
-- [1906](https://github.com/hadro/brewery-guides/raw/master/Toveys_official_brewers_and_maltsters_directory_of_the_United_States_and_Canada_1906_e0d472a0-c99b-0131-3d2a-58d385a7bbd0/Toveys_official_brewers_and_maltsters_directory_of_the_United_States_and_Canada_1906_e0d472a0-c99b-0131-3d2a-58d385a7bbd0.pdf)
-- [1913](https://github.com/hadro/brewery-guides/raw/master/Toveys_official_brewers_and_maltsters_directory_of_the_United_States_and_Canada_1913_08b2ae90-d7bd-0131-7a45-58d385a7b928/Toveys_official_brewers_and_maltsters_directory_of_the_United_States_and_Canada_1913_08b2ae90-d7bd-0131-7a45-58d385a7b928.pdf)
-- [1914](https://github.com/hadro/brewery-guides/raw/master/Toveys_official_brewers_and_maltsters_directory_of_the_United_States_and_Canada_1914_4f96c920-c4d5-0131-0ccc-58d385a7bbd0/Toveys_official_brewers_and_maltsters_directory_of_the_United_States_and_Canada_1914_4f96c920-c4d5-0131-0ccc-58d385a7bbd0.pdf)
-- [1915](https://github.com/hadro/brewery-guides/raw/master/Toveys_official_brewers_and_maltsters_directory_of_the_United_States_and_Canada_1915_27263780-d7bd-0131-de52-58d385a7b928/Toveys_official_brewers_and_maltsters_directory_of_the_United_States_and_Canada_1915_27263780-d7bd-0131-de52-58d385a7b928.pdf)
-- [1916](https://github.com/hadro/brewery-guides/raw/master/Toveys_official_brewers_and_maltsters_directory_of_the_United_States_and_Canada_1916_4b912140-d7bd-0131-6aa8-58d385a7b928/Toveys_official_brewers_and_maltsters_directory_of_the_United_States_and_Canada_1916_4b912140-d7bd-0131-6aa8-58d385a7b928.pdf)
-- [1917](https://github.com/hadro/brewery-guides/raw/master/Toveys_official_brewers_and_maltsters_directory_of_the_United_States_and_Canada_1917_5a844a20-d7bd-0131-c2cd-58d385a7b928/Toveys_official_brewers_and_maltsters_directory_of_the_United_States_and_Canada_1917_5a844a20-d7bd-0131-c2cd-58d385a7b928.pdf)
-- [1918](https://github.com/hadro/brewery-guides/raw/master/Toveys_official_brewers_and_maltsters_directory_of_the_United_States_and_Canada_1918_59b1baf0-c4d5-0131-f713-58d385a7bbd0/Toveys_official_brewers_and_maltsters_directory_of_the_United_States_and_Canada_1918_59b1baf0-c4d5-0131-f713-58d385a7bbd0.pdf)
+- [1896](https://github.com/hadro/brewery-guides/raw/master/1896/1896.pdf)
+- [1898](https://github.com/hadro/brewery-guides/raw/master/1898/1898.pdf)
+- [1899](https://github.com/hadro/brewery-guides/raw/master/1899/1899.pdf)
+- [1903](https://github.com/hadro/brewery-guides/raw/master/1903/1903.pdf)
+- [1904](https://github.com/hadro/brewery-guides/raw/master/1904/1904.pdf)
+- [1906](https://github.com/hadro/brewery-guides/raw/master/1906/1906.pdf)
+- [1913](https://github.com/hadro/brewery-guides/raw/master/1913/1913.pdf)
+- [1914](https://github.com/hadro/brewery-guides/raw/master/1914/1914.pdf)
+- [1915](https://github.com/hadro/brewery-guides/raw/master/1915/1915.pdf)
+- [1916](https://github.com/hadro/brewery-guides/raw/master/1916/1916.pdf)
+- [1917](https://github.com/hadro/brewery-guides/raw/master/1917/1917.pdf)
+- [1918](https://github.com/hadro/brewery-guides/raw/master/1918/1918.pdf)
 
 ## More fun with Public Domain materials
 
