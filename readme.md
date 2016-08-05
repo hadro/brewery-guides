@@ -1,10 +1,10 @@
 #Brewery Directories from 1896 - 1918
 
-The files in this repository come from two related New York Public Library collections, linked below.
+The files in this repository are derived from two related New York Public Library collections, linked below.
 
 They cover listings of breweries and maltsters in the United States from 1896 to 1918, and include fascinating location information as well as excellent historical advertising context and more.
 
-Files come from two collections of similar titles, and the [Digital Collections](http://digitalcollections.nypl.org) links below contain all the images of the volumes help by The New York Public Library, in a variety of useful resolutions:
+Files come from two collections of similar titles, and the [Digital Collections](http://digitalcollections.nypl.org) links below contain all the images of the volumes held by The New York Public Library, in a variety of useful resolutions:
 
 - [Tovey's official brewers' and maltsters' directory of the United States and Canada](http://digitalcollections.nypl.org/collections/toveys-official-brewers-and-maltsters-directory-of-the-united-states-and-canada#/?tab=navigation)
 - [Brewers' guide for the United States, Canada and Mexico containing complete lists of brewers, maltsters and kindred trade](http://digitalcollections.nypl.org/collections/brewers-guide-for-the-united-states-canada-and-mexico-containing-complete-lists#/?tab=about)
