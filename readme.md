@@ -6,8 +6,8 @@ They cover listings of breweries and malsters in the United States from 1896 to 
 Files come from two collections due to a name change in the original series after the first few years the Guide was published.
 
 Original collection links via NYPL's Digital Collections platform: 
-- http://digitalcollections.nypl.org/collections/toveys-official-brewers-and-maltsters-directory-of-the-united-states-and-canada#/?tab=navigation
-- http://digitalcollections.nypl.org/collections/brewers-guide-for-the-united-states-canada-and-mexico-containing-complete-lists#/?tab=about
+- [Tovey's official brewers' and maltsters' directory of the United States and Canada](http://digitalcollections.nypl.org/collections/toveys-official-brewers-and-maltsters-directory-of-the-united-states-and-canada#/?tab=navigation)
+- [Brewers' guide for the United States, Canada and Mexico containing complete lists of brewers, maltsters and kindred trade](http://digitalcollections.nypl.org/collections/brewers-guide-for-the-united-states-canada-and-mexico-containing-complete-lists#/?tab=about)
 
 
 
