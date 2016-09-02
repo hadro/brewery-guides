@@ -16,6 +16,7 @@ Each folder in this repository represents one volume of the brewery guides.
 Within each folder you'll find four things:
 - A searchable PDF of the original volume;
 - A `.txt` file that is the concatenated output of the 'txt' folder;
+- A `_with_layout.txt` file that is the txt output of the PDF file using `pdftotxt` with the `-layout` flag;
 - A 'txt' folder with all of the raw OCR txt for each page, with sequence and image ID information embedded in the filename;
 - An 'hocr' folder with all of the coordinate hocr files for each page, with sequence and image ID information embedded in the filename 
 
