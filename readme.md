@@ -1,4 +1,4 @@
-#Brewery Directories from 1896 - 1918
+# Brewery Directories from 1896 - 1918
 
 The files in this repository are derived from two related New York Public Library collections, linked below.
 
