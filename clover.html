@@ -280,7 +280,6 @@ function launchClover(manifestId, rawCanvasId) {
   if (old) old.remove();
 
   const el = document.createElement("clover-viewer");
-  el.options = { informationPanel: { open: false } };
 
   if (!rawCanvasId) {
     // No target canvas — open manifest at first page
