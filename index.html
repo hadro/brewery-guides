@@ -110,7 +110,7 @@
     <select id="vol-select"></select>
     <div class="links">
       <a id="nypl-link" href="#" target="_blank">View on NYPL</a>
-      <a href="brewery_guides_explorer.html">Data Explorer</a>
+      <a href="https://hadro.github.io/brewery-guides/explorer.html">Data Explorer</a>
     </div>
   </div>
 </header>
@@ -224,11 +224,10 @@ sel.addEventListener("change", () => {
   const vol = VOLUMES[parseInt(sel.value)];
   updateLinks(vol);
 
-  // Replace the window with the new manifest
-  const windowId = Object.keys(viewer.store.getState().windows)[0];
-  viewer.store.dispatch(
-    Mirador.actions.updateWindow(windowId, { manifestId: vol.manifestId })
-  );
+  // Remove existing windows and open the new manifest
+  const windowIds = Object.keys(viewer.store.getState().windows);
+  windowIds.forEach(id => viewer.store.dispatch(Mirador.actions.removeWindow(id)));
+  viewer.store.dispatch(Mirador.actions.addWindow({ manifestId: vol.manifestId }));
 });
 </script>
 </body>
