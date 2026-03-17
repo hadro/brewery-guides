@@ -1,0 +1,62 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Birmingham",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131894/full/!760,760/0/default.jpg#xywh=0,1443,103,30",
+      "id": "https://hadro.github.io/brewery-guides/1903/0007_5131894_gemini-2.0-flash_entry_annotations/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Birmingham",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131894/full/!760,760/0/default.jpg#xywh=384,2690,1550,387",
+      "id": "https://hadro.github.io/brewery-guides/1903/0007_5131894_gemini-2.0-flash_entry_annotations/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mobile",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131894/full/!760,760/0/default.jpg#xywh=0,2518,101,50",
+      "id": "https://hadro.github.io/brewery-guides/1903/0007_5131894_gemini-2.0-flash_entry_annotations/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mobile",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131894/full/!760,760/0/default.jpg#xywh=0,3005,144,81",
+      "id": "https://hadro.github.io/brewery-guides/1903/0007_5131894_gemini-2.0-flash_entry_annotations/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "describing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Montgomery",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131894/full/!760,760/0/default.jpg#xywh=396,3036,1534,70",
+      "id": "https://hadro.github.io/brewery-guides/1903/0007_5131894_gemini-2.0-flash_entry_annotations/entry/4"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1903/0007_5131894_gemini-2.0-flash_entry_annotations"
+}

@@ -1,0 +1,103 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "AUGUST ROOS' SON",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131447/full/!760,760/0/default.jpg#xywh=730,442,242,1948",
+      "id": "https://hadro.github.io/brewery-guides/1914/0082_5131447_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "COPPER WORKS",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131447/full/!760,760/0/default.jpg#xywh=984,1110,184,1212",
+      "id": "https://hadro.github.io/brewery-guides/1914/0082_5131447_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "WRITE FOR PARTICULARS",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131447/full/!760,760/0/default.jpg#xywh=2012,1112,110,1098",
+      "id": "https://hadro.github.io/brewery-guides/1914/0082_5131447_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "429-431-433 EAST NINTY-FIRST STREET, NEW YORK, N. Y.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131447/full/!760,760/0/default.jpg#xywh=2350,1306,50,456",
+      "id": "https://hadro.github.io/brewery-guides/1914/0082_5131447_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Copper Work Used in the Equipment of Brew Plants",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131447/full/!760,760/0/default.jpg#xywh=1682,754,162,1840",
+      "id": "https://hadro.github.io/brewery-guides/1914/0082_5131447_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Government Tinned Copper Pipe Lines for Bottling Plants",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131447/full/!760,760/0/default.jpg#xywh=1572,756,162,1850",
+      "id": "https://hadro.github.io/brewery-guides/1914/0082_5131447_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tinned Copper Pipe Lines for Cellars",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131447/full/!760,760/0/default.jpg#xywh=1460,762,168,1848",
+      "id": "https://hadro.github.io/brewery-guides/1914/0082_5131447_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Also Sole Manufacturer of THE HUPFEL AUTOMATIC HOP STRAINER—Patented 1908",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131447/full/!760,760/0/default.jpg#xywh=1956,2400,90,560",
+      "id": "https://hadro.github.io/brewery-guides/1914/0082_5131447_gemini-2.0-flash_annotations/line/7"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1914/0082_5131447_gemini-2.0-flash_annotations"
+}

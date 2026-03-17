@@ -1,0 +1,607 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "SUPPLEMENT TO THE BREWERS' JOURNAL. 59",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=324,320,1216,40",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "OHIO.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=742,432,236,40",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"\t\tCincinnati Malting Co., 1824 Mc-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=2,472,1548,122",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"\t\tFleischmann Malting Co., 419 Plum st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=162,586,1474,104",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cleveland\t\tEpstein Malt Co., 702 Canal rd.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,666,1458,82",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hamilton\t\tSohngen, Edw., Malt Co., Canal st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,724,1534,56",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Piqua\t\tPiqua Malt Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,742,1050,116",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "PENNSYLVANΙΑ.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=480,846,720,56",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Allegheny\t\tGeiselhardt, Est. Julius, 499 Ohio st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,914,1586,52",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Easton\t\tRice, Geo. O., 131 Ferry st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,954,1306,116",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Philadelphia\t\tPerot's, Francis, Sons Malting Co.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,1010,1632,146",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "808 Lafayette Building.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,1134,102,56",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "WASHINGTON.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=440,1176,716,56",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dayton\t\tCahill & Dunlap.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=8,1246,1076,48",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "WISCONSIN.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=592,1328,528,44",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Appleton\t\tWisconsin Grain & Malt Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=46,1384,1298,56",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chilton\t\tChilton Malting Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,1426,1128,66",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Columbus\t\tKurth Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,1474,878,60",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fond du Lac\t\tFond du Lac Malt & Grain Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,1522,1406,62",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hartford\t\tKonrad Bros. & Werner.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=8,1572,1274,58",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"\t\tPortz Bros. Malt & Grain Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,1608,1382,128",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Kenosha\t\tPettit, M. H., Malting Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,1710,1276,66",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Kewaskum\t\tRosenheimer, L., Malt & Grain Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=12,1758,1524,66",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lomira\t\tStar Malt & Grain Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,1808,1224,56",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Manitowoc\t\tManitowoc Malting Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,1850,1622,118",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"\t\tRahr, Wm., Sons' Co., 6th and Wash-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,1942,1620,170",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ington sts.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,2090,86,48",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Milwaukee\t\tBorchert Malting Co., 25th ave. and",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=168,2096,1444,176",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "South Pierce st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=636,2096,442,48",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"\t\tFroedtert Malting Co., 478 7th st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,2188,84,48",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"\t\tInterstate Malting Co., 33d ave. and",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,2236,86,50",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Burnham st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=580,2238,396,44",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"\t\tLadish - Stoppenbach Co.. 509 Ger-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=176,2248,1444,124",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "mania Building.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=570,2334,516,48",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"\t\tMilwaukee Malting Co., South Bay and",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=584,2376,1020,60",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Reynolds sts.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=626,2426,362,52",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"\t\tMilwaukee-Western Malt Co., South",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=580,2472,1028,56",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Water st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=632,2528,246,36",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"\t\tWeschler, D. D., & Sons, Inc., 37th",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=564,2568,1042,58",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ave. and Burnham st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=652,2616,606,50",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rubicon\t\tRubicon Malting Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=564,2660,584,56",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sheboygan\t\tSchreier, Konrad, Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=40,2704,1110,58",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Waterloo\t\tBadger State Malt Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,2754,1190,52",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Watertown\t\tHartig, Wm., Malting Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=66,2800,1184,58",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/43"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "West Bend\t\tWest Bend Malting Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,2846,1192,58",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati\t\tAmmann, William, 128 Sycamore st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,2476,76,40",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/45"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"\t\tMicken ave.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,2518,82,100",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/46"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mount Joy\t\tFrank, Philip, Malting Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=2,2608,80,50",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/47"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"\t\tLaubenstein, A. G.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,2660,446,48",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/48"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mayville\t\tBuerger's Malting Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,2946,48,48",
+      "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations/line/49"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1915/0057_5131510_gemini-2.0-flash_annotations"
+}

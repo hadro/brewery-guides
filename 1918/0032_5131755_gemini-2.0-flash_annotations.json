@@ -1,0 +1,427 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "NEW YORK—Continued.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131755/full/!760,760/0/default.jpg#xywh=1204,404,770,54",
+      "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Utica........................ Eagle Brewing Co., 31 3d st....A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131755/full/!760,760/0/default.jpg#xywh=832,474,1450,74",
+      "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Utica........................ Fort Schuyler Brewing Co., 96 Catherine st...........................A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131755/full/!760,760/0/default.jpg#xywh=954,520,1306,76",
+      "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Utica........................ Gulf Brewing Co., 3d and Jay streets.........................................A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131755/full/!760,760/0/default.jpg#xywh=876,600,1390,98",
+      "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Utica........................ Oneida Brewing Co., Court and State sts......................................",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131755/full/!760,760/0/default.jpg#xywh=976,700,1288,80",
+      "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Utica........................ West End Brewing Co., 11 Edward street..........................................A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131755/full/!760,760/0/default.jpg#xywh=936,800,1328,70",
+      "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Watertown........................ Watertown Consumers' Brewing Co., 457 Poplar street................A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131755/full/!760,760/0/default.jpg#xywh=826,886,1440,80",
+      "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Yonkers........................ Yonkers Brewery, Inc., Chicken Island........................................A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131755/full/!760,760/0/default.jpg#xywh=820,968,1444,96",
+      "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "OHIO.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131755/full/!760,760/0/default.jpg#xywh=1466,1130,236,40",
+      "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Akron........................ Akron Brewing Co., South High street............................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131755/full/!760,760/0/default.jpg#xywh=816,1186,1442,72",
+      "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Akron........................ Burkhardt, M., Brewing Co., 152 Sherman street............................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131755/full/!760,760/0/default.jpg#xywh=962,1268,1294,82",
+      "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Akron........................ Renner, George J., Brewing Co., 247 North Forge st........................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131755/full/!760,760/0/default.jpg#xywh=868,1362,1390,88",
+      "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Alliance........................ *Alliance Brewing Co., Summit st. and C. & P. R. R.........................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131755/full/!760,760/0/default.jpg#xywh=818,1460,1438,76",
+      "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bellaire........................ Bellaire Brewing Co., Hamilton and 32d sts........................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131755/full/!760,760/0/default.jpg#xywh=820,1552,1448,76",
+      "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bluffton........................ Hermann, Casper........................",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131755/full/!760,760/0/default.jpg#xywh=818,1648,1266,66",
+      "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bucyrus........................ Bucyrus Brewing Co., 568 North Rail Road street...........................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131755/full/!760,760/0/default.jpg#xywh=818,1698,1432,64",
+      "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Canton........................ Home Brew'g Co., 1200 East 4th st. L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131755/full/!760,760/0/default.jpg#xywh=816,1792,1456,62",
+      "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Canton........................ Canton Branch, 216 North Cherry street............................................",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131755/full/!760,760/0/default.jpg#xywh=976,1838,1276,62",
+      "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Canton { *Stark-Tuscara-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131755/full/!760,760/0/default.jpg#xywh=862,1874,440,58",
+      "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Canton { was Breweries",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131755/full/!760,760/0/default.jpg#xywh=882,1924,432,60",
+      "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Canton { Co.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131755/full/!760,760/0/default.jpg#xywh=1026,1982,148,40",
+      "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Canton { Belmont Bldg.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131755/full/!760,760/0/default.jpg#xywh=1362,1986,386,44",
+      "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Canton { LB New Philadelphia Branch, New Philadelphia.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131755/full/!760,760/0/default.jpg#xywh=888,2012,428,70",
+      "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Schuster Branch, Massillon.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131755/full/!760,760/0/default.jpg#xywh=1334,2026,758,58",
+      "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Stark Branch, 624 North Cherry st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131755/full/!760,760/0/default.jpg#xywh=808,2064,1432,120",
+      "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chillicothe........................ Knecht, Jacob, & Son, Water street............................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131755/full/!760,760/0/default.jpg#xywh=1386,2170,228,44",
+      "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati........................ *Wissler, Otto, & Co., 2d st.....L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131755/full/!760,760/0/default.jpg#xywh=1074,2210,1192,62",
+      "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati........................ Bellevue Brewing Co.. 601 W. McMicken ave.............................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131755/full/!760,760/0/default.jpg#xywh=810,2252,1428,66",
+      "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati........................ *Bruckmann Brewing Co., Inc., Dodsworth ave. and Canal....L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131755/full/!760,760/0/default.jpg#xywh=1380,2400,880,56",
+      "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati........................ Cincinnati Home Brewing Co., Spring Grove ave. and Garrand street............................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131755/full/!760,760/0/default.jpg#xywh=1384,2494,840,56",
+      "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati........................ Crown Brewing Co., 129 East McMicken avenue.............................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131755/full/!760,760/0/default.jpg#xywh=1330,2582,898,60",
+      "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati........................ Fairmount Brewing Co., Westwood ave. and Quebec road....L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131755/full/!760,760/0/default.jpg#xywh=1330,2676,898,58",
+      "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati........................ Foss-Schneider Brewing Co., 943 Freeman ave...............................",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131755/full/!760,760/0/default.jpg#xywh=1330,2768,892,58",
+      "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati........................ *Gambrinus Stock Co., Sycamore and Abigail sts..............................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131755/full/!760,760/0/default.jpg#xywh=1378,2910,690,54",
+      "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati........................ *Hauck, John, Brewing Co., 433 Dayton st......................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131755/full/!760,760/0/default.jpg#xywh=1312,2952,916,62",
+      "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations/line/34"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1918/0032_5131755_gemini-2.0-flash_annotations"
+}

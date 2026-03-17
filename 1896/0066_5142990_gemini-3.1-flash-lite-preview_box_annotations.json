@@ -1,0 +1,227 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Grank Forks",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142990/full/!760,760/0/default.jpg#xywh=796,721,1792,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0066_5142990_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Akron",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142990/full/!760,760/0/default.jpg#xywh=793,912,1608,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0066_5142990_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Akron",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142990/full/!760,760/0/default.jpg#xywh=859,1066,1542,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0066_5142990_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Archbold",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142990/full/!760,760/0/default.jpg#xywh=798,1221,1799,74",
+      "id": "https://hadro.github.io/brewery-guides/1896/0066_5142990_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bluffton",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142990/full/!760,760/0/default.jpg#xywh=798,1300,1799,75",
+      "id": "https://hadro.github.io/brewery-guides/1896/0066_5142990_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bryan",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142990/full/!760,760/0/default.jpg#xywh=798,1375,1615,84",
+      "id": "https://hadro.github.io/brewery-guides/1896/0066_5142990_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bucyrus",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142990/full/!760,760/0/default.jpg#xywh=798,1533,1617,77",
+      "id": "https://hadro.github.io/brewery-guides/1896/0066_5142990_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Canal Dover",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142990/full/!760,760/0/default.jpg#xywh=805,1692,1799,72",
+      "id": "https://hadro.github.io/brewery-guides/1896/0066_5142990_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Canton",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142990/full/!760,760/0/default.jpg#xywh=807,1769,1610,75",
+      "id": "https://hadro.github.io/brewery-guides/1896/0066_5142990_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Canton",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142990/full/!760,760/0/default.jpg#xywh=1036,1925,1568,73",
+      "id": "https://hadro.github.io/brewery-guides/1896/0066_5142990_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chillicothe",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142990/full/!760,760/0/default.jpg#xywh=814,2012,1606,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0066_5142990_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chillicothe",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142990/full/!760,760/0/default.jpg#xywh=968,2170,52,35",
+      "id": "https://hadro.github.io/brewery-guides/1896/0066_5142990_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142990/full/!760,760/0/default.jpg#xywh=817,2238,1607,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0066_5142990_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142990/full/!760,760/0/default.jpg#xywh=817,2238,1607,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0066_5142990_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142990/full/!760,760/0/default.jpg#xywh=1148,2772,1281,89",
+      "id": "https://hadro.github.io/brewery-guides/1896/0066_5142990_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142990/full/!760,760/0/default.jpg#xywh=1171,3022,1258,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0066_5142990_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142990/full/!760,760/0/default.jpg#xywh=817,2238,1607,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0066_5142990_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142990/full/!760,760/0/default.jpg#xywh=817,2238,1607,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0066_5142990_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142990/full/!760,760/0/default.jpg#xywh=817,2238,1607,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0066_5142990_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142990/full/!760,760/0/default.jpg#xywh=1262,4028,1186,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0066_5142990_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1896/0066_5142990_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

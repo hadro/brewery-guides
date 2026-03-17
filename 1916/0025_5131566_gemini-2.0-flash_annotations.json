@@ -1,0 +1,439 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MINNESOTA—Continued.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=428,422,834,50",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rochester........*Schuster Brewing Co., Inc., 420 South Main st........................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=0,480,1528,66",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Saint Cloud........*Preiss Brewing Co. (Andrew Preiss, Jr., Proprietor), 9th ave. and 6th st........................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=0,520,1526,132",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Saint Cloud........Udermann, Val., Brewing Co., 6th ave. and 4th st........................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=1474,542,136,32",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Saint Paul........*Hamm, Theodore, Brewing Co., Minnehaha & Greenbriar sts....L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=0,600,1626,298",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Saint Paul........Schmidt, Jacob, Brewing Co., 882 W. 7th st........................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=0,838,1626,244",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Saint Peter........*Engesser Brewing & Malting Co...L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=0,1012,1632,368",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Silver Lake........Silver Lake Brewing Co........................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=0,1022,92,60",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Stillwater........*Wolf, Joseph, Co., 402 So. Main street........................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=618,1318,1000,72",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Winona........*Bub, Estate Peter (Clara Miller, Executrix)........................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=0,1320,1626,186",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Winona........Park Brewing Co., Front and Walnut sts........................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=0,1446,1634,432",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Winona........*Schellhas, Wm.. Brewing Co......L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=0,1876,108,44",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MISSOURI.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=636,1876,444,36",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Appleton........Appleton Brewery & Ice Co........................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=0,1918,1632,220",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hannibal........Hannibal Brewing Co., Lindell avenue........................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=0,2104,1634,268",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jefferson City........*Capitol Brewery Co., Dunklin st.. L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=0,2326,1630,80",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Joplin........Home Brewing & Ice Co., East 7th st. and Marion ave........................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=638,2396,900,50",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Kansas City........{Heim, Ferd., Brewery, Agnes and Guinotte aves.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=632,2494,904,48",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Kansas City........{Rochester Brewery, Washington and 20th sts.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=642,2586,892,48",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Kansas City........*Kansas City Breweries Co., A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=166,2592,412,40",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Kansas City........*Muehlebach, Geo., Brewing Co., 1734 Main st........................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=620,2680,920,50",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Kansas City........Stulz Bros........................W B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=684,2724,944,58",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Kansas City........Thoma, Leo, 20 East 24th st..... W B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=642,2768,986,56",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lexington........Lexington Brewing Co........................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=0,2862,1626,58",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Saint Charles........Fischbach Brewing Co., Benton ave. and Clay st........................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=0,2914,1534,52",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Saint Charles........*Schibi Spring Brewing Co., 3d and Water streets........................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=358,2984,1186,82",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Saint Paul........*Yoerg Brewing Co., Ohio and Ethel sts........................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=308,314,1304,50",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Shakopee........*Nyssen, Hubert........................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=0,2446,134,48",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sleepy Eye........*Schneller, Bernard........................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=0,2490,596,52",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tower........Iron Range Brewing Assoc'n........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=164,2548,398,36",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Virginia........Virginia Brewing Co., Spruce and Ohio sts........................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=644,2548,452,36",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wabasha........Grass, Christ........................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=696,2642,336,34",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wadena........*Wadena Brewing Co........................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=0,2638,108,44",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cape Girardeau........Cape Brewery & Ice Co., Morgan and Oak sts........................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=686,2960,948,52",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hannibal........*Herl - Rendlen Brewing Co., 113 Lindell ave........................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=0,3012,106,50",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hermann........Danzer's, John M., Brewery, East Front st........................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131566/full/!760,760/0/default.jpg#xywh=688,3056,942,40",
+      "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations/line/35"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1916/0025_5131566_gemini-2.0-flash_annotations"
+}

@@ -1,0 +1,499 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "PENNSYLVANIA—Continued.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=878,470,962,39",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Scranton........ Robinson, Mrs. Mina, Cedar ave. and Alder st. (See Penna. Central Brewing Co.)",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=599,546,1425,46",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Scranton........ Scranton Brewing Co., 1216 Cedar avenue. (See Penna. Central Brewing Co.)",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=1130,687,894,44",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Shamokin........ Fuhrmann & Schmidt, Commerce and Washington sts........................A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=599,818,1422,60",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Shenandoah........ Columbia Brewing Co., 110 Main street..........................................A L W B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=601,906,1420,62",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Shire Oaks........ Shire Oaks Brewing Co.............................................................................A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=601,1004,1514,56",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Summit........ *McNally, Robert J..................................................................................................A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=601,1050,1514,58",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sunbury........ Moeschlin, J. & A..........................................................................................A L B†",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=604,1099,1510,54",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tamaqua........ McGinty, John F............................................................................................A L B†",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=604,1149,1514,48",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tarentum........ Anchor Brewing Co.....................................................................................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=604,1195,1511,50",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tarr........ Union Brewery.................................................................................................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=602,1236,1513,59",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Titusville........ Schwartz, Charles..........................................................................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=604,1283,1514,54",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Titusville........ Theobald, George W., South and Franklin sts......................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=759,1334,1271,48",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tyrone........ Tyrone Brewing Co...........................................................................................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=1145,1382,969,48",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Uniontown........ Uniontown Brewing Co., North Beeson ave..........................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=599,1417,1521,113",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Washington........ Crescent Brewing Co.........................................................................................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=601,1565,1514,48",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Washington........ Zelt, Henry, Wheeling and Oregon sts....................................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=858,1612,1192,46",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wilkes Barre........ { Arnold, John, Hazleton.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=604,1701,1203,48",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wilkes Barre........ { Casey & Kelly Brewing Co., Scranton.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=1138,1752,975,46",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wilkes Barre........ { Dickson Brewing Co., Dickson City.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=1133,1800,937,45",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wilkes Barre........ { Hartung, A., Honesdale.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=1136,1847,650,43",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wilkes Barre........ { Hughes, Estate of H. R., Pittston.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=1136,1889,885,48",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wilkes Barre........ { Hughes & Glennon, Pittston.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=1131,1940,766,42",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wilkes Barre........ { Krantz, Peter, Carbondale.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=1131,1985,721,44",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wilkes Barre........ { Lackawanna Brewing Co., Scranton.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=1130,2032,979,44",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wilkes Barre........ Pennsylvania Central Brewing Co., Coal Exchange Building, A L........ Reichard & Weaver, 85 Water st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=1129,2075,850,48",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wilkes Barre........ { Robinson's, E., Sons, Scranton.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=1131,2121,811,48",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wilkes Barre........ { Robinson, M., Scranton.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=1131,2172,634,42",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wilkes Barre........ { Schimpff Brewing Co., Honesdale.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=1131,2217,890,43",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wilkes Barre........ { Scranton Brewing Co., Scranton.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=1125,2263,873,46",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wilkes Barre........ { Stegmaier Brewing Co., 230 East Market st........................................................A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=1126,2304,894,58",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Williamsport........ Flock, Mrs. Jacob, 601 Franklin st.........................................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=592,2393,1515,55",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Williamsport........ Koch Brewing Co.......................................................................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=647,2440,1461,59",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "York........ Helb, Theo. R., King & Queen sts...................................................................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=593,2486,1513,54",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "York........ York Brewing Co., West and Company sts...................................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=633,2529,1381,64",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "RHODE ISLAND.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=1028,2661,651,44",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Providence........ Eagle Brewing Co., 450 West Exchange st..................................................................A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=591,2726,1422,52",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Providence........ Hanley, James, Brewing Co., Jackson and Fountain sts............................................A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=1116,2823,894,44",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Providence........ Molter, Henry T., 14 Potter st.........................................................................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=1100,2907,1002,58",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Providence........ Narragansett Brewing Co., Depot avenue (Arlington)................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=1111,2962,886,43",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Providence........ Providence Brewing Co., Harris ave. and Eagle st....................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131865/full/!760,760/0/default.jpg#xywh=1111,3050,895,55",
+      "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations/line/40"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1899/0056_5131865_gemini-2.0-flash_annotations"
+}

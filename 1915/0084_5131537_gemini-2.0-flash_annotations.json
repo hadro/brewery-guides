@@ -1,0 +1,151 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MCGRAW",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131537/full/!760,760/0/default.jpg#xywh=946,442,1318,226",
+      "id": "https://hadro.github.io/brewery-guides/1915/0084_5131537_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "SOLID TIRES",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131537/full/!760,760/0/default.jpg#xywh=952,724,1308,160",
+      "id": "https://hadro.github.io/brewery-guides/1915/0084_5131537_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Guaranteed for 10,000 Miles",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131537/full/!760,760/0/default.jpg#xywh=1114,950,978,82",
+      "id": "https://hadro.github.io/brewery-guides/1915/0084_5131537_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "20% More Rubber 40% More Service",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131537/full/!760,760/0/default.jpg#xywh=964,1086,1288,72",
+      "id": "https://hadro.github.io/brewery-guides/1915/0084_5131537_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "00% More Cost",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131537/full/!760,760/0/default.jpg#xywh=1332,1172,566,72",
+      "id": "https://hadro.github.io/brewery-guides/1915/0084_5131537_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "GREATER VOLUME",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131537/full/!760,760/0/default.jpg#xywh=1034,1286,984,78",
+      "id": "https://hadro.github.io/brewery-guides/1915/0084_5131537_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "GREATER RESILIENCY",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131537/full/!760,760/0/default.jpg#xywh=1044,1396,1154,76",
+      "id": "https://hadro.github.io/brewery-guides/1915/0084_5131537_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pressed-on Type Endless Steel Base",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131537/full/!760,760/0/default.jpg#xywh=952,2506,558,60",
+      "id": "https://hadro.github.io/brewery-guides/1915/0084_5131537_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Applied by Means of Hydraulic Pressure",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131537/full/!760,760/0/default.jpg#xywh=952,2558,1306,70",
+      "id": "https://hadro.github.io/brewery-guides/1915/0084_5131537_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Makes. Wheel and Tire One Inseparable",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131537/full/!760,760/0/default.jpg#xywh=954,2622,1306,72",
+      "id": "https://hadro.github.io/brewery-guides/1915/0084_5131537_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The McGraw Tire & Rubber Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131537/full/!760,760/0/default.jpg#xywh=946,2804,1320,84",
+      "id": "https://hadro.github.io/brewery-guides/1915/0084_5131537_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "EAST PALESTINE, OHIO",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131537/full/!760,760/0/default.jpg#xywh=1198,2934,812,58",
+      "id": "https://hadro.github.io/brewery-guides/1915/0084_5131537_gemini-2.0-flash_annotations/line/11"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1915/0084_5131537_gemini-2.0-flash_annotations"
+}

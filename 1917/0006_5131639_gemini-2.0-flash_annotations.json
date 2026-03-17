@@ -1,0 +1,103 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Adriance Machine Works, Inc.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131639/full/!760,760/0/default.jpg#xywh=974,418,204,1990",
+      "id": "https://hadro.github.io/brewery-guides/1917/0006_5131639_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "BENJAMIN ADRIANCE, President",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131639/full/!760,760/0/default.jpg#xywh=1194,1108,84,1068",
+      "id": "https://hadro.github.io/brewery-guides/1917/0006_5131639_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Manufacturers of",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131639/full/!760,760/0/default.jpg#xywh=1342,1412,62,500",
+      "id": "https://hadro.github.io/brewery-guides/1917/0006_5131639_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "and",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131639/full/!760,760/0/default.jpg#xywh=1636,1594,64,124",
+      "id": "https://hadro.github.io/brewery-guides/1917/0006_5131639_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Machines for Making Crown Caps",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131639/full/!760,760/0/default.jpg#xywh=2348,1710,50,102",
+      "id": "https://hadro.github.io/brewery-guides/1917/0006_5131639_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "254 VAN BRUNT STREET",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131639/full/!760,760/0/default.jpg#xywh=2348,1898,50,144",
+      "id": "https://hadro.github.io/brewery-guides/1917/0006_5131639_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "BROOKLYN, Ν. Υ.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131639/full/!760,760/0/default.jpg#xywh=2348,2506,50,52",
+      "id": "https://hadro.github.io/brewery-guides/1917/0006_5131639_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ESTABLISHED 1888",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131639/full/!760,760/0/default.jpg#xywh=2342,2914,50,64",
+      "id": "https://hadro.github.io/brewery-guides/1917/0006_5131639_gemini-2.0-flash_annotations/line/7"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1917/0006_5131639_gemini-2.0-flash_annotations"
+}

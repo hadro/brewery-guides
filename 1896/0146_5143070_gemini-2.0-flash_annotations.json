@@ -1,0 +1,583 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "144",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=770,406,112,51",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "McGowan, John H. Co., 42-46 Central ave..Cincinnati, O.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=772,623,1797,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Schnee, Alex. E., 253 Broadway. New York City",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=770,700,1804,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Van Duzen & Tifft Co., 102 E. 2d st........Cincinnati, O.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=775,777,1799,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Clayton Air Compressor Works, 43 Dey st.. New York City",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=770,968,1806,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Battle Creek Steam Pump Co. Battle Creek, Mich.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=768,1171,1801,59",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cameron, A. S., Steam Pump Works, ft. E. 23rd",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=775,1251,1549,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York City",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=901,1330,1677,56",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Canton Pump Co... Canton, O.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=772,1407,1802,59",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Clayton Air Compressor Works, 43 Dey st,. New York City",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=772,1487,1806,60",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cook, A. D..... Lawrenceburg, Ind.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=772,1561,1804,66",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Davidson, M. T., 42-52 Keap st. Brooklyn, N. Y.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=772,1641,1802,60",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dean Bros. Steam Pump Works. Indianapolis, Ind.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=772,1722,1804,59",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Deming Co..... .Salem, O.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=772,1797,1804,63",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Filer & Stowell Co. Milwaukee, Wis.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=775,1879,1803,60",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Foster Pump Work, 36-38 Bridge st. Brooklyn, N. Y.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=777,1958,1797,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hardick, Chas. B. Brooklyn, N. Y.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=777,2033,1806,63",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hill Machine Co. Anderson, Ind.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=777,2112,1801,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Huetteman & Cramer Co... Detroit, Mich.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=777,2187,1801,65",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ingersoll-Sargent Drill Co., 26 Cortlandt st..New York City",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=779,2268,1802,63",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Kahlert, Justus, 125 W. 3rd st.. St. Paul, Minn.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=779,2350,1802,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Kennedy, Geo. J., 1728 Bouvier st... Philadelphia, Pa.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=777,2427,1801,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Laidlaw-Dunn-Gordon Co., 186-188 W. 2d st..Cincinnati, O.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=782,2506,1799,59",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Louisville Steam Pump Co.. Louisville, Ky.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=777,2583,1799,59",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "McGowan, John H. Co., 42-46 Central ave..Cincinnati, O.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=782,2663,1799,60",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Niagara Steam Pump Works, 387-391 Flushing",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=786,2742,1547,63",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brooklyn, N. Y.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=910,2821,1668,59",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Schnee, Alexander E., 253 Broadway. New York City",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=789,2896,1799,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Shipman Engine Co., 286 Summer st.... Boston, Mass.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=782,2978,1801,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Snow Steam Pump Co... Buffalo, N. Y.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=782,3055,1801,60",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Stillwell-Bierce & Smith-Vaile Co......... Dayton, O.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=786,3129,1799,63",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tappan Steam Pump Works, 103 S. Canal st..Chicago, Ill.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=786,3209,1799,67",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Union Steam Pump Co.... Battle Creek, Mich.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=789,3290,1796,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Valley Pump Co.... Easthampton, Mass.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=789,3367,1799,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Van Duzen & Tifft Co., 102-108 E. 2d st....Cincinnati, O.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=789,3444,1801,66",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "VILTER MFG. CO. Milwaukee, Wis.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=784,3524,1804,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wertheim, Ed., Chicago, Ill.. 52 Warren st., New York City",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=789,3599,1801,65",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Northington, Henry P.......... New York City",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=782,3680,1810,66",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "GOLDEN GATE MFG. CO., 348 W. 23d st.. New York City",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=786,3872,1809,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "HOFMAN, A. M., Carbonating & Racking Co.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=789,3951,1549,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "51 So. Green street.. Chicago, Ill.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=919,4030,1671,56",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brewers' Guide",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=2739,954,59,52",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pumps, Deep Well-Continued.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=2739,1136,59,59",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pumps (Duplex Air).",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=2739,1214,59,60",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/43"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pumps (Steam).",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=2737,1571,61,51",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "street...",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=2739,2219,59,59",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/45"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ave.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=2742,3844,56,56",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/46"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Racking Apparatus.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143070/full/!760,760/0/default.jpg#xywh=2742,4000,56,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations/line/47"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1896/0146_5143070_gemini-2.0-flash_annotations"
+}

@@ -1,0 +1,79 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "WILHELM GRIESSER",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131362/full/!760,760/0/default.jpg#xywh=1314,450,184,2484",
+      "id": "https://hadro.github.io/brewery-guides/1913/0089_5131362_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Architect-Engineer",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131362/full/!760,760/0/default.jpg#xywh=1142,1156,126,1106",
+      "id": "https://hadro.github.io/brewery-guides/1913/0089_5131362_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "NEW YORK",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131362/full/!760,760/0/default.jpg#xywh=678,1182,64,1068",
+      "id": "https://hadro.github.io/brewery-guides/1913/0089_5131362_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "PITTSBURGH",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131362/full/!760,760/0/default.jpg#xywh=980,1424,80,594",
+      "id": "https://hadro.github.io/brewery-guides/1913/0089_5131362_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "4231 Laclede Avenue, St. Louis, Mo.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131362/full/!760,760/0/default.jpg#xywh=822,2384,62,186",
+      "id": "https://hadro.github.io/brewery-guides/1913/0089_5131362_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "DENVER",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131362/full/!760,760/0/default.jpg#xywh=982,2594,76,310",
+      "id": "https://hadro.github.io/brewery-guides/1913/0089_5131362_gemini-2.0-flash_annotations/line/5"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1913/0089_5131362_gemini-2.0-flash_annotations"
+}

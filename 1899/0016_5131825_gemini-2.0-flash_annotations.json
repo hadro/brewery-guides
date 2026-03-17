@@ -1,0 +1,463 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ILLINOIS—Continued.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=981,408,678,42",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago ........................ Brand Brewing Co., Elston ave. and Snow st...............................L †",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=1091,483,895,60",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago ........................ Brewer & Hofmann Brewing Co., 43 South Green st..........................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=693,567,1291,65",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago { *Chicago McAvoy Brewing Co., 2349 South Park Ave.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=766,662,1212,63",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Breweries, Limited,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=745,715,323,43",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "LB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=811,808,150,38",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "{ Wacker & Birk Brewing and Malting Co., 171 North Desplaines st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=1137,809,835,51",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "{ Dewes, F. J., Brewery Co., 764 West Chicago ave.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=1091,853,895,54",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago { *Chicago Seipp, Conrad, Brewing Co., foot 27th st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=1089,947,891,49",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Consolidated Brewing and",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=669,993,367,42",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Malting Co., LB { West Side Brewery Co., 404 North Paulina st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=1063,1036,915,58",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago ........................ Columbia Weiss Beer Brewing Co., 72 Osgood st....................................................W B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=1090,1126,893,62",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago ........................ *Cooke Brewing Co., 27th st. and Johnson ave...............................................A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=788,1220,1191,59",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago ........................ Eberlein, Gustav, 126 Rees st...W B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=746,1312,1324,57",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago ........................ Fahrenbach, Julius, 449 Fullerton ave................................................................W B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=998,1356,977,67",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago ........................ *Fortune Bros. Brewing Co., 225 South Desplaines st........................................A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=701,1451,1278,57",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago ........................ Funk, Ernst, 50 Osgood st....................................................................................W B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=686,1520,1386,99",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago ........................ *Gottfried Brewing Co., Archer and Stewart aves...........................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=745,1586,1237,62",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago ........................ Hand, Peter, Brewery Co., 59 Sheffield ave.....................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=742,1671,1241,75",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago ........................ Hoerber, J. L., Brewing Co., 646 West 21st place.........................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=689,1819,1381,108",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago ........................ Hofmann Bros. Brewing Co., Monroe and Rockwell sts.....................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=1077,1916,981,52",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago ........................ Independent Brewing Association, 586 North Halsted st...........................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=729,1956,1251,62",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago ........................ Junk, Mrs. Magdalena, 3708 S. Halsted st.....................................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=738,2046,1242,70",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago ........................ *Keeley Brewing Co., 28th st. and Groveland Park ave..............................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=727,2141,1251,61",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago ........................ Lamm & Guehring, 941 Northwestern ave.....................................................A L W B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=743,2239,1229,56",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago ........................ Manhattan Brewing Co., 39th st. and Emerald ave.....................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=738,2323,1237,73",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago ........................ Metropolitan Weiss Beer Co., 3802 Armour ave.................................................A W B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=739,2423,1234,56",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago { Bartholomae & Leicht Brewing Co., 688 Sedgwick st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=1054,2519,911,48",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Milwaukee",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=705,2705,365,38",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "and Chi-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=754,2751,280,38",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "cago Brew-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=708,2788,343,58",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "eries, Limited,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=709,2843,319,43",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "LB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=1127,2846,468,40",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "{ Bartholomae & Roesing Brewing and Malting Co., 335 West 12th st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=1083,2888,882,48",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "{ Blatz, Valentine, Brewing Co., Milwaukee, Wis.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=729,2889,286,42",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "{ Brand, M., Brewing Co., Elston ave. and Snow st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=2331,2882,67,40",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "{ Ernst Bros. Brewing Co., 67 Larrabee st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=1124,2938,241,39",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "{ Schmidt, K. G., Brewing Co., 9 Grant pl.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131825/full/!760,760/0/default.jpg#xywh=1083,2980,883,50",
+      "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations/line/37"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1899/0016_5131825_gemini-2.0-flash_annotations"
+}

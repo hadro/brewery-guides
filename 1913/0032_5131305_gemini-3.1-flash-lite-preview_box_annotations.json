@@ -1,0 +1,392 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Saint Louis, MISSOURI",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131305/full/!760,760/0/default.jpg#xywh=684,542,1418,60",
+      "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Saint Louis, MISSOURI",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131305/full/!760,760/0/default.jpg#xywh=1208,636,890,50",
+      "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Saint Louis, MISSOURI",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131305/full/!760,760/0/default.jpg#xywh=792,712,1312,88",
+      "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sedalia, MISSOURI",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131305/full/!760,760/0/default.jpg#xywh=688,794,1412,84",
+      "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sedalia, MISSOURI",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131305/full/!760,760/0/default.jpg#xywh=900,890,1296,78",
+      "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Springfield, MISSOURI",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131305/full/!760,760/0/default.jpg#xywh=690,960,1418,56",
+      "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Washington, MISSOURI",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131305/full/!760,760/0/default.jpg#xywh=688,998,1514,164",
+      "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Weston, MISSOURI",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131305/full/!760,760/0/default.jpg#xywh=694,1128,1422,74",
+      "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Anaconda, MONTANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131305/full/!760,760/0/default.jpg#xywh=692,1332,1510,64",
+      "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Billings, MONTANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131305/full/!760,760/0/default.jpg#xywh=700,1384,1502,58",
+      "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bozeman, MONTANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131305/full/!760,760/0/default.jpg#xywh=700,1430,1502,54",
+      "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Butte, MONTANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131305/full/!760,760/0/default.jpg#xywh=1264,1520,936,54",
+      "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Butte, MONTANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131305/full/!760,760/0/default.jpg#xywh=2328,756,72,52",
+      "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Butte, MONTANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131305/full/!760,760/0/default.jpg#xywh=744,1660,1460,56",
+      "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Butte, MONTANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131305/full/!760,760/0/default.jpg#xywh=698,1694,1508,126",
+      "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Deer Lodge, MONTANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131305/full/!760,760/0/default.jpg#xywh=2326,1232,72,50",
+      "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dillon, MONTANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131305/full/!760,760/0/default.jpg#xywh=700,1790,1506,68",
+      "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Great Falls, MONTANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131305/full/!760,760/0/default.jpg#xywh=700,1840,1416,64",
+      "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Great Falls, MONTANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131305/full/!760,760/0/default.jpg#xywh=944,1924,1188,74",
+      "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Havre, MONTANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131305/full/!760,760/0/default.jpg#xywh=700,1840,1416,64",
+      "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Helena, MONTANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131305/full/!760,760/0/default.jpg#xywh=702,2020,1510,118",
+      "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Kalispell, MONTANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131305/full/!760,760/0/default.jpg#xywh=706,2156,1502,70",
+      "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lewistown, MONTANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131305/full/!760,760/0/default.jpg#xywh=706,2204,1504,72",
+      "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Missoula, MONTANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131305/full/!760,760/0/default.jpg#xywh=708,2252,1416,72",
+      "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Phillipsburgh., MONTANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131305/full/!760,760/0/default.jpg#xywh=708,2340,1506,80",
+      "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Red Lodge, MONTANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131305/full/!760,760/0/default.jpg#xywh=708,2388,1504,72",
+      "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Silesia, MONTANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131305/full/!760,760/0/default.jpg#xywh=714,2912,1506,64",
+      "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Silver Bow., MONTANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131305/full/!760,760/0/default.jpg#xywh=714,3046,1508,72",
+      "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Townsend, MONTANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131305/full/!760,760/0/default.jpg#xywh=2324,1144,74,44",
+      "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Virginia City., MONTANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131305/full/!760,760/0/default.jpg#xywh=706,2528,1510,122",
+      "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Columbus, NEBRASKA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131305/full/!760,760/0/default.jpg#xywh=710,2770,1416,66",
+      "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json/entry/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Falls City., NEBRASKA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131305/full/!760,760/0/default.jpg#xywh=2342,2430,56,44",
+      "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json/entry/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fremont.., NEBRASKA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131305/full/!760,760/0/default.jpg#xywh=2346,2610,52,102",
+      "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json/entry/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hastings., NEBRASKA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131305/full/!760,760/0/default.jpg#xywh=700,1384,1502,58",
+      "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json/entry/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Nebraska City., NEBRASKA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131305/full/!760,760/0/default.jpg#xywh=712,2808,1508,132",
+      "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json/entry/34"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1913/0032_5131305_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

@@ -1,0 +1,547 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "104 BREWERS' GUIDE.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=1358,439,590,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Barley—Continued.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=1363,583,618,75",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Piqua Malt Co., The.................Piqua, O.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=768,667,1808,94",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "PURCELL, THE W. H., CO., 1107 Tacoma bldg.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=768,740,1554,102",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "..........................Chicago, Ill.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=901,831,1677,86",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "RICE & BULLEN MALTING CO.........Chicago, Ill.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=765,891,1804,110",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rickel & Co., H. W................Detroit, Mich.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=761,980,1810,96",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Roberts, W. F....................Boston, Mass",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=768,1059,1801,96",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rosenheimer, L., Malt & Grain Co......Kewaskum, Wis.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=765,1136,1799,96",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Smith, J. B., Malting Co., 40 River St......Cleveland, O.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=765,1216,1799,93",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "SOMMERS, OTTO A. & CO., 114 Franklin st.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=765,1293,1550,91",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "..........................Chicago, Ill.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=898,1361,1662,119",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Spann & Chandler, 27 Board of Trade bldg.. Buffalo, N. Y.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=761,1440,1799,112",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Stroebel, J. M., 15–25 Whitehall st........New York City",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=758,1526,1806,98",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Townsend, F. M., 136 Reade st..........New York City",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=758,1608,1806,93",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Turle, R. H. & Co., 352 Produce Exchange. New York City",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=761,1685,1801,96",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Van Slyke, W. A. & Co., 316 Sibley st.....St. Paul, Minn.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=761,1764,1796,96",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Von Graberg, F., 40 Whitehall st...........New York City",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=761,1841,1799,98",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ward, Raymond L., 59 Broad st............New York City",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=761,1921,1796,95",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Warner, Chas. M..................Syracuse, N. Y.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=758,1991,1792,107",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Waterman, M. & Co., 314 California st.. San Francisco, Cal.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=751,2079,1797,91",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Weiss, Geo. A., Malting & Elevator Co., 922 N.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=751,2154,1540,91",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ashland ave.....................Chicago, Ill.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=873,2233,1670,98",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Barley and Malt Cleaning Machinery.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=1057,2343,1171,91",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Barnard & Leas Mfg. Co................Moline, Ill.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=742,2453,1801,91",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dobler, Chas., 244–248 West 27th st.......New York City",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=740,2520,1803,112",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Howes, S.........................Silver Creek, N. Y.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=742,2604,1799,98",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hughes Mfg. Co....................Hamilton, O.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=742,2684,1794,102",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Huntley, C........................Silver Creek, N. Y.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=742,2765,1790,91",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "KAESTNER, CHAS. & CO., 241–249 Jefferson st.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=740,2838,1549,98",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "..........................Chicago, Ill.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=880,2929,1649,84",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "King, J. M. & Son..................Rochester, Minn.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=735,2992,1799,109",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Laidlaw, A. & Co....Toronto, Canada, and Cleveland, O.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=735,3080,1797,89",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "OLSEN & TILGNER, 37–39 Ontario st....Chicago, Ill.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=733,3155,1799,96",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Parsons, J. D. & Son, Twenty-sixth and Poplar",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=730,3232,1547,96",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "st..........................Philadelphia, Pa.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=859,3314,1668,95",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Prinz & Rau Mfg. Co................Milwaukee, Wis.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=730,3379,1797,117",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "RILLING, CHAS., 518–522 West 35th st...New York City",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=728,3468,1804,98",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Schultz Mfg. Co., 9–13 Dayton ave........Cincinnati, O.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=730,3545,1797,103",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Turner, Vaughn & Taylor Co.........Cuyahoga Falls, O.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=728,3617,1794,110",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Barley and Malt Screens.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=1223,3739,795,84",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Clinton Wire Cloth Co., 137 Lake st........Chicago, Ill.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=721,3830,1797,93",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Harrington & King Perforating Co., 224–240 N.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=721,3904,1545,94",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Union st..........................Chicago, Ill.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=849,3979,1666,110",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/43"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Scheeler & Sons, 320 Terrace............Buffalo, N. Y.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143032/full/!760,760/0/default.jpg#xywh=721,4061,1797,102",
+      "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations/line/44"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1896/0108_5143032_gemini-2.0-flash_annotations"
+}

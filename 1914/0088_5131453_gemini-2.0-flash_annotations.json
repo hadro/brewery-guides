@@ -1,0 +1,103 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "THE NATIONAL BREWERS' ACADEMY",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131453/full/!760,760/0/default.jpg#xywh=692,842,66,282",
+      "id": "https://hadro.github.io/brewery-guides/1914/0088_5131453_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "AND CONSULTING BUREAU, INCORPORATED",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131453/full/!760,760/0/default.jpg#xywh=844,1530,88,34",
+      "id": "https://hadro.github.io/brewery-guides/1914/0088_5131453_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "FRANCIS WYATT, President",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131453/full/!760,760/0/default.jpg#xywh=714,1996,60,254",
+      "id": "https://hadro.github.io/brewery-guides/1914/0088_5131453_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "EMIL SCHLICHTING, Vice-President",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131453/full/!760,760/0/default.jpg#xywh=860,2594,96,34",
+      "id": "https://hadro.github.io/brewery-guides/1914/0088_5131453_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Instruction of Pupils and Consultations in Malting and in Lager",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131453/full/!760,760/0/default.jpg#xywh=1910,604,174,44",
+      "id": "https://hadro.github.io/brewery-guides/1914/0088_5131453_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Beer and Ale Brewing.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131453/full/!760,760/0/default.jpg#xywh=1910,962,182,100",
+      "id": "https://hadro.github.io/brewery-guides/1914/0088_5131453_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "LABORATORIES AND BREWERY,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131453/full/!760,760/0/default.jpg#xywh=1922,1186,158,36",
+      "id": "https://hadro.github.io/brewery-guides/1914/0088_5131453_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "S. W. Corner 9th Avenue and 23rd Street, NEW YORK.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131453/full/!760,760/0/default.jpg#xywh=1922,1430,176,52",
+      "id": "https://hadro.github.io/brewery-guides/1914/0088_5131453_gemini-2.0-flash_annotations/line/7"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1914/0088_5131453_gemini-2.0-flash_annotations"
+}

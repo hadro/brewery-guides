@@ -1,0 +1,499 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "TOVEY'S OFFICIAL BREWERS' DIRECTORY,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=876,296,1034,60",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "LAGER BEER BREWERS' BOARD OF TRADE OF",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=646,422,1490,58",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "NEW YORK AND VICINITY.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=978,470,822,52",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Office: 109-111 East 15th Street, New York City.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=746,548,1286,54",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "President, Herman F. Scharmann, Brooklyn.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=644,610,1182,54",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vice-President, Rudolph J. Schaefer, New York.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=642,652,1294,110",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secretary, Charles J. Warner, New York.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=646,748,1120,56",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MANITOWOC COUNTY BREWERS' ASSOCIATION.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=666,856,1440,58",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "President, Louis Kunz, Manitowoc, Wis.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=644,934,1086,56",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vice-President, John Schreihart, Manitowoc.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=644,980,1190,64",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Treasurer, Chas. E. Miller, Two Rivers.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=644,1022,1086,68",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secretary, Reinhardt Rahr, Manitowoc.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=642,1074,1084,56",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Assistant Secretary, F. A. Miller, Manitowoc.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=642,1124,1242,54",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MILWAUKEE BREWERS' ASSOCIATION.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=798,1226,1166,58",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Office: 38-39 Loan and Trust Building, 204 Grand Avenue,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=640,1306,1494,60",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Milwaukee.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=1232,1362,304,34",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "President, George F. Gerlach, Milwaukee.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=642,1430,1118,54",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Treasurer, A. C. Blatz, Milwaukee.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=642,1478,958,48",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secretary, Hugo Altschwager, Milwaukee.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=644,1524,1110,52",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Assistant Secretary, Albert Wallber, Milwaukee.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=640,1568,1304,60",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "PHILADELPHIA LAGER BEER BREWERS' ASS'N.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=640,1678,1486,54",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Office: Room 1505 Land Title Building, Philadelphia.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=664,1756,1440,60",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "President, E. A. Schmidt, Philadelphia.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=640,1818,1068,56",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vice-President, Peter Liebert, Philadelphia.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=640,1866,1162,52",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Treasurer, Louis J. Bauer, Philadelphia.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=638,1912,1080,54",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secretary, Julius E. Nachod, Philadelphia.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=638,1958,1142,56",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "TOLEDO BREWERS' ASSOCIATION.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=866,2068,1026,50",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Office: Gardner Building, Superior and Madison Streets,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=636,2148,1490,52",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Toledo.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=1276,2200,198,38",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secretary-Treasurer, Louis Volk, Toledo.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=638,2308,1092,44",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "UPPER PENINSULA BREWERS' ASSOCIATION,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=682,2410,960,54",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MARQUETTE.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=1178,2464,392,44",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "President, Frank Erdlitz, Menominee, Mich.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=634,2536,1192,54",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vice-President, Carl Meeske, Marquette, Mich.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=636,2580,1254,56",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secretary and Treasurer, John Henes, Menominee, Mich.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=634,2628,1490,54",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "WESTERN PENNSYLVANIA BREWERS' ASS'N.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=700,2728,1358,40",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Offices: Room 73, Schmidt Bldg., 339 5th Ave., Pittsburg.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=638,2808,1484,44",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "President, E. J. Frauenheim, Pittsburg.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=636,2862,1070,54",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vice-President, C. E. Succop, Pittsburg.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=636,2910,1084,50",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Treasurer, H. F. Gilg, Allegheny.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=634,2956,920,52",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secretary, J. P. Mulvihill, Pittsburg.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=636,3004,980,50",
+      "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations/line/40"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1904/0074_5132041_gemini-2.0-flash_annotations"
+}

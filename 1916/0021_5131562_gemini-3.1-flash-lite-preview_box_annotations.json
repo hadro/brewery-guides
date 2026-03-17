@@ -1,0 +1,326 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Boston, MASSACHUSETTS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131562/full/!760,760/0/default.jpg#xywh=88,580,1436,56",
+      "id": "https://hadro.github.io/brewery-guides/1916/0021_5131562_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Boston, MASSACHUSETTS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131562/full/!760,760/0/default.jpg#xywh=6,672,88,34",
+      "id": "https://hadro.github.io/brewery-guides/1916/0021_5131562_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Boston, MASSACHUSETTS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131562/full/!760,760/0/default.jpg#xywh=0,702,96,58",
+      "id": "https://hadro.github.io/brewery-guides/1916/0021_5131562_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Boston, MASSACHUSETTS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131562/full/!760,760/0/default.jpg#xywh=4,764,94,36",
+      "id": "https://hadro.github.io/brewery-guides/1916/0021_5131562_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Boston, MASSACHUSETTS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131562/full/!760,760/0/default.jpg#xywh=88,580,1436,56",
+      "id": "https://hadro.github.io/brewery-guides/1916/0021_5131562_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fall River, MASSACHUSETTS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131562/full/!760,760/0/default.jpg#xywh=280,380,1140,50",
+      "id": "https://hadro.github.io/brewery-guides/1916/0021_5131562_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fall River, MASSACHUSETTS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131562/full/!760,760/0/default.jpg#xywh=150,1098,1368,110",
+      "id": "https://hadro.github.io/brewery-guides/1916/0021_5131562_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fall River, MASSACHUSETTS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131562/full/!760,760/0/default.jpg#xywh=0,1168,94,50",
+      "id": "https://hadro.github.io/brewery-guides/1916/0021_5131562_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Haverhill, MASSACHUSETTS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131562/full/!760,760/0/default.jpg#xywh=172,1284,1442,170",
+      "id": "https://hadro.github.io/brewery-guides/1916/0021_5131562_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Haverhill, MASSACHUSETTS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131562/full/!760,760/0/default.jpg#xywh=0,1416,96,40",
+      "id": "https://hadro.github.io/brewery-guides/1916/0021_5131562_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lawrence, MASSACHUSETTS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131562/full/!760,760/0/default.jpg#xywh=0,1438,1520,64",
+      "id": "https://hadro.github.io/brewery-guides/1916/0021_5131562_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lawrence, MASSACHUSETTS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131562/full/!760,760/0/default.jpg#xywh=168,1508,1360,94",
+      "id": "https://hadro.github.io/brewery-guides/1916/0021_5131562_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lowell, MASSACHUSETTS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131562/full/!760,760/0/default.jpg#xywh=638,1686,384,36",
+      "id": "https://hadro.github.io/brewery-guides/1916/0021_5131562_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Bedford, MASSACHUSETTS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131562/full/!760,760/0/default.jpg#xywh=0,1704,1616,82",
+      "id": "https://hadro.github.io/brewery-guides/1916/0021_5131562_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Bedford, MASSACHUSETTS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131562/full/!760,760/0/default.jpg#xywh=0,1738,1524,138",
+      "id": "https://hadro.github.io/brewery-guides/1916/0021_5131562_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pittsfield, MASSACHUSETTS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131562/full/!760,760/0/default.jpg#xywh=0,1874,1526,58",
+      "id": "https://hadro.github.io/brewery-guides/1916/0021_5131562_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Springfield, MASSACHUSETTS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131562/full/!760,760/0/default.jpg#xywh=0,1966,1510,172",
+      "id": "https://hadro.github.io/brewery-guides/1916/0021_5131562_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Springfield, MASSACHUSETTS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131562/full/!760,760/0/default.jpg#xywh=0,1966,1510,172",
+      "id": "https://hadro.github.io/brewery-guides/1916/0021_5131562_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Springfield, MASSACHUSETTS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131562/full/!760,760/0/default.jpg#xywh=0,1966,1510,172",
+      "id": "https://hadro.github.io/brewery-guides/1916/0021_5131562_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Springfield, MASSACHUSETTS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131562/full/!760,760/0/default.jpg#xywh=0,1966,1510,172",
+      "id": "https://hadro.github.io/brewery-guides/1916/0021_5131562_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Worcester, MASSACHUSETTS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131562/full/!760,760/0/default.jpg#xywh=0,2236,1526,96",
+      "id": "https://hadro.github.io/brewery-guides/1916/0021_5131562_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Worcester, MASSACHUSETTS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131562/full/!760,760/0/default.jpg#xywh=152,2342,1370,60",
+      "id": "https://hadro.github.io/brewery-guides/1916/0021_5131562_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Alpena, MICHIGAN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131562/full/!760,760/0/default.jpg#xywh=0,2522,98,50",
+      "id": "https://hadro.github.io/brewery-guides/1916/0021_5131562_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ann Arbor, MICHIGAN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131562/full/!760,760/0/default.jpg#xywh=0,2556,1540,216",
+      "id": "https://hadro.github.io/brewery-guides/1916/0021_5131562_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bay City, MICHIGAN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131562/full/!760,760/0/default.jpg#xywh=370,2124,210,36",
+      "id": "https://hadro.github.io/brewery-guides/1916/0021_5131562_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bay City, MICHIGAN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131562/full/!760,760/0/default.jpg#xywh=0,2478,94,40",
+      "id": "https://hadro.github.io/brewery-guides/1916/0021_5131562_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bay City, MICHIGAN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131562/full/!760,760/0/default.jpg#xywh=126,2894,1500,112",
+      "id": "https://hadro.github.io/brewery-guides/1916/0021_5131562_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bessemer, MICHIGAN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131562/full/!760,760/0/default.jpg#xywh=0,2988,1624,112",
+      "id": "https://hadro.github.io/brewery-guides/1916/0021_5131562_gemini-3.1-flash-lite-preview_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Calumet, MICHIGAN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131562/full/!760,760/0/default.jpg#xywh=110,3088,1510,56",
+      "id": "https://hadro.github.io/brewery-guides/1916/0021_5131562_gemini-3.1-flash-lite-preview_box_annotations.json/entry/28"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1916/0021_5131562_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

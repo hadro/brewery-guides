@@ -1,0 +1,19 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "AUG 27 1919",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131808/full/!760,760/0/default.jpg#xywh=582,152,642,116",
+      "id": "https://hadro.github.io/brewery-guides/1918/0085_5131808_gemini-2.0-flash_annotations/line/0"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1918/0085_5131808_gemini-2.0-flash_annotations"
+}

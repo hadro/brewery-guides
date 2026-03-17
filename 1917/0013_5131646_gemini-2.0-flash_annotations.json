@@ -1,0 +1,427 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "DISTRICT OF COLUMBIA.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131646/full/!760,760/0/default.jpg#xywh=402,410,1006,52",
+      "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Washington........Abner-Drury Brewing Co., 25th and F sts, N. W..................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131646/full/!760,760/0/default.jpg#xywh=176,468,1404,66",
+      "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Washington........Heurich, Christian, Brewing Co., 25th and Water sts., N. W...........A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131646/full/!760,760/0/default.jpg#xywh=270,508,1398,122",
+      "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Washington........National Capital Brewing Co., D and 14th sts., S. E....................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131646/full/!760,760/0/default.jpg#xywh=264,604,1410,200",
+      "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Washington........Washington Brewery Co., Limited, 400 E st., N. E........................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131646/full/!760,760/0/default.jpg#xywh=254,726,1340,84",
+      "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "FLORIDA.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131646/full/!760,760/0/default.jpg#xywh=708,882,384,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jacksonville........Jacksonville Brewing Co., 16th st. and Myrtle ave........................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131646/full/!760,760/0/default.jpg#xywh=172,944,1420,66",
+      "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tampa........Florida Brewing Co., 13th st. and 5th ave..................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131646/full/!760,760/0/default.jpg#xywh=172,986,1504,122",
+      "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "GEORGIA.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131646/full/!760,760/0/default.jpg#xywh=700,1172,404,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Atlanta........Atlanta Brewing & Ice Co., Courtland and Harris sts.....................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131646/full/!760,760/0/default.jpg#xywh=178,1226,1420,74",
+      "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Augusta........Augusta Brewing Co., 13th, Fenwick and Nelson sts........................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131646/full/!760,760/0/default.jpg#xywh=176,1288,1416,112",
+      "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Macon........Acme Brewing Co., Bay and Hammond sts......................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131646/full/!760,760/0/default.jpg#xywh=0,1390,152,56",
+      "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Savannah........Savannah Brew'g Co., Indian st. A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131646/full/!760,760/0/default.jpg#xywh=180,1484,1496,96",
+      "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "HAWAII.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131646/full/!760,760/0/default.jpg#xywh=748,1600,324,40",
+      "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Honolulu........*Honolulu Brewing & Malting Co., 535 Queen st..............................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131646/full/!760,760/0/default.jpg#xywh=180,1646,1422,74",
+      "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ILLINOIS.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131646/full/!760,760/0/default.jpg#xywh=714,1782,386,50",
+      "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Alton........Bluff City Brewery (Cath. Netzhammer, Prop.), Pearl st................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131646/full/!760,760/0/default.jpg#xywh=180,1834,1406,76",
+      "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Alton........Reck, Anton, Brewing Co., 15th and Easton sts..............................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131646/full/!760,760/0/default.jpg#xywh=174,1866,1524,344",
+      "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Aurora........*Aurora Brewing Co., North End River st.........................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131646/full/!760,760/0/default.jpg#xywh=0,1880,128,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Belleville........*Star Brewery Co., 326 East Main street....................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131646/full/!760,760/0/default.jpg#xywh=0,2126,136,48",
+      "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Belleville........*Western Brewery Co., North Gold street......................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131646/full/!760,760/0/default.jpg#xywh=236,2164,1444,122",
+      "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bloomington........Meyer Brewing Co., South Main street..........................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131646/full/!760,760/0/default.jpg#xywh=184,2300,1406,82",
+      "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cairo........Cairo Brewing Co., 304 Commercial ave..........................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131646/full/!760,760/0/default.jpg#xywh=690,2406,900,68",
+      "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago........Atlas Brewing Co., 2107 Blue Island ave.....................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131646/full/!760,760/0/default.jpg#xywh=692,2502,902,58",
+      "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago........Best Brewing Co. of Chicago, Herndon and Fletcher sts...................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131646/full/!760,760/0/default.jpg#xywh=742,2634,940,68",
+      "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago........Birk Bros. Brewing Co., 1315 Webster ave.....................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131646/full/!760,760/0/default.jpg#xywh=698,2692,898,60",
+      "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago........Brand Brewing Co., Elston ave. and Snow st...................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131646/full/!760,760/0/default.jpg#xywh=0,2700,128,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Chicago",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131646/full/!760,760/0/default.jpg#xywh=704,2738,978,112",
+      "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Breweries,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131646/full/!760,760/0/default.jpg#xywh=0,2788,122,56",
+      "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Limited,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131646/full/!760,760/0/default.jpg#xywh=0,2836,124,60",
+      "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "I B........{McAvoy Brewing Co., 24th st. and South Park ave.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131646/full/!760,760/0/default.jpg#xywh=706,2880,672,58",
+      "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Chicago",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131646/full/!760,760/0/default.jpg#xywh=388,2896,244,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Breweries,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131646/full/!760,760/0/default.jpg#xywh=358,2944,308,40",
+      "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Limited,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131646/full/!760,760/0/default.jpg#xywh=396,2986,238,50",
+      "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "I B........Wacker & Birk Brewing & Malting Co., 471 North Desplaines st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131646/full/!760,760/0/default.jpg#xywh=754,3020,840,58",
+      "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations/line/34"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1917/0013_5131646_gemini-2.0-flash_annotations"
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. M. SCHWENKER, Inc. \"Everything for the Brewery\" Brewers' and Engineers' Supplies",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131632/full/!760,760/0/default.jpg#xywh=772,478,192,1850",
+      "id": "https://hadro.github.io/brewery-guides/1916/0091_5131632_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "340, 342, 344 East 92d St., New York \"Everything for the Ice Plant\"",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131632/full/!760,760/0/default.jpg#xywh=344,1074,118,1332",
+      "id": "https://hadro.github.io/brewery-guides/1916/0091_5131632_gemini-2.0-flash_annotations/line/1"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1916/0091_5131632_gemini-2.0-flash_annotations"
+}

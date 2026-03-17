@@ -1,0 +1,51 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Birmingham, ALABAMA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131818/full/!760,760/0/default.jpg#xywh=881,2786,400,39",
+      "id": "https://hadro.github.io/brewery-guides/1899/0009_5131818_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Birmingham, ALABAMA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131818/full/!760,760/0/default.jpg#xywh=881,2786,400,39",
+      "id": "https://hadro.github.io/brewery-guides/1899/0009_5131818_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Montgomery, ALABAMA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131818/full/!760,760/0/default.jpg#xywh=881,2786,400,39",
+      "id": "https://hadro.github.io/brewery-guides/1899/0009_5131818_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mobile, ALABAMA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131818/full/!760,760/0/default.jpg#xywh=881,2786,400,39",
+      "id": "https://hadro.github.io/brewery-guides/1899/0009_5131818_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1899/0009_5131818_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

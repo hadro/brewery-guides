@@ -1,0 +1,391 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131444/full/!760,760/0/default.jpg#xywh=880,426,180,70",
+      "id": "https://hadro.github.io/brewery-guides/1914/0079_5131444_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "“Ironclad-Exide”",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131444/full/!760,760/0/default.jpg#xywh=376,560,1170,138",
+      "id": "https://hadro.github.io/brewery-guides/1914/0079_5131444_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "BATTERY",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131444/full/!760,760/0/default.jpg#xywh=646,748,628,100",
+      "id": "https://hadro.github.io/brewery-guides/1914/0079_5131444_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "FOR ELECTRIC TRUCKS",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131444/full/!760,760/0/default.jpg#xywh=288,898,1328,120",
+      "id": "https://hadro.github.io/brewery-guides/1914/0079_5131444_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "is used by the following brewers",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131444/full/!760,760/0/default.jpg#xywh=428,1044,1032,92",
+      "id": "https://hadro.github.io/brewery-guides/1914/0079_5131444_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "JACOB RUPPERT BREWING CO., N. Y. City",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131444/full/!760,760/0/default.jpg#xywh=282,1134,1332,98",
+      "id": "https://hadro.github.io/brewery-guides/1914/0079_5131444_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York City",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131444/full/!760,760/0/default.jpg#xywh=280,1218,1332,88",
+      "id": "https://hadro.github.io/brewery-guides/1914/0079_5131444_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "BERNHEIMER & SCHWARTZ, New York City",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131444/full/!760,760/0/default.jpg#xywh=274,1294,1334,92",
+      "id": "https://hadro.github.io/brewery-guides/1914/0079_5131444_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ANHEUSER-BUSCH BREWING ASS'N,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131444/full/!760,760/0/default.jpg#xywh=272,1374,1146,82",
+      "id": "https://hadro.github.io/brewery-guides/1914/0079_5131444_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Louis, Mo.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131444/full/!760,760/0/default.jpg#xywh=1200,1458,396,54",
+      "id": "https://hadro.github.io/brewery-guides/1914/0079_5131444_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "C. SCHMIDT & SONS BREWING CO.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131444/full/!760,760/0/default.jpg#xywh=274,1488,1096,80",
+      "id": "https://hadro.github.io/brewery-guides/1914/0079_5131444_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Philadelphia, Pa.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131444/full/!760,760/0/default.jpg#xywh=1094,1566,496,64",
+      "id": "https://hadro.github.io/brewery-guides/1914/0079_5131444_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Philadelphia, Pa.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131444/full/!760,760/0/default.jpg#xywh=264,1598,1326,98",
+      "id": "https://hadro.github.io/brewery-guides/1914/0079_5131444_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "LOUIS J. BERGDOLL BREWING CO.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131444/full/!760,760/0/default.jpg#xywh=260,1682,1092,80",
+      "id": "https://hadro.github.io/brewery-guides/1914/0079_5131444_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Philadelphia, Pa.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131444/full/!760,760/0/default.jpg#xywh=1096,1760,490,62",
+      "id": "https://hadro.github.io/brewery-guides/1914/0079_5131444_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "THE BELMONT BREWING CO.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131444/full/!760,760/0/default.jpg#xywh=264,1796,924,80",
+      "id": "https://hadro.github.io/brewery-guides/1914/0079_5131444_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Martins Ferry, Ohio",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131444/full/!760,760/0/default.jpg#xywh=1026,1884,560,64",
+      "id": "https://hadro.github.io/brewery-guides/1914/0079_5131444_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "DAYTON BREWERIES CO., - Dayton, Ohio",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131444/full/!760,760/0/default.jpg#xywh=252,1920,1334,96",
+      "id": "https://hadro.github.io/brewery-guides/1914/0079_5131444_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "FINKENAUER BREWING CO.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131444/full/!760,760/0/default.jpg#xywh=250,2004,904,74",
+      "id": "https://hadro.github.io/brewery-guides/1914/0079_5131444_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Philadelphia, Pa.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131444/full/!760,760/0/default.jpg#xywh=1086,2082,486,58",
+      "id": "https://hadro.github.io/brewery-guides/1914/0079_5131444_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ADAM SCHEIDT BREWING CO.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131444/full/!760,760/0/default.jpg#xywh=246,2116,990,82",
+      "id": "https://hadro.github.io/brewery-guides/1914/0079_5131444_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Norristown, Pa.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131444/full/!760,760/0/default.jpg#xywh=1126,2200,446,56",
+      "id": "https://hadro.github.io/brewery-guides/1914/0079_5131444_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "CENTRAL BREWING CO., - New York City",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131444/full/!760,760/0/default.jpg#xywh=246,2230,1336,96",
+      "id": "https://hadro.github.io/brewery-guides/1914/0079_5131444_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "V. LOEWER'S GAMBRINUS BREWING CO.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131444/full/!760,760/0/default.jpg#xywh=250,2306,1314,98",
+      "id": "https://hadro.github.io/brewery-guides/1914/0079_5131444_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York City",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131444/full/!760,760/0/default.jpg#xywh=1158,2384,414,72",
+      "id": "https://hadro.github.io/brewery-guides/1914/0079_5131444_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "OTTO HUBER BREWERY, - Brooklyn, N. Y.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131444/full/!760,760/0/default.jpg#xywh=236,2424,1326,94",
+      "id": "https://hadro.github.io/brewery-guides/1914/0079_5131444_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "JOHN GUND BREWING CO., La Crosse; Wis.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131444/full/!760,760/0/default.jpg#xywh=234,2500,1324,96",
+      "id": "https://hadro.github.io/brewery-guides/1914/0079_5131444_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "and many others",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131444/full/!760,760/0/default.jpg#xywh=628,2604,540,62",
+      "id": "https://hadro.github.io/brewery-guides/1914/0079_5131444_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "THE ELECTRIC STORAGE BATTERY CO.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131444/full/!760,760/0/default.jpg#xywh=192,2684,1408,128",
+      "id": "https://hadro.github.io/brewery-guides/1914/0079_5131444_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "PHILADELPHIA",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131444/full/!760,760/0/default.jpg#xywh=618,2830,540,68",
+      "id": "https://hadro.github.io/brewery-guides/1914/0079_5131444_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York Chicago Cleveland Detroit San Francisco",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131444/full/!760,760/0/default.jpg#xywh=1242,2946,312,56",
+      "id": "https://hadro.github.io/brewery-guides/1914/0079_5131444_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Boston St. Louis Atlanta Denver Toronto",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131444/full/!760,760/0/default.jpg#xywh=1240,3012,178,48",
+      "id": "https://hadro.github.io/brewery-guides/1914/0079_5131444_gemini-2.0-flash_annotations/line/31"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1914/0079_5131444_gemini-2.0-flash_annotations"
+}

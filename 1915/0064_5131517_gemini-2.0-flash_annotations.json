@@ -1,0 +1,955 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "66 TOVEY'S OFFICIAL BREWERS' DIRECTORY,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=1034,294,1070,52",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MEXICO--Continued.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=1244,410,656,36",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Orizaba . . . . . . . . Cerveceria Moctezuma.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=834,480,1098,40",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Puebla . . . . . . . . Cerveceria Zaragoza.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=828,520,1054,54",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sabinas . . . . . . . . Ca. Cervecera Sabinas.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=832,564,1100,56",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "San Geronimo. . . . . Cerveceria del Istmo.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=834,618,1068,44",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "San Luis Potosi. . . . Cerveceria de San Luis.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=834,664,1130,44",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tampico . . . . . . . . Ca. Cervecera de Tampico.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=828,706,1200,54",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Toluca . . . . . . . . Ca. Cervecera Toluca y Mexico.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=830,750,1330,56",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "PANAMA,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=1386,836,370,40",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Colon . . . . . . . . . Balboa Brewing Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=830,894,1036,60",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "“ . . . . . . . . . Colon Brewing Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=896,944,928,52",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Panama . . . . . . . . Cerveceria La Tropical.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=828,992,1130,50",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "“ . . . . . . . . . Panama Brewing & Refrigerating Co",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=1038,1044,1254,40",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "PARAGUAY.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=1342,1122,460,36",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Asuncion . . . . . . . . Cerveceria La Paraguaya, Villa Rica",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=832,1188,1476,40",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "esq. Ayolas.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=1394,1240,320,36",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "“ . . . . . . . . . Fabrica Nacional, Calle Palmas.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=1130,1282,1082,40",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "PERU.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=1454,1358,254,36",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Arequipa . . . . . . . . Cerveceria Alemana, E. Günther.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=830,1412,1380,58",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Callao . . . . . . . . Compania Nacional de Cerveza.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=830,1460,1326,54",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cerro de Pasco. . . . . Federico Herold.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=830,1508,942,54",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cuzco . . . . . . . . Cerveceria Alemana, E. Günther.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=836,1562,1376,40",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "“ . . . . . . . . . Cerveceria de Gustavo Mangelsdorff.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=998,1602,1308,52",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "“ . . . . . . . . . Cerveceria de Cabrera y Hermanos.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=896,1628,1382,100",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "“ . . . . . . . . . Cerveceria Francesa, Leoncio Vignes.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=972,1694,1342,54",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lima . . . . . . . . Backus & Johnston Brewery Co., Ltd.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=832,1738,1474,58",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "“ . . . . . . . . . Eduardo Harster, 200 Calle Caja-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=990,1788,1314,52",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "marca.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=1388,1848,182,30",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Puno . . . . . . . . . Cerveceria Alemana, E. Günther.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=830,1884,1386,52",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "San Jeronimo. . . . . Cerveceria de Alejandro Velazco.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=834,1928,1384,56",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Urubamba . . . . . . . . Cerveceria Italiana, Rosenda Vda. de",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=830,1972,1474,58",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Valle.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=1392,2032,160,34",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "“ . . . . . . . . . Cerveceria de lra. Calidad, Adolfo",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=1114,2066,1184,54",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Zambrano.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=1392,2126,280,34",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "SALVADOR.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=1342,2198,462,36",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Santa Ana. . . . . . . Rafael M. Ayan, La Constancia.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=826,2254,1410,52",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "TRINIDAD.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=1350,2332,426,34",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Port of Spain. . . . . Walter's Trinidad Brewing Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=832,2392,1324,48",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "URUGUAY.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=1364,2464,426,44",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Montevideo . . . . . . . Cerveceria Montevideana, 18 Calle",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=828,2524,1482,50",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Santa Fé.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=1406,2576,262,36",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "“ . . . . . . . . . Cerveceria Uruguaya, Calle Asun-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=1144,2624,1158,44",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ción.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=1406,2672,130,36",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/43"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "VENEZUELA.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=1318,2734,522,44",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Caracas . . . . . . . . Cerveceria Nacional, 232 Avo. Este.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=830,2794,1478,52",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/45"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Maiquetia . . . . . . . . Cerveceria de Maiquetia.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=1148,2848,848,44",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/46"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Maracaibo . . . . . . . . Cerveceria de Maracaibo, Calle In-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=830,2894,1474,44",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/47"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "dustria.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=1396,2944,210,36",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/48"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Puerto Cabello. . . . Cerveceria de Puerto Cabello.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=826,2976,1298,64",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/49"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bre",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=2344,424,54,68",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Asso",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=2320,556,78,64",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/51"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "UN",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=2364,866,34,44",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/52"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Preside",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=2332,1008,66,50",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/53"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "First",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=2330,1058,68,44",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Second",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=2334,1112,64,36",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/55"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Third",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=2344,1866,54,40",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/56"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Treasu",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=2350,2234,48,36",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/57"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secret",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=2360,2996,38,44",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/58"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Financ",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=2336,1302,62,36",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/59"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Genera",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=2336,1398,62,36",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/60"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "AMER",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=2340,1484,58,44",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/61"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "0",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=2348,1548,50,40",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/62"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Presid",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=2338,1714,60,48",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/63"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "First",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=2340,1770,58,44",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/64"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secon",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=2346,1822,52,36",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/65"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secre",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=2350,1918,48,36",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/66"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Prest",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=2350,2090,48,36",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/67"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "First",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=2350,2136,48,40",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/68"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secon",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=2350,2186,48,36",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/69"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secr",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=2350,2276,48,40",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/70"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pres",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=2350,2448,48,44",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/71"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Firs",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=2350,2494,48,48",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/72"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secc",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=2342,2534,56,52",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/73"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Trea",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=2354,2590,44,40",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/74"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secr",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=2352,2634,46,44",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/75"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pre",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=2360,2850,38,52",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/76"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vic",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=2352,2894,46,50",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/77"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tre",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131517/full/!760,760/0/default.jpg#xywh=2358,2946,40,50",
+      "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations/line/78"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1915/0064_5131517_gemini-2.0-flash_annotations"
+}

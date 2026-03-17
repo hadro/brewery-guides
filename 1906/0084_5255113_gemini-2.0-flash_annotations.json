@@ -1,0 +1,67 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "THE NATIONAL BREWERS' ACADEMY",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5255113/full/!760,760/0/default.jpg#xywh=649,680,133,2125",
+      "id": "https://hadro.github.io/brewery-guides/1906/0084_5255113_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "AND CONSULTING BUREAU, INCORPORATED.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5255113/full/!760,760/0/default.jpg#xywh=1505,663,117,1500",
+      "id": "https://hadro.github.io/brewery-guides/1906/0084_5255113_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Director:",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5255113/full/!760,760/0/default.jpg#xywh=1358,1588,55,296",
+      "id": "https://hadro.github.io/brewery-guides/1906/0084_5255113_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "DR. FRANCIS WYATT.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5255113/full/!760,760/0/default.jpg#xywh=1503,2167,107,678",
+      "id": "https://hadro.github.io/brewery-guides/1906/0084_5255113_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "LABORATORY AND BREWERY,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5255113/full/!760,760/0/default.jpg#xywh=1672,2354,191,600",
+      "id": "https://hadro.github.io/brewery-guides/1906/0084_5255113_gemini-2.0-flash_annotations/line/4"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1906/0084_5255113_gemini-2.0-flash_annotations"
+}

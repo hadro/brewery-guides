@@ -1,0 +1,607 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "60 Tovey's Official Brewers' Directory,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=874,314,1025,53",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Davenport Davenport Malt and Grain Co,. 5th and De Soto sts.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=643,317,62,34",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Davenport North Western Malting and Construction Co., Ryan Block.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=636,489,495,46",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Davenport Rothschild, D., Grain Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=742,552,136,72",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Louisville Kentucky.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=747,667,108,31",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Louisville Kentucky Malt & Grain Co., 13th and Maple sts.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=636,811,1515,56",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Louisville Louisville Malting Co., 1120 Rowan st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=741,897,1417,72",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Louisville Northwestern Malting Co., 1406 Hamilton ave.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=742,931,98,46",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Baltimore MARYLAND.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=874,950,1279,56",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Baltimore Denmead, Francis, West Falls ave. and Block st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=633,1138,1515,53",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Baltimore Straus, Solomon, 212 E. Lombard st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=734,1227,73,30",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Detroit MICHIGAN.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=727,1322,79,25",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Detroit Canada Malt Co., 623 Fort st., West.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=634,1464,1442,53",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Detroit Darmstaetter, Wm., 227 Catharine st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=705,1495,1445,91",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Detroit Rickel, H. W., & Co., 502 Adelaide st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=811,1562,1342,48",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ypsilanti Swayne, Estate of F. J.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=629,1605,1144,51",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hastings Hastings Malting Co., 1st st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=634,1745,1252,52",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mankato Mankato Malt and Grain Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=634,1790,1257,51",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Minneapolis North Star Malting Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=641,1841,1116,48",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Minneapolis Minnesota Malting Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=638,1887,1097,45",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Red Wing Red Wing Malting Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=852,1932,878,46",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Paul Hauser & Sons Malting Co., 272 Jackson st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=634,1977,1514,53",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Paul Aiple Malting Co., South Main st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=830,2030,547,37",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Stillwater MISSOURI.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=634,2069,503,46",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Louis Ehlermann, Chas., Hop and Malt Co., 22d st. and Scott ave.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=633,2225,1512,55",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Louis Feuerbacher, F. W., & Co., 2705 South Broadway.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=729,2412,46,26",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Louis Goerger, Wm., Malting Co., 1701 Singleton street.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=732,2505,45,25",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Louis Griesedick, Frank, 1110 Park ave.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=849,2510,1162,46",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Louis Griesedick, H., Malting Co., 1130 S. 12th st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=849,2556,1297,46",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Louis Kunz, Henry, 1313 Ann ave.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=725,2643,72,28",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Louis Spieler, George, & Co., 1542 S. 7th st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=725,2690,48,25",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Manhattan MONTANA.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=636,2844,278,45",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Manhattan Manhattan Malting Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=1140,585,1015,48",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Omaha NEBRASKA.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=1193,629,576,48",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Omaha Gate City Malt Company, 2d and Pine streets.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=1140,677,672,45",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Adams",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=1193,862,280,45",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Albany",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=1190,1005,241,37",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Attica",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=1154,1080,468,41",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Buffalo",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=1188,1191,243,35",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Clyde",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=1130,1233,1020,53",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Geneva",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=1191,1281,204,41",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lyons",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=1130,1323,951,54",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mohawk",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=1176,1406,434,41",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York C",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=1130,1685,505,41",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/43"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "American",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=1173,2167,437,43",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Malting",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=1119,2417,1029,46",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/45"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Co",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=1188,2462,283,41",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/46"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "East Ri",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=1185,2604,192,38",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/47"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bath",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=1147,2923,476,43",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/48"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "---",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131949/full/!760,760/0/default.jpg#xywh=1191,3034,203,38",
+      "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations/line/49"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1903/0062_5131949_gemini-2.0-flash_annotations"
+}

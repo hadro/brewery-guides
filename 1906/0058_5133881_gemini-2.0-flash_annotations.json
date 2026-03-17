@@ -1,0 +1,643 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "VIRGINIA.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=1266,466,384,36",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Alexandria........Portner, Robt., Brewing Co., St.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=694,522,1426,56",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Asaph and Washington sts......L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=1272,570,938,50",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Newport News........Old Dominion Brewing & Ice",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=708,612,1422,60",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Co........L B †",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=908,2788,216,40",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Norfolk........Consumers' Brewing Co., Wash-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=1248,2724,814,58",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "rd., head Leigh street.......A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=2286,2780,114,78",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Roanoke........Virginia Brewing Co., Wise ave..A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=2350,2780,48,30",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rosslyn........Arlington Brewing Co........L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=1244,2816,900,58",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "streets........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=1294,2878,246,36",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Loomis........Lintz, Frank........A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=2294,2854,104,98",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "street........A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=2102,2872,122,32",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "street........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=718,2932,382,36",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Spokane........*Inland Brewing & Malting Co.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=1230,2910,924,54",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Spruce st. and 12th ave........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=1292,2952,928,58",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Spokane........Schade, B., Brewing Co., Sheridan",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=1240,3002,892,58",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "& Front sts........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=1296,3048,944,58",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ington ave. and Church st.......L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=1222,754,992,52",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Richmond........Home Brewing Co., Harrison and",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=700,774,1422,82",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Clay sts.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=1280,848,932,50",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Richmond........Rosenegk Brewing Co., Hermitage",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=800,890,1322,54",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "WASHINGTON.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=1154,1124,594,48",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Aberdeen........Aberdeen Brewing Co., River and",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=698,1196,1430,68",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lincoln sts........A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=1272,1248,948,48",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bellingham........Bellingham Bay Brewery. Inc.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=708,1290,1442,60",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Elk street........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=1242,1328,976,70",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chelan Falls........*Schindler & Son........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=706,1384,1520,58",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cheney........Weber, Fannie........L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=2294,1420,104,40",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chewelah........Frank, Ernst........L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=2294,1468,104,44",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Colfax........*Colfax Brewing & Malting Co.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=708,1526,1430,56",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Inc........L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=2292,1644,108,54",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Colville........*Krueger, Arnold........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=1290,1702,928,72",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ellensburgh........*Krulish, Adolph, 2d and Sampson",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=2290,1742,108,50",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ellensburgh........*St. Louis Brewing & Malting Co....L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=872,1748,1350,72",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Everett........Everett Brewing Co........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=714,1808,1510,50",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miles........*Bockemuehl, Bernhard........L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=716,1894,1506,60",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "North Yakıma........North Yakima Brewing & Malting",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=714,1938,1418,66",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Co., Front st........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=1168,1990,1050,50",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Olympia........Olympia Brewing Co........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=712,2028,1514,66",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Palouse........Palouse Brewing Co., Main st....L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=714,2078,1504,60",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Palouse........Saunders & McGraw........L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=794,2128,1430,54",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Port Angeles........Angeles Brewing & Malting Co.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=712,2172,1450,64",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "3d and Tumwater sts........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=1284,2222,942,48",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Republic........Republic Brewing Co........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=714,2264,1512,62",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/43"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Roslyn........Roslyn Brewing Co........L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=714,2308,1512,62",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Seattle........Claussen Brewing Association,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=714,2360,1420,58",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/45"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "3255 21st ave. West........A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=1288,2396,938,62",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/46"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Seattle........Hemrich Bros. Brewing Co.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=1240,2456,458,40",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/47"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Howard avenue and Republican",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=1292,2502,840,44",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/48"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Seattle........Independent Brewing Co., Inc.,..L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=1242,2586,988,56",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/49"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Seattle Brewing and Malting Co., L B{Bay View Brewing Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=1250,2688,592,40",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Seattle Brewing and Malting Co., L B{Claussen-Sweeney Brewing Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=850,2734,332,52",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/51"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Seattle........Spellmire Brewing Co., 1320 Almy",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=2286,2922,114,82",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations/line/52"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-2.0-flash_annotations"
+}

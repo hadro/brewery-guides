@@ -1,0 +1,463 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "92 BREWERS' GUIDE.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=1302,525,558,51",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MALTSTERS IN THE UNITED STATES.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=693,973,1794,159",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "(NOT BREWERS)",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=1260,1183,639,42",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The firms given in this list are maltsters exclusively and do not",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=786,1330,1699,59",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "brew. For brewers that are also Maltsters see the regular list of",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=698,1403,1787,42",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "brewers, where they are designated by the letter \"M.\"",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=693,1459,1430,51",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "CALIFORNIA.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=1300,1603,562,66",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sacramento... Neubourg & Co., 1016, 1018 and 1020 5th st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=695,1699,1785,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "San Francisco. Chas. Bach, Pioneer and Union Malt",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=695,1774,1795,63",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Houses, office 535 and 537 Sacramento st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=1197,1855,1288,56",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" ..J. C. Bauer & Co., Empire Malt House,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=1094,1928,1396,67",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "418-424 Chestnut st., office 632 Sacra-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=1199,2012,1288,56",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "mento st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=1199,2091,306,47",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" ..Krug & Zimmermann, New York Malt",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=1099,2166,1393,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "House, 18th and Shotwell streets.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=1197,2245,1062,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" ...H. Zweig, South Park Malt House, 608-614",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=1097,2317,1395,68",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brannan street, between 5th and 6th.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=1197,2399,1181,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "COLORADO.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=1339,2516,528,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Denver ................................. J. J. Lichter",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=1444,2597,1043,66",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ILLINOIS.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=1379,2712,420,67",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago.. Louis I. Aaron & Co., office 54, 14 Pacific ave.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=700,2810,1780,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "102d, 103d sts. and Ft. Wayne R. R., Chi-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=1192,2884,1293,63",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "cago; office, 901 Liberty st., Pittsburgh.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=1199,2964,1281,60",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" ........ Boynton & Co., Clybourn Place Bridge",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=938,3057,1547,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" ..............Geo. Bullen & Co., 332 Illinois st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=938,3136,1547,59",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" ...Carden Malting Co., 16-24 Cherry st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=940,3213,1545,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" ..Chicago Malt and Grain Co., 53 W. Division st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=938,3293,1547,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" ..Chicago Pneumatic Malting Co., cor. Rockwell",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=938,3370,1547,60",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "and Harvard sts.; office 63 S. Clinton st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=1199,3449,1286,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" ........ Levi Cook, 446 Hawthorne ave.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=938,3528,1547,59",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" ..John P. Eck (estate of), 383 and 385 24th st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=936,3608,1547,56",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" ........ Falk, Wormser & Co., 231 Kinzie st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=938,3685,1547,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" .. A. Greiner (estate of), 299 W. Superior st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=936,3757,1549,68",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" ..Hales & Curtis Malting Co., cor. Hickory ave.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=938,3841,1547,59",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "and Bliss st., office 108 LaSalle st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=1188,3918,1075,59",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" ......L. C. Huck Malting Co., Canal and 18th sts.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=938,3998,1545,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" ..Thomas Lynch, Jr., cor. Schiller st.and Astor pl.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=938,4075,1545,60",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" .......... H. W. Mestling, 112 and 114 Ohio st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143020/full/!760,760/0/default.jpg#xywh=943,4154,1542,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations/line/37"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1896/0096_5143020_gemini-2.0-flash_annotations"
+}

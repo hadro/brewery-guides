@@ -1,0 +1,127 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "RÜDIGER",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133905/full/!760,760/0/default.jpg#xywh=1088,400,816,164",
+      "id": "https://hadro.github.io/brewery-guides/1906/0082_5133905_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MANUFACTURED ONLY BY",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133905/full/!760,760/0/default.jpg#xywh=970,2656,1000,56",
+      "id": "https://hadro.github.io/brewery-guides/1906/0082_5133905_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. H. RÜDIGER",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133905/full/!760,760/0/default.jpg#xywh=954,2750,1014,128",
+      "id": "https://hadro.github.io/brewery-guides/1906/0082_5133905_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Automatic Hose Cleaner",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133905/full/!760,760/0/default.jpg#xywh=748,612,1504,252",
+      "id": "https://hadro.github.io/brewery-guides/1906/0082_5133905_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Simple in construction.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133905/full/!760,760/0/default.jpg#xywh=734,2058,806,84",
+      "id": "https://hadro.github.io/brewery-guides/1906/0082_5133905_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Automatic in its action.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133905/full/!760,760/0/default.jpg#xywh=736,2148,852,82",
+      "id": "https://hadro.github.io/brewery-guides/1906/0082_5133905_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "No attention required after starting.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133905/full/!760,760/0/default.jpg#xywh=732,2248,1298,80",
+      "id": "https://hadro.github.io/brewery-guides/1906/0082_5133905_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Will clean the interior of hose thoroughly.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133905/full/!760,760/0/default.jpg#xywh=736,2326,1476,102",
+      "id": "https://hadro.github.io/brewery-guides/1906/0082_5133905_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Save its cost in labor in 6 months.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133905/full/!760,760/0/default.jpg#xywh=730,2430,1252,76",
+      "id": "https://hadro.github.io/brewery-guides/1906/0082_5133905_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "217 WEST ST., NEW YORK CITY, N. Y.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133905/full/!760,760/0/default.jpg#xywh=722,2894,1490,82",
+      "id": "https://hadro.github.io/brewery-guides/1906/0082_5133905_gemini-2.0-flash_annotations/line/9"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1906/0082_5133905_gemini-2.0-flash_annotations"
+}

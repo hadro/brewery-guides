@@ -1,0 +1,643 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "SUPPLEMENT TO THE BREWERS' JOURNAL. 41",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=326,308,1126,44",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "PENNSYLVANIA—Continued.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=376,436,972,40",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lucyville (P.O. Roscoe) Moose Brewing Co..LB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=0,506,1630,64",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lykens Lykens Brewing Co. (Louis Wentz-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=0,544,1544,80",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ler, Prop.), South st...ALB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=0,596,1630,120",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mahonay City Kaier, Chas. D., Co., Ltd., N. Main",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=0,698,1536,58",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "and W. Laurel sts.ALWB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=0,740,1634,114",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mauch Chunk Ortlieb Brewing Co., 301 Broad-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=0,830,1540,66",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "way..AL",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=0,884,1626,112",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "McKeesport McKeesport Brewery, Jerome st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=0,1102,1538,80",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "(See Pittsburgh Brewing Co.)",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=624,2164,708,44",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Nanticoke Susquehanna Brewing Co., Alden",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=0,2178,1532,88",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "road..ALB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=654,2262,384,36",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Bethlehem New Bethlehem Brew'g Co. (Peter",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=0,2296,1536,56",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. Pontzer, Prop.).LB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=680,2346,950,50",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Castle New Castie Brewing Co., South",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=0,2392,1530,56",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "street...LB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=318,2434,1314,112",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "“ Standard Brewing CoALA LB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=0,2444,46,40",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Kensington New Kensington Brewery, 9th st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=82,2532,1448,54",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "and 1st ave. (See Independent",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=672,2580,860,52",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brewing Co., Pittsburgh.)",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=664,2630,694,48",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Salem Johnson Brewing Co. (Post Office",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=0,2644,1532,84",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "address: Uniontown)..L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=640,2728,986,40",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Norristown Scheidt, Adam, Brewing Co., Mar-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=0,2748,1534,74",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Northampton Northampton Brewing Co......ALB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=0,2812,1628,110",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Oil City Saltzmann Bros., Union and Charl-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=0,2906,1536,60",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ton sts..LB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=0,2958,1626,106",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Herriman ave..LB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=668,3054,954,44",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Madera Binder, Edward L.LB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=1458,314,172,32",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Masontown Masontown Brewing Co...LB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=204,968,1332,126",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "“ Tube City Brewing Co., 12th and",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=0,986,82,96",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Walnut sts....LB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=630,1078,998,48",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "McKees Rocks First National Brewery. (See In-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=0,1176,84,48",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "dependent Brewing Co., Pitts-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=202,1154,1336,104",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Meadville City Ale Brewery Co., Inc. (Harry",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=0,1214,1542,118",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. Friday, Receiver).AB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=106,1300,1524,138",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "“ Meadville Brewing Co., French",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=0,1376,90,48",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Creek road.LB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=0,1384,1634,252",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "gahela street. (See Independent",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=476,1576,1058,96",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brewing Co., Pittsburgh.)",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=650,1644,724,50",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Monongahela City..... Globe Brewery, Railroad street.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=0,1662,1532,92",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "(See Independent Brewing Co.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=536,1702,996,128",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pittsburgh.)",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=672,1790,330,40",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "“ Roth, Joseph S...ALB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=200,1790,1426,112",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/43"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mount Carmel Anthracite Brewing Co...L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=0,1874,1622,56",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mount Joy Bube, Estate Alois.AL",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=0,1928,1624,50",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/45"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mount Oliver Hill Top Brew'g Co., 132 Southern",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=2,1974,1528,48",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/46"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ave. (See Independent Brew-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=478,2018,1054,102",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/47"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ing Co., Pittsburgh.)",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=0,2068,44,32",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/48"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mount Pleasant Mount Pleasant Brewery. (See",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=0,2104,1354,64",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/49"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pittsburgh Brewing Co.)",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=1406,2122,124,32",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "shall and Barbadoes sts...ALB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=1452,2264,176,30",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/51"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Patton Patton Brewing Co., 4th st. and",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131404/full/!760,760/0/default.jpg#xywh=0,2540,84,40",
+      "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations/line/52"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1914/0039_5131404_gemini-2.0-flash_annotations"
+}

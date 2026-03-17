@@ -1,0 +1,315 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Austin, TEXAS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131327/full/!760,760/0/default.jpg#xywh=744,1676,1512,110",
+      "id": "https://hadro.github.io/brewery-guides/1913/0054_5131327_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bellville, TEXAS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131327/full/!760,760/0/default.jpg#xywh=2306,506,92,50",
+      "id": "https://hadro.github.io/brewery-guides/1913/0054_5131327_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dallas, TEXAS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131327/full/!760,760/0/default.jpg#xywh=754,584,1434,52",
+      "id": "https://hadro.github.io/brewery-guides/1913/0054_5131327_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "El Paso, TEXAS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131327/full/!760,760/0/default.jpg#xywh=756,674,1500,52",
+      "id": "https://hadro.github.io/brewery-guides/1913/0054_5131327_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fort Worth, TEXAS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131327/full/!760,760/0/default.jpg#xywh=752,724,1498,48",
+      "id": "https://hadro.github.io/brewery-guides/1913/0054_5131327_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Galveston, TEXAS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131327/full/!760,760/0/default.jpg#xywh=752,770,1410,50",
+      "id": "https://hadro.github.io/brewery-guides/1913/0054_5131327_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Houston, TEXAS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131327/full/!760,760/0/default.jpg#xywh=754,860,1416,52",
+      "id": "https://hadro.github.io/brewery-guides/1913/0054_5131327_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Houston, TEXAS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131327/full/!760,760/0/default.jpg#xywh=988,952,1184,54",
+      "id": "https://hadro.github.io/brewery-guides/1913/0054_5131327_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "San Antonio, TEXAS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131327/full/!760,760/0/default.jpg#xywh=748,1048,1416,50",
+      "id": "https://hadro.github.io/brewery-guides/1913/0054_5131327_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "San Antonio, TEXAS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131327/full/!760,760/0/default.jpg#xywh=1266,1130,990,64",
+      "id": "https://hadro.github.io/brewery-guides/1913/0054_5131327_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "San Antonio, TEXAS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131327/full/!760,760/0/default.jpg#xywh=1026,1192,1138,44",
+      "id": "https://hadro.github.io/brewery-guides/1913/0054_5131327_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "San Antonio, TEXAS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131327/full/!760,760/0/default.jpg#xywh=1260,1280,904,52",
+      "id": "https://hadro.github.io/brewery-guides/1913/0054_5131327_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "San Antonio, TEXAS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131327/full/!760,760/0/default.jpg#xywh=1268,1372,898,50",
+      "id": "https://hadro.github.io/brewery-guides/1913/0054_5131327_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "San Antonio, TEXAS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131327/full/!760,760/0/default.jpg#xywh=1274,1466,974,44",
+      "id": "https://hadro.github.io/brewery-guides/1913/0054_5131327_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Shiner, TEXAS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131327/full/!760,760/0/default.jpg#xywh=750,1514,1500,44",
+      "id": "https://hadro.github.io/brewery-guides/1913/0054_5131327_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Logan, UTAH",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131327/full/!760,760/0/default.jpg#xywh=2302,1604,96,40",
+      "id": "https://hadro.github.io/brewery-guides/1913/0054_5131327_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ogden City, UTAH",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131327/full/!760,760/0/default.jpg#xywh=744,1676,1512,110",
+      "id": "https://hadro.github.io/brewery-guides/1913/0054_5131327_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Salt Lake City, UTAH",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131327/full/!760,760/0/default.jpg#xywh=742,1812,1420,62",
+      "id": "https://hadro.github.io/brewery-guides/1913/0054_5131327_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Salt Lake City, UTAH",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131327/full/!760,760/0/default.jpg#xywh=1072,1912,1076,52",
+      "id": "https://hadro.github.io/brewery-guides/1913/0054_5131327_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Salt Lake City, UTAH",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131327/full/!760,760/0/default.jpg#xywh=1070,2000,1094,56",
+      "id": "https://hadro.github.io/brewery-guides/1913/0054_5131327_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Salt Lake City, UTAH",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131327/full/!760,760/0/default.jpg#xywh=1076,2100,1080,48",
+      "id": "https://hadro.github.io/brewery-guides/1913/0054_5131327_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Salt Lake City, UTAH",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131327/full/!760,760/0/default.jpg#xywh=1078,2194,1088,48",
+      "id": "https://hadro.github.io/brewery-guides/1913/0054_5131327_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Alexandria, VIRGINIA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131327/full/!760,760/0/default.jpg#xywh=734,2402,1422,56",
+      "id": "https://hadro.github.io/brewery-guides/1913/0054_5131327_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Norfolk, VIRGINIA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131327/full/!760,760/0/default.jpg#xywh=732,2682,1430,54",
+      "id": "https://hadro.github.io/brewery-guides/1913/0054_5131327_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Richmond, VIRGINIA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131327/full/!760,760/0/default.jpg#xywh=738,2776,1416,50",
+      "id": "https://hadro.github.io/brewery-guides/1913/0054_5131327_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Richmond, VIRGINIA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131327/full/!760,760/0/default.jpg#xywh=2302,2946,96,50",
+      "id": "https://hadro.github.io/brewery-guides/1913/0054_5131327_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Roanoke, VIRGINIA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131327/full/!760,760/0/default.jpg#xywh=738,3004,1510,58",
+      "id": "https://hadro.github.io/brewery-guides/1913/0054_5131327_gemini-3.1-flash-lite-preview_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rosslyn, VIRGINIA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131327/full/!760,760/0/default.jpg#xywh=2342,2438,56,98",
+      "id": "https://hadro.github.io/brewery-guides/1913/0054_5131327_gemini-3.1-flash-lite-preview_box_annotations.json/entry/28"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1913/0054_5131327_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

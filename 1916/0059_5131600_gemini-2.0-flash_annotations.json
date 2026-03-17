@@ -1,0 +1,415 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MINNESOTA.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131600/full/!760,760/0/default.jpg#xywh=662,456,522,36",
+      "id": "https://hadro.github.io/brewery-guides/1916/0059_5131600_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cannon Falls........Commercial Grain & Malting Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131600/full/!760,760/0/default.jpg#xywh=170,512,1378,50",
+      "id": "https://hadro.github.io/brewery-guides/1916/0059_5131600_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cold Spring........Cold Spring Malting Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131600/full/!760,760/0/default.jpg#xywh=174,554,1166,64",
+      "id": "https://hadro.github.io/brewery-guides/1916/0059_5131600_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hastings........Hastings Malting Co., 1st st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131600/full/!760,760/0/default.jpg#xywh=170,602,1272,60",
+      "id": "https://hadro.github.io/brewery-guides/1916/0059_5131600_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Minneapolis........Minneapolis Malt & Grain Co., Washington ave. and Erie st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131600/full/!760,760/0/default.jpg#xywh=170,648,1520,60",
+      "id": "https://hadro.github.io/brewery-guides/1916/0059_5131600_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Minneapolis........North Star Malting Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131600/full/!760,760/0/default.jpg#xywh=272,692,1130,112",
+      "id": "https://hadro.github.io/brewery-guides/1916/0059_5131600_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Minneapolis........Pioneer Malting Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131600/full/!760,760/0/default.jpg#xywh=270,786,946,66",
+      "id": "https://hadro.github.io/brewery-guides/1916/0059_5131600_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Red Wing........Minnesota Malting Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131600/full/!760,760/0/default.jpg#xywh=172,840,1092,54",
+      "id": "https://hadro.github.io/brewery-guides/1916/0059_5131600_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Red Wing........Red Wing Malting Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131600/full/!760,760/0/default.jpg#xywh=234,886,1030,52",
+      "id": "https://hadro.github.io/brewery-guides/1916/0059_5131600_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Paul........Hauser & Sons Malting Co., 272 Jackson st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131600/full/!760,760/0/default.jpg#xywh=170,932,1506,54",
+      "id": "https://hadro.github.io/brewery-guides/1916/0059_5131600_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Winona........Winona Malting Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131600/full/!760,760/0/default.jpg#xywh=170,1012,1050,66",
+      "id": "https://hadro.github.io/brewery-guides/1916/0059_5131600_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MISSOURI.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131600/full/!760,760/0/default.jpg#xywh=594,1102,556,50",
+      "id": "https://hadro.github.io/brewery-guides/1916/0059_5131600_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Louis........Griesedieck, H., Malting Co., 1130 S. 12th st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131600/full/!760,760/0/default.jpg#xywh=0,1158,1688,68",
+      "id": "https://hadro.github.io/brewery-guides/1916/0059_5131600_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Louis........Spieler, George, & Co., 1542 S. 7th st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131600/full/!760,760/0/default.jpg#xywh=248,1238,1394,94",
+      "id": "https://hadro.github.io/brewery-guides/1916/0059_5131600_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MONTANA.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131600/full/!760,760/0/default.jpg#xywh=708,1340,430,40",
+      "id": "https://hadro.github.io/brewery-guides/1916/0059_5131600_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Manhattan........Manhattan Malting Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131600/full/!760,760/0/default.jpg#xywh=162,1400,1136,48",
+      "id": "https://hadro.github.io/brewery-guides/1916/0059_5131600_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "NEBRASKA.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131600/full/!760,760/0/default.jpg#xywh=678,1472,480,40",
+      "id": "https://hadro.github.io/brewery-guides/1916/0059_5131600_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Omaha........Gate City Malt Company, 2d and Pine streets.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131600/full/!760,760/0/default.jpg#xywh=162,1532,1524,48",
+      "id": "https://hadro.github.io/brewery-guides/1916/0059_5131600_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "NEW YORK.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131600/full/!760,760/0/default.jpg#xywh=682,1648,470,40",
+      "id": "https://hadro.github.io/brewery-guides/1916/0059_5131600_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Buffalo........Burns, H. V., Jersey st. and Lake View ave.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131600/full/!760,760/0/default.jpg#xywh=166,1712,1520,52",
+      "id": "https://hadro.github.io/brewery-guides/1916/0059_5131600_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Buffalo........Fleischmann Malting Co., 517 Chamber of Commerce.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131600/full/!760,760/0/default.jpg#xywh=0,1780,140,40",
+      "id": "https://hadro.github.io/brewery-guides/1916/0059_5131600_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Buffalo........Kam, John, Malting Co., 377 Genesee st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131600/full/!760,760/0/default.jpg#xywh=220,1836,1476,220",
+      "id": "https://hadro.github.io/brewery-guides/1916/0059_5131600_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Buffalo........Kreiner & Lehr, 459 Spring st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131600/full/!760,760/0/default.jpg#xywh=0,1968,142,44",
+      "id": "https://hadro.github.io/brewery-guides/1916/0059_5131600_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Buffalo........McLaughlin, C. H., 317 Chamber of Commerce.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131600/full/!760,760/0/default.jpg#xywh=560,2044,442,36",
+      "id": "https://hadro.github.io/brewery-guides/1916/0059_5131600_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Buffalo........Meyer, Geo. J., Malting Co., Foot of Brace st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131600/full/!760,760/0/default.jpg#xywh=326,2074,1366,78",
+      "id": "https://hadro.github.io/brewery-guides/1916/0059_5131600_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Buffalo........Moffat, Henry C., Mohawk and Morgan sts.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131600/full/!760,760/0/default.jpg#xywh=672,2228,244,44",
+      "id": "https://hadro.github.io/brewery-guides/1916/0059_5131600_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Buffalo........Perot's, Francis, Sons Malting Co. (Office, 808 Lafayette Bldg., Philadelphia, Pa.).",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131600/full/!760,760/0/default.jpg#xywh=660,2318,1028,48",
+      "id": "https://hadro.github.io/brewery-guides/1916/0059_5131600_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Buffalo........Schaefer & Son Malting Co., 7th and Jersey sts.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131600/full/!760,760/0/default.jpg#xywh=660,2412,1022,48",
+      "id": "https://hadro.github.io/brewery-guides/1916/0059_5131600_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Buffalo........Zwickel, Chr., Malting Co., 652 Elk st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131600/full/!760,760/0/default.jpg#xywh=336,2504,1346,48",
+      "id": "https://hadro.github.io/brewery-guides/1916/0059_5131600_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Geneva........Empire Malt Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131600/full/!760,760/0/default.jpg#xywh=166,2550,964,48",
+      "id": "https://hadro.github.io/brewery-guides/1916/0059_5131600_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lyons........Mirick, H. M.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131600/full/!760,760/0/default.jpg#xywh=166,2600,878,44",
+      "id": "https://hadro.github.io/brewery-guides/1916/0059_5131600_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York City........American Malting Co., Main Offices: 120 Broadway. Shipping points: 63rd st. and East River, New York City; Buffalo (Childs st.), Rondout and Syracuse, N.Y.; Erie, Pa.; Hamilton, Ohio; Detroit; Chicago; Milwaukee, and Watertown, Wis.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131600/full/!760,760/0/default.jpg#xywh=164,2640,1520,54",
+      "id": "https://hadro.github.io/brewery-guides/1916/0059_5131600_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Oneida........Gregg Malting Co., Lake and Madison ave.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131600/full/!760,760/0/default.jpg#xywh=648,2970,1038,52",
+      "id": "https://hadro.github.io/brewery-guides/1916/0059_5131600_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Oneida........Stewart, Barton & Co., James st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131600/full/!760,760/0/default.jpg#xywh=668,3068,894,44",
+      "id": "https://hadro.github.io/brewery-guides/1916/0059_5131600_gemini-2.0-flash_annotations/line/33"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1916/0059_5131600_gemini-2.0-flash_annotations"
+}

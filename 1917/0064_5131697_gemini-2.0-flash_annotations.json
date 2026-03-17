@@ -1,0 +1,607 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MEXICO—Continued.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=1262,408,646,40",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Merida ........................Cerveceria Yucataca.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=848,480,1058,64",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Monterey ......................Cerveceria Cuauhtemoc.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=850,528,1142,62",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Oaxaca ........................Ca. Cervecera de Oaxaca.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=852,570,1166,70",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Orizaba .......................Cerveceria Moctezuma.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=852,620,1104,66",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Puebla ........................Cerveceria Zaragoza.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=850,668,1054,64",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sabinas .......................Ca. Cervecera Sabinas.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=852,714,1102,64",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "San Geronimo..................Cerveceria del Istmo.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=854,762,1068,62",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "San Luis Potosi...............Cerveceria de San Luis.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=854,808,1132,64",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tampico .......................Ca. Cervecera de Tampico.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=852,852,1198,68",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Toluca ........................Ca. Cervecera Toluca y Mexico.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=856,898,1330,66",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "PANAMA.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=1414,980,368,34",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Panama ......................Panama Brewing & Refrigerating Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=1110,1036,1208,58",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Panama ......................Tropical Branch.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=1602,1092,450,40",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "PARAGUAY.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=1368,1146,462,54",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Asuncion .....................Cerveceria La Paraguaya, Villa Rica",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=856,1214,1542,58",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "..............................esq. Ayolas.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=1416,1264,322,54",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Asuncion .....................Fabrica Nacional, Calle Palmas.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=1154,1306,1080,56",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "PERU.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=1486,1376,254,40",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Arequipa .....................Cerveceria Alemana, E. Günther.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=858,1430,1376,64",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Callao ........................Compania Nacional de Cerveza.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=860,1474,1322,68",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cerro de Pasco............... Federico Herold.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=860,1528,938,60",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cuzco ........................Cerveceria Alemana, E. Günther.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=864,1570,1372,66",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cuzco ........................Cerveceria de Gustavo Mangelsdorff.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=1028,1614,1368,66",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cuzco ........................Cerveceria de Cabrera y Hermanos.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=1032,1662,1256,66",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cuzco ........................Cerveceria Francesa, Leoncio Vignes",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=1030,1710,1368,62",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lima .........................Backus & Johnston Brewery Co., Ltd.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=864,1756,1444,68",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lima .........................Eduardo Harster, 200 Calle Caja-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=1026,1802,1288,66",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "..............................marca.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=1428,1870,184,32",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Puno .........................Cerveceria Alemana, E. Günther.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=866,1900,1378,64",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "San Jeronimo..................Cerveceria de Alejandro Velazco.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=866,1946,1376,64",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Urubamba .....................Cerveceria Italiana, Rosenda Vda. de",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=868,1990,1446,68",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "..............................Valle.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=1428,2052,160,34",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Urubamba .....................Cerveceria de Pra. Calidad, Adolfo",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=1154,2074,1244,88",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "..............................Zambrano.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=1430,2148,294,36",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "SALVADOR.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=1380,2212,460,40",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Santa Ana.....................Rafael M. Agau y Cia, La Constancia.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=866,2264,1444,64",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "TRINIDAD.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=1402,2352,414,34",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Port of Spain................Walters Trinidad Brewing Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=866,2402,1308,62",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "URUGUAY.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=1402,2462,424,52",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Montevideo ...................Cerveceria Montevideana, 18 Calle",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=868,2502,1530,104",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "..............................Santa Fé.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=1448,2584,264,38",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Montevideo ...................Cerveceria Uruguaya, Calle Asun-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=1188,2616,1210,60",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "..............................ción.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=1452,2680,126,34",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/43"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "VENEZUELA.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=1366,2742,508,40",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Caracas ......................Cerveceria Nacional, 232 Avo. Este",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=882,2794,1470,64",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/45"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Maiquetia ....................Cerveceria de Maiquetia.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=1194,2848,856,54",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/46"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Maracaibo ....................Cerveceria de Maracaibo, Calle In-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=882,2888,1516,64",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/47"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "..............................dustria.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=1448,2952,216,34",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/48"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Puerto Cabello................Cerveceria de Puerto Cabello.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131697/full/!760,760/0/default.jpg#xywh=882,2986,1288,58",
+      "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations/line/49"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1917/0064_5131697_gemini-2.0-flash_annotations"
+}

@@ -1,0 +1,583 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "56 TOVEY'S OFFICIAL BREWERS' DIRECTORY,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=829,289,1030,64",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "BREWERIES",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=1006,432,723,98",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "IN THE",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=1232,574,232,43",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "DOMINION OF CANADA.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=602,657,1503,110",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "BRITISH COLUMBIA.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=937,865,828,50",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fernie. Fort Steele Brewing Co. ALB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=588,922,1521,118",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Grand Forks. Fraser & Graham ALB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=592,1020,1510,51",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "〃 Grand Forks Brewing Co. A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=839,1065,1259,65",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Greenwood. Portmann & Portmann ALB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=590,1111,1512,57",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Moyie City Niederstadt, Reisterer & Co. AL",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=587,1154,1517,162",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Nanaimo Hasenfratz, A A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=583,1281,1526,224",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "〃 Gosnell, Wm L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=624,1479,1476,69",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Westminster. Nelson, Nels A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=588,1520,1514,126",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Revelstoke Enterprise Brewing Co. AL",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=588,1615,1514,122",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rossland. Le Roy Brewing Co ALB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=590,1709,1512,121",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sandon. New York Brewing Co AL",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=585,1795,1517,169",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Trail. Fluhrer & Bachmann L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=588,1945,1507,59",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vancouver. Allen & Hose AL",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=590,1992,1505,61",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "〃 Kappler, Joseph, & Co. A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=824,2036,1266,62",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "〃 Royal Brewing Co AL",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=674,2119,117,48",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "〃 Thorsen, Chas LB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=685,2172,91,31",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "〃 Van Couver Breweries, Ltd AL",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=822,2186,1271,50",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Victoria Fairall, H. S A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=585,2227,1505,57",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "〃 Victoria Phoenix Brewing Co ALB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=774,2279,1323,46",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ymir Chriest, Andrew L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=587,2320,1510,55",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "NEW BRUNSWICK.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=967,2399,760,47",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fairville Ready, Jas., Union and Peel sts. ALB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=588,2463,1507,48",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. John. Jones, Simeon, Ltd., 2 Camarthan",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=585,2507,1426,55",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "street AB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=1164,2561,212,34",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "NEWFOUNDLAND,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=977,2631,740,48",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Johns Bennett Brewing Co., Ltd ALB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=585,2690,1513,58",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "〃 *Lindberg, John L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=755,2738,1342,55",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "〃 Newfoundland Brewery, Ltd AB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=798,2786,1297,52",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "NORTHWEST TERRITORY.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=814,2862,1059,51",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brandon Robinson. I. A ALB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=585,2929,1512,46",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Calgary. *Cross, A. E A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=587,2960,1511,86",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Edmonton Ochsner, Robert A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=587,3013,1508,60",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cranbrook. Kerrigan, Jos A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=2320,1355,73,43",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Kamloops Imperial Brewing Co. AL",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=2325,1458,76,31",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Kaslo Kaslo Brewing Co. AL",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=2331,1551,56,29",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "〃 Union Brewing Co. ALB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=2325,1593,73,41",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "〃 Weigle, Peter L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=2331,1639,49,45",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Nelson Emerson & Riesterer ALB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=2325,2160,80,43",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "〃 Riesterer, R., & Co. ALB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=2325,2347,80,47",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/43"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Phoenix. Mueller, J LB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=2332,2726,73,45",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "〃 Long, J. E A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=2336,2772,69,45",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/45"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "〃 Lion Brewing Co ALB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=2332,2819,73,48",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/46"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "〃 Murphy, John ALB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131945/full/!760,760/0/default.jpg#xywh=2336,2867,69,50",
+      "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations/line/47"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1903/0058_5131945_gemini-2.0-flash_annotations"
+}

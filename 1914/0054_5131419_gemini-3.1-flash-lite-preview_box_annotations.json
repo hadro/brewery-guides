@@ -1,0 +1,84 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Quebec, QUEBEC",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131419/full/!760,760/0/default.jpg#xywh=774,532,1422,50",
+      "id": "https://hadro.github.io/brewery-guides/1914/0054_5131419_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sherbrooke, QUEBEC",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131419/full/!760,760/0/default.jpg#xywh=770,622,1514,58",
+      "id": "https://hadro.github.io/brewery-guides/1914/0054_5131419_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Valleyfield, QUEBEC",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131419/full/!760,760/0/default.jpg#xywh=770,666,1518,108",
+      "id": "https://hadro.github.io/brewery-guides/1914/0054_5131419_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Moose Jaw, SASKATCHEWAN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131419/full/!760,760/0/default.jpg#xywh=778,842,1420,50",
+      "id": "https://hadro.github.io/brewery-guides/1914/0054_5131419_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Prince Albert, SASKATCHEWAN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131419/full/!760,760/0/default.jpg#xywh=770,666,1518,108",
+      "id": "https://hadro.github.io/brewery-guides/1914/0054_5131419_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Saskatoon, SASKATCHEWAN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131419/full/!760,760/0/default.jpg#xywh=772,978,1512,106",
+      "id": "https://hadro.github.io/brewery-guides/1914/0054_5131419_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dawson, YUKON TERRITORY",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131419/full/!760,760/0/default.jpg#xywh=776,1194,1426,52",
+      "id": "https://hadro.github.io/brewery-guides/1914/0054_5131419_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1914/0054_5131419_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

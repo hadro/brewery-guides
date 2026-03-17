@@ -1,0 +1,103 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "WILHELM GRIESSER",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131449/full/!760,760/0/default.jpg#xywh=1714,400,178,2006",
+      "id": "https://hadro.github.io/brewery-guides/1914/0084_5131449_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Architect-Engineer",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131449/full/!760,760/0/default.jpg#xywh=1092,1176,106,1090",
+      "id": "https://hadro.github.io/brewery-guides/1914/0084_5131449_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "DESIGNER AND BUILDER OF",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131449/full/!760,760/0/default.jpg#xywh=1594,1180,78,1052",
+      "id": "https://hadro.github.io/brewery-guides/1914/0084_5131449_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "and Ice Plants",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131449/full/!760,760/0/default.jpg#xywh=1906,1310,132,776",
+      "id": "https://hadro.github.io/brewery-guides/1914/0084_5131449_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MAN",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131449/full/!760,760/0/default.jpg#xywh=1292,2394,90,504",
+      "id": "https://hadro.github.io/brewery-guides/1914/0084_5131449_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "AMER",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131449/full/!760,760/0/default.jpg#xywh=2324,2794,74,80",
+      "id": "https://hadro.github.io/brewery-guides/1914/0084_5131449_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "38",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131449/full/!760,760/0/default.jpg#xywh=2346,2942,42,70",
+      "id": "https://hadro.github.io/brewery-guides/1914/0084_5131449_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "FACT",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131449/full/!760,760/0/default.jpg#xywh=2344,3070,54,64",
+      "id": "https://hadro.github.io/brewery-guides/1914/0084_5131449_gemini-2.0-flash_annotations/line/7"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1914/0084_5131449_gemini-2.0-flash_annotations"
+}

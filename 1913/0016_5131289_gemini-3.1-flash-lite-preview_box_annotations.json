@@ -1,0 +1,359 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Santa Rosa, CALIFORNIA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131289/full/!760,760/0/default.jpg#xywh=2330,630,70,36",
+      "id": "https://hadro.github.io/brewery-guides/1913/0016_5131289_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sisson, CALIFORNIA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131289/full/!760,760/0/default.jpg#xywh=668,622,1508,64",
+      "id": "https://hadro.github.io/brewery-guides/1913/0016_5131289_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sonoma, CALIFORNIA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131289/full/!760,760/0/default.jpg#xywh=726,2940,52,32",
+      "id": "https://hadro.github.io/brewery-guides/1913/0016_5131289_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Stockton, CALIFORNIA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131289/full/!760,760/0/default.jpg#xywh=666,668,1514,118",
+      "id": "https://hadro.github.io/brewery-guides/1913/0016_5131289_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Susanville, CALIFORNIA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131289/full/!760,760/0/default.jpg#xywh=668,784,1508,94",
+      "id": "https://hadro.github.io/brewery-guides/1913/0016_5131289_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Truckee, CALIFORNIA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131289/full/!760,760/0/default.jpg#xywh=668,862,1508,54",
+      "id": "https://hadro.github.io/brewery-guides/1913/0016_5131289_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vallejo, CALIFORNIA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131289/full/!760,760/0/default.jpg#xywh=666,902,1514,116",
+      "id": "https://hadro.github.io/brewery-guides/1913/0016_5131289_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Watsonville, CALIFORNIA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131289/full/!760,760/0/default.jpg#xywh=668,622,1508,64",
+      "id": "https://hadro.github.io/brewery-guides/1913/0016_5131289_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Watsonville, CALIFORNIA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131289/full/!760,760/0/default.jpg#xywh=784,1044,1318,58",
+      "id": "https://hadro.github.io/brewery-guides/1913/0016_5131289_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Weaverville, CALIFORNIA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131289/full/!760,760/0/default.jpg#xywh=668,1000,1508,58",
+      "id": "https://hadro.github.io/brewery-guides/1913/0016_5131289_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "West Berkeley, CALIFORNIA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131289/full/!760,760/0/default.jpg#xywh=728,1498,1448,204",
+      "id": "https://hadro.github.io/brewery-guides/1913/0016_5131289_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Woodland, CALIFORNIA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131289/full/!760,760/0/default.jpg#xywh=666,1230,1504,60",
+      "id": "https://hadro.github.io/brewery-guides/1913/0016_5131289_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Del Norte, COLORADO",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131289/full/!760,760/0/default.jpg#xywh=666,1382,1502,68",
+      "id": "https://hadro.github.io/brewery-guides/1913/0016_5131289_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Denver, COLORADO",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131289/full/!760,760/0/default.jpg#xywh=668,1438,1424,56",
+      "id": "https://hadro.github.io/brewery-guides/1913/0016_5131289_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Denver, COLORADO",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131289/full/!760,760/0/default.jpg#xywh=728,1498,1448,204",
+      "id": "https://hadro.github.io/brewery-guides/1913/0016_5131289_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Denver, COLORADO",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131289/full/!760,760/0/default.jpg#xywh=1234,1668,438,48",
+      "id": "https://hadro.github.io/brewery-guides/1913/0016_5131289_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Denver, COLORADO",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131289/full/!760,760/0/default.jpg#xywh=732,1674,1362,112",
+      "id": "https://hadro.github.io/brewery-guides/1913/0016_5131289_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Leadville, COLORADO",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131289/full/!760,760/0/default.jpg#xywh=664,1846,1432,62",
+      "id": "https://hadro.github.io/brewery-guides/1913/0016_5131289_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pueblo, COLORADO",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131289/full/!760,760/0/default.jpg#xywh=728,1498,1448,204",
+      "id": "https://hadro.github.io/brewery-guides/1913/0016_5131289_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Silverton, COLORADO",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131289/full/!760,760/0/default.jpg#xywh=660,1984,1510,62",
+      "id": "https://hadro.github.io/brewery-guides/1913/0016_5131289_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Telluride, COLORADO",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131289/full/!760,760/0/default.jpg#xywh=660,2026,1510,122",
+      "id": "https://hadro.github.io/brewery-guides/1913/0016_5131289_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Trinidad, COLORADO",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131289/full/!760,760/0/default.jpg#xywh=816,2122,1350,116",
+      "id": "https://hadro.github.io/brewery-guides/1913/0016_5131289_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Trinidad, COLORADO",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131289/full/!760,760/0/default.jpg#xywh=728,1498,1448,204",
+      "id": "https://hadro.github.io/brewery-guides/1913/0016_5131289_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bridgeport, CONNECTICUT",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131289/full/!760,760/0/default.jpg#xywh=660,2390,1508,52",
+      "id": "https://hadro.github.io/brewery-guides/1913/0016_5131289_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Meriden, CONNECTICUT",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131289/full/!760,760/0/default.jpg#xywh=856,2432,1228,62",
+      "id": "https://hadro.github.io/brewery-guides/1913/0016_5131289_gemini-3.1-flash-lite-preview_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bridgeport, CONNECTICUT",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131289/full/!760,760/0/default.jpg#xywh=1256,2532,826,54",
+      "id": "https://hadro.github.io/brewery-guides/1913/0016_5131289_gemini-3.1-flash-lite-preview_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bridgeport, CONNECTICUT",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131289/full/!760,760/0/default.jpg#xywh=890,2620,1276,58",
+      "id": "https://hadro.github.io/brewery-guides/1913/0016_5131289_gemini-3.1-flash-lite-preview_box_annotations.json/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hartford, CONNECTICUT",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131289/full/!760,760/0/default.jpg#xywh=894,2662,1184,64",
+      "id": "https://hadro.github.io/brewery-guides/1913/0016_5131289_gemini-3.1-flash-lite-preview_box_annotations.json/entry/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Derby, CONNECTICUT",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131289/full/!760,760/0/default.jpg#xywh=658,2752,1512,64",
+      "id": "https://hadro.github.io/brewery-guides/1913/0016_5131289_gemini-3.1-flash-lite-preview_box_annotations.json/entry/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hartford, CONNECTICUT",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131289/full/!760,760/0/default.jpg#xywh=658,2800,1506,64",
+      "id": "https://hadro.github.io/brewery-guides/1913/0016_5131289_gemini-3.1-flash-lite-preview_box_annotations.json/entry/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hartford, CONNECTICUT",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131289/full/!760,760/0/default.jpg#xywh=842,2848,1230,62",
+      "id": "https://hadro.github.io/brewery-guides/1913/0016_5131289_gemini-3.1-flash-lite-preview_box_annotations.json/entry/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hartford, CONNECTICUT",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131289/full/!760,760/0/default.jpg#xywh=726,2940,52,32",
+      "id": "https://hadro.github.io/brewery-guides/1913/0016_5131289_gemini-3.1-flash-lite-preview_box_annotations.json/entry/34"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1913/0016_5131289_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

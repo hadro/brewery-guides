@@ -1,0 +1,62 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Hilaire",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128942/full/!760,760/0/default.jpg#xywh=456,751,1770,84",
+      "id": "https://hadro.github.io/brewery-guides/1898/0098_5128942_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Philippi de Argentuil",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128942/full/!760,760/0/default.jpg#xywh=514,906,1714,83",
+      "id": "https://hadro.github.io/brewery-guides/1898/0098_5128942_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ste. Therese de Blainville",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128942/full/!760,760/0/default.jpg#xywh=514,1054,1712,90",
+      "id": "https://hadro.github.io/brewery-guides/1898/0098_5128942_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Prince Albert",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128942/full/!760,760/0/default.jpg#xywh=450,1271,1778,90",
+      "id": "https://hadro.github.io/brewery-guides/1898/0098_5128942_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Prince Albert",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128942/full/!760,760/0/default.jpg#xywh=2491,1695,88,64",
+      "id": "https://hadro.github.io/brewery-guides/1898/0098_5128942_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1898/0098_5128942_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

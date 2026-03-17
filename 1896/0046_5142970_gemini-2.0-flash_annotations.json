@@ -1,0 +1,571 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brewers' Guide.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1311,441,567,63",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "44",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=707,450,72,40",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MISSOURI—CONTINUED.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1160,590,884,68",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Saint Joseph.........Goetz, M. K., Brewing Co.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=702,670,1601,79",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "corner 6th and Albemarle",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1409,756,892,63",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "sts. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . L M B-D 4",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1419,835,1071,66",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" . . . . . . . . . . . . . .Jester, John. . . . . . . . . . . . . . . . L B-E 3",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1076,908,1414,74",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Joseph Brew- { Nunning, August, Brg. Co..L M-D 3",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=756,980,1736,82",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ing Co., suc. to { St. Joseph Brewing Co... L M B-D 3",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=819,1052,1673,91",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Saint Louis . . . . . . . . . . . . American Brewing Co., 2825",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=702,1162,1599,63",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "South Broadway. . . . . . L M B-C 1",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1412,1242,1073,67",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" . . . . . . . . . . . . . . . American Weiss Beer Brewery,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1038,1314,1260,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1906 North Broadway. . . . W B-E 5",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1412,1398,1073,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" . . . . . . . . . . . . . . . Anheuser-Busch Brg. Ass'n,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1034,1470,1264,75",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "9th and Pestallozi sts.. L M B-A 3",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1412,1552,1073,65",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" . . . . . . . . . . . . . . . Anthony & Kuhn Brewery.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1038,1627,1258,74",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Branch St. Louis Brg. Ass'n,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1027,1704,1271,74",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "11th, between Victor and",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1402,1788,896,65",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sidney sts.. . . . . . . . . . . . . . . . . . . . . . . . . . L M B-C 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1409,1867,1074,63",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" . . . . . . . . . . . . . . . Berliner Imp. Weiss Beer Co.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1038,1939,1267,75",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "606-610 South 2d st. . . . W B-E 5",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1008,2016,1477,73",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" . . . . . . . . . . . . . . . Bremen Brewery. Branch St.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1003,2096,1288,72",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Louis Brewing Association,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1353,2177,938,68",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "3905 North Broadway. . . . . . . . . L-D 2",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1400,2259,1085,65",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" . . . . . . . . . . . . . . . Brinckwirth-Nolker Brewery.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1036,2331,1255,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Branch St. Louis Brg. As-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=919,2411,1377,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "sociation, 1714 Cass ave... L M-C 2",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1020,2488,1463,72",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" . . . . . . . . . . . . . . . Cherokee Brewery. Branch",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=901,2565,1390,72",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Louis Brewing Associa-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1402,2651,892,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "tion, 2726 Cherokee st. . . . . . . . . . . . . L-D 2",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1293,2716,1185,91",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" . . . . . . . . . . . . . . . Columbia Brewing Co., 20th",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1132,2805,1157,68",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "and Madison sts. . . . . . . . . . . . . . . . . L M B-C 3",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1402,2882,1076,68",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" . . . . . . . . . . . . . . . Excelsior Brewery Branch, St",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1316,2961,954,66",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Louis Brewing Association,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1402,3041,878,65",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "5 South 17th street. . . . . L M B-C 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1405,3122,1071,59",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" . . . . . . . . . . . . . . . Green Tree Brewery, Branch",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1309,3195,973,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Louis Brewing Ass'n,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1400,3276,880,66",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sidney and 9th street.. L M B-C 2",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1400,3353,1066,66",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" . . . . . . . . . . . . . . . Grone, H., Brewery, Branch",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1307,3433,973,63",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Louis Brewing Ass'n,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1402,3512,873,63",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "2219 Clark avenue. . . . . . . L M-C 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1398,3594,1071,56",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" . . . . . . . . . . . . . . . Home Brewing Co., Miami st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1302,3671,971,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "and Salena ave.. . . . . . . . . . . . . . . . . . . L B-C 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1400,3746,1066,67",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" . . . . . . . . . . . . . . . Hyde Park Brewery, Branch",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1295,3823,978,67",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/43"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Louis Brewing Ass'n,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1393,3902,882,68",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Florrissant aveue and Salis-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1034,3972,1248,77",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/45"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "bury street. . . . . . . . . . . . . . . . . . . . . . L M-C 2",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142970/full/!760,760/0/default.jpg#xywh=1132,4061,1341,63",
+      "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations/line/46"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1896/0046_5142970_gemini-2.0-flash_annotations"
+}

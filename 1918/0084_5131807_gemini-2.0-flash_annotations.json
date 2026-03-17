@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "THE NEW YORK PUBLIC LIBRARY",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131807/full/!760,760/0/default.jpg#xywh=848,522,1286,98",
+      "id": "https://hadro.github.io/brewery-guides/1918/0084_5131807_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "REFERENCE DEPARTMENT",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131807/full/!760,760/0/default.jpg#xywh=1072,614,854,76",
+      "id": "https://hadro.github.io/brewery-guides/1918/0084_5131807_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "taken from the Building",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131807/full/!760,760/0/default.jpg#xywh=1096,852,796,80",
+      "id": "https://hadro.github.io/brewery-guides/1918/0084_5131807_gemini-2.0-flash_annotations/line/2"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1918/0084_5131807_gemini-2.0-flash_annotations"
+}

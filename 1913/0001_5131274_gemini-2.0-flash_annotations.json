@@ -1,0 +1,79 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "AL",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131274/full/!760,760/0/default.jpg#xywh=198,33,231,120",
+      "id": "https://hadro.github.io/brewery-guides/1913/0001_5131274_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ES'",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131274/full/!760,760/0/default.jpg#xywh=441,51,1824,79",
+      "id": "https://hadro.github.io/brewery-guides/1913/0001_5131274_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "D",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131274/full/!760,760/0/default.jpg#xywh=314,592,61,185",
+      "id": "https://hadro.github.io/brewery-guides/1913/0001_5131274_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ERS'",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131274/full/!760,760/0/default.jpg#xywh=146,952,114,86",
+      "id": "https://hadro.github.io/brewery-guides/1913/0001_5131274_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "18",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131274/full/!760,760/0/default.jpg#xywh=324,1082,32,68",
+      "id": "https://hadro.github.io/brewery-guides/1913/0001_5131274_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "R",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131274/full/!760,760/0/default.jpg#xywh=254,1083,22,36",
+      "id": "https://hadro.github.io/brewery-guides/1913/0001_5131274_gemini-2.0-flash_annotations/line/5"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1913/0001_5131274_gemini-2.0-flash_annotations"
+}

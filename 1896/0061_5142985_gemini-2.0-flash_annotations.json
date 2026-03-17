@@ -1,0 +1,559 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Supplement to AMERICAN BREWERS' REVIEW. 57",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=369,448,1444,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "NEW YORK—CONTINUED.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=649,590,910,66",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "States Brewing Co.), 161st",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=922,763,891,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "st. and St. Ann's ave.....L B-C 3",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=922,838,1078,65",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"\t\t.....Jones Co., David, 325 E. 44th",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=649,912,1164,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "street ................A M-D 3",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=924,994,1076,63",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"\t\t.....Kipps Bay Brewery and Malt-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=649,1076,1164,60",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ing Co., 648 First avenue...L-D 4",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=917,1153,1083,65",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"\t\t.....Koch, Andrew, 455 First",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=646,1228,938,63",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "avenue..................W B-E 5",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=919,1312,1081,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"\t\t.....Koehler, H. & Co., First ave.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=646,1384,1162,63",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "29th and 30th sts.....A P L B-C 1",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=924,1463,1071,63",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"\t\t.....Kress, John, Brewing Co., 207",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=646,1540,1162,66",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "East 54th street ..........L B-C 4",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=919,1624,1083,56",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"\t\t.....Loewer's V., Gambrinus Brew-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=646,1699,1162,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ery Co., 521 to 533 West 41st",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=919,1781,892,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "street ................L B-C 3",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=917,1855,1083,66",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"\t\t.....Lyman, T. C. Co., 414-430 West",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=649,1932,1162,66",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "38th street ................A P-C 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=919,2014,1078,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"\t\t.....Mayer, David, Brewing Co.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=649,2086,1157,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "168th st. and 3d ave..... A L-C 4",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=912,2168,1085,63",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"\t\t.....Miles, Wm. A. & Co., 57",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=649,2240,1157,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chrystie street..........A B-C 8",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=915,2322,1078,72",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"\t\t.....Moore, Michael, 225 East 21st",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=644,2399,1164,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "street ................W B-E 5",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=917,2481,1076,63",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"\t\t.....Oppermann, Frederick, Jr.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=644,2560,1160,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "estate of, 330 East 45th st...L-C 3",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=919,2639,1076,59",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"\t\t.....O'Reilly, Skelly & Fogarty",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=649,2716,1155,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Co., 409 West 14th st.. A P L M-C 9",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=915,2789,1078,74",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"\t\t.....Otto, H. M., 83 East 4th st. W B-E 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=644,2868,1349,72",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"\t\t.....Ringler, Geo. & Co., 92d st.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=644,2947,1160,68",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "2d and 3d avenues. .......L-B 8",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=917,3029,1073,63",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"\t\t.....Rottman, John F. & Sons, 549",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=630,3108,1169,59",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "West 46th street ..........A P-D 3",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=912,3183,1081,68",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"\t\t.....Ruppert, Jacob, 1639 Third",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=835,3267,969,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "avenue, between 90th and",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=917,3328,882,63",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "92d streets...............L-A 9",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=910,3393,1080,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"\t\t.....Russell & Reis, 61 to 71 Green-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=642,3465,1162,68",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "wich avenue. ........A P M-C 10",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=910,3545,1080,65",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"\t\t.....Schaefer, F. & M. Brewing",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=649,3620,1155,67",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Co., 114 East 51st street.. L B-B 4",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=917,3687,1076,68",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"\t\t.....Schaefer, Phillip & Son, 530-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=644,3762,1157,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "540 W. 57th street ........L-C 8",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=917,3830,1073,63",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"\t\t.....Schmidt & Schwanenfluegel,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=646,3902,1151,72",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/43"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "57th st. and East River..... L-C 5",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=917,3970,1073,65",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "For Key See Page 15.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142985/full/!760,760/0/default.jpg#xywh=709,4082,761,46",
+      "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations/line/45"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1896/0061_5142985_gemini-2.0-flash_annotations"
+}

@@ -1,0 +1,559 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "130 BREWERS' GUIDE.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=1451,436,553,56",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hops-Continued.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=1430,576,560,68",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hermann & Co,, 309-311 Sacramento street......",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=824,649,1540,74",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "San Francisco, Cal.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=957,728,1659,79",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hill, Thos. Co., 25 Griswold st...Detroit, Mich.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=821,803,1797,86",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hoppe, Chas. & Son Malting Co., 717 Park ave.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=819,880,1549,86",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Louis, Mo.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=954,961,1659,84",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Horst Bros..Chicago, Ill.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=817,1036,1796,91",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Kiewert, Chas. L. & Co.Milwaukee, Wis.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=817,1115,1801,92",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "LAWRENCE, W. A..Waterville, N. Y.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=814,1193,1804,93",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lipe, E. & W. H..Canajoharie, N. Y.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=817,1270,1799,98",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Loewi, Val., 37 Pearl st... New York City",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=814,1349,1804,93",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lux & Co. F. A., 415 Sacramento st.. San Francisco, Cal.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=814,1431,1799,86",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Magnus', A. Sons, 244 E. Randolph st... Chicago, Ill.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=814,1512,1797,84",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "May, Chas. S. & Co., 344-346 Broadway.... Albany, N. Y.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=817,1587,1794,86",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mebius & Drescher... Sacramento, Cal.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=814,1669,1795,79",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Meyer Supply Co., 22 Main st...St. Louis, Mo.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=814,1746,1795,84",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "McGowan, T. W., Jr., 36-38 Whitehall st.. New York City",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=812,1825,1801,84",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miller, F. D....Oneonta, N. Y.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=807,1902,1799,86",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Neubourg, & Co., 1016-1020 5th st..",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=810,1998,1796,77",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Neis, Phil & Co...Salem, Oregon",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=807,2072,1802,84",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "N. Y. HOP EXTRACT WORKS.Waterville, N. Y.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=807,2156,1799,77",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "OETERS, J. C., 1242 N. 31st st.Philadelphia, Pa.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=805,2231,1799,84",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Orth, James & Co., 54 Chamber of Commerce,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=803,2310,1556,80",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Milwaukee, Wis.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=994,2390,1610,79",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pacific Hop Co...Seattle, Wash.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=805,2467,1799,86",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Patterson, C. J., 113 Rialto bldg.Chicago, Ill.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=805,2546,1799,79",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pier Bros., 39 Pearl st... New York City",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=805,2623,1804,84",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pincus, Isaac.Tacoma, Wash.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=803,2705,1794,79",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pincus, James..Seattle, Wash.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=805,2782,1799,84",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ramsay & Co., S.... Seattle, Wash., and Reedsburg, Wis.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=803,2856,1799,89",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Reinemann, Paul, 22 Whitehall st...... New York",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=805,2938,1804,79",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "REISINGER, HUGO, 38 Beaver st... New York City",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=803,3013,1806,86",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Roberts, W. F., 70 Commercial st..Boston, Mass",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=800,3092,1788,86",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ROSENWALD, T. & CO., 13 Water and 14 Front",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=807,3174,1550,79",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "sts...New York City",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=926,3255,1680,84",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rothbarth, M. & Co., 26 Whitehall st..... New York City",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=798,3344,1808,86",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rothbarth & Sons, 35 Pearl st..New York City",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=796,3426,1810,84",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Russell, J. M. Co...Portland, Ore.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=796,3500,1808,87",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Russell, W. S.....Cooperstown, N. Y.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=796,3578,1806,91",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Schroeder, Rob.Malone, N. Y.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=796,3657,1806,91",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Schwarz, Benj. & Sons, 45 Pearl st.... New York City",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=796,3734,1810,91",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Scott Co., John R, 67 Broad st...New York City",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=796,3816,1810,86",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Searles, Louis R, 15 Whitehall st.... New York City",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=796,3893,1810,88",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/43"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Seidenberger Sons, M., 15-25 Whitehallst.. New York City",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=796,3972,1810,89",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "SOMMER, OTTO A. & CO., 114 Franklin st.. Chicago, Ill.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143058/full/!760,760/0/default.jpg#xywh=796,4051,1824,87",
+      "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations/line/45"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1896/0134_5143058_gemini-2.0-flash_annotations"
+}

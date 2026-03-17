@@ -1,0 +1,403 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "NEW YORK—Continued.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131846/full/!760,760/0/default.jpg#xywh=730,445,798,52",
+      "id": "https://hadro.github.io/brewery-guides/1899/0037_5131846_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Albany........Quinn & Nolan Ale Brewing Co., 30 North Ferry st.,........A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131846/full/!760,760/0/default.jpg#xywh=360,517,1436,73",
+      "id": "https://hadro.github.io/brewery-guides/1899/0037_5131846_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Albany........Story, Geo. F., Broadway and 4th ave........A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131846/full/!760,760/0/default.jpg#xywh=423,608,1377,68",
+      "id": "https://hadro.github.io/brewery-guides/1899/0037_5131846_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Albany........*Taylor Brewing and Malting Co., 133 Broadway........A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131846/full/!760,760/0/default.jpg#xywh=418,695,1376,83",
+      "id": "https://hadro.github.io/brewery-guides/1899/0037_5131846_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Albany........Weber, George, 42 3d ave........W B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131846/full/!760,760/0/default.jpg#xywh=0,717,54,52",
+      "id": "https://hadro.github.io/brewery-guides/1899/0037_5131846_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Amsterdam........Bowler, Harry, Main and Ann streets........A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131846/full/!760,760/0/default.jpg#xywh=361,845,1435,66",
+      "id": "https://hadro.github.io/brewery-guides/1899/0037_5131846_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Attica........Briem, Charles, 138 Main st........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131846/full/!760,760/0/default.jpg#xywh=361,936,1532,71",
+      "id": "https://hadro.github.io/brewery-guides/1899/0037_5131846_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Auburn........Ehrman Brewing Co., 117 Clark street........A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131846/full/!760,760/0/default.jpg#xywh=362,985,1440,65",
+      "id": "https://hadro.github.io/brewery-guides/1899/0037_5131846_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Auburn........*Burtis, E. C........A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131846/full/!760,760/0/default.jpg#xywh=430,1026,1470,173",
+      "id": "https://hadro.github.io/brewery-guides/1899/0037_5131846_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Auburn........*Fanning, G. S., 10 Garden st........A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131846/full/!760,760/0/default.jpg#xywh=0,1061,38,40",
+      "id": "https://hadro.github.io/brewery-guides/1899/0037_5131846_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Auburn........Koenig, C. A., & Co., Grant and State streets........L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131846/full/!760,760/0/default.jpg#xywh=537,1173,1270,68",
+      "id": "https://hadro.github.io/brewery-guides/1899/0037_5131846_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Auburn........Wildner, William, 132 York st........A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131846/full/!760,760/0/default.jpg#xywh=432,1246,1461,84",
+      "id": "https://hadro.github.io/brewery-guides/1899/0037_5131846_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Batavia........Gamble, William........A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131846/full/!760,760/0/default.jpg#xywh=370,1315,1514,59",
+      "id": "https://hadro.github.io/brewery-guides/1899/0037_5131846_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Binghamton........Columbia Brewing Co., 19 Collier street........A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131846/full/!760,760/0/default.jpg#xywh=364,1357,1437,75",
+      "id": "https://hadro.github.io/brewery-guides/1899/0037_5131846_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Binghamton........Ehresman, John, & Co., Laurel avenue........A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131846/full/!760,760/0/default.jpg#xywh=653,1451,1155,63",
+      "id": "https://hadro.github.io/brewery-guides/1899/0037_5131846_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Binghamton........Laurer, Jos., Brewing Co., Laurel avenue........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131846/full/!760,760/0/default.jpg#xywh=612,1545,1200,60",
+      "id": "https://hadro.github.io/brewery-guides/1899/0037_5131846_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brooklyn........Apfel-Klueg Golden Horn Brewing Co., 3d ave. and 96th st........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131846/full/!760,760/0/default.jpg#xywh=368,1634,1445,72",
+      "id": "https://hadro.github.io/brewery-guides/1899/0037_5131846_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brooklyn........Burger Brewing Co., Lim., 68 Meserole st........L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131846/full/!760,760/0/default.jpg#xywh=587,1738,1217,54",
+      "id": "https://hadro.github.io/brewery-guides/1899/0037_5131846_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brooklyn........Claus-Lipsius Brewing Co., 493 Bushwick ave........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131846/full/!760,760/0/default.jpg#xywh=587,1826,1219,60",
+      "id": "https://hadro.github.io/brewery-guides/1899/0037_5131846_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brooklyn........Congress Brewing Co., Lim., 197 Humboldt st........A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131846/full/!760,760/0/default.jpg#xywh=585,1916,1216,64",
+      "id": "https://hadro.github.io/brewery-guides/1899/0037_5131846_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brooklyn........Consumers' Park Brewing Co., 938 Franklin ave........L †",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131846/full/!760,760/0/default.jpg#xywh=587,2012,1219,68",
+      "id": "https://hadro.github.io/brewery-guides/1899/0037_5131846_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brooklyn........Danenberg & Coles, 35 Bremen st........L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131846/full/!760,760/0/default.jpg#xywh=582,2092,1314,75",
+      "id": "https://hadro.github.io/brewery-guides/1899/0037_5131846_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brooklyn........Deventhal & Schalk, 217 21st st........W B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131846/full/!760,760/0/default.jpg#xywh=582,2154,1314,59",
+      "id": "https://hadro.github.io/brewery-guides/1899/0037_5131846_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brooklyn........Eastern Brewing Co., Bushwick ave. and Meserole st........A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131846/full/!760,760/0/default.jpg#xywh=588,2206,1220,55",
+      "id": "https://hadro.github.io/brewery-guides/1899/0037_5131846_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brooklyn........Eppig, Estate of Leonard, 24 George street........L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131846/full/!760,760/0/default.jpg#xywh=585,2298,1227,57",
+      "id": "https://hadro.github.io/brewery-guides/1899/0037_5131846_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brooklyn........Eppig Joseph, 176 Grove st........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131846/full/!760,760/0/default.jpg#xywh=529,2386,1364,62",
+      "id": "https://hadro.github.io/brewery-guides/1899/0037_5131846_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brooklyn........Excelsior Brewing Co., 239 Pulaski street........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131846/full/!760,760/0/default.jpg#xywh=582,2433,1314,108",
+      "id": "https://hadro.github.io/brewery-guides/1899/0037_5131846_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brooklyn........Fallert, Jos., Brewing Co., Lim., 66 Meserole st........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131846/full/!760,760/0/default.jpg#xywh=589,2535,1219,52",
+      "id": "https://hadro.github.io/brewery-guides/1899/0037_5131846_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brooklyn........Frank, Wm. H., Brewing Co., Cypress ave., Willow and Greene sts. (P. O. Evergreen.)........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131846/full/!760,760/0/default.jpg#xywh=956,2670,850,54",
+      "id": "https://hadro.github.io/brewery-guides/1899/0037_5131846_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brooklyn........Frese, Estate of Charles, 242 Scholes st........L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131846/full/!760,760/0/default.jpg#xywh=630,2766,1176,57",
+      "id": "https://hadro.github.io/brewery-guides/1899/0037_5131846_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brooklyn........Howard & Fuller Brewing Co., Bridge and Plymouth sts........A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131846/full/!760,760/0/default.jpg#xywh=911,2856,893,55",
+      "id": "https://hadro.github.io/brewery-guides/1899/0037_5131846_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brooklyn........Huber, Otto, Brewery, 3 Bushwick Place........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131846/full/!760,760/0/default.jpg#xywh=908,2946,903,61",
+      "id": "https://hadro.github.io/brewery-guides/1899/0037_5131846_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brooklyn........Ibert, Frank, Brewing Co., 405 Evergreen ave........L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131846/full/!760,760/0/default.jpg#xywh=907,3050,897,44",
+      "id": "https://hadro.github.io/brewery-guides/1899/0037_5131846_gemini-2.0-flash_annotations/line/32"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1899/0037_5131846_gemini-2.0-flash_annotations"
+}

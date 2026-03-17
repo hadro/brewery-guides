@@ -1,0 +1,343 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "OHIO—Continued.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131667/full/!760,760/0/default.jpg#xywh=1326,396,546,36",
+      "id": "https://hadro.github.io/brewery-guides/1917/0034_5131667_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Canton........*Stark-Tuscarawas Breweries Co., Canton Branch, 216 North Cherry street.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131667/full/!760,760/0/default.jpg#xywh=1370,474,884,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0034_5131667_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Canton........*Stark-Tuscarawas Breweries Co., New Philadelphia Branch, New Philadelphia.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131667/full/!760,760/0/default.jpg#xywh=1362,564,886,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0034_5131667_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Canton........*Stark-Tuscarawas Breweries Co., Schuster Branch, Massillon.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131667/full/!760,760/0/default.jpg#xywh=1362,656,752,54",
+      "id": "https://hadro.github.io/brewery-guides/1917/0034_5131667_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Canton........*Stark-Tuscarawas Breweries Co., Stark Branch, 624 North Cherry st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131667/full/!760,760/0/default.jpg#xywh=1332,700,922,50",
+      "id": "https://hadro.github.io/brewery-guides/1917/0034_5131667_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Canton........*Stark-Tuscarawas Breweries Co., Belmont Bldg., L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131667/full/!760,760/0/default.jpg#xywh=1046,708,102,34",
+      "id": "https://hadro.github.io/brewery-guides/1917/0034_5131667_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chillicothe..........Knecht, Jacob, & Son, Water street........L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131667/full/!760,760/0/default.jpg#xywh=834,762,1430,54",
+      "id": "https://hadro.github.io/brewery-guides/1917/0034_5131667_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati..........*Wissler, Otto, & Co., 2d st........L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131667/full/!760,760/0/default.jpg#xywh=1164,862,1120,50",
+      "id": "https://hadro.github.io/brewery-guides/1917/0034_5131667_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati..........Bellevue Brewing Co.. 601 W. McMicken ave........L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131667/full/!760,760/0/default.jpg#xywh=834,920,1420,54",
+      "id": "https://hadro.github.io/brewery-guides/1917/0034_5131667_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati..........*Bruckmann Brewing Co., Inc., Dodsworth ave. and Canal........L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131667/full/!760,760/0/default.jpg#xywh=1412,1080,868,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0034_5131667_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati..........Cincinnati Home Brewing Co., Spring Grove ave. and Garrand street........L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131667/full/!760,760/0/default.jpg#xywh=1412,1186,838,50",
+      "id": "https://hadro.github.io/brewery-guides/1917/0034_5131667_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati..........Crown Brewing Co., 129 East McMicken avenue........L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131667/full/!760,760/0/default.jpg#xywh=1362,1294,890,48",
+      "id": "https://hadro.github.io/brewery-guides/1917/0034_5131667_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati..........Fairmount Brewing Co., Thinnis st. and South Branch road........L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131667/full/!760,760/0/default.jpg#xywh=1074,1400,1174,48",
+      "id": "https://hadro.github.io/brewery-guides/1917/0034_5131667_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati..........Foss-Schneider Brewing Co., 943 Freeman ave........L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131667/full/!760,760/0/default.jpg#xywh=1076,1500,1174,48",
+      "id": "https://hadro.github.io/brewery-guides/1917/0034_5131667_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati..........*Gambrinus Stock Co., Sycamore and Abigail sts........L I",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131667/full/!760,760/0/default.jpg#xywh=1084,1590,1162,64",
+      "id": "https://hadro.github.io/brewery-guides/1917/0034_5131667_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati..........*Hauck, John, Brewing Co., 433 Dayton st........L I",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131667/full/!760,760/0/default.jpg#xywh=1330,1700,922,52",
+      "id": "https://hadro.github.io/brewery-guides/1917/0034_5131667_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati..........*Herancourt Brewing Co., 1400 Harrison ave........A L I",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131667/full/!760,760/0/default.jpg#xywh=1338,1800,912,54",
+      "id": "https://hadro.github.io/brewery-guides/1917/0034_5131667_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati..........Hudepohl Brewing Co., 46 East McMicken ave........L I",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131667/full/!760,760/0/default.jpg#xywh=1348,1894,904,58",
+      "id": "https://hadro.github.io/brewery-guides/1917/0034_5131667_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati..........Jackson Brewing Co., 284 McMicken ave........L I",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131667/full/!760,760/0/default.jpg#xywh=1362,2002,890,50",
+      "id": "https://hadro.github.io/brewery-guides/1917/0034_5131667_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati..........*Jung Brewing Co., 2011 Freeman avenue........A L I",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131667/full/!760,760/0/default.jpg#xywh=1332,2100,912,54",
+      "id": "https://hadro.github.io/brewery-guides/1917/0034_5131667_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati..........*Kauffman, John, Brewing Co., 1622 Vine street........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131667/full/!760,760/0/default.jpg#xywh=1324,2194,930,106",
+      "id": "https://hadro.github.io/brewery-guides/1917/0034_5131667_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati..........*Lackman, Herman, Brewing Co., 823 West 6th st........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131667/full/!760,760/0/default.jpg#xywh=1162,2298,1106,56",
+      "id": "https://hadro.github.io/brewery-guides/1917/0034_5131667_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati..........*Moerlein, Chris., Brewing Co., 2019 Elm st........L B B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131667/full/!760,760/0/default.jpg#xywh=1336,2398,912,56",
+      "id": "https://hadro.github.io/brewery-guides/1917/0034_5131667_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati..........Mohawk Brewing Co., 252 McMicken avenue........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131667/full/!760,760/0/default.jpg#xywh=1348,2498,888,52",
+      "id": "https://hadro.github.io/brewery-guides/1917/0034_5131667_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati..........Schaller Brewiugg Co., 1622 Main street........A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131667/full/!760,760/0/default.jpg#xywh=1358,2598,884,56",
+      "id": "https://hadro.github.io/brewery-guides/1917/0034_5131667_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati..........Wetterer Brewing Co., 2125 Central ave........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131667/full/!760,760/0/default.jpg#xywh=1360,2696,882,54",
+      "id": "https://hadro.github.io/brewery-guides/1917/0034_5131667_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati..........*Windisch - Muehlhauser Brewing Co., Liberty and Plum sts........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131667/full/!760,760/0/default.jpg#xywh=1334,2796,906,54",
+      "id": "https://hadro.github.io/brewery-guides/1917/0034_5131667_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cleveland..........Cleveland Home Brewing Co., 2652 East 67th st........A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131667/full/!760,760/0/default.jpg#xywh=1360,2908,882,52",
+      "id": "https://hadro.github.io/brewery-guides/1917/0034_5131667_gemini-2.0-flash_annotations/line/27"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1917/0034_5131667_gemini-2.0-flash_annotations"
+}

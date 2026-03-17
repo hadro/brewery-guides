@@ -1,0 +1,391 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ARGEΝΤΙΝΑ.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131604/full/!760,760/0/default.jpg#xywh=654,684,512,52",
+      "id": "https://hadro.github.io/brewery-guides/1916/0063_5131604_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Alta Córdoba..........Cerveceria Rio Segundo.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131604/full/!760,760/0/default.jpg#xywh=88,748,1220,58",
+      "id": "https://hadro.github.io/brewery-guides/1916/0063_5131604_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Azul.................Hermanos Piazza.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131604/full/!760,760/0/default.jpg#xywh=112,794,1014,64",
+      "id": "https://hadro.github.io/brewery-guides/1916/0063_5131604_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Buenos Aires..........Compania Cerveceria Bieckert, Ltd., Calle San Juan 3334. (Brewery in Llavallol.)",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131604/full/!760,760/0/default.jpg#xywh=114,832,1504,74",
+      "id": "https://hadro.github.io/brewery-guides/1916/0063_5131604_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Buenos Aires..........Cerveceria Argentina Quilmes, Calle Brasil 731. (Brewery in Quilmes.)",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131604/full/!760,760/0/default.jpg#xywh=434,986,1186,54",
+      "id": "https://hadro.github.io/brewery-guides/1916/0063_5131604_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Buenos Aires..........Cerveceria Buenos Aires, Cavia 260.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131604/full/!760,760/0/default.jpg#xywh=470,1134,1148,52",
+      "id": "https://hadro.github.io/brewery-guides/1916/0063_5131604_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Buenos Aires..........Cerveceria Palermo, Calle Santa Fe 3253.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131604/full/!760,760/0/default.jpg#xywh=438,1182,1180,52",
+      "id": "https://hadro.github.io/brewery-guides/1916/0063_5131604_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chivilcoy.............Luisa P. de Rothenburger.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131604/full/!760,760/0/default.jpg#xywh=136,1278,1248,54",
+      "id": "https://hadro.github.io/brewery-guides/1916/0063_5131604_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Corrientes............Francisco Vosalho.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131604/full/!760,760/0/default.jpg#xywh=0,1320,1154,112",
+      "id": "https://hadro.github.io/brewery-guides/1916/0063_5131604_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rosario...............Cerveceria Schlau, Avenida Francia.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131604/full/!760,760/0/default.jpg#xywh=138,1420,1484,56",
+      "id": "https://hadro.github.io/brewery-guides/1916/0063_5131604_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rosario...............Cerveceria Germania Calle Entre Rios 1123.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131604/full/!760,760/0/default.jpg#xywh=360,1464,1262,58",
+      "id": "https://hadro.github.io/brewery-guides/1916/0063_5131604_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "San Carlos Sud....Compania Cerveceria San Carlos.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131604/full/!760,760/0/default.jpg#xywh=0,1560,1556,56",
+      "id": "https://hadro.github.io/brewery-guides/1916/0063_5131604_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Santa Fé..............Sociedad Anónima Cerveceria Santa Fé, Calle Calchines.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131604/full/!760,760/0/default.jpg#xywh=0,1588,1620,98",
+      "id": "https://hadro.github.io/brewery-guides/1916/0063_5131604_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "San Juan..............Yoruet y Gutierrez.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131604/full/!760,760/0/default.jpg#xywh=0,1632,1270,182",
+      "id": "https://hadro.github.io/brewery-guides/1916/0063_5131604_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tucumán...............Cerveceria del Norte.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131604/full/!760,760/0/default.jpg#xywh=140,1802,1090,54",
+      "id": "https://hadro.github.io/brewery-guides/1916/0063_5131604_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "BOLIVIA.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131604/full/!760,760/0/default.jpg#xywh=694,1888,356,36",
+      "id": "https://hadro.github.io/brewery-guides/1916/0063_5131604_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cochabamba............Cerveceria Tiquina, Sociedad Anónima.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131604/full/!760,760/0/default.jpg#xywh=140,1942,1478,54",
+      "id": "https://hadro.github.io/brewery-guides/1916/0063_5131604_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cochabamba............Cerveceria Colon.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131604/full/!760,760/0/default.jpg#xywh=400,2040,716,52",
+      "id": "https://hadro.github.io/brewery-guides/1916/0063_5131604_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cochabamba............Maldonado é Hijos.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131604/full/!760,760/0/default.jpg#xywh=382,2086,788,52",
+      "id": "https://hadro.github.io/brewery-guides/1916/0063_5131604_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Paz................Cerveceria Boliviana Nacional, Sociedad Anonima, 118 Calle Recoleta.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131604/full/!760,760/0/default.jpg#xywh=144,2132,1474,50",
+      "id": "https://hadro.github.io/brewery-guides/1916/0063_5131604_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Paz................Cerveceria El Inca, Calle Molinos.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131604/full/!760,760/0/default.jpg#xywh=696,2184,922,44",
+      "id": "https://hadro.github.io/brewery-guides/1916/0063_5131604_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Oruro.................Cerveceria Germania.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131604/full/!760,760/0/default.jpg#xywh=0,2310,1230,84",
+      "id": "https://hadro.github.io/brewery-guides/1916/0063_5131604_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Potosi................Maldonado y Hijos.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131604/full/!760,760/0/default.jpg#xywh=138,2376,1042,50",
+      "id": "https://hadro.github.io/brewery-guides/1916/0063_5131604_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sucre.................Cerveceria Sucre, Sociedad Anonima.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131604/full/!760,760/0/default.jpg#xywh=146,2416,1474,58",
+      "id": "https://hadro.github.io/brewery-guides/1916/0063_5131604_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "BRAZIL.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131604/full/!760,760/0/default.jpg#xywh=716,2486,320,40",
+      "id": "https://hadro.github.io/brewery-guides/1916/0063_5131604_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bahia.................Antonio Viera de Andrede, Rua De Manoel Victorino.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131604/full/!760,760/0/default.jpg#xywh=690,2600,486,36",
+      "id": "https://hadro.github.io/brewery-guides/1916/0063_5131604_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bello Horizonte......Fabrica Rhenania, Avenida Oyapok 252.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131604/full/!760,760/0/default.jpg#xywh=148,2644,1472,44",
+      "id": "https://hadro.github.io/brewery-guides/1916/0063_5131604_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Campinas..............Fabrica de Cerveja Columbia, Rua Andrade Neves 48a.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131604/full/!760,760/0/default.jpg#xywh=148,2734,1470,52",
+      "id": "https://hadro.github.io/brewery-guides/1916/0063_5131604_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Campinas..............Fabrica de Cerveja Polar, Rua Dr. Moroes Salles 179.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131604/full/!760,760/0/default.jpg#xywh=416,2830,1208,52",
+      "id": "https://hadro.github.io/brewery-guides/1916/0063_5131604_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Juiz de Fora..........Cervejaria Germania.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131604/full/!760,760/0/default.jpg#xywh=148,2932,1068,40",
+      "id": "https://hadro.github.io/brewery-guides/1916/0063_5131604_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Limache...............Compania Cervceerias Unidas",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131604/full/!760,760/0/default.jpg#xywh=152,2976,1296,44",
+      "id": "https://hadro.github.io/brewery-guides/1916/0063_5131604_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Para..................Fabrica de Cervejas Paraense, Avenida de Independcia 12.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131604/full/!760,760/0/default.jpg#xywh=146,3020,1472,52",
+      "id": "https://hadro.github.io/brewery-guides/1916/0063_5131604_gemini-2.0-flash_annotations/line/31"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1916/0063_5131604_gemini-2.0-flash_annotations"
+}

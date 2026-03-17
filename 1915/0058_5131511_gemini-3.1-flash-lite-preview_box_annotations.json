@@ -1,0 +1,117 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Galt, DOMINION OF CANADA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131511/full/!760,760/0/default.jpg#xywh=822,968,814,52",
+      "id": "https://hadro.github.io/brewery-guides/1915/0058_5131511_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Orillia, DOMINION OF CANADA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131511/full/!760,760/0/default.jpg#xywh=2322,1466,76,50",
+      "id": "https://hadro.github.io/brewery-guides/1915/0058_5131511_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Owen Sound, DOMINION OF CANADA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131511/full/!760,760/0/default.jpg#xywh=818,1002,866,120",
+      "id": "https://hadro.github.io/brewery-guides/1915/0058_5131511_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Perth, DOMINION OF CANADA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131511/full/!760,760/0/default.jpg#xywh=828,1104,1186,56",
+      "id": "https://hadro.github.io/brewery-guides/1915/0058_5131511_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Perth, DOMINION OF CANADA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131511/full/!760,760/0/default.jpg#xywh=2330,1556,66,52",
+      "id": "https://hadro.github.io/brewery-guides/1915/0058_5131511_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Prescott, DOMINION OF CANADA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131511/full/!760,760/0/default.jpg#xywh=2326,1620,72,52",
+      "id": "https://hadro.github.io/brewery-guides/1915/0058_5131511_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Boniface, DOMINION OF CANADA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131511/full/!760,760/0/default.jpg#xywh=2326,1682,72,52",
+      "id": "https://hadro.github.io/brewery-guides/1915/0058_5131511_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Toronto, DOMINION OF CANADA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131511/full/!760,760/0/default.jpg#xywh=816,1132,1498,228",
+      "id": "https://hadro.github.io/brewery-guides/1915/0058_5131511_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Toronto, DOMINION OF CANADA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131511/full/!760,760/0/default.jpg#xywh=1084,1328,1228,114",
+      "id": "https://hadro.github.io/brewery-guides/1915/0058_5131511_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Walkerville, DOMINION OF CANADA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131511/full/!760,760/0/default.jpg#xywh=828,1468,1186,60",
+      "id": "https://hadro.github.io/brewery-guides/1915/0058_5131511_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1915/0058_5131511_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

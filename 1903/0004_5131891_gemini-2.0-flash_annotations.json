@@ -1,0 +1,643 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "SALES OF MALT LIQUORS",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=627,370,1514,95",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "IN THE UNITED STATES",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=821,471,1144,64",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "For the Years ending June 30th,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=965,573,838,46",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1901 AND 1902.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=1157,650,470,48",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "States & Territories. 1902. 1901. Increase. Decrease.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=643,753,480,46",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Barrels. Barrels. Barrels. Barrels.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=1425,830,198,41",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Alabama 68,500 63,675 4,825",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=631,881,509,41",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Alaska 38,437 30,338 8,099",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=631,922,514,50",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Arizona 926 307 619",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=634,974,509,37",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Arkansas 11,122 9,773 1,349",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=633,1020,510,41",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "California 840,130 772,583 67,547",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=633,1065,516,42",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Colorado 312,728 284,328 28,400",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=636,1113,513,41",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Connecticut 518,690 462,535 56,155",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=633,1150,519,107",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dakota, N. & S. 29,409 32,106 2,697",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=1490,1202,154,44",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Delaware 112,125 103,624 8,501",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=1467,1250,174,41",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dist. of Columbia 210,499 185,500 24,999",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=631,1251,519,100",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Florida 10,305 9,180 1,125",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=636,1344,513,41",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Georgia 130,798 123,650 7,148",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=636,1392,518,46",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hawaii 10,912 1,031 9,881",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=636,1442,513,37",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Idaho 18,091 16,796 1,295",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=1239,1481,150,43",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Illinois 4,132,301 3,680,232 452,069",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=634,1527,516,52",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Indiana 995,003 892,016 102,987",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=638,1577,516,45",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Iowa 305,033 259,336 45,697",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=1219,1622,173,41",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Kansas 11,508 9,022 2,486",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=639,1671,516,42",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Kentucky 534,750 520,080 14,670",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=638,1718,517,44",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Louisiana 245,202 220,345 24,857",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=639,1764,515,43",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Maryland 838,949 818,499 20,450",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=643,1810,509,47",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Massachusetts 1,831,829 1,827,880 3,949",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=643,1850,512,51",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Michigan 1,109,891 969,731 140,160",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=643,1899,511,50",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Minnesota 869,210 738,325 130,885",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=643,1951,509,41",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Missouri 2,996,910 2,670,132 326,778",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=643,1994,511,48",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Montana 191,947 176,742 15,205",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=646,2052,275,31",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Nebraska 259,549 223,688 35,861",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=645,2093,504,38",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Nevada 13,615 7,360 6,255",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=645,2134,505,41",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Hampshire 335,787 298,051 37,736",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=643,2175,509,55",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Jersey 2,463,178 2,219,630 243,548",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=643,2230,509,45",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Mexico 4,673 4,111 562",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=643,2275,509,43",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York 10,467,784 9,945,709 522,075",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=1166,2318,229,44",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ohio 3,489,050 3,202,863 286,187",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=1183,2364,212,43",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Oregon 174,423 144,209 30,214",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=645,2415,507,45",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pennsylvania 5,567,100 4,917,413 649,687",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=645,2460,509,46",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rhode Island 365,744 324,738 41,006",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=645,2503,509,50",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "South Carolina 15,923 6,615 692",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=650,2554,502,43",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tennessee 172,918 161,777 11,141",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=643,2604,511,41",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/43"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Texas 431,360 382,248 49,112",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=1224,2642,177,44",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Utah 46,184 38,389 7,795",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=1226,2690,175,43",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/45"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Virginia 146,895 146,527 368",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=648,2741,506,45",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/46"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Washington 253,834 212,832 41,002",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=646,2782,508,52",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/47"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "West Virginia 212,504 180,535 31,969",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=646,2834,504,44",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/48"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wisconsin 3,675,566 3,209,997 465,569",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=650,2882,500,41",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/49"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wyoming 17,530 12,610 4,920",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=650,2926,502,47",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Total, barrels.. 44,478,832 40,517,078 3,965,143 3,389",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=648,3003,1275,69",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/51"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Net increase...... 3.961,754 barrels.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131891/full/!760,760/0/default.jpg#xywh=972,3065,897,60",
+      "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations/line/52"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1903/0004_5131891_gemini-2.0-flash_annotations"
+}

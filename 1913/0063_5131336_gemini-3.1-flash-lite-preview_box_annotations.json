@@ -1,0 +1,106 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Quebec, QUEBEC",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131336/full/!760,760/0/default.jpg#xywh=0,510,1514,64",
+      "id": "https://hadro.github.io/brewery-guides/1913/0063_5131336_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sherbrooke, QUEBEC",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131336/full/!760,760/0/default.jpg#xywh=0,578,1610,94",
+      "id": "https://hadro.github.io/brewery-guides/1913/0063_5131336_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Valleyfield, QUEBEC",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131336/full/!760,760/0/default.jpg#xywh=0,642,1612,128",
+      "id": "https://hadro.github.io/brewery-guides/1913/0063_5131336_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Valleyfield, QUEBEC",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131336/full/!760,760/0/default.jpg#xywh=0,784,44,34",
+      "id": "https://hadro.github.io/brewery-guides/1913/0063_5131336_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Moose Jaw, SASKATCHEWAN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131336/full/!760,760/0/default.jpg#xywh=0,872,1514,56",
+      "id": "https://hadro.github.io/brewery-guides/1913/0063_5131336_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Prince Albert, SASKATCHEWAN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131336/full/!760,760/0/default.jpg#xywh=0,908,1614,228",
+      "id": "https://hadro.github.io/brewery-guides/1913/0063_5131336_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Regina, SASKATCHEWAN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131336/full/!760,760/0/default.jpg#xywh=606,1110,1002,48",
+      "id": "https://hadro.github.io/brewery-guides/1913/0063_5131336_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Saskatoon, SASKATCHEWAN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131336/full/!760,760/0/default.jpg#xywh=606,1110,1002,48",
+      "id": "https://hadro.github.io/brewery-guides/1913/0063_5131336_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dawson, YUKON TERRITORY",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131336/full/!760,760/0/default.jpg#xywh=0,1234,1520,146",
+      "id": "https://hadro.github.io/brewery-guides/1913/0063_5131336_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1913/0063_5131336_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

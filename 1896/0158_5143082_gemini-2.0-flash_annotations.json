@@ -1,0 +1,667 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "158 BREWERS' GUIDE.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=1346,516,563,65",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Contents of Tanks of 60 to 240 in. Diameter",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=730,649,1795,102",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "for each Foot in Height.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=1141,735,973,89",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Diam. Bbls. Diam. Bbls. Diam. Bbls. Diam. Bbls. Diam. Bbls.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=910,894,894,72",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "60. 4.74 85.5 9:62 111. 16.21 136.5 24.52 162. 34.54",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=1115,1048,1216,86",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "60.5 4.82 86. 9.73 111.5 16.36 137. 24.70 162.5 34.76",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=1267,1113,1248,87",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "61. 4.90 86.5 9.85 112. 16.51 137.5 24.88 163. 34.97",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=1113,1174,1402,86",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "61.5 4.98 87. 9.96 112.5 16.67 138. 25.06 163.5 35.19",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=1274,1237,1239,89",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "62. 5.06 87.5 10.08 113. 16.80 138.5 25.24 164. 35.40",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=1111,1295,1402,91",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "62.5 5.14 88. 10.19 113.5 16.95 139. 25.42 164.5 35.62",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=1113,1363,1400,84",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "63. 5.22 88.5 10.31 114. 17.10 139.5 25.61 165. 35.83",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=1111,1424,1400,88",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "63.5 5.31 89 10.42 114.5 17.25 140. 25.79 165.5 36.05",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=1241,1489,1267,84",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "64. 5.39 89.5 10.54 115. 17.40 140.5 25.98 166. 36.26",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=1111,1550,1397,81",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "64.5 5.48 90. 10.66 115.5 17.56 141. 26.16 166.5 36.46",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=1111,1608,1395,93",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "65. 5.56 90.5 10.78 116. 17.71 141.5 26.35 167. 36.70",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=1111,1673,1395,87",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "65.5 5.65 91. 10.90 116.5 17.86 142. 26.53 167.5 36.92",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=1111,1736,1395,87",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "66. 5.73 91.5 11.02 117. 18.01 142.5 26.72 168. 37.14",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=1108,1797,1398,89",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "66.5 5.82 92. 11.14 117.5 18.17 143. 26.91 168.5 37.37",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=1106,1860,1402,86",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "67. 5.91 92.5 11.26 118. 18.32 143.5 27.10 169. 37.59",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=1106,1923,1400,86",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "67.5 6.00 93. 11.38 118.5 18.48 144. 27.29 169.5.37.81",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=1106,1986,1393,86",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "68. 6.08 93.5 11.51 119. 18.63 144.5 27.48 170. 38.03",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=1104,2049,1397,84",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "68.5 6.17 94. 11.63 119.5 18.79 145. 27.67 170.5 38.26",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=1104,2112,1400,84",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "69. 6.26 94.5 11.76 120. 18.95 145.5 27.86 171. 38.48",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=1101,2173,1400,88",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "69.5 6.36 95. 11.88 120.5 19.11 146. 28.05 171.5 38.71",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=1101,2236,1396,86",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "70. 6.45 95.5 12.01 121. 19.27 146.5 28.25 172. 38.93",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=1101,2299,1398,86",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "70.5 6.54 96. 12.13 121.5 19.43 147. 28.44 172.5.39.16",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=1101,2362,1396,84",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "71. 6.63 96.5 12.26 122. 19.59 147.5 28.64 173. 39.39",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=1099,2420,1398,91",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "71.5 6.73 97. 12.38 122.5 19.75 148. 28.83 173.5 39.62",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=1101,2485,1396,87",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "72. 6.82 97.5 12.51 123. 19.91 148.5 29.03 174. 39.84",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=1099,2551,1398,81",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "72.5 6.92 98. 12.64 123.5 20.07 149. 29.22 174.5 40.07",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=1094,2611,1403,84",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "73. 7.01 98.5 12.77 124. 20.23 149.5 29.43 175. 40.30",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=1092,2672,1405,89",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "73.5 7.11 99. 12.90 124.5 20.40 150. 29.61 175.5 40.53",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=740,2730,1754,89",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "74. 7.20 99.5 13.03 125. 20.56 150.5 29.81 176. 40.76",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=912,2791,1585,93",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "74.5 7.30 100. 13.16 125.5 20.73 151. 30.01 176.5 41.00",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=912,2856,1587,91",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "75. 7.40 100.5 13.29 126. 20.89 151.5 30.21 177. 41.23",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=910,2917,1589,93",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "75.5 7.50 101. 13.42 126.5 21.06 152. 30.41 177.5 41.47",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=908,2982,1586,82",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "76. 7.60 101.5 13.56 127. 21.23 152.5 30.61 178. 41.70",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=908,3038,1589,96",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "76.5 7.70 102. 13.69 127.5 21.40 153. 30.81 178.5 41.94",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=905,3106,1587,91",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "77. 7.80 102.5 13.82 128. 21.56 153.5 31.01 179. 42.17",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=905,3169,1585,84",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "77.5 7.91 103. 13.95 128.5 21.73 154. 31.21 179.5 42.41",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=901,3232,1589,84",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "78. 8.01 103.5 14.09 129. 21.90 154.5 31.42 180. 42.74",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=905,3293,1587,88",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "78.5 8.11 104. 14.23 129.5 22.07 155. 31.62 180.5 42.88",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=723,3356,1767,81",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "79. 8.21 104.5 14.37 130. 22.24 155.5 31.83 181. 43.11",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=898,3416,1592,89",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "79.5 8.32 105. 14.51 130.5 22.41 156. 32.03 181.5 43.35",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=891,3484,1599,80",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/43"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "80. 8.42 105.5 14.65 131. 22.58 156.5 32.24 182. 43.59",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=898,3545,1400,77",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "80.5 8.53 106. 14.79 131.5 22.76 157. 32.44 182.5 43.83",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=896,3608,1594,82",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/45"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "81. 8.63 106.5 14.93 132. 22.93 157.5 32.65 183. 44.07",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=898,3671,1592,79",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/46"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "81.5 8.74 107. 15.07 132.5 23.11 158. 32.85 183.5 44.31",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=896,3732,1591,81",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/47"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "82. 8.85 107.5 15.21 133. 23.28 158.5 33.06 184. 44.55",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=896,3790,1591,91",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/48"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "82.5 8.96 108. 15.35 133.5 23.46 159. 33.27 184.5 44.80",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=884,3858,1603,79",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/49"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "83. 9.07 108.5 15.49 134. 23.63 159.5 33.48 185. 45.04",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=896,3918,1402,75",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "83.5 9.18 109. 15:63 134.5 23.81 160. 33.69 185.5 45.29",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=894,3981,1591,80",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/51"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "84. 9.29 109.5 15.78 135. 23.98 160.5 33.90 186. 45.53",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=896,4044,1594,80",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/52"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "84.5 9.40 110. 15.92 135.5 24.16 161. 34.11 186.5 45.76",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=712,4093,1775,96",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/53"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "85. 9.51 110.5 16.07 136. 24.34 161.5 34.33 187. 46.02",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143082/full/!760,760/0/default.jpg#xywh=716,4156,1771,103",
+      "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations/line/54"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1896/0158_5143082_gemini-2.0-flash_annotations"
+}

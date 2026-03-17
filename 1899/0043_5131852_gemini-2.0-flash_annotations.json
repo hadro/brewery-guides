@@ -1,0 +1,415 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "NEW YORK—Continued.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131852/full/!760,760/0/default.jpg#xywh=731,479,789,46",
+      "id": "https://hadro.github.io/brewery-guides/1899/0043_5131852_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Oriskany Falls ........*Oriskany Falls Brewing Co........................A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131852/full/!760,760/0/default.jpg#xywh=350,566,1534,65",
+      "id": "https://hadro.github.io/brewery-guides/1899/0043_5131852_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Oswego ........*Brosemer, L., Brewing Co., 472 West 1st st............A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131852/full/!760,760/0/default.jpg#xywh=353,619,1470,56",
+      "id": "https://hadro.github.io/brewery-guides/1899/0043_5131852_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Oswego ........Millott, John B., 458 West 1st st........................A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131852/full/!760,760/0/default.jpg#xywh=423,704,1465,112",
+      "id": "https://hadro.github.io/brewery-guides/1899/0043_5131852_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Oswego ........Ontario Brewing Co., East 2d and Cayuga st..........†",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131852/full/!760,760/0/default.jpg#xywh=533,802,1360,141",
+      "id": "https://hadro.github.io/brewery-guides/1899/0043_5131852_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Oswego ........Wiegand, Louis, & Son, 193 E. 1st st. A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131852/full/!760,760/0/default.jpg#xywh=434,859,48,21",
+      "id": "https://hadro.github.io/brewery-guides/1899/0043_5131852_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Penn Yan........Burns, Thomas S........................A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131852/full/!760,760/0/default.jpg#xywh=357,901,1529,50",
+      "id": "https://hadro.github.io/brewery-guides/1899/0043_5131852_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Plattsburgh........Payette, Mendelsohn & Co., 37 Bridge st........................A B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131852/full/!760,760/0/default.jpg#xywh=359,949,1439,59",
+      "id": "https://hadro.github.io/brewery-guides/1899/0043_5131852_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Poughkeepsie........Frank's, V., Sons, 11 Tulip st........................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131852/full/!760,760/0/default.jpg#xywh=355,1034,1535,116",
+      "id": "https://hadro.github.io/brewery-guides/1899/0043_5131852_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Poughkeepsie........Gillmann, F. R., & Son, 7 Front street........................A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131852/full/!760,760/0/default.jpg#xywh=943,1145,722,41",
+      "id": "https://hadro.github.io/brewery-guides/1899/0043_5131852_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rochester........American Brewing Co., 250 Hudson st........................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131852/full/!760,760/0/default.jpg#xywh=361,1187,1437,52",
+      "id": "https://hadro.github.io/brewery-guides/1899/0043_5131852_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rochester........Bartholomay Brewery Co., Vincent place........................",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131852/full/!760,760/0/default.jpg#xywh=850,1281,948,46",
+      "id": "https://hadro.github.io/brewery-guides/1899/0043_5131852_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rochester{*Bartholomay",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131852/full/!760,760/0/default.jpg#xywh=411,1333,447,42",
+      "id": "https://hadro.github.io/brewery-guides/1899/0043_5131852_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rochester{Brewing Co., Genesee Brewing Co., 345 North St. Paul st...............",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131852/full/!760,760/0/default.jpg#xywh=873,1369,929,61",
+      "id": "https://hadro.github.io/brewery-guides/1899/0043_5131852_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rochester{Limited, Rochester Brewing Co., Cliff st. and Lake ave........................",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131852/full/!760,760/0/default.jpg#xywh=579,1465,1219,55",
+      "id": "https://hadro.github.io/brewery-guides/1899/0043_5131852_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rochester{L B Burton Brewing Co., 23 Wentworth street........................A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131852/full/!760,760/0/default.jpg#xywh=895,1560,907,54",
+      "id": "https://hadro.github.io/brewery-guides/1899/0043_5131852_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rochester........Enright Brewing Co., 336 State street........................A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131852/full/!760,760/0/default.jpg#xywh=578,1609,1222,100",
+      "id": "https://hadro.github.io/brewery-guides/1899/0043_5131852_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rochester........*Hathaway & Gordon, 80 North Water st........................A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131852/full/!760,760/0/default.jpg#xywh=596,1743,1210,61",
+      "id": "https://hadro.github.io/brewery-guides/1899/0043_5131852_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rochester........Kase, John, Calvin and Syke sts........................A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131852/full/!760,760/0/default.jpg#xywh=564,1787,1327,113",
+      "id": "https://hadro.github.io/brewery-guides/1899/0043_5131852_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rochester........Miller Brewing Co., 190 Lake avenue........................A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131852/full/!760,760/0/default.jpg#xywh=604,1887,1191,56",
+      "id": "https://hadro.github.io/brewery-guides/1899/0043_5131852_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rochester........Standard Brewing Co., Cataract and East Platt sts........................A B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131852/full/!760,760/0/default.jpg#xywh=601,1971,1197,71",
+      "id": "https://hadro.github.io/brewery-guides/1899/0043_5131852_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rochester........Union Brewing Co., 855 North Clinton st........................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131852/full/!760,760/0/default.jpg#xywh=945,2124,941,48",
+      "id": "https://hadro.github.io/brewery-guides/1899/0043_5131852_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rochester........*Warren, E. K., Brewing Co., 115 Central ave........................A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131852/full/!760,760/0/default.jpg#xywh=604,2164,1196,58",
+      "id": "https://hadro.github.io/brewery-guides/1899/0043_5131852_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rochester........*Weinmann, Charles G., 351 Jay street........................A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131852/full/!760,760/0/default.jpg#xywh=526,2250,1279,73",
+      "id": "https://hadro.github.io/brewery-guides/1899/0043_5131852_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rome........Amtmann Brewing Co., 514 West Liberty st........................A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131852/full/!760,760/0/default.jpg#xywh=366,2349,1522,108",
+      "id": "https://hadro.github.io/brewery-guides/1899/0043_5131852_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rome........*Evans & Giehl, 527 West Dominick st........................A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131852/full/!760,760/0/default.jpg#xywh=416,2430,1389,79",
+      "id": "https://hadro.github.io/brewery-guides/1899/0043_5131852_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rome........*Kelley & Gaheen, Depeyster and Canal sts........................A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131852/full/!760,760/0/default.jpg#xywh=410,2518,1403,135",
+      "id": "https://hadro.github.io/brewery-guides/1899/0043_5131852_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rome........*Smith, Phillipina, 513 West Court street........................A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131852/full/!760,760/0/default.jpg#xywh=517,2625,1295,82",
+      "id": "https://hadro.github.io/brewery-guides/1899/0043_5131852_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rondout........Hauck, Geo., Brewing Co., Wurts and McEntee sts........................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131852/full/!760,760/0/default.jpg#xywh=367,2726,1431,58",
+      "id": "https://hadro.github.io/brewery-guides/1899/0043_5131852_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rondout........Hoffmann, Jacob, Brewing Co., 46 Hone st........................A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131852/full/!760,760/0/default.jpg#xywh=527,2826,1316,49",
+      "id": "https://hadro.github.io/brewery-guides/1899/0043_5131852_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Schenectady........Dunn Brewing Co., 235 Dock st........................A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131852/full/!760,760/0/default.jpg#xywh=368,2870,1521,103",
+      "id": "https://hadro.github.io/brewery-guides/1899/0043_5131852_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Schenectady........Scott, Charles E........................A †",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131852/full/!760,760/0/default.jpg#xywh=657,2965,1234,47",
+      "id": "https://hadro.github.io/brewery-guides/1899/0043_5131852_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Schenectady........White & Fabricius, 161 Nott terrace........................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131852/full/!760,760/0/default.jpg#xywh=657,3011,1149,52",
+      "id": "https://hadro.github.io/brewery-guides/1899/0043_5131852_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Seneca........Stokes, Wesley P........................A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131852/full/!760,760/0/default.jpg#xywh=366,3111,535,43",
+      "id": "https://hadro.github.io/brewery-guides/1899/0043_5131852_gemini-2.0-flash_annotations/line/33"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1899/0043_5131852_gemini-2.0-flash_annotations"
+}

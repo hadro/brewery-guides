@@ -1,0 +1,391 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "172 BREWERS' GUIDE.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143096/full/!760,760/0/default.jpg#xywh=1321,464,550,59",
+      "id": "https://hadro.github.io/brewery-guides/1896/0172_5143096_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Determination of the Yield According to",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143096/full/!760,760/0/default.jpg#xywh=861,625,1547,68",
+      "id": "https://hadro.github.io/brewery-guides/1896/0172_5143096_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "R. Wahl's Method-Continued.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143096/full/!760,760/0/default.jpg#xywh=1125,721,1015,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0172_5143096_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "By adding the per cents Balling, viz.: 14.2 to",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143096/full/!760,760/0/default.jpg#xywh=852,828,1675,75",
+      "id": "https://hadro.github.io/brewery-guides/1896/0172_5143096_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "259, we get 273.2 being the weight of a barrel of",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143096/full/!760,760/0/default.jpg#xywh=740,919,1794,82",
+      "id": "https://hadro.github.io/brewery-guides/1896/0172_5143096_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "wort of 14.2%. This weight multiplied by 14.2",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143096/full/!760,760/0/default.jpg#xywh=733,1013,1796,84",
+      "id": "https://hadro.github.io/brewery-guides/1896/0172_5143096_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "gives us 3879.44 and divided by 100 = 38.79 being",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143096/full/!760,760/0/default.jpg#xywh=733,1113,1799,75",
+      "id": "https://hadro.github.io/brewery-guides/1896/0172_5143096_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "the pounds of extract per barrel, which multiplied",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143096/full/!760,760/0/default.jpg#xywh=735,1209,1790,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0172_5143096_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "by the number of barrels in the cellar, viz.: 171,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143096/full/!760,760/0/default.jpg#xywh=735,1305,1783,67",
+      "id": "https://hadro.github.io/brewery-guides/1896/0172_5143096_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "gives us the total extract in this brew, viz.: 6633.84",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143096/full/!760,760/0/default.jpg#xywh=733,1393,1789,80",
+      "id": "https://hadro.github.io/brewery-guides/1896/0172_5143096_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "lbs. By dividing this by the number of pounds of",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143096/full/!760,760/0/default.jpg#xywh=733,1494,1785,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0172_5143096_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "material employed, viz.: 7900 + 2300 = 10200, we",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143096/full/!760,760/0/default.jpg#xywh=730,1582,1790,77",
+      "id": "https://hadro.github.io/brewery-guides/1896/0172_5143096_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "obtain 65.03 which means per cents of extract and",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143096/full/!760,760/0/default.jpg#xywh=730,1676,1792,84",
+      "id": "https://hadro.github.io/brewery-guides/1896/0172_5143096_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "which is very nearly the same figure that would be",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143096/full/!760,760/0/default.jpg#xywh=733,1776,1785,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0172_5143096_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "obtained by basing the calculation upon the specific",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143096/full/!760,760/0/default.jpg#xywh=723,1869,1797,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0172_5143096_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "gravity or by using the Balling table.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143096/full/!760,760/0/default.jpg#xywh=721,1963,1304,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0172_5143096_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The formula has the other advantage that it is",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143096/full/!760,760/0/default.jpg#xywh=840,2077,1675,68",
+      "id": "https://hadro.github.io/brewery-guides/1896/0172_5143096_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "a purely practical one, inasmuch as at every step",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143096/full/!760,760/0/default.jpg#xywh=719,2170,1794,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0172_5143096_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "we have a clear conception of what we figure.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143096/full/!760,760/0/default.jpg#xywh=714,2259,1797,79",
+      "id": "https://hadro.github.io/brewery-guides/1896/0172_5143096_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "By means of the formula given above we can",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143096/full/!760,760/0/default.jpg#xywh=716,2357,1795,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0172_5143096_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ascertain:",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143096/full/!760,760/0/default.jpg#xywh=716,2448,348,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0172_5143096_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "I. The weight of a Bbl. of wort of a certain",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143096/full/!760,760/0/default.jpg#xywh=971,2562,1540,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0172_5143096_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "concentration = 259 + Balling.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143096/full/!760,760/0/default.jpg#xywh=712,2649,1143,84",
+      "id": "https://hadro.github.io/brewery-guides/1896/0172_5143096_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "2. The aggregate weight of the wort = (259",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143096/full/!760,760/0/default.jpg#xywh=814,2758,1699,87",
+      "id": "https://hadro.github.io/brewery-guides/1896/0172_5143096_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "+ Balling) × Bbls. in the cellar.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143096/full/!760,760/0/default.jpg#xywh=714,2859,1181,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0172_5143096_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "3. The pounds of extract per Bbl. =",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143096/full/!760,760/0/default.jpg#xywh=966,2971,1269,67",
+      "id": "https://hadro.github.io/brewery-guides/1896/0172_5143096_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "(259 + Balling) × Balling",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143096/full/!760,760/0/default.jpg#xywh=1185,3066,836,68",
+      "id": "https://hadro.github.io/brewery-guides/1896/0172_5143096_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "100",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143096/full/!760,760/0/default.jpg#xywh=1549,3148,108,47",
+      "id": "https://hadro.github.io/brewery-guides/1896/0172_5143096_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "4. The total amount of extract in a brew =",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143096/full/!760,760/0/default.jpg#xywh=966,3227,1528,63",
+      "id": "https://hadro.github.io/brewery-guides/1896/0172_5143096_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "[(259 + B.) × B. × Bbls. in cellar]",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143096/full/!760,760/0/default.jpg#xywh=719,3318,1113,66",
+      "id": "https://hadro.github.io/brewery-guides/1896/0172_5143096_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "100",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143096/full/!760,760/0/default.jpg#xywh=1174,3398,105,51",
+      "id": "https://hadro.github.io/brewery-guides/1896/0172_5143096_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "5. The yield as described above.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143096/full/!760,760/0/default.jpg#xywh=961,3491,1046,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0172_5143096_gemini-2.0-flash_annotations/line/31"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1896/0172_5143096_gemini-2.0-flash_annotations"
+}

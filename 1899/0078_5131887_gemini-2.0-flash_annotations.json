@@ -1,0 +1,103 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "THE NATIONAL BREWERS' ACADEMY",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131887/full/!760,760/0/default.jpg#xywh=496,1417,83,1398",
+      "id": "https://hadro.github.io/brewery-guides/1899/0078_5131887_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "AND CONSULTING BUREAU,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131887/full/!760,760/0/default.jpg#xywh=1648,563,195,168",
+      "id": "https://hadro.github.io/brewery-guides/1899/0078_5131887_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Director:",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131887/full/!760,760/0/default.jpg#xywh=1030,831,50,125",
+      "id": "https://hadro.github.io/brewery-guides/1899/0078_5131887_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "DR. FRANCIS WYATT.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131887/full/!760,760/0/default.jpg#xywh=882,1402,97,742",
+      "id": "https://hadro.github.io/brewery-guides/1899/0078_5131887_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Instruction of Pupils and Consultations in Lager Beer",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131887/full/!760,760/0/default.jpg#xywh=1002,1402,91,1378",
+      "id": "https://hadro.github.io/brewery-guides/1899/0078_5131887_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "and Ale Brewing.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131887/full/!760,760/0/default.jpg#xywh=1215,1402,97,936",
+      "id": "https://hadro.github.io/brewery-guides/1899/0078_5131887_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "LABORATORY AND BREWERY,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131887/full/!760,760/0/default.jpg#xywh=1354,1582,64,297",
+      "id": "https://hadro.github.io/brewery-guides/1899/0078_5131887_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "39 South William St. & 29 Stone St., NEW YORK.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131887/full/!760,760/0/default.jpg#xywh=1661,2357,206,483",
+      "id": "https://hadro.github.io/brewery-guides/1899/0078_5131887_gemini-2.0-flash_annotations/line/7"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1899/0078_5131887_gemini-2.0-flash_annotations"
+}

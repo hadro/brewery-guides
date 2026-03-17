@@ -1,0 +1,343 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "SUPPLEMENT TO THE BREWERS' JOURNAL. 5",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131816/full/!760,760/0/default.jpg#xywh=558,352,1144,46",
+      "id": "https://hadro.github.io/brewery-guides/1899/0007_5131816_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Production of Malt-Liquors",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131816/full/!760,760/0/default.jpg#xywh=360,489,1535,117",
+      "id": "https://hadro.github.io/brewery-guides/1899/0007_5131816_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "For the Year 1897-98.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131816/full/!760,760/0/default.jpg#xywh=721,633,835,66",
+      "id": "https://hadro.github.io/brewery-guides/1899/0007_5131816_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Germany...................... 52,462,799 American barrels",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131816/full/!760,760/0/default.jpg#xywh=366,748,1528,62",
+      "id": "https://hadro.github.io/brewery-guides/1899/0007_5131816_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Great Britain and Ireland.. 49,457,397 66 66",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131816/full/!760,760/0/default.jpg#xywh=368,826,1059,57",
+      "id": "https://hadro.github.io/brewery-guides/1899/0007_5131816_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "United States................. 37,493,306 66 66",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131816/full/!760,760/0/default.jpg#xywh=369,905,1061,54",
+      "id": "https://hadro.github.io/brewery-guides/1899/0007_5131816_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Austria-Hungary.............. 17,458,532 66 66",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131816/full/!760,760/0/default.jpg#xywh=363,985,1067,55",
+      "id": "https://hadro.github.io/brewery-guides/1899/0007_5131816_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Belgium...................... 8,916,357 66 66",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131816/full/!760,760/0/default.jpg#xywh=369,1062,1058,57",
+      "id": "https://hadro.github.io/brewery-guides/1899/0007_5131816_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "France....................... 7,754,317 66 .6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131816/full/!760,760/0/default.jpg#xywh=368,1131,1063,70",
+      "id": "https://hadro.github.io/brewery-guides/1899/0007_5131816_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Russia....................... 4,076,968 66 66",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131816/full/!760,760/0/default.jpg#xywh=1133,1219,294,55",
+      "id": "https://hadro.github.io/brewery-guides/1899/0007_5131816_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Denmark...................... 1,555,211 66 66",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131816/full/!760,760/0/default.jpg#xywh=1139,1299,286,49",
+      "id": "https://hadro.github.io/brewery-guides/1899/0007_5131816_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Switzerland.................. 1,511,624 66 66",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131816/full/!760,760/0/default.jpg#xywh=370,1375,726,51",
+      "id": "https://hadro.github.io/brewery-guides/1899/0007_5131816_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sweden....................... 1,275,828 66 66",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131816/full/!760,760/0/default.jpg#xywh=369,1453,1058,54",
+      "id": "https://hadro.github.io/brewery-guides/1899/0007_5131816_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Netherlands.................. 1,112,455 66 66",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131816/full/!760,760/0/default.jpg#xywh=371,1532,765,48",
+      "id": "https://hadro.github.io/brewery-guides/1899/0007_5131816_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "THE BREWERS' JOURNAL.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131816/full/!760,760/0/default.jpg#xywh=415,1691,1458,225",
+      "id": "https://hadro.github.io/brewery-guides/1899/0007_5131816_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ESTABLISHED 1876.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131816/full/!760,760/0/default.jpg#xywh=844,1974,583,42",
+      "id": "https://hadro.github.io/brewery-guides/1899/0007_5131816_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "OFFICIAL APPOINTMENTS:",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131816/full/!760,760/0/default.jpg#xywh=374,2130,657,34",
+      "id": "https://hadro.github.io/brewery-guides/1899/0007_5131816_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "UNITED STATES BREWERS' ASSOCIATION, 1878-1898.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131816/full/!760,760/0/default.jpg#xywh=561,2194,1240,35",
+      "id": "https://hadro.github.io/brewery-guides/1899/0007_5131816_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ALE BREWERS' ASSOCIATION, 1884-1899.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131816/full/!760,760/0/default.jpg#xywh=561,2261,965,39",
+      "id": "https://hadro.github.io/brewery-guides/1899/0007_5131816_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "N. Y STATE BREWERS'AND MALTSTERS' ASS'N, 1884-1899.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131816/full/!760,760/0/default.jpg#xywh=564,2329,1336,37",
+      "id": "https://hadro.github.io/brewery-guides/1899/0007_5131816_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Circulates throughout the United States and Canada and in Every",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131816/full/!760,760/0/default.jpg#xywh=374,2445,1529,43",
+      "id": "https://hadro.github.io/brewery-guides/1899/0007_5131816_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Country in the World where Malt Liquors are Brewed.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131816/full/!760,760/0/default.jpg#xywh=502,2508,1273,42",
+      "id": "https://hadro.github.io/brewery-guides/1899/0007_5131816_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Subscription, including Tovey's Brewers' and Maltsters' Directory",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131816/full/!760,760/0/default.jpg#xywh=371,2609,1537,54",
+      "id": "https://hadro.github.io/brewery-guides/1899/0007_5131816_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "of the United States and Canada, $5.00 per Annum.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131816/full/!760,760/0/default.jpg#xywh=516,2691,1239,48",
+      "id": "https://hadro.github.io/brewery-guides/1899/0007_5131816_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MAIN OFFICE: 24 Park Place, New York.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131816/full/!760,760/0/default.jpg#xywh=473,2869,1333,58",
+      "id": "https://hadro.github.io/brewery-guides/1899/0007_5131816_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "WESTERN OFFICE: LONDON OFFICE:",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131816/full/!760,760/0/default.jpg#xywh=434,3004,484,40",
+      "id": "https://hadro.github.io/brewery-guides/1899/0007_5131816_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "HOME INSURANCE BUILDING, 46 CANNON ST., LONDON E. C.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131816/full/!760,760/0/default.jpg#xywh=377,3067,591,44",
+      "id": "https://hadro.github.io/brewery-guides/1899/0007_5131816_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "CHICAGO, ILL. ENGLAND.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131816/full/!760,760/0/default.jpg#xywh=531,3129,296,44",
+      "id": "https://hadro.github.io/brewery-guides/1899/0007_5131816_gemini-2.0-flash_annotations/line/27"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1899/0007_5131816_gemini-2.0-flash_annotations"
+}

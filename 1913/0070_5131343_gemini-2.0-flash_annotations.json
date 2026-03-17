@@ -1,0 +1,847 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "64 TOVEY'S OFFICIAL BREWERS' DIRECTORY,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=1022,374,1070,40",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "INTERSTATE ORGANIZATIONS.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=1028,490,1046,50",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ALE BREWERS' ASSOCIATION OF THE STATES",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=808,584,1488,52",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "OF NEW YORK AND NEW JERSEY.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=1028,632,1058,50",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Office: 109-111 East 15th Street, New York City.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=902,700,1310,44",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "President, John Hinchliffe, Paterson, N. J.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=810,776,1142,50",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vice-President, C. H. R. Woodward, New York City.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=812,818,1402,56",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Treasurer, D. D. Caulkins, New York City.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=810,866,1142,56",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secretary, Charles J. Warner, New York City.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=808,914,1228,54",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "BREWERS' ASSOCIATION OF THE NORTHWEST.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=842,1002,1426,54",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Office: 508 Bank of California Building, Tacoma, Wash.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=816,1084,1486,54",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "President, Louis Hemrich, Seattle, Wash.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=816,1148,1122,52",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vice-President, Wm. Verges, Tacoma, Wash.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=822,1200,1222,48",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Treasurer, Leopold F. Schmidt, Olympia, Wash.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=820,1244,1300,48",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secretary, G. W. H. Davis, Tacoma, Wash.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=820,1288,1176,52",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "SOUTHERN BREWERS' ASSOCIATION.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=1008,1376,1110,54",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Office: Corner Jefferson and Decatur Streets, New",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=882,1456,1362,54",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "President, L. Fabacher, New Orleans.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=818,1586,990,50",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vice-President, J. M. Wilzin, Birmingham, Ala.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=818,1626,1280,62",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secretary and Treasurer, Mamie R. Cook, New Orleans.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=820,1674,1488,58",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "WISCONSIN AND UPPER PENINSULA OF",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=886,1774,814,48",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MICHIGAN BREWERS' ASSOCIATION.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=996,1816,1138,52",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Office: 904 Majestic Building, Milwaukee.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=1002,1896,1122,52",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "President, Frank Erdlitz, Menominee, Mich.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=824,1980,1180,48",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vice-President, Fred. J. Blumer, Monroe, Wis.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=824,2016,1266,64",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Treasurer, S. J. Mayer, West Bend, Wis.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=826,2064,1116,60",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "General Counsel and Acting Secretary, Wm. H. Austin,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=824,2114,1490,52",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Milwaukee.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=1014,2172,298,36",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "STATE ORGANIZATIONS.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=1162,2312,816,52",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "CALIFORNIA STATE BREWERS' ASSOCIATION.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=890,2386,1354,62",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "318 Humboldt Bank Building, San Francisco, Cal.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=890,2468,1358,58",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "President, Thos. Alton, San Francisco.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=828,2552,1054,54",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vice-Presidents, H. I. Seymour, Sacramento, and J. H.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=828,2590,1480,64",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Zitt, San Diego.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=1012,2646,452,54",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Treasurer, Henning Thode, San Francisco.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=834,2688,1146,58",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secretary, William Schuldt, San Francisco.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=834,2734,1178,58",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "COLORADO BREWERS' ASSOCIATION.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=1026,2826,1092,52",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Office: Room 1, Good Block, Denver.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=1082,2890,994,56",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "President, Adolph Coors, Golden.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=834,2972,896,54",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vice-President, Rudolf Neef, Denver.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=836,3016,1008,60",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secretary and Treasurer, John E. Good, Denver.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=836,3062,1298,58",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pres",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=2356,640,42,40",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vice",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=2358,690,40,36",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Trea",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=2356,738,42,36",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/43"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sec",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=2356,784,42,36",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pres",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=2354,992,44,36",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/45"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secr",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=2356,1032,42,40",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/46"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pres",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=2354,1268,44,40",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/47"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Firs",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=2352,1318,46,40",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/48"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Seco",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=2352,1364,46,40",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/49"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Trea",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=2354,1412,44,40",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secr",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=2354,1460,44,40",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/51"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Of",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=2368,1628,30,38",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/52"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pres",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=2350,1740,48,44",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/53"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vice-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=2352,1786,46,44",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Trea",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=2348,1834,50,40",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/55"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secre",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=2350,1886,48,36",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/56"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pres",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=2330,2116,68,36",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/57"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vice-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=2350,2160,48,36",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/58"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Trea",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=2348,2206,50,40",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/59"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secre",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=2346,2254,52,40",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/60"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Office",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=2346,2412,52,48",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/61"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Presi",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=2336,2524,62,104",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/62"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Treas",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=2346,2622,52,48",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/63"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secre",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=2342,2672,56,44",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/64"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Assis",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=2346,2720,52,44",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/65"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Presi",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=2344,2950,56,48",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/66"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vice-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=2350,3002,48,36",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/67"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Treas",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=2348,3048,50,44",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/68"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Clerk",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131343/full/!760,760/0/default.jpg#xywh=2346,3094,52,44",
+      "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations/line/69"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1913/0070_5131343_gemini-2.0-flash_annotations"
+}

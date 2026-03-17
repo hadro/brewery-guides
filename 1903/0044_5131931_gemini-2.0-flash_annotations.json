@@ -1,0 +1,379 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Supplement to The Brewers’ Journal 42",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131931/full/!760,760/0/default.jpg#xywh=811,341,1032,45",
+      "id": "https://hadro.github.io/brewery-guides/1903/0044_5131931_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "PENNSYLVANIA.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131931/full/!760,760/0/default.jpg#xywh=1013,447,648,45",
+      "id": "https://hadro.github.io/brewery-guides/1903/0044_5131931_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Allegheny Allegheny Brewing Co., Bismarck avenue L†",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131931/full/!760,760/0/default.jpg#xywh=581,514,1423,53",
+      "id": "https://hadro.github.io/brewery-guides/1903/0044_5131931_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "〃 Eberhard & Ober Brewing Co., 1 Troy Hill road. (See Pittsburg Brewing Co.)",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131931/full/!760,760/0/default.jpg#xywh=1135,657,862,46",
+      "id": "https://hadro.github.io/brewery-guides/1903/0044_5131931_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "〃 *Lutz, D., & Son Brewing Co., 11 Spring Garden ave. and Villa and Vinial sts. A L W B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131931/full/!760,760/0/default.jpg#xywh=768,732,1236,125",
+      "id": "https://hadro.github.io/brewery-guides/1903/0044_5131931_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "〃 Ober Bros. Brewing Co., 63 Vinial street. (See Pittsburg Brewing Co.)",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131931/full/!760,760/0/default.jpg#xywh=1157,931,842,51",
+      "id": "https://hadro.github.io/brewery-guides/1903/0044_5131931_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Allentown Däufer & Co., 16 South 8th st. A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131931/full/!760,760/0/default.jpg#xywh=585,1020,1506,60",
+      "id": "https://hadro.github.io/brewery-guides/1903/0044_5131931_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "〃 Horlacher Brewing Co., Terminal Railroad and Gordon st. L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131931/full/!760,760/0/default.jpg#xywh=677,1070,1329,55",
+      "id": "https://hadro.github.io/brewery-guides/1903/0044_5131931_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "〃 Lieberman's, Joseph, Sons, 6th and Union streets. A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131931/full/!760,760/0/default.jpg#xywh=674,1162,1332,57",
+      "id": "https://hadro.github.io/brewery-guides/1903/0044_5131931_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "〃 Nuding Brewing Co., 114 South 7th street A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131931/full/!760,760/0/default.jpg#xywh=1097,1255,900,56",
+      "id": "https://hadro.github.io/brewery-guides/1903/0044_5131931_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Altoona Kazmaier, John, 1808 Ninth avenue A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131931/full/!760,760/0/default.jpg#xywh=576,1294,1509,124",
+      "id": "https://hadro.github.io/brewery-guides/1903/0044_5131931_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "〃 Oswald, V. A., 4th ave. and 13th st. L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131931/full/!760,760/0/default.jpg#xywh=643,1438,1450,57",
+      "id": "https://hadro.github.io/brewery-guides/1903/0044_5131931_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "〃 Wilhelm, Schimmenger & Ramsey, 15th ave. and 13th st. L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131931/full/!760,760/0/default.jpg#xywh=747,1490,1259,48",
+      "id": "https://hadro.github.io/brewery-guides/1903/0044_5131931_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Beaver Falls Anderton Brewing Co., 24th st. A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131931/full/!760,760/0/default.jpg#xywh=583,1577,1507,62",
+      "id": "https://hadro.github.io/brewery-guides/1903/0044_5131931_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bennett American Brewing Co., Butler Plank road A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131931/full/!760,760/0/default.jpg#xywh=585,1629,1421,51",
+      "id": "https://hadro.github.io/brewery-guides/1903/0044_5131931_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "〃 Hoehl Brewing Co., Stanton avenue A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131931/full/!760,760/0/default.jpg#xywh=1161,1776,353,34",
+      "id": "https://hadro.github.io/brewery-guides/1903/0044_5131931_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "〃 Pittsburg Pure Beer Co., Butler and Evergreen roads. (See Pittsburg Brewing Co.)",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131931/full/!760,760/0/default.jpg#xywh=1166,1860,840,46",
+      "id": "https://hadro.github.io/brewery-guides/1903/0044_5131931_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bernharts Muhlenberg Brewing Co., Kutz-down road A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131931/full/!760,760/0/default.jpg#xywh=591,1949,1428,57",
+      "id": "https://hadro.github.io/brewery-guides/1903/0044_5131931_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bethlehem Uhl, Bertha, Union and Monocacy streets L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131931/full/!760,760/0/default.jpg#xywh=585,1990,1510,120",
+      "id": "https://hadro.github.io/brewery-guides/1903/0044_5131931_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "〃 Widman, Jac., & Co., 2 Old York road L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131931/full/!760,760/0/default.jpg#xywh=2340,2107,57,50",
+      "id": "https://hadro.github.io/brewery-guides/1903/0044_5131931_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Braddock Home Brewing Co., 804 Halket ave A L B†",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131931/full/!760,760/0/default.jpg#xywh=586,2222,1435,67",
+      "id": "https://hadro.github.io/brewery-guides/1903/0044_5131931_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bradford Bradford Brewing Co., 10 Fourth street L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131931/full/!760,760/0/default.jpg#xywh=585,2280,1421,96",
+      "id": "https://hadro.github.io/brewery-guides/1903/0044_5131931_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brookville Allgeier, Magnus L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131931/full/!760,760/0/default.jpg#xywh=1836,2278,261,35",
+      "id": "https://hadro.github.io/brewery-guides/1903/0044_5131931_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "〃 Brookville Brewing Co., Mill and Water sts. L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131931/full/!760,760/0/default.jpg#xywh=585,2503,1428,108",
+      "id": "https://hadro.github.io/brewery-guides/1903/0044_5131931_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Carbondale Krantz, Peter, & Son, 86 South Church street. (See Penna. Central Brewing Co.)",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131931/full/!760,760/0/default.jpg#xywh=1161,2597,850,48",
+      "id": "https://hadro.github.io/brewery-guides/1903/0044_5131931_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Catasauqua Kostenbader, H., & Sons, 2d st. L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131931/full/!760,760/0/default.jpg#xywh=586,2688,1517,63",
+      "id": "https://hadro.github.io/brewery-guides/1903/0044_5131931_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charleroi Charleroi Brewing Co A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131931/full/!760,760/0/default.jpg#xywh=593,2734,1519,110",
+      "id": "https://hadro.github.io/brewery-guides/1903/0044_5131931_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chester Chester Brewing Co., 2d and West streets L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131931/full/!760,760/0/default.jpg#xywh=597,2829,1431,58",
+      "id": "https://hadro.github.io/brewery-guides/1903/0044_5131931_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chewton Spring Brewing Co. L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131931/full/!760,760/0/default.jpg#xywh=593,2870,1514,118",
+      "id": "https://hadro.github.io/brewery-guides/1903/0044_5131931_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Clearfield Clearfield Brewing Co., 295 Bigler avenue A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131931/full/!760,760/0/default.jpg#xywh=595,2966,1452,65",
+      "id": "https://hadro.github.io/brewery-guides/1903/0044_5131931_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Coalport Lickert, N. X. L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131931/full/!760,760/0/default.jpg#xywh=591,3009,1519,120",
+      "id": "https://hadro.github.io/brewery-guides/1903/0044_5131931_gemini-2.0-flash_annotations/line/30"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1903/0044_5131931_gemini-2.0-flash_annotations"
+}

@@ -1,0 +1,359 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Terre Haute",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142956/full/!760,760/0/default.jpg#xywh=723,730,1792,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0032_5142956_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Troy",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142956/full/!760,760/0/default.jpg#xywh=721,807,1797,59",
+      "id": "https://hadro.github.io/brewery-guides/1896/0032_5142956_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vincennes",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142956/full/!760,760/0/default.jpg#xywh=723,882,1790,63",
+      "id": "https://hadro.github.io/brewery-guides/1896/0032_5142956_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wabash",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142956/full/!760,760/0/default.jpg#xywh=721,959,1794,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0032_5142956_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bellevue",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142956/full/!760,760/0/default.jpg#xywh=716,1132,1802,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0032_5142956_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Burlington",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142956/full/!760,760/0/default.jpg#xywh=719,1209,1796,72",
+      "id": "https://hadro.github.io/brewery-guides/1896/0032_5142956_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Burlington",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142956/full/!760,760/0/default.jpg#xywh=1034,1286,1481,75",
+      "id": "https://hadro.github.io/brewery-guides/1896/0032_5142956_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Burlington",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142956/full/!760,760/0/default.jpg#xywh=1036,1363,1479,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0032_5142956_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cascade",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142956/full/!760,760/0/default.jpg#xywh=721,1442,1799,73",
+      "id": "https://hadro.github.io/brewery-guides/1896/0032_5142956_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cedar Rapids",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142956/full/!760,760/0/default.jpg#xywh=721,1524,1797,65",
+      "id": "https://hadro.github.io/brewery-guides/1896/0032_5142956_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Clinton",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142956/full/!760,760/0/default.jpg#xywh=721,1599,1792,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0032_5142956_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Davenport",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142956/full/!760,760/0/default.jpg#xywh=721,1680,1605,63",
+      "id": "https://hadro.github.io/brewery-guides/1896/0032_5142956_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Davenport",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142956/full/!760,760/0/default.jpg#xywh=982,1820,1536,66",
+      "id": "https://hadro.github.io/brewery-guides/1896/0032_5142956_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dubuque",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142956/full/!760,760/0/default.jpg#xywh=723,1902,1795,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0032_5142956_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dubuque",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142956/full/!760,760/0/default.jpg#xywh=1001,1972,1328,65",
+      "id": "https://hadro.github.io/brewery-guides/1896/0032_5142956_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dyersville",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142956/full/!760,760/0/default.jpg#xywh=719,2117,1794,67",
+      "id": "https://hadro.github.io/brewery-guides/1896/0032_5142956_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fort Madison",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142956/full/!760,760/0/default.jpg#xywh=716,2194,1797,67",
+      "id": "https://hadro.github.io/brewery-guides/1896/0032_5142956_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Iowa City",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142956/full/!760,760/0/default.jpg#xywh=719,2271,1794,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0032_5142956_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Keokuk",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142956/full/!760,760/0/default.jpg#xywh=716,2348,1797,72",
+      "id": "https://hadro.github.io/brewery-guides/1896/0032_5142956_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lyons",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142956/full/!760,760/0/default.jpg#xywh=719,2427,1607,68",
+      "id": "https://hadro.github.io/brewery-guides/1896/0032_5142956_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Maquoketa",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142956/full/!760,760/0/default.jpg#xywh=719,2271,1794,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0032_5142956_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Muscatine",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142956/full/!760,760/0/default.jpg#xywh=721,2663,1794,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0032_5142956_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Strawberry Point",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142956/full/!760,760/0/default.jpg#xywh=726,2744,1789,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0032_5142956_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Atchison",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142956/full/!760,760/0/default.jpg#xywh=719,2910,1794,72",
+      "id": "https://hadro.github.io/brewery-guides/1896/0032_5142956_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Leavenworth",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142956/full/!760,760/0/default.jpg#xywh=714,2992,1610,63",
+      "id": "https://hadro.github.io/brewery-guides/1896/0032_5142956_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Covington",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142956/full/!760,760/0/default.jpg#xywh=721,3246,1601,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0032_5142956_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Covington",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142956/full/!760,760/0/default.jpg#xywh=1024,3400,1295,63",
+      "id": "https://hadro.github.io/brewery-guides/1896/0032_5142956_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Covington",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142956/full/!760,760/0/default.jpg#xywh=1020,3557,1488,60",
+      "id": "https://hadro.github.io/brewery-guides/1896/0032_5142956_gemini-3.1-flash-lite-preview_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Henderson",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142956/full/!760,760/0/default.jpg#xywh=719,3629,1792,68",
+      "id": "https://hadro.github.io/brewery-guides/1896/0032_5142956_gemini-3.1-flash-lite-preview_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Louisville",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142956/full/!760,760/0/default.jpg#xywh=723,3713,1601,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0032_5142956_gemini-3.1-flash-lite-preview_box_annotations.json/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Louisville",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142956/full/!760,760/0/default.jpg#xywh=1010,3872,1312,60",
+      "id": "https://hadro.github.io/brewery-guides/1896/0032_5142956_gemini-3.1-flash-lite-preview_box_annotations.json/entry/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Louisville",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142956/full/!760,760/0/default.jpg#xywh=873,4026,32,35",
+      "id": "https://hadro.github.io/brewery-guides/1896/0032_5142956_gemini-3.1-flash-lite-preview_box_annotations.json/entry/31"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1896/0032_5142956_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

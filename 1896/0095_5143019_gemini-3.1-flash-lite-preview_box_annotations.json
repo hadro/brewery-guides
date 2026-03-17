@@ -1,0 +1,106 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Guadalajara",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143019/full/!760,760/0/default.jpg#xywh=268,1192,1802,91",
+      "id": "https://hadro.github.io/brewery-guides/1896/0095_5143019_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Monterey",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143019/full/!760,760/0/default.jpg#xywh=271,1267,1799,96",
+      "id": "https://hadro.github.io/brewery-guides/1896/0095_5143019_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mexico",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143019/full/!760,760/0/default.jpg#xywh=271,1350,1804,87",
+      "id": "https://hadro.github.io/brewery-guides/1896/0095_5143019_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Orizaba",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143019/full/!760,760/0/default.jpg#xywh=277,1432,1798,83",
+      "id": "https://hadro.github.io/brewery-guides/1896/0095_5143019_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pueblo",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143019/full/!760,760/0/default.jpg#xywh=271,1512,1616,81",
+      "id": "https://hadro.github.io/brewery-guides/1896/0095_5143019_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "San Louis Potosi",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143019/full/!760,760/0/default.jpg#xywh=277,1664,1607,84",
+      "id": "https://hadro.github.io/brewery-guides/1896/0095_5143019_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Toluca",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143019/full/!760,760/0/default.jpg#xywh=280,1824,1623,80",
+      "id": "https://hadro.github.io/brewery-guides/1896/0095_5143019_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Torreon (Couhuila)",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143019/full/!760,760/0/default.jpg#xywh=284,1980,1798,82",
+      "id": "https://hadro.github.io/brewery-guides/1896/0095_5143019_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143019/full/!760,760/0/default.jpg#xywh=291,2344,1380,133",
+      "id": "https://hadro.github.io/brewery-guides/1896/0095_5143019_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1896/0095_5143019_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

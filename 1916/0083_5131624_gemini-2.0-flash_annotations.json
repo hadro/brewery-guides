@@ -1,0 +1,67 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "AUGUST ROOS' SON COPPER WORKS",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131624/full/!760,760/0/default.jpg#xywh=342,392,116,2008",
+      "id": "https://hadro.github.io/brewery-guides/1916/0083_5131624_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "429-431-433 EAST NINTY-FIRST STREET, NEW YORK, N. Y.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131624/full/!760,760/0/default.jpg#xywh=976,402,114,1996",
+      "id": "https://hadro.github.io/brewery-guides/1916/0083_5131624_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Copper Work Used in the Equipment of Brew Plants",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131624/full/!760,760/0/default.jpg#xywh=746,786,114,1618",
+      "id": "https://hadro.github.io/brewery-guides/1916/0083_5131624_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Government Tinned Copper Pipe Lines for Bottling Plants",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131624/full/!760,760/0/default.jpg#xywh=256,1142,66,1098",
+      "id": "https://hadro.github.io/brewery-guides/1916/0083_5131624_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tinned Copper Pipe Lines for Cellars",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131624/full/!760,760/0/default.jpg#xywh=1204,1110,152,1210",
+      "id": "https://hadro.github.io/brewery-guides/1916/0083_5131624_gemini-2.0-flash_annotations/line/4"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1916/0083_5131624_gemini-2.0-flash_annotations"
+}

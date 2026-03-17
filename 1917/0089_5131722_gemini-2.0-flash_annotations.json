@@ -1,0 +1,67 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brewers' and Ice Manufacturers' Supplies",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131722/full/!760,760/0/default.jpg#xywh=836,416,138,1968",
+      "id": "https://hadro.github.io/brewery-guides/1917/0089_5131722_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. M. SCHWENKER, Inc.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131722/full/!760,760/0/default.jpg#xywh=1080,518,196,1890",
+      "id": "https://hadro.github.io/brewery-guides/1917/0089_5131722_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Everything for the Brewery\"",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131722/full/!760,760/0/default.jpg#xywh=1388,1022,106,1296",
+      "id": "https://hadro.github.io/brewery-guides/1917/0089_5131722_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Everything for the Ice Plant\"",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131722/full/!760,760/0/default.jpg#xywh=0,1656,138,92",
+      "id": "https://hadro.github.io/brewery-guides/1917/0089_5131722_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "340, 342, 344 East 92d St., New York",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131722/full/!760,760/0/default.jpg#xywh=0,2424,146,114",
+      "id": "https://hadro.github.io/brewery-guides/1917/0089_5131722_gemini-2.0-flash_annotations/line/4"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1917/0089_5131722_gemini-2.0-flash_annotations"
+}

@@ -1,0 +1,547 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "74 TOVEY'S OFFICIAL BREWERS' DIRECTORY,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=1018,370,1072,60",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "NEW ENGLAND BREWMASTERS' ASSOCIATION,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=810,494,1060,62",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "BOSTON, MASS.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=1324,550,460,44",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "President, O. G. Aichel, Portsmouth, N. H.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=812,616,1202,66",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vice-President, Wm. J. Gindele, Pawtucket, R. I.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=814,660,1332,70",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Treasurer and Secretary, W. J. Croft, Heath and Ter-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=818,706,1484,72",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "race Streets, Boston, Mass.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=1002,762,756,58",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "NORTHWESTERN BREWMASTERS' ASSOCIATION.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=818,846,1494,66",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "President, Armin L. Neubert, Minneapolis, Minn.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=812,910,1360,68",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vice-President, John Hauenstein, Jr., New Ulm, Minn.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=816,954,1488,70",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Treasurer, William Figge, St. Paul, Minn.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=816,1008,1190,62",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secretary, John Aubele, Jac. Schmidt Brewing Co., St.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=826,1048,1486,70",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Paul, Minn.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=1004,1118,332,40",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "PACIFIC NORTHWEST BREWMASTERS' ASSOCIA-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=818,1188,1496,66",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "TION, SEATTLE, WASH.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=1206,1242,716,56",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "President, John Mueller, Seattle, Wash.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=824,1302,1082,60",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vice-President, P. R. Schultz, Van Couver, Wash.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=826,1344,1336,70",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Treasurer, J. H. Beckman, Seattle, Wash.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=820,1396,1122,60",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secretary, John Hemrich, Seattle, Wash.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=828,1442,1114,62",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "PENINSULAR BREWMASTERS' ASSOCIATION,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=890,1546,1348,64",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "DETROIT, MICH.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=1316,1598,508,54",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "President, Oswald Kulewatz, Detroit.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=826,1662,998,58",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vice-President, Adam Klein, Detroit.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=828,1706,996,64",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Treasurer, Hy. Zimmerman, Detroit.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=832,1754,1006,62",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Recording Secretary, August Nessler, The Goebel Brew-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=828,1794,1488,68",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ing Co., Detroit.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=1014,1854,458,50",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Financial Secretary, Herman Rosenbusch, Detroit.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=832,1886,1360,70",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "UPPER MISSISSIPPI VALLEY BREWMASTERS'",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=1096,1992,1228,62",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ASSOCIATION, LA CROSSE, WIS.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=1088,2038,988,66",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "President, Ernst Hussa, Bangor, Wis.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=834,2096,1026,58",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vice-President, William Broese.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=836,2144,870,56",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Treasurer and Secretary, Ernst Chitel, C. & J. Michel",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=840,2180,1510,68",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brewing Co., La Crosse, Wis.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=1026,2232,810,62",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "BREWERS' AND MALTSTERS' ASSOCIATION OF",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=844,2426,1554,68",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ONTARIO (CANADA).",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=1266,2484,636,50",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Address: 17 Gould Street, Toronto.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=1098,2540,976,60",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "President, A. Bauer, Waterloo, Ont.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=844,2608,984,64",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vice-President, S. A. Griggs, Walkerville, Ont.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=846,2644,1296,76",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Treasurer, A. W. Ballantyne, Toronto, Ont.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=850,2694,1176,78",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secretary, W. T. Kernahan, Toronto, Ont.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=850,2738,1142,72",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "WESTERN CANADA BREWERS' ASSOCIATION.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=916,2834,1352,66",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Office: Brandon, Manitoba, Can.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=1162,2918,866,56",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "President, R. E. Trumbell, Brandon.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=850,2978,1010,68",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vice-President, Fritz Sick, Lethbridge.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=852,3024,1068,68",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/43"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secretary-Treasurer, W. A. Mann, Box 1149, Brandon.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131353/full/!760,760/0/default.jpg#xywh=858,3064,1486,74",
+      "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations/line/44"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1913/0080_5131353_gemini-2.0-flash_annotations"
+}

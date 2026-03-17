@@ -1,0 +1,91 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "WORLD LABELER IMPROVED",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131535/full/!760,760/0/default.jpg#xywh=894,394,174,2012",
+      "id": "https://hadro.github.io/brewery-guides/1915/0082_5131535_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The \"Newest\" Labeling Machine",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131535/full/!760,760/0/default.jpg#xywh=1104,1152,132,1688",
+      "id": "https://hadro.github.io/brewery-guides/1915/0082_5131535_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "more and better labeling is concerned, World",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131535/full/!760,760/0/default.jpg#xywh=914,2416,164,520",
+      "id": "https://hadro.github.io/brewery-guides/1915/0082_5131535_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Let us tell you also about World Labeler Junior for the smaller bottler",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131535/full/!760,760/0/default.jpg#xywh=1826,1020,128,1942",
+      "id": "https://hadro.github.io/brewery-guides/1915/0082_5131535_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ECONOMIC MACHINERY COMPANY",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131535/full/!760,760/0/default.jpg#xywh=1960,1030,102,1276",
+      "id": "https://hadro.github.io/brewery-guides/1915/0082_5131535_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "WORCESTER, MASSACHUSETTS, U. S. A.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131535/full/!760,760/0/default.jpg#xywh=2074,1300,86,1386",
+      "id": "https://hadro.github.io/brewery-guides/1915/0082_5131535_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "LARGEST MAKERS OF LABELING MACHINES IN THE WORLD",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131535/full/!760,760/0/default.jpg#xywh=2178,2394,62,570",
+      "id": "https://hadro.github.io/brewery-guides/1915/0082_5131535_gemini-2.0-flash_annotations/line/6"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1915/0082_5131535_gemini-2.0-flash_annotations"
+}

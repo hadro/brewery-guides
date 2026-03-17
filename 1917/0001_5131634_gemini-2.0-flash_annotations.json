@@ -1,0 +1,127 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1917",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131634/full/!760,760/0/default.jpg#xywh=752,797,356,128",
+      "id": "https://hadro.github.io/brewery-guides/1917/0001_5131634_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "TOVEY'S",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131634/full/!760,760/0/default.jpg#xywh=487,1096,832,172",
+      "id": "https://hadro.github.io/brewery-guides/1917/0001_5131634_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "OFFICIAL",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131634/full/!760,760/0/default.jpg#xywh=671,1354,487,78",
+      "id": "https://hadro.github.io/brewery-guides/1917/0001_5131634_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "BREWERS' AND MALTSTERS'",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131634/full/!760,760/0/default.jpg#xywh=160,1480,1493,102",
+      "id": "https://hadro.github.io/brewery-guides/1917/0001_5131634_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "DIRECTORY",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131634/full/!760,760/0/default.jpg#xywh=343,1686,1100,161",
+      "id": "https://hadro.github.io/brewery-guides/1917/0001_5131634_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "OF",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131634/full/!760,760/0/default.jpg#xywh=852,1921,98,58",
+      "id": "https://hadro.github.io/brewery-guides/1917/0001_5131634_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "NORTH AND SOUTH AMERICA",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131634/full/!760,760/0/default.jpg#xywh=218,2015,1347,104",
+      "id": "https://hadro.github.io/brewery-guides/1917/0001_5131634_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "A SUPPLEMENT TO",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131634/full/!760,760/0/default.jpg#xywh=313,2325,916,75",
+      "id": "https://hadro.github.io/brewery-guides/1917/0001_5131634_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "THE BREWERS' JOURNAL",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131634/full/!760,760/0/default.jpg#xywh=154,2452,1493,106",
+      "id": "https://hadro.github.io/brewery-guides/1917/0001_5131634_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "NEW YORK—CHICAGO—LONDON",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131634/full/!760,760/0/default.jpg#xywh=361,2602,1062,66",
+      "id": "https://hadro.github.io/brewery-guides/1917/0001_5131634_gemini-2.0-flash_annotations/line/9"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1917/0001_5131634_gemini-2.0-flash_annotations"
+}

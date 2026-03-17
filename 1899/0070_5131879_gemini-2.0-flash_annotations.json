@@ -1,0 +1,535 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MONTANA.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=1158,500,430,41",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "NEBRASKA.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=1124,764,476,40",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Omaha..........................Gate City Malt Co., 2d and Pine sts.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=1104,843,941,43",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "NEW YORK.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=1124,969,479,41",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Adams...........................Waite, W. A., & Sons.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=1097,1049,580,42",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Albany..........................McCredie, Jas., 34 Clinton ave.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=1105,1096,809,41",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Albany..........................Tillinghast, Chas. B., 105 Montgomery street.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=1107,1142,1020,42",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Albany..........................White, Andrew G., 125 Hudson ave.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=1102,1239,934,42",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Attica...........................Farnham, F. E.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=1107,1286,414,40",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Auburn..........................Fanning, G. S., 10 Garden st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=1102,1330,752,44",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Batavia.........................Craft, Henry, 61 Jackson st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=1105,1378,735,44",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Buffalo.........................Bullymore, J. H. & R., Jr., 2212 Niagara street.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=1161,1610,182,34",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Buffalo.........................Fisher Bros. & Co., 283 West Genesee street.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=1155,1796,187,37",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Buffalo.........................Kam, John, Malting Co., 377 Genesee street.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=1155,1889,176,35",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Buffalo.........................Moffat, Henry C., Mohawk and Morgan sts.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=1153,2076,212,38",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Geneva..........................Nester, S. K.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=1144,2353,193,39",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lyons...........................Kreutzer, William.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=1152,2537,266,40",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lyons...........................Mirick, H. M. & C. E.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=1099,2808,558,48",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lyons...........................Mirick, W. P.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=1097,2854,347,49",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lyons...........................Moran, Daniel.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=1097,2902,396,46",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lyons...........................Scott Malting Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=1097,2950,458,43",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lyons...........................Taylor, Wm.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=1090,2996,339,48",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mohawk.........................Mohawk Milling and Malting Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=1079,3041,875,45",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bozeman........................Lehrkind, Julius.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=613,577,961,48",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Manhattan......................Manhattan Malting Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=613,625,1120,43",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bath............................Poole, James, 25 Cameron st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=605,1422,1249,47",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Buffalo.........................Binz, Julius, 815 Broadway.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=604,1469,1222,48",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Buffalo.........................Braner, J. P., 992 Michigan st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=674,1514,1214,48",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Buffalo.........................Diehl, Henry, 118 Goodell st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=773,1655,1081,43",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Buffalo.........................Dole, Frank A., 652 Elk st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=757,1701,1036,45",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Buffalo.........................Kreiner & Lehr, 459 Spring st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=773,1748,1348,44",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Buffalo.........................McLaughlin, C. H., 75 Board of Trade.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=669,2119,60,23",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Buffalo.........................Schaefer & Bro., 202 Main st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=770,2116,1090,45",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Buffalo.........................Scheu, Solomon, Hudson and 4th sts.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=763,2164,1309,45",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Buffalo.........................Seitz Malting Co., 49 Washington st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=765,2209,1295,47",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Buffalo.........................Voltz, J. S., & Co., 1721 Niagara st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=669,2303,46,26",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Buffalo.........................Weigand, Estate of John M., 943 Michigan st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=668,2396,77,25",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Buffalo.........................Weppner, Jacob, 983 Jefferson st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=762,2396,1214,45",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Buffalo.........................Wheeler, Joel, & Co., 283 Perry st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=763,2443,1225,43",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Buffalo.........................White, John C., Lake View ave. and Jersey st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=668,2488,47,24",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Clyde...........................Diller, Geo. K.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=599,2580,901,49",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Clyde...........................Smith & Topping.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=711,2628,863,43",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Clyde...........................Thorn, T. P., & Sons.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=731,2673,923,46",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mumford.........................Hamilton, Wm.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131879/full/!760,760/0/default.jpg#xywh=592,3091,912,42",
+      "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations/line/43"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1899/0070_5131879_gemini-2.0-flash_annotations"
+}

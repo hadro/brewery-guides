@@ -1,0 +1,84 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dundas, ONTARIO",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132034/full/!760,760/0/default.jpg#xywh=306,1168,984,68",
+      "id": "https://hadro.github.io/brewery-guides/1904/0067_5132034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Galt, ONTARIO",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132034/full/!760,760/0/default.jpg#xywh=290,1192,1238,392",
+      "id": "https://hadro.github.io/brewery-guides/1904/0067_5132034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Palmerston, ONTARIO",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132034/full/!760,760/0/default.jpg#xywh=0,1416,94,32",
+      "id": "https://hadro.github.io/brewery-guides/1904/0067_5132034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Prescott, ONTARIO",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132034/full/!760,760/0/default.jpg#xywh=0,1488,98,52",
+      "id": "https://hadro.github.io/brewery-guides/1904/0067_5132034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Toronto, ONTARIO",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132034/full/!760,760/0/default.jpg#xywh=0,1628,64,50",
+      "id": "https://hadro.github.io/brewery-guides/1904/0067_5132034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Toronto, ONTARIO",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132034/full/!760,760/0/default.jpg#xywh=0,1776,92,48",
+      "id": "https://hadro.github.io/brewery-guides/1904/0067_5132034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Walkerville, ONTARIO",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132034/full/!760,760/0/default.jpg#xywh=0,1872,122,48",
+      "id": "https://hadro.github.io/brewery-guides/1904/0067_5132034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1904/0067_5132034_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

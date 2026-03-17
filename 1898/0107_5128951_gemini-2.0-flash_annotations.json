@@ -1,0 +1,343 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Supplement to AMERICAN BREWERS' REVIEW. 103",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128951/full/!760,760/0/default.jpg#xywh=561,437,1433,81",
+      "id": "https://hadro.github.io/brewery-guides/1898/0107_5128951_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MALTSTERS IN CANADA.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128951/full/!760,760/0/default.jpg#xywh=551,817,1445,155",
+      "id": "https://hadro.github.io/brewery-guides/1898/0107_5128951_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "(NOT BREWERS)",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128951/full/!760,760/0/default.jpg#xywh=942,1019,667,52",
+      "id": "https://hadro.github.io/brewery-guides/1898/0107_5128951_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ONTARIO.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128951/full/!760,760/0/default.jpg#xywh=1054,1232,441,65",
+      "id": "https://hadro.github.io/brewery-guides/1898/0107_5128951_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dundas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Wilson-Steele Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128951/full/!760,760/0/default.jpg#xywh=379,1323,1787,84",
+      "id": "https://hadro.github.io/brewery-guides/1898/0107_5128951_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Galt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .W. H. Lutz",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128951/full/!760,760/0/default.jpg#xywh=383,1398,1789,90",
+      "id": "https://hadro.github.io/brewery-guides/1898/0107_5128951_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "66 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .M. N. Todd",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128951/full/!760,760/0/default.jpg#xywh=514,1480,1658,84",
+      "id": "https://hadro.github.io/brewery-guides/1898/0107_5128951_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Guelph. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . John McCrea",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128951/full/!760,760/0/default.jpg#xywh=381,1559,1789,82",
+      "id": "https://hadro.github.io/brewery-guides/1898/0107_5128951_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Kingston. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . L. H. Clarke & Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128951/full/!760,760/0/default.jpg#xywh=383,1637,1787,84",
+      "id": "https://hadro.github.io/brewery-guides/1898/0107_5128951_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Palmerston . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . L. H. Clarke & Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128951/full/!760,760/0/default.jpg#xywh=383,1714,1787,86",
+      "id": "https://hadro.github.io/brewery-guides/1898/0107_5128951_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Toronto . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .L. H. Clarke & Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128951/full/!760,760/0/default.jpg#xywh=383,1794,1787,79",
+      "id": "https://hadro.github.io/brewery-guides/1898/0107_5128951_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "66 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Gooderham & Worts",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128951/full/!760,760/0/default.jpg#xywh=619,1876,1549,64",
+      "id": "https://hadro.github.io/brewery-guides/1898/0107_5128951_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "66 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . W. D. Mathews & Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128951/full/!760,760/0/default.jpg#xywh=622,1942,1546,88",
+      "id": "https://hadro.github.io/brewery-guides/1898/0107_5128951_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "66 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Queen City Malting Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128951/full/!760,760/0/default.jpg#xywh=626,2026,1546,84",
+      "id": "https://hadro.github.io/brewery-guides/1898/0107_5128951_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Walkerville . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Hiram Walker & Sons.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128951/full/!760,760/0/default.jpg#xywh=383,2104,1791,81",
+      "id": "https://hadro.github.io/brewery-guides/1898/0107_5128951_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brewers' and",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128951/full/!760,760/0/default.jpg#xywh=1011,2402,531,59",
+      "id": "https://hadro.github.io/brewery-guides/1898/0107_5128951_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Maltsters'",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128951/full/!760,760/0/default.jpg#xywh=1011,2482,398,58",
+      "id": "https://hadro.github.io/brewery-guides/1898/0107_5128951_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Iron Work.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128951/full/!760,760/0/default.jpg#xywh=1009,2557,434,63",
+      "id": "https://hadro.github.io/brewery-guides/1898/0107_5128951_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. TOEPFER & SONS,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128951/full/!760,760/0/default.jpg#xywh=462,2760,1646,129",
+      "id": "https://hadro.github.io/brewery-guides/1898/0107_5128951_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Manufacturers of",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128951/full/!760,760/0/default.jpg#xywh=712,2934,475,47",
+      "id": "https://hadro.github.io/brewery-guides/1898/0107_5128951_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Toepfer's",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128951/full/!760,760/0/default.jpg#xywh=878,3035,802,181",
+      "id": "https://hadro.github.io/brewery-guides/1898/0107_5128951_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dumping Kiln Floors",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128951/full/!760,760/0/default.jpg#xywh=396,3241,1778,202",
+      "id": "https://hadro.github.io/brewery-guides/1898/0107_5128951_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "(Over One Quarter Million Square Feet in Use.)",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128951/full/!760,760/0/default.jpg#xywh=675,3489,1228,58",
+      "id": "https://hadro.github.io/brewery-guides/1898/0107_5128951_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Stationery Kiln Floors.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128951/full/!760,760/0/default.jpg#xywh=544,3624,908,65",
+      "id": "https://hadro.github.io/brewery-guides/1898/0107_5128951_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pat Loading Spouts.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128951/full/!760,760/0/default.jpg#xywh=551,3702,830,64",
+      "id": "https://hadro.github.io/brewery-guides/1898/0107_5128951_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "All kinds of Tank and Sheet",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128951/full/!760,760/0/default.jpg#xywh=546,3773,1136,68",
+      "id": "https://hadro.github.io/brewery-guides/1898/0107_5128951_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Iron Work. 76-88 Menomonee Street,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128951/full/!760,760/0/default.jpg#xywh=553,3856,441,59",
+      "id": "https://hadro.github.io/brewery-guides/1898/0107_5128951_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MILWAUKEE, WIS.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128951/full/!760,760/0/default.jpg#xywh=1106,3938,1071,80",
+      "id": "https://hadro.github.io/brewery-guides/1898/0107_5128951_gemini-2.0-flash_annotations/line/27"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1898/0107_5128951_gemini-2.0-flash_annotations"
+}

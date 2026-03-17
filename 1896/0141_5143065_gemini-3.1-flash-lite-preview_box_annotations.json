@@ -1,0 +1,293 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York City",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143065/full/!760,760/0/default.jpg#xywh=322,704,1813,60",
+      "id": "https://hadro.github.io/brewery-guides/1896/0141_5143065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago, Ill.",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143065/full/!760,760/0/default.jpg#xywh=325,909,1807,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0141_5143065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago, Ill.",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143065/full/!760,760/0/default.jpg#xywh=329,991,1803,56",
+      "id": "https://hadro.github.io/brewery-guides/1896/0141_5143065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York City",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143065/full/!760,760/0/default.jpg#xywh=327,1195,1553,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0141_5143065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago, Ill.",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143065/full/!760,760/0/default.jpg#xywh=329,1354,1808,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0141_5143065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York City",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143065/full/!760,760/0/default.jpg#xywh=332,1428,1805,66",
+      "id": "https://hadro.github.io/brewery-guides/1896/0141_5143065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Louis, Mo.",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143065/full/!760,760/0/default.jpg#xywh=332,1510,1803,59",
+      "id": "https://hadro.github.io/brewery-guides/1896/0141_5143065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York City",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143065/full/!760,760/0/default.jpg#xywh=332,1590,1810,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0141_5143065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York City",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143065/full/!760,760/0/default.jpg#xywh=334,1669,1808,59",
+      "id": "https://hadro.github.io/brewery-guides/1896/0141_5143065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago, Ill.",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143065/full/!760,760/0/default.jpg#xywh=334,1749,1803,56",
+      "id": "https://hadro.github.io/brewery-guides/1896/0141_5143065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Boston, Mass.",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143065/full/!760,760/0/default.jpg#xywh=334,1826,1803,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0141_5143065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago, Ill.",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143065/full/!760,760/0/default.jpg#xywh=334,2029,1553,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0141_5143065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York City",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143065/full/!760,760/0/default.jpg#xywh=334,2296,1555,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0141_5143065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Decatur, Ind.",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143065/full/!760,760/0/default.jpg#xywh=341,2565,1801,60",
+      "id": "https://hadro.github.io/brewery-guides/1896/0141_5143065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Peoria, Ill.",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143065/full/!760,760/0/default.jpg#xywh=334,2644,1805,59",
+      "id": "https://hadro.github.io/brewery-guides/1896/0141_5143065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Racine, Wis.",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143065/full/!760,760/0/default.jpg#xywh=339,2721,1800,59",
+      "id": "https://hadro.github.io/brewery-guides/1896/0141_5143065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York City",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143065/full/!760,760/0/default.jpg#xywh=327,1195,1553,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0141_5143065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York City",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143065/full/!760,760/0/default.jpg#xywh=341,3070,1803,60",
+      "id": "https://hadro.github.io/brewery-guides/1896/0141_5143065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Louis, Mo.",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143065/full/!760,760/0/default.jpg#xywh=332,1510,1803,59",
+      "id": "https://hadro.github.io/brewery-guides/1896/0141_5143065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York City",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143065/full/!760,760/0/default.jpg#xywh=341,3229,1803,60",
+      "id": "https://hadro.github.io/brewery-guides/1896/0141_5143065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Louis, Mo.",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143065/full/!760,760/0/default.jpg#xywh=341,3430,1801,65",
+      "id": "https://hadro.github.io/brewery-guides/1896/0141_5143065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Philadelphia, Pa.",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143065/full/!760,760/0/default.jpg#xywh=341,3626,1553,56",
+      "id": "https://hadro.github.io/brewery-guides/1896/0141_5143065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago, Ill.",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143065/full/!760,760/0/default.jpg#xywh=346,3778,1793,65",
+      "id": "https://hadro.github.io/brewery-guides/1896/0141_5143065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Boston, Mass.",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143065/full/!760,760/0/default.jpg#xywh=350,3965,1792,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0141_5143065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Louis, Mo.",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143065/full/!760,760/0/default.jpg#xywh=341,4042,1801,75",
+      "id": "https://hadro.github.io/brewery-guides/1896/0141_5143065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Boston, Mass.",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143065/full/!760,760/0/default.jpg#xywh=339,4124,1800,72",
+      "id": "https://hadro.github.io/brewery-guides/1896/0141_5143065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1896/0141_5143065_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

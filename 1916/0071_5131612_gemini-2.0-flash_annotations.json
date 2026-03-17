@@ -1,0 +1,427 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "SUPPLEMENT TO THE BREWERS' JOURNAL. 69",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131612/full/!760,760/0/default.jpg#xywh=356,336,1106,44",
+      "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MISSOURI BREWERS' ASSOCIATION.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131612/full/!760,760/0/default.jpg#xywh=368,462,1070,50",
+      "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Office: 702-707 Wainwright Bldg., St. Louis, Mo.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131612/full/!760,760/0/default.jpg#xywh=250,530,1320,48",
+      "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "President and Treasurer, Henry Nicolaus, St. Louis.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131612/full/!760,760/0/default.jpg#xywh=162,588,1442,54",
+      "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secretary C. Norman Jones, St. Louis.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131612/full/!760,760/0/default.jpg#xywh=162,642,1060,52",
+      "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MONTANA BREWERS' AND WHOLESALERS ASSOCIATION (INC.)",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131612/full/!760,760/0/default.jpg#xywh=254,770,1304,48",
+      "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "President, E. I. Goodkind, Helena, Montana.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131612/full/!760,760/0/default.jpg#xywh=162,912,1200,52",
+      "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vice-President, John J. O'Meara, Butte, Montana.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131612/full/!760,760/0/default.jpg#xywh=166,968,1348,48",
+      "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secretary-Treasurer, Charles N. Kessler, 63 South Main St., Helena, Montana.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131612/full/!760,760/0/default.jpg#xywh=166,1026,1486,44",
+      "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "NEBRASKA BREWERS' ASSOCIATION.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131612/full/!760,760/0/default.jpg#xywh=348,1218,1122,44",
+      "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Office: 209 South 15th Street, Omaha.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131612/full/!760,760/0/default.jpg#xywh=400,1288,1026,48",
+      "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "President, A. H. Koop, Lincoln.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131612/full/!760,760/0/default.jpg#xywh=162,1348,868,48",
+      "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vice-President, August Toelle, Wisner.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131612/full/!760,760/0/default.jpg#xywh=164,1408,1048,44",
+      "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secretary, Henry Keating, Omaha.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131612/full/!760,760/0/default.jpg#xywh=162,1456,938,52",
+      "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Treasurer, Hans Peterson, Omaha.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131612/full/!760,760/0/default.jpg#xywh=164,1516,936,44",
+      "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "NEW HAMPSHIRE STATE BREWERS' ASSOCIATION.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131612/full/!760,760/0/default.jpg#xywh=348,1670,1108,44",
+      "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Office: 31 Hanover St., Manchester, N. H.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131612/full/!760,760/0/default.jpg#xywh=342,1804,1138,48",
+      "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "President, Christopher H. R. Woodward, Portsmouth.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131612/full/!760,760/0/default.jpg#xywh=162,1876,1434,54",
+      "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Treasurer, Wm. F. Harrington, Portsmouth.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131612/full/!760,760/0/default.jpg#xywh=164,1938,1208,44",
+      "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secretary, George H. Steele, P. O. Box 728, Manchester.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131612/full/!760,760/0/default.jpg#xywh=166,1992,1492,44",
+      "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "NEW JERSEY STATE BREWERS' ASSOCIATION.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131612/full/!760,760/0/default.jpg#xywh=190,2110,1436,52",
+      "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Office: 776 Broad Street, Newark.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131612/full/!760,760/0/default.jpg#xywh=460,2190,904,50",
+      "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "President, Gottfried Krueger, Newark.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131612/full/!760,760/0/default.jpg#xywh=0,2252,1184,64",
+      "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "First Vice-President, Louis A. Brown, Paterson.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131612/full/!760,760/0/default.jpg#xywh=166,2318,1306,44",
+      "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Second Vice-President, William Peter, Union Hill.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131612/full/!760,760/0/default.jpg#xywh=170,2366,1392,52",
+      "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Treasurer, G. A. Wiedenmayer, Newark.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131612/full/!760,760/0/default.jpg#xywh=164,2426,1092,44",
+      "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secretary, James M. Reilly, Newark.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131612/full/!760,760/0/default.jpg#xywh=164,2482,982,44",
+      "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "NEW YORK STATE BREWERS' ASSOCIATION.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131612/full/!760,760/0/default.jpg#xywh=222,2606,1374,44",
+      "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Office: 109-111 East 15th Street, New York City.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131612/full/!760,760/0/default.jpg#xywh=250,2676,1322,56",
+      "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "President, Jacob Ruppert, New York.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131612/full/!760,760/0/default.jpg#xywh=164,2762,1006,40",
+      "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "First Vice-President, John Bradley, Rochester.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131612/full/!760,760/0/default.jpg#xywh=164,2816,1276,44",
+      "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Second Vice-President, P. F. Simon, Buffalo.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131612/full/!760,760/0/default.jpg#xywh=164,2866,1216,52",
+      "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Third Vice-President, John Reisenweber, Brooklyn, N. Y.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131612/full/!760,760/0/default.jpg#xywh=166,2926,1494,44",
+      "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Treasurer, John C. Heintz, New York.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131612/full/!760,760/0/default.jpg#xywh=166,2980,1020,44",
+      "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secretary, Charles J. Warner, New York.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131612/full/!760,760/0/default.jpg#xywh=168,3034,1102,44",
+      "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations/line/34"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1916/0071_5131612_gemini-2.0-flash_annotations"
+}

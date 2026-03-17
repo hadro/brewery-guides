@@ -1,0 +1,19 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "SUPPLEMENT TO THE BREWERS' JOURNAL. 73",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131962/full/!760,760/0/default.jpg#xywh=531,297,1115,60",
+      "id": "https://hadro.github.io/brewery-guides/1903/0075_5131962_gemini-2.0-flash_annotations/line/0"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1903/0075_5131962_gemini-2.0-flash_annotations"
+}

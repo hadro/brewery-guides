@@ -1,0 +1,91 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "WORLD LABELER IMPROVED",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131713/full/!760,760/0/default.jpg#xywh=920,434,166,1960",
+      "id": "https://hadro.github.io/brewery-guides/1917/0080_5131713_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The \"Newest\" Labeling Machine",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131713/full/!760,760/0/default.jpg#xywh=1136,1178,114,1682",
+      "id": "https://hadro.github.io/brewery-guides/1917/0080_5131713_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "So far as advance in everything that gives you more and better labeling is concerned, World Labeler Improved is the \"newest\" labeling machine you can buy. From time to time we have improved and refined until today World Labeler is far ahead of any other labeling machine that can be built.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131713/full/!760,760/0/default.jpg#xywh=1744,1230,90,1772",
+      "id": "https://hadro.github.io/brewery-guides/1917/0080_5131713_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Let us tell you also about World Labeler Junior for the smaller bottler",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131713/full/!760,760/0/default.jpg#xywh=2332,1818,66,502",
+      "id": "https://hadro.github.io/brewery-guides/1917/0080_5131713_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ECONOMIC MACHINERY COMPANY",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131713/full/!760,760/0/default.jpg#xywh=1650,2394,84,602",
+      "id": "https://hadro.github.io/brewery-guides/1917/0080_5131713_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "WORCESTER, MASSACHUSETTS, U. S. A.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131713/full/!760,760/0/default.jpg#xywh=2112,2402,64,314",
+      "id": "https://hadro.github.io/brewery-guides/1917/0080_5131713_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "LARGEST MAKERS OF LABELING MACHINES IN THE WORLD.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131713/full/!760,760/0/default.jpg#xywh=2332,2922,60,140",
+      "id": "https://hadro.github.io/brewery-guides/1917/0080_5131713_gemini-2.0-flash_annotations/line/6"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1917/0080_5131713_gemini-2.0-flash_annotations"
+}

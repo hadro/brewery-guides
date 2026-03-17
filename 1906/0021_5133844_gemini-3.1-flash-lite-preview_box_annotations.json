@@ -1,0 +1,381 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Quincy, ILLINOIS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133844/full/!760,760/0/default.jpg#xywh=108,480,1542,70",
+      "id": "https://hadro.github.io/brewery-guides/1906/0021_5133844_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Quincy, ILLINOIS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133844/full/!760,760/0/default.jpg#xywh=240,542,1408,48",
+      "id": "https://hadro.github.io/brewery-guides/1906/0021_5133844_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rockford, ILLINOIS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133844/full/!760,760/0/default.jpg#xywh=108,584,1448,54",
+      "id": "https://hadro.github.io/brewery-guides/1906/0021_5133844_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rock Island, ILLINOIS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133844/full/!760,760/0/default.jpg#xywh=688,728,952,54",
+      "id": "https://hadro.github.io/brewery-guides/1906/0021_5133844_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Springfield, ILLINOIS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133844/full/!760,760/0/default.jpg#xywh=98,750,1462,78",
+      "id": "https://hadro.github.io/brewery-guides/1906/0021_5133844_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sterling, ILLINOIS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133844/full/!760,760/0/default.jpg#xywh=690,916,376,48",
+      "id": "https://hadro.github.io/brewery-guides/1906/0021_5133844_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Thornton, ILLINOIS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133844/full/!760,760/0/default.jpg#xywh=0,938,1654,88",
+      "id": "https://hadro.github.io/brewery-guides/1906/0021_5133844_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Trenton, ILLINOIS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133844/full/!760,760/0/default.jpg#xywh=0,1004,1650,56",
+      "id": "https://hadro.github.io/brewery-guides/1906/0021_5133844_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Warsaw, ILLINOIS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133844/full/!760,760/0/default.jpg#xywh=0,1050,1652,62",
+      "id": "https://hadro.github.io/brewery-guides/1906/0021_5133844_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Waukegan, ILLINOIS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133844/full/!760,760/0/default.jpg#xywh=0,1092,1658,118",
+      "id": "https://hadro.github.io/brewery-guides/1906/0021_5133844_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "West Hammond, ILLINOIS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133844/full/!760,760/0/default.jpg#xywh=96,1192,1556,108",
+      "id": "https://hadro.github.io/brewery-guides/1906/0021_5133844_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wheeling, ILLINOIS",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133844/full/!760,760/0/default.jpg#xywh=98,1290,1456,52",
+      "id": "https://hadro.github.io/brewery-guides/1906/0021_5133844_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Anderson, INDIANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133844/full/!760,760/0/default.jpg#xywh=102,1444,1422,56",
+      "id": "https://hadro.github.io/brewery-guides/1906/0021_5133844_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brazil, INDIANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133844/full/!760,760/0/default.jpg#xywh=0,1452,72,40",
+      "id": "https://hadro.github.io/brewery-guides/1906/0021_5133844_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cambridge City, INDIANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133844/full/!760,760/0/default.jpg#xywh=0,1488,64,54",
+      "id": "https://hadro.github.io/brewery-guides/1906/0021_5133844_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Columbia City, INDIANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133844/full/!760,760/0/default.jpg#xywh=104,1490,1556,112",
+      "id": "https://hadro.github.io/brewery-guides/1906/0021_5133844_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Crown Point, INDIANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133844/full/!760,760/0/default.jpg#xywh=0,1590,66,54",
+      "id": "https://hadro.github.io/brewery-guides/1906/0021_5133844_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Evansville, INDIANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133844/full/!760,760/0/default.jpg#xywh=0,1592,1668,470",
+      "id": "https://hadro.github.io/brewery-guides/1906/0021_5133844_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Evansville, INDIANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133844/full/!760,760/0/default.jpg#xywh=0,1964,82,112",
+      "id": "https://hadro.github.io/brewery-guides/1906/0021_5133844_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Evansville, INDIANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133844/full/!760,760/0/default.jpg#xywh=0,1964,82,112",
+      "id": "https://hadro.github.io/brewery-guides/1906/0021_5133844_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ferdinand, INDIANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133844/full/!760,760/0/default.jpg#xywh=0,2006,1660,114",
+      "id": "https://hadro.github.io/brewery-guides/1906/0021_5133844_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fort Wayne, INDIANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133844/full/!760,760/0/default.jpg#xywh=112,2100,1548,110",
+      "id": "https://hadro.github.io/brewery-guides/1906/0021_5133844_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fort Wayne, INDIANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133844/full/!760,760/0/default.jpg#xywh=656,2198,1000,50",
+      "id": "https://hadro.github.io/brewery-guides/1906/0021_5133844_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Huntingburgh, INDIANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133844/full/!760,760/0/default.jpg#xywh=0,2228,1660,80",
+      "id": "https://hadro.github.io/brewery-guides/1906/0021_5133844_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Huntington, INDIANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133844/full/!760,760/0/default.jpg#xywh=0,2286,1652,70",
+      "id": "https://hadro.github.io/brewery-guides/1906/0021_5133844_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Indianapolis, INDIANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133844/full/!760,760/0/default.jpg#xywh=0,2330,1568,76",
+      "id": "https://hadro.github.io/brewery-guides/1906/0021_5133844_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Indianapolis, INDIANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133844/full/!760,760/0/default.jpg#xywh=668,2436,892,52",
+      "id": "https://hadro.github.io/brewery-guides/1906/0021_5133844_gemini-3.1-flash-lite-preview_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Indianapolis, INDIANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133844/full/!760,760/0/default.jpg#xywh=658,2524,908,54",
+      "id": "https://hadro.github.io/brewery-guides/1906/0021_5133844_gemini-3.1-flash-lite-preview_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Indianapolis, INDIANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133844/full/!760,760/0/default.jpg#xywh=660,2626,904,44",
+      "id": "https://hadro.github.io/brewery-guides/1906/0021_5133844_gemini-3.1-flash-lite-preview_box_annotations.json/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Indianapolis, INDIANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133844/full/!760,760/0/default.jpg#xywh=660,2676,908,40",
+      "id": "https://hadro.github.io/brewery-guides/1906/0021_5133844_gemini-3.1-flash-lite-preview_box_annotations.json/entry/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jasper, INDIANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133844/full/!760,760/0/default.jpg#xywh=122,2764,1538,50",
+      "id": "https://hadro.github.io/brewery-guides/1906/0021_5133844_gemini-3.1-flash-lite-preview_box_annotations.json/entry/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Fayette, INDIANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133844/full/!760,760/0/default.jpg#xywh=128,2814,1444,50",
+      "id": "https://hadro.github.io/brewery-guides/1906/0021_5133844_gemini-3.1-flash-lite-preview_box_annotations.json/entry/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Fayette, INDIANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133844/full/!760,760/0/default.jpg#xywh=632,2852,1032,208",
+      "id": "https://hadro.github.io/brewery-guides/1906/0021_5133844_gemini-3.1-flash-lite-preview_box_annotations.json/entry/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Porte, INDIANA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133844/full/!760,760/0/default.jpg#xywh=126,3006,246,36",
+      "id": "https://hadro.github.io/brewery-guides/1906/0021_5133844_gemini-3.1-flash-lite-preview_box_annotations.json/entry/34"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1906/0021_5133844_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

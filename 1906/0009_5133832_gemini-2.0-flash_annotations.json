@@ -1,0 +1,235 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Production of Malt Liquors",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133832/full/!760,760/0/default.jpg#xywh=330,352,1550,136",
+      "id": "https://hadro.github.io/brewery-guides/1906/0009_5133832_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "For the Year 1904-1905.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133832/full/!760,760/0/default.jpg#xywh=636,504,952,68",
+      "id": "https://hadro.github.io/brewery-guides/1906/0009_5133832_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Germany ...................58.827,600 American barrels",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133832/full/!760,760/0/default.jpg#xywh=334,622,1540,64",
+      "id": "https://hadro.github.io/brewery-guides/1906/0009_5133832_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Great Britain..............49,991,561   \"    \"",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133832/full/!760,760/0/default.jpg#xywh=334,704,1010,78",
+      "id": "https://hadro.github.io/brewery-guides/1906/0009_5133832_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "United States .............49.459.540.   \"    \"",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133832/full/!760,760/0/default.jpg#xywh=336,802,1020,70",
+      "id": "https://hadro.github.io/brewery-guides/1906/0009_5133832_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Austria-Hungary..........17,331,517   \"    \"",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133832/full/!760,760/0/default.jpg#xywh=336,906,1010,64",
+      "id": "https://hadro.github.io/brewery-guides/1906/0009_5133832_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Belgium....................11,941,500   \"    \"",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133832/full/!760,760/0/default.jpg#xywh=334,996,1006,78",
+      "id": "https://hadro.github.io/brewery-guides/1906/0009_5133832_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "France..................... 9,385,600   \"    \"",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133832/full/!760,760/0/default.jpg#xywh=338,1092,1000,72",
+      "id": "https://hadro.github.io/brewery-guides/1906/0009_5133832_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Russia ..................... 5.715,160   \"    \"",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133832/full/!760,760/0/default.jpg#xywh=334,1182,1004,70",
+      "id": "https://hadro.github.io/brewery-guides/1906/0009_5133832_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sweden .................... 3,201,162   \"    \"",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133832/full/!760,760/0/default.jpg#xywh=332,1278,1008,72",
+      "id": "https://hadro.github.io/brewery-guides/1906/0009_5133832_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Denmark ................... 2,112,011   \"    \"",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133832/full/!760,760/0/default.jpg#xywh=334,1374,1010,66",
+      "id": "https://hadro.github.io/brewery-guides/1906/0009_5133832_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Switzerland ................ 1,960,920   \"    \"",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133832/full/!760,760/0/default.jpg#xywh=334,1472,1002,66",
+      "id": "https://hadro.github.io/brewery-guides/1906/0009_5133832_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Netherlands ................ 1,629,910   \"    \"",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133832/full/!760,760/0/default.jpg#xywh=334,1560,1004,72",
+      "id": "https://hadro.github.io/brewery-guides/1906/0009_5133832_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "WOODEN TANKS",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133832/full/!760,760/0/default.jpg#xywh=376,1810,1488,334",
+      "id": "https://hadro.github.io/brewery-guides/1906/0009_5133832_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "FOR EVERY PURPOSE",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133832/full/!760,760/0/default.jpg#xywh=620,2248,978,72",
+      "id": "https://hadro.github.io/brewery-guides/1906/0009_5133832_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "THE BALTIMORE COOPERAGE CO.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133832/full/!760,760/0/default.jpg#xywh=346,2418,1518,124",
+      "id": "https://hadro.github.io/brewery-guides/1906/0009_5133832_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "BALTIMORE, Md.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133832/full/!760,760/0/default.jpg#xywh=718,2610,770,72",
+      "id": "https://hadro.github.io/brewery-guides/1906/0009_5133832_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "THE LARGEST WORKS OF ITS KIND IN THE SOUTH",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133832/full/!760,760/0/default.jpg#xywh=348,2836,1528,58",
+      "id": "https://hadro.github.io/brewery-guides/1906/0009_5133832_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Catalogue on Request",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133832/full/!760,760/0/default.jpg#xywh=708,2940,798,48",
+      "id": "https://hadro.github.io/brewery-guides/1906/0009_5133832_gemini-2.0-flash_annotations/line/18"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1906/0009_5133832_gemini-2.0-flash_annotations"
+}

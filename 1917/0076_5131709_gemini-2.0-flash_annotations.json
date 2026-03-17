@@ -1,0 +1,415 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "LOUISVILLE DISTRICT.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131709/full/!760,760/0/default.jpg#xywh=1276,470,686,40",
+      "id": "https://hadro.github.io/brewery-guides/1917/0076_5131709_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "President, Fred Finger.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131709/full/!760,760/0/default.jpg#xywh=876,532,638,40",
+      "id": "https://hadro.github.io/brewery-guides/1917/0076_5131709_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vice-President, August Senf.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131709/full/!760,760/0/default.jpg#xywh=884,588,774,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0076_5131709_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secretary and Treasurer, Vincenz Fleitz.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131709/full/!760,760/0/default.jpg#xywh=878,640,1078,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0076_5131709_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MILWAUKEE DISTRICT.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131709/full/!760,760/0/default.jpg#xywh=1260,746,712,40",
+      "id": "https://hadro.github.io/brewery-guides/1917/0076_5131709_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "President, Fritz Bock.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131709/full/!760,760/0/default.jpg#xywh=884,820,606,40",
+      "id": "https://hadro.github.io/brewery-guides/1917/0076_5131709_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vice-President, Oscar Mueller.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131709/full/!760,760/0/default.jpg#xywh=884,872,812,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0076_5131709_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Treasurer, Oscar Husting.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131709/full/!760,760/0/default.jpg#xywh=880,926,722,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0076_5131709_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secretary, Carl F. W. Wrede, 750 Newhall St., Milwaukee, Wis.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131709/full/!760,760/0/default.jpg#xywh=882,972,1432,54",
+      "id": "https://hadro.github.io/brewery-guides/1917/0076_5131709_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "NEW ORLEANS DISTRICT.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131709/full/!760,760/0/default.jpg#xywh=1238,1150,766,40",
+      "id": "https://hadro.github.io/brewery-guides/1917/0076_5131709_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "President. Henry Dihlmann.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131709/full/!760,760/0/default.jpg#xywh=884,1220,750,40",
+      "id": "https://hadro.github.io/brewery-guides/1917/0076_5131709_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vice-President, George Waffenschmidt.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131709/full/!760,760/0/default.jpg#xywh=882,1268,1028,50",
+      "id": "https://hadro.github.io/brewery-guides/1917/0076_5131709_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Treasurer, John Rettenmaier.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131709/full/!760,760/0/default.jpg#xywh=882,1328,800,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0076_5131709_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secretary, Fritz Baldenhoefer, National Brewing Co., New Orleans, La.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131709/full/!760,760/0/default.jpg#xywh=882,1374,1516,52",
+      "id": "https://hadro.github.io/brewery-guides/1917/0076_5131709_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "NEW YORK DISTRICT.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131709/full/!760,760/0/default.jpg#xywh=1294,1542,656,40",
+      "id": "https://hadro.github.io/brewery-guides/1917/0076_5131709_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "President, Robert Weigel.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131709/full/!760,760/0/default.jpg#xywh=880,1614,688,40",
+      "id": "https://hadro.github.io/brewery-guides/1917/0076_5131709_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vice-President, Max Papai.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131709/full/!760,760/0/default.jpg#xywh=884,1666,716,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0076_5131709_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Treasurer, John Knoll.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131709/full/!760,760/0/default.jpg#xywh=882,1720,624,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0076_5131709_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secretary, John König, Jr., Lembeck & Betz Eagle Brewing Co., Jersey City, N. J.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131709/full/!760,760/0/default.jpg#xywh=882,1756,1516,72",
+      "id": "https://hadro.github.io/brewery-guides/1917/0076_5131709_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "NORTHWESTERN DISTRICT.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131709/full/!760,760/0/default.jpg#xywh=1210,1930,826,40",
+      "id": "https://hadro.github.io/brewery-guides/1917/0076_5131709_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "President, John Aubele, St. Paul, Minn.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131709/full/!760,760/0/default.jpg#xywh=882,2002,1102,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0076_5131709_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vice-President, John Bierhalter, Duluth, Minn.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131709/full/!760,760/0/default.jpg#xywh=884,2050,1286,48",
+      "id": "https://hadro.github.io/brewery-guides/1917/0076_5131709_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Treasurer, William Figge, St. Paul, Minn.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131709/full/!760,760/0/default.jpg#xywh=882,2106,1146,48",
+      "id": "https://hadro.github.io/brewery-guides/1917/0076_5131709_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secretary, Joseph Dinzl, Yoerg Brewing Co., St. Paul, Minn.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131709/full/!760,760/0/default.jpg#xywh=886,2162,1414,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0076_5131709_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "PHILADELPHIA DISTRICT.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131709/full/!760,760/0/default.jpg#xywh=1230,2354,780,50",
+      "id": "https://hadro.github.io/brewery-guides/1917/0076_5131709_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "President, William Hipp, Philadelphia.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131709/full/!760,760/0/default.jpg#xywh=882,2422,1062,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0076_5131709_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vice-President, George N. Wagner, Philadelphia.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131709/full/!760,760/0/default.jpg#xywh=886,2478,1298,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0076_5131709_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Treasurer, Martin Grauer, Philadelphia.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131709/full/!760,760/0/default.jpg#xywh=882,2532,1072,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0076_5131709_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secretary, Paul Kaiser, Weger Bros. Brewery, Philadelphia.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131709/full/!760,760/0/default.jpg#xywh=886,2586,1428,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0076_5131709_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "PITTSBURGH DISTRICT.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131709/full/!760,760/0/default.jpg#xywh=1254,2734,722,40",
+      "id": "https://hadro.github.io/brewery-guides/1917/0076_5131709_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "President, Fred G. Klussmann, Millvale, Pa.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131709/full/!760,760/0/default.jpg#xywh=884,2806,1222,40",
+      "id": "https://hadro.github.io/brewery-guides/1917/0076_5131709_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vice-President, Arthur Henius.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131709/full/!760,760/0/default.jpg#xywh=886,2856,856,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0076_5131709_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Treasurer, Charles Wieland, Pittsburgh, Pa.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131709/full/!760,760/0/default.jpg#xywh=884,2910,1198,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0076_5131709_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Secretary, Charles Zimmermann, Monessen Brewery, Monessen, Pa.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131709/full/!760,760/0/default.jpg#xywh=884,2964,1446,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0076_5131709_gemini-2.0-flash_annotations/line/33"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1917/0076_5131709_gemini-2.0-flash_annotations"
+}

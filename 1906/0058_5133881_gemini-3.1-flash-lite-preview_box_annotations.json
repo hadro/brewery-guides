@@ -1,0 +1,381 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Alexandria, VIRGINIA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=694,522,1426,56",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Newport News, VIRGINIA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=708,612,1422,60",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Norfolk, VIRGINIA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=1248,2724,814,58",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Richmond, VIRGINIA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=700,774,1422,82",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Richmond, VIRGINIA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=800,890,1322,54",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Roanoke, VIRGINIA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=2350,2780,48,30",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rosslyn, VIRGINIA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=1244,2816,900,58",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Aberdeen, WASHINGTON",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=698,1196,1430,68",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bellingham, WASHINGTON",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=708,1290,1442,60",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chelan Falls, WASHINGTON",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=706,1384,1520,58",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cheney, WASHINGTON",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=2294,1420,104,40",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chewelah, WASHINGTON",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=2294,1468,104,44",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Colfax, WASHINGTON",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=708,1526,1430,56",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Colville, WASHINGTON",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=1290,1702,928,72",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ellensburgh, WASHINGTON",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=2290,1742,108,50",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ellensburgh, WASHINGTON",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=872,1748,1350,72",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Everett, WASHINGTON",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=714,1808,1510,50",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Loomis, WASHINGTON",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=2294,2854,104,98",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miles, WASHINGTON",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=716,1894,1506,60",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "North Yakıma, WASHINGTON",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=714,1938,1418,66",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Olympia, WASHINGTON",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=712,2028,1514,66",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Palouse, WASHINGTON",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=714,2078,1504,60",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Palouse, WASHINGTON",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=794,2128,1430,54",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Port Angeles, WASHINGTON",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=712,2172,1450,64",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Republic, WASHINGTON",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=714,2264,1512,62",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Roslyn, WASHINGTON",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=714,2308,1512,62",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Seattle, WASHINGTON",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=714,2360,1420,58",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Seattle, WASHINGTON",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=1240,2456,458,40",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-3.1-flash-lite-preview_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Seattle, WASHINGTON",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=1242,2586,988,56",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-3.1-flash-lite-preview_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Seattle, WASHINGTON",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=1250,2688,592,40",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-3.1-flash-lite-preview_box_annotations.json/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Seattle, WASHINGTON",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=850,2734,332,52",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-3.1-flash-lite-preview_box_annotations.json/entry/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Seattle, WASHINGTON",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=2286,2922,114,82",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-3.1-flash-lite-preview_box_annotations.json/entry/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Spokane, WASHINGTON",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=1230,2910,924,54",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-3.1-flash-lite-preview_box_annotations.json/entry/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Spokane, WASHINGTON",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133881/full/!760,760/0/default.jpg#xywh=1240,3002,892,58",
+      "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-3.1-flash-lite-preview_box_annotations.json/entry/33"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1906/0058_5133881_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

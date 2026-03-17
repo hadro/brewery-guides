@@ -1,0 +1,451 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "PENNSYLVANIA—Continued.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=380,394,972,40",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pittston........ Hughes, Estate of H. R. (See Penna. Central Brewing Co.)",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=100,464,1450,56",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pottstown........ Pottstown Brewing Co........................................................................................................A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=100,560,1532,50",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pottsville........ Rettig Brewing Co., 818 West Market st...................................................................A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=96,612,1442,54",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pottsville........ Schmidt, Estate of Lorenz, Mount Carbon.....................................................................A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=306,694,1240,70",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pottsville........ *Yuengling, D. G., & Son, Mohantongo st................................................................A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=186,752,1448,106",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Punxsutawney........ Elk Run Brewing Co..................................................................................................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=100,886,1536,64",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Punxsutawney........ Punxsutawney Brewing Co......................................................................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=0,904,40,32",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Reading........ *Barbey, P., & Son, Huckley and Gordon sts.......................................................................A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=96,924,1544,172",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Reading........ *Deppen Brewing Co., 933 Chestnut street........................................................................A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=266,1042,1276,112",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Reading........ *Lauer Brewing Co., Limited, 3d and Chestnut sts.............................................................A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=160,1124,1474,110",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Reading........ Reading Brewing Co., South 9th and Laurel sts...................................................................A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=268,1254,1262,126",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Reading........ Stocker, Estate of John C., North 11th st...........................................................................A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=274,1352,1250,64",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Renovo........ Binder, Edward L..................................................................................................................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=88,1430,1532,84",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rochester........ Beaver Valley Brewing Co., New York and Sycamore sts.............................................A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=90,1504,1446,52",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Saint Mary's........ St. Mary's Brewing Co., Hall ave..............................................................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=0,1554,1628,122",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Saint Mary's........ Straub, Peter, Brussel st....................................................................................................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=0,1640,1626,112",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sayre........ Sayre Brewing Co., Ltd., Thomas ave............................................................................................A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=190,2118,368,44",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Scranton........ Anthracite Beer Co., 420 Nay Aug avenue............................................................................A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=84,2482,1444,58",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Scranton........ Arnold, John, Hazelton.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=234,2540,1292,102",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Scranton........ Casey & Kelly Brewing Co., Remington ave. and Locust st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=86,2720,1438,58",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Scranton........ Hartung, A., Honesdale.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=192,2770,1428,104",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Scranton........ Hughes, Estate of H. R., Pittston.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=80,2872,1446,94",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Scranton........ Hughes & Glennon, Pittston.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=654,518,798,48",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Scranton........ Krantz, Peter, Carbondale.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=670,662,962,52",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Scranton........ Lackawanna Brewing Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=674,858,338,36",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Scranton........ Reichard & Weaver, Wilkesbarre.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=680,1220,948,54",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Scranton........ Robinson's, E., Sons, 435 N. 7th st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=678,1842,948,40",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Scranton........ Scranton Brewing Co., 312 Alder st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=630,1930,900,48",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Scranton........ Standard Brewing Co., Penn and Walnut sts..........................................................................A †",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=666,1974,698,52",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Shamokin........ Fuhrmann & Schmidt, Commerce and Washington sts.....................................................A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=628,2024,656,48",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Shamokin........ Shamokin Brewing Co., Harrison street................................................................................A L W B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=628,2168,730,44",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sharon........ Union Brewing Co................................................................................................................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=628,2214,694,40",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Shenandoah........ Columbia Brewing Co., 110 Main street................................................................................A L W B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=628,2254,902,56",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Shenandoah........ Home Brewing Co., Inc., 234 N. Main steet...........................................................................A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=628,2306,896,44",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "South Bethlehem........ South Bethlehem Brewing Co., 4th and Elm sts.......................................................................A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=644,2442,980,56",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Spangler........ Spangler Brewing Co............................................................................................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133878/full/!760,760/0/default.jpg#xywh=630,2536,988,50",
+      "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations/line/36"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1906/0055_5133878_gemini-2.0-flash_annotations"
+}

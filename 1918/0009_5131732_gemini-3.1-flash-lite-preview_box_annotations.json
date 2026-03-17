@@ -1,0 +1,51 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fairbanks, ALASKA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131732/full/!760,760/0/default.jpg#xywh=170,2806,1528,58",
+      "id": "https://hadro.github.io/brewery-guides/1918/0009_5131732_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Juneau, ALASKA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131732/full/!760,760/0/default.jpg#xywh=168,2848,1530,114",
+      "id": "https://hadro.github.io/brewery-guides/1918/0009_5131732_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Nome, ALASKA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131732/full/!760,760/0/default.jpg#xywh=172,2952,1436,48",
+      "id": "https://hadro.github.io/brewery-guides/1918/0009_5131732_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Valdez, ALASKA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131732/full/!760,760/0/default.jpg#xywh=0,2968,140,108",
+      "id": "https://hadro.github.io/brewery-guides/1918/0009_5131732_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1918/0009_5131732_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

@@ -1,0 +1,499 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "BRAZIL.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=1484,428,316,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bahia ........................Antonio Viera de Andrede, Rua Santos,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=906,490,1492,74",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "........................Manoel Victorino.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=1462,568,476,40",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bello Horizonte..........Fabrica Rhenania, Avenida Oyap Sao Paulo",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=906,616,1492,88",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "........................252.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=1470,706,112,36",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Campinas ...................Fabrica de Cerveja Columbia, R",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=906,762,1482,56",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "........................Andrade Neves 48a.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=1468,828,540,48",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Campinas ...................Fabrica de Cerveja Polar, Rua Is",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=1196,892,1198,48",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "........................Moroes Salles 179.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=1470,956,512,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Juiz de Fora................Cervejaria Germania.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=896,1022,1082,54",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Limache ....................Compania Cervecerias Unidas.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=906,1084,1328,56",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Para ........................Fabrica de Cervejas Paraense, Av",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=908,1148,1414,54",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "........................nida de Independcia 12.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=1470,1216,662,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pelotas ......................Leopoldo Haertel.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=910,1274,988,56",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pelotas ......................Ritter & Irmas.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=1132,1344,702,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pernambuco ..................Cervejaria Pernambucana.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=910,1410,1206,50",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Porto Alegre................Federico Christoffel, Rua Vol.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=912,1472,1368,62",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "........................Patria 487.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=1472,1546,312,40",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Porto Alegre................Fabrica de Cerveja Oriente, R",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=1254,1602,1070,52",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "........................Christovas Colombo 61.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=1474,1668,648,48",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Porto Alegre................H. Ritter 1 Filhos, Rua Vol.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=1256,1728,1024,52",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "........................Patria 501.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=1476,1798,324,40",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rio de Janeiro..............Cervejaria Bohemia, Rua Municipi",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=916,1852,1482,62",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "........................32.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=1482,1926,82,36",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rio de Janeiro..............Cervejaria Brahma, Rua Viscono",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=1286,1982,1112,52",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "........................Sapucahy 200.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=1476,2048,386,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rio de Janeiro..............Cerveja Cruzeira, Rua San Cristova",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=1276,2086,1122,110",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "........................221.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=1480,2184,116,36",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rio de Janeiro..............Cerveja Internacional, Praca Tir",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=1284,2210,1114,110",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "........................dentes 66.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=1476,2308,278,40",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rio de Janeiro..............Cervejaria Polonia, Rua de Asse",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=1278,2362,1120,58",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "........................bléa 117.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=1470,2432,314,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rio de Janeiro..............Companhia Hanseatica, Rua",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=1286,2496,958,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "........................Jose Hygina 115.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=1484,2556,478,48",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rio de Janeiro..............Les Grandes Brasseries, Rua Ser",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=1292,2614,1106,56",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "........................dor Dantas 104.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=1478,2682,448,40",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rio de Janeiro..............Viveiros y Cia., Rua S. Francis",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=1294,2748,1102,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "........................Xavier 175.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=1470,2808,322,40",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rio Grande do Sul. Anselmo y Schmidt, Boulevard",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=916,2866,1368,56",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "........................de Julho.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=1478,2934,294,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Santa Maria................Viuva Keller y Filhos.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131693/full/!760,760/0/default.jpg#xywh=922,2992,1110,54",
+      "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations/line/40"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1917/0060_5131693_gemini-2.0-flash_annotations"
+}

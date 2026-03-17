@@ -1,0 +1,379 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "CONNECTICUT—Continued.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133839/full/!760,760/0/default.jpg#xywh=740,400,930,62",
+      "id": "https://hadro.github.io/brewery-guides/1906/0016_5133839_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Haven.......Fresenius', Ph., Sons, 488 Congress ave...................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133839/full/!760,760/0/default.jpg#xywh=464,476,1436,78",
+      "id": "https://hadro.github.io/brewery-guides/1906/0016_5133839_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Haven.......Hull, Wm., & Son, 14 Whiting st........................A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133839/full/!760,760/0/default.jpg#xywh=728,566,1252,78",
+      "id": "https://hadro.github.io/brewery-guides/1906/0016_5133839_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Haven.......Weibel Brewing Co., 322 Oak st......................AL",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133839/full/!760,760/0/default.jpg#xywh=720,610,1260,84",
+      "id": "https://hadro.github.io/brewery-guides/1906/0016_5133839_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Haven.......Yale Brewing Co., Inc., Ferry and River sts................ALB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133839/full/!760,760/0/default.jpg#xywh=722,664,1174,72",
+      "id": "https://hadro.github.io/brewery-guides/1906/0016_5133839_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Orange...............Weidemann Brewery Co.......................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133839/full/!760,760/0/default.jpg#xywh=466,742,1522,94",
+      "id": "https://hadro.github.io/brewery-guides/1906/0016_5133839_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Thompsonville....Connecticut Valley Brewing Co..............................A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133839/full/!760,760/0/default.jpg#xywh=466,796,1524,92",
+      "id": "https://hadro.github.io/brewery-guides/1906/0016_5133839_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Union City..........Weber, Aug.............................................................W B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133839/full/!760,760/0/default.jpg#xywh=466,842,1524,142",
+      "id": "https://hadro.github.io/brewery-guides/1906/0016_5133839_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Waterbury..........Eagle Brewing Co., Inc., Riverside Park................AL",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133839/full/!760,760/0/default.jpg#xywh=582,938,1412,132",
+      "id": "https://hadro.github.io/brewery-guides/1906/0016_5133839_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Waterbury..........Hellmann Brewing Co., 1090 Bank street................AL",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133839/full/!760,760/0/default.jpg#xywh=1054,1038,940,60",
+      "id": "https://hadro.github.io/brewery-guides/1906/0016_5133839_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "DELAWARE.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133839/full/!760,760/0/default.jpg#xywh=994,1112,526,70",
+      "id": "https://hadro.github.io/brewery-guides/1906/0016_5133839_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wilmington.........Bavarian Brewing Co., 5th and Dupont streets.........AL",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133839/full/!760,760/0/default.jpg#xywh=474,1192,1442,80",
+      "id": "https://hadro.github.io/brewery-guides/1906/0016_5133839_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wilmington.........Blouth, Henry..............................................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133839/full/!760,760/0/default.jpg#xywh=752,1288,1248,62",
+      "id": "https://hadro.github.io/brewery-guides/1906/0016_5133839_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wilmington.........Hartmann & Fehrenbach Brewing Co., Scott st. and Lovering avenue....................................................ALB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133839/full/!760,760/0/default.jpg#xywh=760,1334,1170,66",
+      "id": "https://hadro.github.io/brewery-guides/1906/0016_5133839_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wilmington.........Schaefer, Mary E., 17th and Union streets................W B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133839/full/!760,760/0/default.jpg#xywh=766,1472,1144,68",
+      "id": "https://hadro.github.io/brewery-guides/1906/0016_5133839_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wilmington.........Stoeckle, Jos., Brewing Co., 5th and Adams sts............AL",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133839/full/!760,760/0/default.jpg#xywh=1070,1614,940,62",
+      "id": "https://hadro.github.io/brewery-guides/1906/0016_5133839_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wooddale............Biedermann, George J................................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133839/full/!760,760/0/default.jpg#xywh=484,1658,1524,80",
+      "id": "https://hadro.github.io/brewery-guides/1906/0016_5133839_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "DISTRICT OF COLUMBIA.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133839/full/!760,760/0/default.jpg#xywh=746,1750,1002,70",
+      "id": "https://hadro.github.io/brewery-guides/1906/0016_5133839_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Washington.........Abner-Drury Brewing Co., 25th and F sts, N. W..........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133839/full/!760,760/0/default.jpg#xywh=488,1828,1440,84",
+      "id": "https://hadro.github.io/brewery-guides/1906/0016_5133839_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Washington.........Danhakl, Anton.......................................................W B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133839/full/!760,760/0/default.jpg#xywh=776,1922,1242,72",
+      "id": "https://hadro.github.io/brewery-guides/1906/0016_5133839_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Washington.........Heurich, Christian, Brewing Co., 25th and Water sts., N. W..............................................................AL",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133839/full/!760,760/0/default.jpg#xywh=772,1970,1150,72",
+      "id": "https://hadro.github.io/brewery-guides/1906/0016_5133839_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Washington.........National Capital Brewing Co., D and 14th sts., S. E........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133839/full/!760,760/0/default.jpg#xywh=768,2068,1158,68",
+      "id": "https://hadro.github.io/brewery-guides/1906/0016_5133839_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Washington.........Washington Brewery Co., Limited, 400 E st., N. E..........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133839/full/!760,760/0/default.jpg#xywh=766,2158,1254,114",
+      "id": "https://hadro.github.io/brewery-guides/1906/0016_5133839_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "FLORIDA.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133839/full/!760,760/0/default.jpg#xywh=1076,2302,382,40",
+      "id": "https://hadro.github.io/brewery-guides/1906/0016_5133839_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tampa.................Florida Brewing Co., 13th st. and 5th ave................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133839/full/!760,760/0/default.jpg#xywh=924,2354,1006,78",
+      "id": "https://hadro.github.io/brewery-guides/1906/0016_5133839_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "GEORGIA.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133839/full/!760,760/0/default.jpg#xywh=1072,2500,398,58",
+      "id": "https://hadro.github.io/brewery-guides/1906/0016_5133839_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Atlanta...............Atlanta Brewing & Ice Co., Courtland and Harris sts.....L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133839/full/!760,760/0/default.jpg#xywh=1072,2616,954,64",
+      "id": "https://hadro.github.io/brewery-guides/1906/0016_5133839_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Augusta.............Augusta Brewing Co., 13th, Fenwick and Nelson sts.......L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133839/full/!760,760/0/default.jpg#xywh=508,2662,1450,88",
+      "id": "https://hadro.github.io/brewery-guides/1906/0016_5133839_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Columbus............Dixie Brewery & Ice Factory, Front and 6th sts...........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133839/full/!760,760/0/default.jpg#xywh=508,2754,1454,88",
+      "id": "https://hadro.github.io/brewery-guides/1906/0016_5133839_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Macon.................Acme Brewing Co., Bay and Hammond sts................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133839/full/!760,760/0/default.jpg#xywh=514,2832,1438,102",
+      "id": "https://hadro.github.io/brewery-guides/1906/0016_5133839_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Savannah............Savannah Brewing Co., Indian street.........................ALB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133839/full/!760,760/0/default.jpg#xywh=514,2938,1430,92",
+      "id": "https://hadro.github.io/brewery-guides/1906/0016_5133839_gemini-2.0-flash_annotations/line/30"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1906/0016_5133839_gemini-2.0-flash_annotations"
+}

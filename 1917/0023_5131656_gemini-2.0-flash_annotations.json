@@ -1,0 +1,451 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MINNESOTA—Continued.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=516,410,830,40",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Glencoe........ *Glencoe Brewing Co....................................................................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=180,486,1518,54",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hastings........ Hastings Brewing Co. (G. Kuenzel, Prop.)...................................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=186,538,1418,60",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Henderson........ *Enes, Hans...........................................................................................................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=0,540,152,100",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hutchinson........ *Hajicek, Joseph, 3d st......................................................................................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=178,580,1536,420",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jordan........ Jordan Brewing Association...............................................................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=682,590,1016,50",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jordan........ *Schutz & Hilgers..................................................................................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=0,608,180,132",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Little Falls........ *Kiewel, Jac., Brewing Co., Inc.............................................................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=0,692,178,140",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Long Prairie........ Long Prairie Brewing Co.......................................................................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=6,810,160,106",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mankato........ *Bierbauer, Wm., Brewing Co................................................................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=0,884,164,88",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mantorville........ Schnagl, F. (John Geo. and Ferd. Schnagl)..........................................................................",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=186,960,1420,62",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Melrose........ Melrose Brewing Co.............................................................................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=184,1042,1514,74",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Minneapolis........ *Gluek Brewing Co., Marshall st. and 20th ave.....................................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=186,1106,1426,64",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Minneapolis........ Hennepin Brewing Co., 1900 Third st., N. E..........................................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=0,1130,140,56",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Minneapolis........ *Minneapolis Brew'g Co., Marshall st. and 13th ave............................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=280,1154,1426,214",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Minneapolis........ Purity Brew'g Co., 211 14th ave. S........................................................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=0,1222,146,66",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Minnesota City........ *Vill, Otto, Lake st......................................................................................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=182,1324,1530,288",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Montgomery........ *Montgomery Brewing Co...........................................................................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=0,1338,150,40",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Munich........ *Pitzl, Mathias...........................................................................................................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=0,1530,144,40",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Prague........ New Prague Brewing Co.......................................................................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=192,1578,1516,112",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Ulm........ *Hauenstein, John, Brewing Co., Jefferson and 16th sts. South.......................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=0,1626,140,38",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Ulm........ *New Ulm Brewing & Malting Co., German st......................................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=276,1666,1434,200",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Ulm........ *Schell, August, Brewing Co................................................................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=0,1752,144,56",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Northfield........ *Wenner, Herman, Greenvale avenue.............................................................................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=196,1864,1424,62",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Owatonna........ *Ganser, Estate Peter (Wm. C. Zamboni)...............................................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=194,1912,1514,106",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Preston........ Knapp, August F...................................................................................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=0,1996,140,40",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Red Wing........ *Red Wing Brewing Co., 1602 West Main st...........................................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=0,2152,142,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Red Wing........ *Remmler, Estate Adolph, 5th and Bush sts.........................................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=754,2248,374,40",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rochester........ *Schuster Brewing Co., Inc., 420 South Main st......................................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=198,2286,1422,54",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Saint Cloud........ *Preiss Brewing Co. (Andrew Preiss, Jr., Proprietor), 9th ave. and 6th st.......................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=462,2426,1258,162",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Saint Cloud........ Udermann, Val., Brewing Co., 6th ave. and 4th st................................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=770,2572,946,48",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Saint Paul........ *Hamm, Theodore, Brewing Co., Minnehaha & Greenbriar sts.............................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=196,2616,1424,54",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Saint Paul........ Schmidt, Jacob, Brewing Co., 882 W. 7th st.......................................................................",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=426,2698,1296,126",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Saint Paul........ *Yoerg Brewing Co., Ohio and Ethel sts..............................................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=192,2796,1526,166",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Saint Peter........ *Engesser Brewing Co. (Mankato Loan & Trust Co., Receiver)...........................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=742,2950,982,48",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Shakopee........ *Nyssen, Hubert......................................................................................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=198,2988,1524,58",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Silver Lake........ Silver Lake Brewing Co.............................................................................................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131656/full/!760,760/0/default.jpg#xywh=200,3042,1522,50",
+      "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations/line/36"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1917/0023_5131656_gemini-2.0-flash_annotations"
+}

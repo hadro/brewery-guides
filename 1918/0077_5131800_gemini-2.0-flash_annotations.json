@@ -1,0 +1,127 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Established 1876",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131800/full/!760,760/0/default.jpg#xywh=656,384,642,98",
+      "id": "https://hadro.github.io/brewery-guides/1918/0077_5131800_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Isaac Goldmann",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131800/full/!760,760/0/default.jpg#xywh=334,818,1320,182",
+      "id": "https://hadro.github.io/brewery-guides/1918/0077_5131800_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Company",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131800/full/!760,760/0/default.jpg#xywh=598,1076,812,158",
+      "id": "https://hadro.github.io/brewery-guides/1918/0077_5131800_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "PRINTING",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131800/full/!760,760/0/default.jpg#xywh=446,1444,1134,156",
+      "id": "https://hadro.github.io/brewery-guides/1918/0077_5131800_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "OF EVERY DESCRIPTION",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131800/full/!760,760/0/default.jpg#xywh=588,1622,852,96",
+      "id": "https://hadro.github.io/brewery-guides/1918/0077_5131800_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "AND IN ALL MODERN LANGUAGES",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131800/full/!760,760/0/default.jpg#xywh=348,1728,1336,106",
+      "id": "https://hadro.github.io/brewery-guides/1918/0077_5131800_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "80 Lafayette Street",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131800/full/!760,760/0/default.jpg#xywh=496,1972,1060,122",
+      "id": "https://hadro.github.io/brewery-guides/1918/0077_5131800_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Franklin to White Street",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131800/full/!760,760/0/default.jpg#xywh=644,2166,760,82",
+      "id": "https://hadro.github.io/brewery-guides/1918/0077_5131800_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "NEW YORK",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131800/full/!760,760/0/default.jpg#xywh=776,2340,506,96",
+      "id": "https://hadro.github.io/brewery-guides/1918/0077_5131800_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Telephone, Franklin *4520",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131800/full/!760,760/0/default.jpg#xywh=542,2794,1000,112",
+      "id": "https://hadro.github.io/brewery-guides/1918/0077_5131800_gemini-2.0-flash_annotations/line/9"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1918/0077_5131800_gemini-2.0-flash_annotations"
+}

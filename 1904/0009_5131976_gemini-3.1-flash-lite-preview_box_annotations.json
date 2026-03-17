@@ -1,0 +1,62 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Birmingham, ALABAMA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131976/full/!760,760/0/default.jpg#xywh=388,2614,1444,52",
+      "id": "https://hadro.github.io/brewery-guides/1904/0009_5131976_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Birmingham, ALABAMA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131976/full/!760,760/0/default.jpg#xywh=526,2708,46,30",
+      "id": "https://hadro.github.io/brewery-guides/1904/0009_5131976_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mobile, ALABAMA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131976/full/!760,760/0/default.jpg#xywh=392,2756,1450,52",
+      "id": "https://hadro.github.io/brewery-guides/1904/0009_5131976_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mobile, ALABAMA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131976/full/!760,760/0/default.jpg#xywh=566,2844,1280,60",
+      "id": "https://hadro.github.io/brewery-guides/1904/0009_5131976_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Montgomery, ALABAMA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131976/full/!760,760/0/default.jpg#xywh=954,2988,986,54",
+      "id": "https://hadro.github.io/brewery-guides/1904/0009_5131976_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1904/0009_5131976_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

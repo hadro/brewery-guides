@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "THE GERMAN-AMERICAN FILTER COMPANY,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131811/full/!760,760/0/default.jpg#xywh=654,2910,1495,87",
+      "id": "https://hadro.github.io/brewery-guides/1899/0002_5131811_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "SUCCESSORS Tο S. & F. UHLMANN,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131811/full/!760,760/0/default.jpg#xywh=1001,3024,810,60",
+      "id": "https://hadro.github.io/brewery-guides/1899/0002_5131811_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "69 Broad Street, NEW YORK.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131811/full/!760,760/0/default.jpg#xywh=814,3093,1189,59",
+      "id": "https://hadro.github.io/brewery-guides/1899/0002_5131811_gemini-2.0-flash_annotations/line/2"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1899/0002_5131811_gemini-2.0-flash_annotations"
+}

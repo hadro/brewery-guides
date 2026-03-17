@@ -1,0 +1,571 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brewers' Guide",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=1444,448,556,56",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "18",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=819,453,82,46",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "CALIFORNIA—CONTINUED.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=1246,597,959,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Auburn.....................Weber, Julius....................L-E 5",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=819,691,1794,60",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Benecia....................Gnauck, Gustav................L P M B-E 4",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=814,768,1797,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bishop Creek..............Munzinger, L. & C.............L M B-E 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=817,849,1796,59",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bodie......................Carian, Nicholas...................L-E 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=817,926,1794,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cherokee...................Bader, Elizabeth....................L-E 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=814,1001,1799,65",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chico.......................Popp, Michael......................L B-E 5",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=817,1083,1794,60",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cloverdale..................Reger, Vitol........................L-E 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=817,1162,1796,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Columbia...................Nelson, O. C........................P L-E 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=817,1239,1796,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"..........................¶Inderries, Chas.....................L-E 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=1104,1319,1507,60",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"..........................Bauer, Albert........................L-E 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=1104,1398,1507,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Crescent City...............Hess, Gottlieb, suc. to Crusius,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=810,1473,1607,60",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Frank..............................L-E 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=1533,1552,1076,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dixon......................Schomer & Oberholzer.............L-E 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=805,1629,1799,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Downieville.................Bosch, F...........................L-E 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=805,1708,1799,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Etna Mills..................Kappler, Chas.....................L M-E 5",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=807,1790,1799,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Eureka.....................Haltinner, John U................L-E 4",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=805,1862,1801,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"..........................Rooney & Degnau..................L-E 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=1041,1949,1565,60",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Forest Hill.................Beckstrum, F. A...................L M-E 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=805,2028,1801,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fort Bidwell................Fulcher, Max...............A P L M B-E 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=805,2107,1801,59",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Gibsonville..................Bressel, J...........................L-E 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=807,2184,1799,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Gilroy......................Casey, M............................L-E 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=793,2264,1811,60",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Grass Valley................Binkelmann, Sophia..............L-E 3",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=796,2341,1806,60",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"..........................Frank Bros..........................L-E 5",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=1181,2420,1425,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"..........................Mitchell, W. F...................A P L-E 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=1181,2495,1423,60",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Greenwood.................Muhlbach, Nancy...................L-E 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=798,2569,1806,73",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Groveland..................Muller, Eugene (Garrote Brew-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=800,2646,1615,75",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ery)..............................L M-E 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=1524,2726,1082,86",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Haywards...................Bult, Peter........................L M-E 4",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=803,2803,1803,77",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"..........................Palmtag & Heyer....................L-E 4",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=1132,2882,1477,72",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Healdsburgh................Muller, Carl.......................L M-E 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=803,2959,1803,77",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hollister....................Hollister Bry. Co..................L-E 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=800,3036,1804,82",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ione........................Herschel, Joseph....................L-E 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=805,3115,1801,82",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jackson.....................Strohm, J..........................L B-E 5",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=805,3190,1801,86",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Johnsville..................¶Werner, John C....................L-E 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=805,3269,1801,84",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Livermore...................Jordan, Wendell...................L M B-E 5",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=805,3349,1804,86",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lorin.......................Wilmot, Chas. & Co...............L-E 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=805,3428,1801,84",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lower Lake.................Link, C. F.........................L B-E 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=805,3510,1801,77",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Los Angeles................Maier & Zobelein Bry.......P L M B-C 8",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=805,3582,1806,91",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Maryville...................Sieber, Louis........................L-E 4",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=807,3662,1809,88",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mayfield....................Ducker, C..........................L B-E 4",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=807,3743,1806,84",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mendocino..................Sarowskji, J. C.....................L-E 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=807,3823,1802,79",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/43"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Middletown.................Munz, M............................L B-E 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=807,3904,1799,75",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Modesto....................Sorensen, R. A.....................L-E 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=807,3981,1802,77",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/45"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mokelumne Hill.............Himmighofer & Suessdorf.........L-E 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142942/full/!760,760/0/default.jpg#xywh=810,4058,1799,80",
+      "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations/line/46"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1896/0018_5142942_gemini-2.0-flash_annotations"
+}

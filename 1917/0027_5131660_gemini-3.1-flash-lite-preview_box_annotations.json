@@ -1,0 +1,304 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Manchester, NEW HAMPSHIRE",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131660/full/!760,760/0/default.jpg#xywh=0,452,1596,116",
+      "id": "https://hadro.github.io/brewery-guides/1917/0027_5131660_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Portsmouth, NEW HAMPSHIRE",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131660/full/!760,760/0/default.jpg#xywh=0,598,180,68",
+      "id": "https://hadro.github.io/brewery-guides/1917/0027_5131660_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Portsmouth, NEW HAMPSHIRE",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131660/full/!760,760/0/default.jpg#xywh=204,596,1486,216",
+      "id": "https://hadro.github.io/brewery-guides/1917/0027_5131660_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Portsmouth, NEW HAMPSHIRE",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131660/full/!760,760/0/default.jpg#xywh=6,876,168,74",
+      "id": "https://hadro.github.io/brewery-guides/1917/0027_5131660_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Atlantic City, NEW JERSEY",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131660/full/!760,760/0/default.jpg#xywh=0,936,1596,94",
+      "id": "https://hadro.github.io/brewery-guides/1917/0027_5131660_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Camden, NEW JERSEY",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131660/full/!760,760/0/default.jpg#xywh=168,1052,1442,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0027_5131660_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Egg Harbor City, NEW JERSEY",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131660/full/!760,760/0/default.jpg#xywh=0,1110,1692,196",
+      "id": "https://hadro.github.io/brewery-guides/1917/0027_5131660_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Elizabeth, NEW JERSEY",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131660/full/!760,760/0/default.jpg#xywh=156,1180,1532,56",
+      "id": "https://hadro.github.io/brewery-guides/1917/0027_5131660_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Elizabeth, NEW JERSEY",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131660/full/!760,760/0/default.jpg#xywh=0,1652,174,40",
+      "id": "https://hadro.github.io/brewery-guides/1917/0027_5131660_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Harrison, NEW JERSEY",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131660/full/!760,760/0/default.jpg#xywh=0,1706,174,32",
+      "id": "https://hadro.github.io/brewery-guides/1917/0027_5131660_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jersey City, NEW JERSEY",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131660/full/!760,760/0/default.jpg#xywh=0,1746,160,40",
+      "id": "https://hadro.github.io/brewery-guides/1917/0027_5131660_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Newark, NEW JERSEY",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131660/full/!760,760/0/default.jpg#xywh=294,1782,1402,224",
+      "id": "https://hadro.github.io/brewery-guides/1917/0027_5131660_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Newark, NEW JERSEY",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131660/full/!760,760/0/default.jpg#xywh=0,1940,154,38",
+      "id": "https://hadro.github.io/brewery-guides/1917/0027_5131660_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Newark, NEW JERSEY",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131660/full/!760,760/0/default.jpg#xywh=0,2038,150,36",
+      "id": "https://hadro.github.io/brewery-guides/1917/0027_5131660_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Newark, NEW JERSEY",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131660/full/!760,760/0/default.jpg#xywh=0,2130,158,36",
+      "id": "https://hadro.github.io/brewery-guides/1917/0027_5131660_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Newark, NEW JERSEY",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131660/full/!760,760/0/default.jpg#xywh=298,2158,1400,124",
+      "id": "https://hadro.github.io/brewery-guides/1917/0027_5131660_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Newark, NEW JERSEY",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131660/full/!760,760/0/default.jpg#xywh=240,2240,1366,92",
+      "id": "https://hadro.github.io/brewery-guides/1917/0027_5131660_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Newark, NEW JERSEY",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131660/full/!760,760/0/default.jpg#xywh=240,2328,1360,106",
+      "id": "https://hadro.github.io/brewery-guides/1917/0027_5131660_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Newark, NEW JERSEY",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131660/full/!760,760/0/default.jpg#xywh=0,2406,124,54",
+      "id": "https://hadro.github.io/brewery-guides/1917/0027_5131660_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Newark, NEW JERSEY",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131660/full/!760,760/0/default.jpg#xywh=696,2398,1004,240",
+      "id": "https://hadro.github.io/brewery-guides/1917/0027_5131660_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Newark, NEW JERSEY",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131660/full/!760,760/0/default.jpg#xywh=26,2450,126,58",
+      "id": "https://hadro.github.io/brewery-guides/1917/0027_5131660_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Newark, NEW JERSEY",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131660/full/!760,760/0/default.jpg#xywh=0,2640,134,60",
+      "id": "https://hadro.github.io/brewery-guides/1917/0027_5131660_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Newark, NEW JERSEY",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131660/full/!760,760/0/default.jpg#xywh=0,2840,128,58",
+      "id": "https://hadro.github.io/brewery-guides/1917/0027_5131660_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Newark, NEW JERSEY",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131660/full/!760,760/0/default.jpg#xywh=712,2728,892,58",
+      "id": "https://hadro.github.io/brewery-guides/1917/0027_5131660_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Newark, NEW JERSEY",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131660/full/!760,760/0/default.jpg#xywh=712,2830,986,50",
+      "id": "https://hadro.github.io/brewery-guides/1917/0027_5131660_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Newark, NEW JERSEY",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131660/full/!760,760/0/default.jpg#xywh=704,2874,908,56",
+      "id": "https://hadro.github.io/brewery-guides/1917/0027_5131660_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Newark, NEW JERSEY",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131660/full/!760,760/0/default.jpg#xywh=708,2968,990,98",
+      "id": "https://hadro.github.io/brewery-guides/1917/0027_5131660_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1917/0027_5131660_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

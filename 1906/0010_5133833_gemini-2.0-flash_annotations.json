@@ -1,0 +1,91 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MAIN OFFICES: 24 Park Place, New York.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133833/full/!760,760/0/default.jpg#xywh=720,2724,1400,84",
+      "id": "https://hadro.github.io/brewery-guides/1906/0010_5133833_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "WESTERN OFFICE:",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133833/full/!760,760/0/default.jpg#xywh=698,2864,470,40",
+      "id": "https://hadro.github.io/brewery-guides/1906/0010_5133833_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MONADNOCK BLOCK,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133833/full/!760,760/0/default.jpg#xywh=746,2926,406,40",
+      "id": "https://hadro.github.io/brewery-guides/1906/0010_5133833_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "CHICAGO, ILL.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133833/full/!760,760/0/default.jpg#xywh=802,2990,296,40",
+      "id": "https://hadro.github.io/brewery-guides/1906/0010_5133833_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "LONDON OFFICE:",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133833/full/!760,760/0/default.jpg#xywh=2262,662,136,116",
+      "id": "https://hadro.github.io/brewery-guides/1906/0010_5133833_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "46 CANNON ST., LONDON, E. C.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133833/full/!760,760/0/default.jpg#xywh=2278,1292,120,52",
+      "id": "https://hadro.github.io/brewery-guides/1906/0010_5133833_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ENGLAND.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133833/full/!760,760/0/default.jpg#xywh=2262,2710,136,56",
+      "id": "https://hadro.github.io/brewery-guides/1906/0010_5133833_gemini-2.0-flash_annotations/line/6"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1906/0010_5133833_gemini-2.0-flash_annotations"
+}

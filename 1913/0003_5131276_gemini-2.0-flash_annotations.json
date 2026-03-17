@@ -1,0 +1,19 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tovey",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131276/full/!760,760/0/default.jpg#xywh=1278,2890,237,114",
+      "id": "https://hadro.github.io/brewery-guides/1913/0003_5131276_gemini-2.0-flash_annotations/line/0"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1913/0003_5131276_gemini-2.0-flash_annotations"
+}

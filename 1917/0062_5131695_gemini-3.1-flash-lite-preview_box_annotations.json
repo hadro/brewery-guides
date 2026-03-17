@@ -1,0 +1,271 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Curico, CHILE",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131695/full/!760,760/0/default.jpg#xywh=922,616,816,48",
+      "id": "https://hadro.github.io/brewery-guides/1917/0062_5131695_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Linares, CHILE",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131695/full/!760,760/0/default.jpg#xywh=918,764,1034,50",
+      "id": "https://hadro.github.io/brewery-guides/1917/0062_5131695_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Angol, CHILE",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131695/full/!760,760/0/default.jpg#xywh=920,920,842,50",
+      "id": "https://hadro.github.io/brewery-guides/1917/0062_5131695_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cauquenes, CHILE",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131695/full/!760,760/0/default.jpg#xywh=926,1076,788,48",
+      "id": "https://hadro.github.io/brewery-guides/1917/0062_5131695_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Constitution, CHILE",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131695/full/!760,760/0/default.jpg#xywh=926,1138,886,48",
+      "id": "https://hadro.github.io/brewery-guides/1917/0062_5131695_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chillan, CHILE",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131695/full/!760,760/0/default.jpg#xywh=926,1282,828,50",
+      "id": "https://hadro.github.io/brewery-guides/1917/0062_5131695_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chillan, CHILE",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131695/full/!760,760/0/default.jpg#xywh=1142,1348,788,50",
+      "id": "https://hadro.github.io/brewery-guides/1917/0062_5131695_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Santiago, CHILE",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131695/full/!760,760/0/default.jpg#xywh=926,1470,1472,100",
+      "id": "https://hadro.github.io/brewery-guides/1917/0062_5131695_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Santiago, CHILE",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131695/full/!760,760/0/default.jpg#xywh=1182,1674,1198,72",
+      "id": "https://hadro.github.io/brewery-guides/1917/0062_5131695_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Santiago, CHILE",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131695/full/!760,760/0/default.jpg#xywh=1188,1812,776,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0062_5131695_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Talca, CHILE",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131695/full/!760,760/0/default.jpg#xywh=926,1966,1472,48",
+      "id": "https://hadro.github.io/brewery-guides/1917/0062_5131695_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rio Bueno, CHILE",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131695/full/!760,760/0/default.jpg#xywh=926,2174,766,48",
+      "id": "https://hadro.github.io/brewery-guides/1917/0062_5131695_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Union, CHILE",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131695/full/!760,760/0/default.jpg#xywh=928,2230,892,48",
+      "id": "https://hadro.github.io/brewery-guides/1917/0062_5131695_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Valdivia, CHILE",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131695/full/!760,760/0/default.jpg#xywh=930,2292,1200,48",
+      "id": "https://hadro.github.io/brewery-guides/1917/0062_5131695_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Casa Blanca, CHILE",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131695/full/!760,760/0/default.jpg#xywh=934,2452,898,48",
+      "id": "https://hadro.github.io/brewery-guides/1917/0062_5131695_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Casa Blanca, CHILE",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131695/full/!760,760/0/default.jpg#xywh=1246,2514,548,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0062_5131695_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Limache, CHILE",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131695/full/!760,760/0/default.jpg#xywh=930,2540,1468,116",
+      "id": "https://hadro.github.io/brewery-guides/1917/0062_5131695_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Valparaiso, CHILE",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131695/full/!760,760/0/default.jpg#xywh=940,2700,878,52",
+      "id": "https://hadro.github.io/brewery-guides/1917/0062_5131695_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Valparaiso, CHILE",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131695/full/!760,760/0/default.jpg#xywh=1140,2760,1112,50",
+      "id": "https://hadro.github.io/brewery-guides/1917/0062_5131695_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Valdivia, CHILE",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131695/full/!760,760/0/default.jpg#xywh=1430,2858,820,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0062_5131695_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Valdivia, CHILE",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131695/full/!760,760/0/default.jpg#xywh=1428,2904,762,40",
+      "id": "https://hadro.github.io/brewery-guides/1917/0062_5131695_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Santiago, CHILE",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131695/full/!760,760/0/default.jpg#xywh=1428,2952,676,40",
+      "id": "https://hadro.github.io/brewery-guides/1917/0062_5131695_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Calera, CHILE",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131695/full/!760,760/0/default.jpg#xywh=1428,3000,872,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0062_5131695_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Calera, CHILE",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131695/full/!760,760/0/default.jpg#xywh=1474,3050,292,36",
+      "id": "https://hadro.github.io/brewery-guides/1917/0062_5131695_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1917/0062_5131695_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

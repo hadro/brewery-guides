@@ -1,0 +1,73 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mobile, ALABAMA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131286/full/!760,760/0/default.jpg#xywh=200,2482,1472,78",
+      "id": "https://hadro.github.io/brewery-guides/1913/0013_5131286_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fairbanks, ALASKA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131286/full/!760,760/0/default.jpg#xywh=186,2692,1548,140",
+      "id": "https://hadro.github.io/brewery-guides/1913/0013_5131286_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Nome, ALASKA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131286/full/!760,760/0/default.jpg#xywh=186,2782,1544,142",
+      "id": "https://hadro.github.io/brewery-guides/1913/0013_5131286_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Douglas, ARIZONA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131286/full/!760,760/0/default.jpg#xywh=186,2962,1538,82",
+      "id": "https://hadro.github.io/brewery-guides/1913/0013_5131286_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Globe, ARIZONA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131286/full/!760,760/0/default.jpg#xywh=186,3002,1538,92",
+      "id": "https://hadro.github.io/brewery-guides/1913/0013_5131286_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Prescott, ARIZONA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131286/full/!760,760/0/default.jpg#xywh=186,3056,1538,76",
+      "id": "https://hadro.github.io/brewery-guides/1913/0013_5131286_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1913/0013_5131286_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

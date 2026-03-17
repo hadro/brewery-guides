@@ -1,0 +1,535 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Supplement to AMERICAN BREWERS' REVIEW. 15",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=434,492,1409,82",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "KEY TO REFERENCES.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=439,630,1425,166",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Breweries are divided into 46 classes according to",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=369,856,1689,75",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "the number of barrels of fermented liquor sold by each during",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=245,931,1818,86",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "the year ending June 30, 1896.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=250,1024,875,68",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "SOLD SOLD",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=1631,1174,191,56",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Class FROM To Class FROM To",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=271,1256,170,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "A 1 900,000 1,000,000 C 4 60,000 70,000",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=819,1433,275,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "A 2 800,000 900,000 C 5 50,000 60,000",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=873,1561,219,56",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "A 3 700,000 800,000 C 6 40,000 50,000",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=873,1622,221,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "A 4 600,000 700,000 C 7 35,000 40,000",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=870,1685,222,56",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "A 5 500,000 600,000 C 8 30,000 35,000",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=873,1750,221,56",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "A 6 400,000 500,000 C 9 25,000 30,000",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=875,1811,222,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "A 7 350,000 400,000 C 10 20,000 25,000",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=546,1881,222,56",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "A 8 300,000 350,000 D 1 18,000 20,000",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=877,1939,217,56",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "A 9 250,000 300,000 D 2 16,000 18,000",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=546,2009,222,52",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "A 10 200,000 250,000 D 3 14,000 16,000",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=877,2065,224,56",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "B 1 190,000 200,000 D 4 12,000 14,000",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=880,2131,224,51",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "B 2 180,000 190,000 D 5 10,000 12,000",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=882,2191,222,56",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "B 3 170,000 180,000 D 6 8,000 10,000",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=882,2254,222,56",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "B 4 160,000 170,000 D 7 7,000 8,000",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=882,2320,222,51",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "B 5 150,000 160,000 D 8 6,000 7,000",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=882,2383,222,51",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "B 6 140,000 150,000 D 9 5,000 6,000",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=884,2443,222,56",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "B 7 130,000 140,000 D 10 4,000 5,000",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=884,2506,224,56",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "B 8 120,000 130,000 E 1 3,000 4,000",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=553,2509,224,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "B 9 110,000 120,000 E 2 2,000 3,000.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=887,2572,221,51",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "B 10 100,000 110,000 E 3 1,500 2,000",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=889,2632,222,56",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "C 1 90,000 100,000 E 4 1,000 1,500",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=555,2635,224,56",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "C 2 80,000 90,000 E 5 500 1,000",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=588,2693,189,63",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "C 3 70,000 80,000 E 6 less than 500",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=922,2744,830,129",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New brewing firms that have been in operation less than",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=406,2915,1680,77",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "one year are designated by a paragraph mark, thus ¶",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=282,2999,1540,72",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The kinds of beer produced by each brewery are desig-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=406,3071,1682,77",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "nated by capital letters as follows:",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=282,3155,992,79",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lager Beer.........L Porter..........P",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=471,3230,1428,84",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ale...............A Weiss Beer........W",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=1202,3293,695,63",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brewers who are also bottlers are designated by the letter B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=413,3372,1680,72",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brewers who are also maltsters and make all or part of the",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=415,3451,1680,73",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "malt used by them are designated by the capital letter M",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=292,3528,1640,80",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brewers making common beer, steam beer, etc., are",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=415,3608,1683,77",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "classed as making Lager.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=296,3701,738,59",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "FOR TABLES OF REFERENCE AND OTHER INFORMATION",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=364,3820,1659,75",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "SEE INDEX.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=1031,3904,341,42",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "RIPLEY ISINGLASS.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142939/full/!760,760/0/default.jpg#xywh=308,4054,1804,135",
+      "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations/line/43"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1896/0015_5142939_gemini-2.0-flash_annotations"
+}

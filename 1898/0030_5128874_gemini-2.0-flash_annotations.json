@@ -1,0 +1,799 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "30 BREWERS' GUIDE.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=1114,531,534,52",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ILLINOIS-CONTINUED.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=985,669,796,58",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "East St. Louis....... Schroeder. George.................L-E 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=495,759,1766,60",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Elgin. .Elgin Eagle Brewing Co., 347-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=497,839,1581,58",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "379 North State street.... L B-D 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=1230,912,1028,62",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Freeport Baier & Ohlendorf... LMB-C 10",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=493,985,1763,67",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" .Franz Bros., 418-420 North",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=764,1063,1307,66",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Galena ave .LMB-E 3",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=1224,1144,1032,58",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "“ Milner, George & Co.... APM-E6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=2525,1136,54,56",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "“ Schmich Bros. Brg. Co... LM B-D 5",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=759,1295,1489,69",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Galena Blum, Martin. .LMB-E 2",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=493,1370,1755,65",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "“ Eulberg, Casper & Sons..L MB-D 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=701,1445,1547,71",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hammond Mayer, Chas. H. & Co........ W-E 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=495,1529,1753,58",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Highland Highland Brewing Co.. LB-D 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=490,1602,1755,65",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Joliet. .Porter, Edwin, Brewing Co.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=495,1682,1565,58",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "South Bluff street...APL-CS",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=1224,1755,1021,62",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sehring, Fred., Brewing Co.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=553,1828,1507,69",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "corner Bridge and Summit",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=1220,1908,843,66",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "streets LMB-C 9",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=1222,1987,1023,65",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Kankakee .Radeke, F. D. Br'g Co... LM B-D 3",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=484,2061,1755,66",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lebanon. Rithmann, Mathias.......LM-E 4",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=484,2138,1755,64",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mascoutah. Mascoutah Brewing Co... L'M B-E 1",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=484,2215,1753,65",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "McHenry Boley, G. F..... LM-E 4",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=484,2295,1755,62",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mendota. . Henning Brewing Co... LM B-C 10",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=482,2368,1757,65",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Moline. Wetxal-Bergstrom B'rg Co..L-E 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=486,2450,1751,60",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Metamora Ziegmann, Ludwig .L-E 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=486,2525,1751,58",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Morris Gebhard, William. .LMB-D 3",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=480,2598,1759,65",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Murphysborough. Murphysboro Brewing Co... L B-D 4",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=480,2680,1757,60",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Nauvoo. Schenk Bros .LB-E 5",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=477,2751,1753,67",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Athens New Athens Brewery.......L-D 10",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=477,2828,1753,67",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ottawa. Alfred White Brewery, The",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=477,2908,1551,62",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "....A PLM B-E 3",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=1222,2988,1008,62",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pekin. Winkel Brewing Co....... L-E 1",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=473,3056,1755,73",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Peoria. Columbia Brewery Co.......L-E 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=471,3134,1757,71",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" Gipps Brewing Co., corner",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=682,3216,1366,62",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bridge and Water sts....L B-C 7",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=1204,3278,1020,67",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" Leisy Brewing Co., 709 North",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=684,3349,1359,69",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Water street.... .L B-C 7",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=1207,3416,1017,68",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" Union Brewing Co., 1701-1711",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=475,3626,1749,71",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "South Washington st.. LM B-D 1",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=1207,3555,1015,69",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" .Star Union Brewing Co..LM B-C 8",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=622,3704,1600,69",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Quincy Dick Bros., Quincy Brewery",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=471,3783,1570,65",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Co., corner Sth and York",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=1204,3852,837,56",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "streets..... .LMB-C5",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=1204,3912,1016,61",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/43"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\" . Ruff Brewing Co., corner 12th",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=684,3979,1353,71",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "and Adams streets....LM B-D 9",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=1202,4048,1020,62",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/45"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Quinc",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=501,533,80,43",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/46"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rock",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=2525,1056,54,56",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/47"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rock",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=624,1299,94,32",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/48"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Silve",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=2532,1297,47,52",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/49"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Spri",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=2532,1374,47,54",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ster",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=2529,1456,50,47",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/51"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Thor",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=2527,1534,52,47",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/52"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tren",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=2532,1669,47,52",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/53"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "War",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=2534,1746,45,54",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wat",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=2536,1822,43,56",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/55"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wan",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=2538,1903,41,52",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/56"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wil",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=2534,2054,45,58",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/57"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Woo",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=2534,2138,45,54",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/58"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Au",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=2542,2424,37,47",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/59"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Col",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=2547,2506,32,36",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/60"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cro",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=2536,2732,43,53",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/61"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Eva",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=2538,2811,41,54",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/62"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ho",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=566,3216,47,34",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/63"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "H",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=559,3493,52,32",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/64"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "In",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128874/full/!760,760/0/default.jpg#xywh=557,3983,50,33",
+      "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations/line/65"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1898/0030_5128874_gemini-2.0-flash_annotations"
+}

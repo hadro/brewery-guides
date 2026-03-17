@@ -1,0 +1,499 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Supplement to AMERICAN BREWERS' REVIEW. 13",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=481,441,1472,89",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Comparison of Weights and Measures.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=453,653,1551,80",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "bbl. bu. cu. ft. gal. cu. in.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=1073,758,553,56",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1. 3.33 4.144 31. 7161.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=821,828,798,77",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "0.3 1. 1:244 9.39 2150.4.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=740,908,1206,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "0.2413 0.804 1. 7.476 1728.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=523,975,1383,89",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "0.0323 0.1074 0.1337 1. 231.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=525,1064,1372,65",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Metric System of Weights and Measures.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=404,1270,1654,74",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "LINEAR-UNIT: A METER.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=779,1379,924,56",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1 meter = 10 decimeter.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=842,1454,924,65",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1 “ = 100 centimeter.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=908,1475,884,168",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1 “ = 1000 millimeter.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=826,1610,961,66",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "10 “ = 1 dekameter.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=803,1687,984,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "100 “ = 1 hectometer.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=779,1767,1027,67",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1000 “ = 1 kilometer.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=964,1851,798,56",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1 ☐meter = 100 ☐decimeter.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=768,1942,1066,65",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1 “ = 10000 ☐centimeter.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=910,2021,947,65",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1 “ = 1000000 ☐millimeter.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=905,2063,948,110",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "100 “ = 1 ☐dekameter.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=721,2182,1129,65",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "10000 “ = 1 ☐hectometer,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=665,2257,1206,63",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1000000 “ = 1 ☐kilometer.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=600,2334,1232,65",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1 cubic meter = 1000 cubic decimeter or liter.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=443,2427,1620,65",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1 “ = 1000000 “ centimeter.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=1059,2509,789,56",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1 “ = 1000000000 “ millimeter.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=833,2588,1013,56",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "100 liter = 1 hectoliter.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=877,2667,740,56",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Metric System of Weights.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=726,2875,1068,68",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "UNIT: A GRAMM (weight of a cubic centimeter of",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=481,2980,1659,63",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "water at 4° C.).",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=357,3059,488,66",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1 gramm = 10 decigramm.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=1258,3136,459,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1 “ = 100 centigramm.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=1120,3218,632,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1 “ = 1000 milligramm.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=1125,3295,627,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "10 “ = 1 dekagramm.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=1300,3374,450,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "100 “ = 1 hectogramm.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=1300,3451,469,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1000 “ = 1 kilogramm.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=1302,3531,422,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1 meter = 39.37 in. = 3.281 ft. = 1.093 yd.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=474,3627,1313,60",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1 centimeter = 0.3937 in.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=476,3704,814,56",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1 cubic centimeter = 0.061 cubic in.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=478,3781,1111,56",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1 liter = 0.264 gal. = 61.027 cubic in. = 0.0287 bu.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=478,3860,1552,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1 hectoliter = 6103 cubic in. = 3.53 cubic ft.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=481,3937,1390,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1 “ = 26.41 gal. = 0.852 bbl.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=861,4016,761,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1 “ = 2.837 bu.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5142937/full/!760,760/0/default.jpg#xywh=856,4098,397,51",
+      "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations/line/40"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1896/0013_5142937_gemini-2.0-flash_annotations"
+}

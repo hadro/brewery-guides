@@ -1,0 +1,691 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ALASKA.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=760,290,1028,62",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Douglas Citv. . . . . . . . . Douglas City Brewing Co......................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=526,456,1524,78",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dyea........................ Rice, Geo. L., & Co................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=530,504,1518,76",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fairbanks................... Fairbanks Brewing Co.................................L †",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=532,552,1512,68",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fairbanks................... Tanana Brewing Co.....................................L †",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=642,600,1402,64",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fort Wrangel................ Bretter, August..........................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=530,648,1514,66",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Juneau....................... Greif, Bruno..............................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=666,698,1380,58",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Juneau....................... Cohen, Marcus J..........................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=530,738,1518,68",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Juneau....................... *Eagle Brewing Co......................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=598,790,1450,60",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Nome........................ Nome Brewing Co.......................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=532,832,1518,68",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Skagua...................... Barthel, Herman.......................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=532,876,1518,72",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Douglas..................... Copper City Brewing Co., Inc....................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=536,1014,1506,74",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fort Huachuca............. Joerger, Frank.........................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=532,1052,1520,136",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Prescott..................... Arizona Brewing Co..................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=532,1152,1520,76",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Little Rock................. Little Rock Brewing & Ice Co., 2d",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=532,1308,1430,74",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Alameda..................... Schuler, Lorenz L., Central",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=534,1514,1384,70",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Anaheim...................... *Union Brewing Co., Inc...............................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=536,1600,1520,126",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Angels Camp................. Hubler, Ernst F..........................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=538,1696,1520,78",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Auburn....................... Rechenmacher, Ferdinand.............................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=538,1744,1516,78",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Benicia....................... *Gnauck, Gustave, H street..........................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=540,1796,1518,64",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bodie......................... McKenzie & McAlpin....................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=538,1838,1518,70",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Carters....................... Darmert, Benjamin......................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=540,1888,1518,68",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cloverdale................... Reger, Vital...............................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=538,1928,1520,80",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Concord...................... *Kugel, Jacob.............................................L †",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=538,1974,1524,126",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Crescent City............... Kuebler, Herman........................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=540,2072,1520,70",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Downieville................... Woessner, John...........................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=542,2114,1518,78",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Elmhurst..................... London Porter Brewery.................................A B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=544,2168,1520,66",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Etna Mills..................... *Kappler, Chas............................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=542,2210,1522,124",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Forest Hill................... *Finning, John.............................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=550,2370,498,50",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fr sno........................ Fresno Brewing Co., Inc...............................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=544,2396,1514,70",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Grass Valley................ Binkelmann, D. J........................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=542,2442,1522,74",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Grass Valley................ Frank, Frederick.........................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=822,2492,1242,60",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Grass Valley................ Popp, Michael..............................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=826,2538,1240,62",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Groveland................... Müller, Pauline C........................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=542,2582,1526,70",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Haywards.................... Booken, John, A street................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=542,2624,1524,82",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Haywards.................... *Palmtag & Heyer Brewing &",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=782,2676,1198,64",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Healdsburgh................. Muller, Carl, West and North sts..................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=546,2752,1522,92",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hollister..................... *Hollister Brewery.......................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=546,2820,1522,62",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Independence............... Gehrig, Philip..............................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=546,2860,1522,76",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Kelseyville................... Swan Brewing Co.......................................L †",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=544,2906,1528,120",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Livermore..................... *Bernol, Dennis F., First st..........................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=546,2998,1520,72",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ARIZONA.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=534,312,64,36",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Globe........................ *Banker, Chas..........................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=2252,412,146,48",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ARKANSAS.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=2254,698,144,40",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/43"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=2256,748,142,36",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "and Byrd sts...",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=2256,796,142,34",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/45"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "CALIFORNIA.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=2252,974,146,52",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/46"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "........A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=2254,1034,144,34",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/47"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "avenue.....................................................",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=2254,1358,144,44",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/48"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Alturas....................... *Dannhauser, Joseph..................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=2254,1468,144,40",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/49"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Columbia..................... *Nelson, A. C.............................................L †",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=2254,1520,144,44",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Eureka........................ *Humboldt Brewing Co., 405 First",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=2252,1568,146,52",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/51"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=2254,1678,144,52",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/52"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "street........................................................",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=2256,1738,142,40",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/53"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=2254,1914,146,56",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Malting Co., Inc., Castro st.....",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=2252,1970,148,54",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/55"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jackson....................... *Strohm, John, Main st................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133835/full/!760,760/0/default.jpg#xywh=2254,2118,146,54",
+      "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations/line/56"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1906/0012_5133835_gemini-2.0-flash_annotations"
+}

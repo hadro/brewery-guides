@@ -1,0 +1,463 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brewers' Guide.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=749,469,1619,89",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "INDEX.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=1106,740,856,116",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Breweries in the United States, Classified According",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=756,999,1671,72",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "to the Number of Barrels of Beer Sold During",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=817,1064,1610,68",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "the Year Ending June 30, 1895........................................ 17",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=814,1129,1608,66",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Breweries in the Dominion of Canada................................... 86",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=754,1186,1673,74",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Breweries in Mexico............................................................. 91",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=754,1249,1668,77",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brewers' Supply Dealers and Auxiliary Manufactur-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=754,1316,1673,63",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ing Trades........................................................................ 100",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=814,1382,1512,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Circumference and Area of Circles with Diameter",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=751,1445,1669,60",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "1 to 240.........................................................................162-164",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=817,1508,1724,67",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Comparison of the Thermometer Scales of Reaumur,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=751,1564,1666,72",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fahrenheit and Celsius...................................................... 154",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=814,1629,1729,72",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Comparison of Different Saccharometers with Specific",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=751,1694,1669,68",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Gravity and Giving Pounds of Extract in Wort per",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=812,1757,1608,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bbl. of 31 Gal.................................................................. 156",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=810,1820,1731,68",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Contents of Tanks of 60 to 240 Inches Diameter for",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=749,1883,1666,61",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Each Foot in Height ....................................................158-160",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=810,1946,1731,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Determination of the Yield According to R. Wahl's",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=756,2002,1659,80",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Method, The.................................................................170-172",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=812,2072,1727,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Imports and Exports of Hops, Barley, Barley-Malt",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=747,2124,1666,81",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "and Granulated Rice Meal and Flour...........................174-178",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=810,2196,1731,68",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Imports and Exports of Ale, Porter, Beer and other",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=747,2259,1663,72",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Malt Liquors ................................................................. 180",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=805,2324,1736,66",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Key to References.................................................................. 15",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=744,2385,1701,70",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Maltsters in Canada (not Brewers.)........................................ 99",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=747,2446,1677,72",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Maltsters in the United States (not Brewers).......................... 92",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=747,2516,1787,58",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Measures and Weights..............................................................9-13",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=744,2576,1790,68",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pounds per Bushel and Cubic Feet......................................... 168",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=744,2630,1790,82",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Production of Malt Liquors 1894........................................... 181",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=747,2698,1785,77",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Squares and Cubes, and Square and Cube Roots of",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=751,2768,1699,67",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Nos from 1 to 100 .......................................................... 166",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=805,2824,1731,63",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "E. GOLDMAN & CO.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=805,3087,1661,133",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MANUFACTURERS",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=1323,3332,607,38",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "IMPORTERS AND DEALERS IN",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=1120,3414,957,40",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "General Brewers' Supplies,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=751,3564,1771,266",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "10 AND 12 RIVER STREET,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=931,3918,1405,87",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "CHICAGO.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5143106/full/!760,760/0/default.jpg#xywh=1199,4093,873,98",
+      "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations/line/37"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1896/0182_5143106_gemini-2.0-flash_annotations"
+}

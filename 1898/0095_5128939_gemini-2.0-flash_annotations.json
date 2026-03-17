@@ -1,0 +1,535 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Supplement to AMERICAN BREWERS' REVIEW. 91",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=510,458,1454,73",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "NEW BRUNSWICK.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=843,619,811,74",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fairville. . . . . . . . . . Ready, James...........A P L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=344,710,1803,75",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. John. . . . . . . . . . Jones, Simeon, Union street.. A P L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=348,783,1799,84",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "NEWFOUNDLAND.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=847,903,801,67",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Johns. . . . . . . . . . Bennett. E. W. & Co ..........A P M B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=355,985,1794,82",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "“ . . . . . . . . . . . . . . . Lindberg, John..........L M P",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=639,1065,1516,79",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "“ . . . . . . . . . . . . . . . Newfoundland Br'g Co., Ltd....A P",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=637,1140,1516,84",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "NORTHWEST TERRITORY.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=678,1258,1163,82",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Calgary. . . . . . . . . . . Calgary Brewing and Malting",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=363,1346,1609,84",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Co., Ltd .........A P L M B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=1112,1428,1047,67",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Edmonton. . . . . . . . . . Edmonton Brewing and Malt-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=361,1506,1613,77",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ing Co...........L M",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=1112,1585,1047,63",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "NOVA SCOTIA.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=933,1703,654,67",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Halifax . . . . . . . . . . . Bavarian Lager Beer Brewery",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=366,1785,1613,82",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "(The Halifax Breweries,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=1183,1869,796,60",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ltd.).........A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=1183,1951,987,56",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "“ . . . . . . . . . . . . . . . Hayward. C. W. & Co. (The",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=540,2017,1443,82",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ha'ifax Breweries, Ltd)...A P B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=1123,2091,1047,58",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "“ . . . . . . . . . . . . . . . Keith, Alex & Son.........A P M B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=594,2162,1580,73",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "“ . . . . . . . . . . . . . . . Oland, S., Sons & Co. (The Hal-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=594,2239,1400,80",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ifax Breweries, Ltd..... A P M B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=1127,2304,1050,64",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "“ . . . . . . . . . . . . . . . O'Mullin, P. & J. (The Halifax",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=579,2383,1413,69",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Breweries, Ltd.) . . . A P B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=1138,2443,1041,71",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ONTARIO.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=1071,2572,447,56",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Auburn . . . . . . . . . . . Kuntz, Jacob.. . . . . . . . . . . . .A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=389,2643,1803,80",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Barrie. . . . . . . . . . . . Anderton Brewing & Malting",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=389,2723,1611,80",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Co ..........A P M B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=1138,2790,1052,66",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "“ . . . . . . . . . . . . . . . Simpson, Thos. W. .........A P M B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=585,2863,1607,77",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Belleville. . . . . . . . . . Roy, Jas. A............A L M",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=389,2944,1809,76",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brantford . . . . . . . . . Bixel Brewing & Malting Co.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=391,3018,1620,81",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "limited..........L M B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=1138,3089,1058,58",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brockville. . . . . . . . . Bowie & Son............A L M B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=396,3160,1802,75",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Carlsruhe. . . . . . . . . Schwan, David............M L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=400,3243,1798,69",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chepstow . . . . . . . . . . Weber, Peter ...........A P",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=402,3317,1800,81",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chesley. . . . . . . . . . . Schumacher, A . . . . . . . . . . .A P",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=404,3390,1801,88",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cobourg. . . . . . . . . . MacPherson, Gordon & Co....A P M",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=407,3471,1800,80",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Egmondville. . . . . . . . . Colbert, Henry...........A P L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=404,3551,1805,80",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Formosa . . . . . . . . . . Schwartz, John S...........L M",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=402,3628,1809,78",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Guelph . . . . . . . . . . . Holliday, Thos. . . . . . . . . . . A P L M",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=409,3706,1806,82",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "“ . . . . . . . . . . . . . . . Sleeman, N. Geo.. . . . . . A P L B M",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=637,3785,1576,69",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hamilton. . . . . . . . . . Gompf, John, 554 John st., . . . . . . L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=409,3863,1613,79",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "(north)....",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=1159,3934,1059,58",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "For Key See Page 15.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128939/full/!760,760/0/default.jpg#xywh=1011,4041,634,52",
+      "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations/line/43"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1898/0095_5128939_gemini-2.0-flash_annotations"
+}

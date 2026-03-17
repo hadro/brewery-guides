@@ -1,0 +1,447 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Phelps, NEW YORK",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=108,442,968,56",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Watervliet, NEW YORK",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=0,472,1102,88",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati, OHIO",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=134,608,1454,68",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cincinnati, OHIO",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=246,664,1338,58",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cleveland, OHIO",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=134,710,1542,160",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cleveland, OHIO",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=0,754,138,66",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hamilton, OHIO",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=210,854,1106,52",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Piqua, OHIO",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=0,898,1668,56",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Piqua, OHIO",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=138,946,962,54",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Allegheny, PENNSYLVANIA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=0,1086,1634,54",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Easton, PENNSYLVANIA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=112,1130,1238,64",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mount Joy, PENNSYLVANIA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=0,1180,1356,60",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Philadelphia, PENNSYLVANIA",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=140,1224,1536,60",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dayton, WASHINGTON",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=0,1390,1140,104",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tacoma, WASHINGTON",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=2,1448,1352,92",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Appleton, WISCONSIN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=140,1588,1260,74",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chilton, WISCONSIN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=0,1630,1188,92",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Columbus, WISCONSIN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=146,1700,792,48",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fond du Lac, WISCONSIN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=0,1726,1468,88",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hartford, WISCONSIN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=110,1786,1234,64",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jefferson Junction, WISCONSIN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=0,1818,144,68",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Kenosha, WISCONSIN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=158,1834,1012,88",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Kewaskum, WISCONSIN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=0,1920,1262,74",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lomira, WISCONSIN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=140,1976,1202,58",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Manitowoc, WISCONSIN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=0,2004,1600,94",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Manitowoc, WISCONSIN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=148,2066,1142,66",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Manitowoc, WISCONSIN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=0,1630,1188,92",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mayville, WISCONSIN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=0,2098,1684,140",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Milwaukee, WISCONSIN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=138,2308,1542,50",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Milwaukee, WISCONSIN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=0,2354,104,40",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Milwaukee, WISCONSIN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=662,2400,896,48",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Milwaukee, WISCONSIN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=662,2452,1018,44",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Milwaukee, WISCONSIN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=650,2542,1022,44",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Milwaukee, WISCONSIN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=660,2632,1024,50",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Milwaukee, WISCONSIN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=642,2730,1048,48",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rubicon, WISCONSIN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=144,2822,1086,50",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sheboygan, WISCONSIN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=0,2870,1232,50",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Waterloo, WISCONSIN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=144,2914,1126,54",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Watertown, WISCONSIN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=136,2966,1200,48",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "West Bend, WISCONSIN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131422/full/!760,760/0/default.jpg#xywh=138,3016,1130,44",
+      "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json/entry/39"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1914/0057_5131422_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

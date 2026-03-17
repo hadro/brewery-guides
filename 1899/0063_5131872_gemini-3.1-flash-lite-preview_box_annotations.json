@@ -1,0 +1,128 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "West Superior, WISCONSIN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=725,459,835,48",
+      "id": "https://hadro.github.io/brewery-guides/1899/0063_5131872_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "West Superior, WISCONSIN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=725,459,835,48",
+      "id": "https://hadro.github.io/brewery-guides/1899/0063_5131872_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hyattville, WISCONSIN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=725,459,835,48",
+      "id": "https://hadro.github.io/brewery-guides/1899/0063_5131872_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sheridan, WISCONSIN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=725,459,835,48",
+      "id": "https://hadro.github.io/brewery-guides/1899/0063_5131872_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "West Superior, WISCONSIN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=725,459,835,48",
+      "id": "https://hadro.github.io/brewery-guides/1899/0063_5131872_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Weyauwega, WISCONSIN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=725,459,835,48",
+      "id": "https://hadro.github.io/brewery-guides/1899/0063_5131872_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "White Water, WISCONSIN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=725,459,835,48",
+      "id": "https://hadro.github.io/brewery-guides/1899/0063_5131872_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "White Water, WISCONSIN",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=725,459,835,48",
+      "id": "https://hadro.github.io/brewery-guides/1899/0063_5131872_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Green River, WYOMING",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=0,1242,168,95",
+      "id": "https://hadro.github.io/brewery-guides/1899/0063_5131872_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lander, WYOMING",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=0,1242,168,95",
+      "id": "https://hadro.github.io/brewery-guides/1899/0063_5131872_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Laramie, WYOMING",
+        "format": "text/plain"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=0,1242,168,95",
+      "id": "https://hadro.github.io/brewery-guides/1899/0063_5131872_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1899/0063_5131872_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

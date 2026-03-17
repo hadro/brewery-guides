@@ -1,0 +1,583 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "26",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=469,525,75,47",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "BREWERS' GUIDE",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=1075,525,530,62",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ILLINOIS.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=1138,673,413,60",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Alton.Alton Brewery, A. Reck, pro-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=465,742,1574,95",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "prietor..L B-D 8",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=1192,835,1030,77",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "66Bluff City Brewery, Wilhelm",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=609,901,1424,86",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Netzhammer, Prop........L-D 9",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=1192,992,1026,71",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Aurora.Aurora Brewing Co., north",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=458,1052,1581,88",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "end of North River st.. L M B-C 9",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=1189,1142,1026,67",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Beardstown.Rink, Anton.LMB-E 3",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=458,1213,1760,80",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Belleville.Star Brewery Co., 326 East",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=456,1288,1585,82",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Main st..LM B-C 10",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=1187,1372,1031,67",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "66Western Brewery Co., corner",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=688,1443,1347,80",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Gold and N. 4th sts...LMB-C8",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=1181,1527,1032,69",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bloomington.Meyer & Wochner, South",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=460,1596,1570,80",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Main street..LB-D 7",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=1179,1682,1028,64",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Blue Island.Blue Island Brewing Co., cor.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=447,1749,1579,79",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Gregory and York sts....L B-D 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=1179,1837,1032,69",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "66Hausburg, Gustav, 280 Greg-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=637,1906,56,32",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ory street..W B-E 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=1181,1992,1028,62",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ChicagoAmerican Brewing Co., 922",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=447,2058,1579,73",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "North Ashland ave........L-C1",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=1194,2140,998,69",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "66Atlas Brewing Co., 684-706",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=544,2215,54,33",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Blue Island aveLB-C 4",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=1125,2295,1080,64",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "66.Bartholomae & Leicht Brew'g",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=682,2366,1342,75",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Co.(Milwaukee and Chicago",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=1174,2452,843,62",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Breweries Co.), 684-706",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=1174,2529,848,67",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sedgwick st.LM-C5",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=1174,2605,1020,66",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "66Bartholomae & Roesing Brew-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=764,2680,1251,64",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ing and Malting Co. (Mil-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=1168,2757,847,67",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "waukee and Chicago Brew-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=1170,2837,845,62",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "eries Co.), 335 West 12th st.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=1170,2914,839,58",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "cor. Brown.LM-C6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=1170,2985,1026,69",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "66Berlin Weiss Beer Co., 339-347",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=1067,3063,942,66",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "N. Leavitt st..W B-E 1",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=1172,3140,1028,65",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "66Best Brewing Co., of Chicago,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=878,3216,1129,66",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fletcher st. and Herndon",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=1164,3299,843,54",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "avenue.L B-C 7",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=1159,3377,1028,60",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "66Birk Bros. Brewing Co., 101-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=723,3452,1288,60",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "109 Webster ave.......LMB-C 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=1157,3514,1030,56",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "66Brand, Michael Brewing Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=667,3583,1331,67",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "(Milwaukee and Chicago",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=1164,3650,841,64",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Breweries Co.), cor. Elston",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=1159,3714,841,59",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ave. and Snow st......LM B-B 9",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=1159,3777,1022,54",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/43"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "66Brewer & Hofman Brewing",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=774,3852,1226,58",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Co., 43-51 South Green st. L B-C 6",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=1155,3912,1024,63",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/45"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "66Cantwell Eagle Brewing Co.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=744,3992,1252,56",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/46"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "404-416 East 25th st..... LP-D 3",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5128870/full/!760,760/0/default.jpg#xywh=1151,4048,1030,67",
+      "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations/line/47"
+    }
+  ],
+  "id": "https://hadro.github.io/brewery-guides/1898/0026_5128870_gemini-2.0-flash_annotations"
+}
