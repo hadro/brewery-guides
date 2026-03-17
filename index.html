@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Brewery Guides — NYPL Digital Collections</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      background: #1a1a1a;
+      color: #f0f0f0;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    header {
+      background: #111;
+      border-bottom: 1px solid #333;
+      padding: 10px 16px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      flex-shrink: 0;
+      flex-wrap: wrap;
+    }
+
+    header h1 {
+      font-size: 15px;
+      font-weight: 700;
+      color: #f0c040;
+      white-space: nowrap;
+    }
+
+    header .subtitle {
+      font-size: 12px;
+      color: #888;
+      white-space: nowrap;
+    }
+
+    .controls {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-left: auto;
+      flex-wrap: wrap;
+    }
+
+    label[for="vol-select"] {
+      font-size: 12px;
+      color: #aaa;
+      white-space: nowrap;
+    }
+
+    #vol-select {
+      font-size: 13px;
+      padding: 5px 8px;
+      background: #2a2a2a;
+      color: #f0f0f0;
+      border: 1px solid #444;
+      border-radius: 4px;
+      cursor: pointer;
+      min-width: 260px;
+    }
+
+    #vol-select:focus { outline: 2px solid #f0c040; }
+
+    .links {
+      display: flex;
+      gap: 10px;
+      align-items: center;
+    }
+
+    .links a {
+      font-size: 12px;
+      color: #7ab8f5;
+      text-decoration: none;
+      white-space: nowrap;
+      padding: 4px 8px;
+      border: 1px solid #334;
+      border-radius: 4px;
+    }
+
+    .links a:hover { background: #1e2a3a; }
+
+    #viewer-wrap {
+      flex: 1;
+      position: relative;
+      overflow: hidden;
+    }
+
+    #mirador-container {
+      position: absolute;
+      inset: 0;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h1>Brewery Guides</h1>
+    <div class="subtitle">NYPL Digital Collections · 1896–1918</div>
+  </div>
+  <div class="controls">
+    <label for="vol-select">Volume:</label>
+    <select id="vol-select"></select>
+    <div class="links">
+      <a id="nypl-link" href="#" target="_blank">View on NYPL</a>
+      <a href="brewery_guides_explorer.html">Data Explorer</a>
+    </div>
+  </div>
+</header>
+
+<div id="viewer-wrap">
+  <div id="mirador-container"></div>
+</div>
+
+<script src="https://unpkg.com/mirador@latest/dist/mirador.min.js"></script>
+<script>
+const VOLUMES = [
+  {
+    label: "Brewers' guide, 1896",
+    manifestId: "https://api-collections.nypl.org/manifests/bd047d10-cf0f-0131-cc6d-58d385a7bbd0",
+    nyplUrl: "https://digitalcollections.nypl.org/items/bd047d10-cf0f-0131-cc6d-58d385a7bbd0",
+    explorerUrl: "1896/explorer.html",
+  },
+  {
+    label: "Brewers' guide, 1898",
+    manifestId: "https://api-collections.nypl.org/manifests/c8613600-c4d6-0131-c359-58d385a7b928",
+    nyplUrl: "https://digitalcollections.nypl.org/items/c8613600-c4d6-0131-c359-58d385a7b928",
+    explorerUrl: null,
+  },
+  {
+    label: "Tovey's directory, 1899",
+    manifestId: "https://api-collections.nypl.org/manifests/13036980-d881-0131-ed0b-58d385a7b928",
+    nyplUrl: "https://digitalcollections.nypl.org/items/13036980-d881-0131-ed0b-58d385a7b928",
+    explorerUrl: null,
+  },
+  {
+    label: "Tovey's directory, 1903",
+    manifestId: "https://api-collections.nypl.org/manifests/1c3611d0-c4d5-0131-5925-58d385a7bbd0",
+    nyplUrl: "https://digitalcollections.nypl.org/items/1c3611d0-c4d5-0131-5925-58d385a7bbd0",
+    explorerUrl: null,
+  },
+  {
+    label: "Tovey's directory, 1904",
+    manifestId: "https://api-collections.nypl.org/manifests/e43210e0-d880-0131-d2d3-58d385a7b928",
+    nyplUrl: "https://digitalcollections.nypl.org/items/e43210e0-d880-0131-d2d3-58d385a7b928",
+    explorerUrl: null,
+  },
+  {
+    label: "Tovey's directory, 1906",
+    manifestId: "https://api-collections.nypl.org/manifests/e0d472a0-c99b-0131-3d2a-58d385a7bbd0",
+    nyplUrl: "https://digitalcollections.nypl.org/items/e0d472a0-c99b-0131-3d2a-58d385a7bbd0",
+    explorerUrl: null,
+  },
+  {
+    label: "Tovey's directory, 1913",
+    manifestId: "https://api-collections.nypl.org/manifests/08b2ae90-d7bd-0131-7a45-58d385a7b928",
+    nyplUrl: "https://digitalcollections.nypl.org/items/08b2ae90-d7bd-0131-7a45-58d385a7b928",
+    explorerUrl: null,
+  },
+  {
+    label: "Tovey's directory, 1914",
+    manifestId: "https://api-collections.nypl.org/manifests/4f96c920-c4d5-0131-0ccc-58d385a7bbd0",
+    nyplUrl: "https://digitalcollections.nypl.org/items/4f96c920-c4d5-0131-0ccc-58d385a7bbd0",
+    explorerUrl: null,
+  },
+  {
+    label: "Tovey's directory, 1915",
+    manifestId: "https://api-collections.nypl.org/manifests/27263780-d7bd-0131-de52-58d385a7b928",
+    nyplUrl: "https://digitalcollections.nypl.org/items/27263780-d7bd-0131-de52-58d385a7b928",
+    explorerUrl: null,
+  },
+  {
+    label: "Tovey's directory, 1916",
+    manifestId: "https://api-collections.nypl.org/manifests/4b912140-d7bd-0131-6aa8-58d385a7b928",
+    nyplUrl: "https://digitalcollections.nypl.org/items/4b912140-d7bd-0131-6aa8-58d385a7b928",
+    explorerUrl: null,
+  },
+  {
+    label: "Tovey's directory, 1917",
+    manifestId: "https://api-collections.nypl.org/manifests/5a844a20-d7bd-0131-c2cd-58d385a7b928",
+    nyplUrl: "https://digitalcollections.nypl.org/items/5a844a20-d7bd-0131-c2cd-58d385a7b928",
+    explorerUrl: null,
+  },
+  {
+    label: "Tovey's directory, 1918",
+    manifestId: "https://api-collections.nypl.org/manifests/59b1baf0-c4d5-0131-f713-58d385a7bbd0",
+    nyplUrl: "https://digitalcollections.nypl.org/items/59b1baf0-c4d5-0131-f713-58d385a7bbd0",
+    explorerUrl: null,
+  },
+];
+
+// Populate dropdown
+const sel = document.getElementById("vol-select");
+VOLUMES.forEach((v, i) => {
+  const opt = document.createElement("option");
+  opt.value = i;
+  opt.textContent = v.label;
+  sel.appendChild(opt);
+});
+
+// Init Mirador with first volume
+let viewer = Mirador.viewer({
+  id: "mirador-container",
+  windows: [{ manifestId: VOLUMES[0].manifestId }],
+  window: { defaultView: "single", panels: { info: false, attribution: false } },
+  workspaceControlPanel: { enabled: false },
+  theme: { palette: { type: "dark", primary: { main: "#f0c040" } } },
+});
+
+function updateLinks(vol) {
+  document.getElementById("nypl-link").href = vol.nyplUrl;
+}
+
+updateLinks(VOLUMES[0]);
+
+sel.addEventListener("change", () => {
+  const vol = VOLUMES[parseInt(sel.value)];
+  updateLinks(vol);
+
+  // Replace the window with the new manifest
+  const windowId = Object.keys(viewer.store.getState().windows)[0];
+  viewer.store.dispatch(
+    Mirador.actions.updateWindow(windowId, { manifestId: vol.manifestId })
+  );
+});
+</script>
+</body>
+</html>
