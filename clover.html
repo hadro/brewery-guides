@@ -273,6 +273,32 @@ function buildCloverState(manifestId, canvasId, fragment) {
   };
 }
 
+// ── Close info panel (once zoom has fired or after fallback timeout) ─────────
+function closeInfoPanelAfterZoom(el, fallbackMs) {
+  let done = false;
+  function close() {
+    if (done) return;
+    done = true;
+    obs.disconnect();
+    clearTimeout(timer);
+    const btn = el.querySelector('[data-value="manifest-back"]');
+    if (btn) btn.click();
+  }
+  // Clover sets className="clover-iiif-content-state" on the OSD container
+  // exactly when it zooms to the content-state target — use that as the signal.
+  const obs = new MutationObserver(mutations => {
+    for (const m of mutations) {
+      if (m.type === "attributes" && m.attributeName === "class" &&
+          m.target.className === "clover-iiif-content-state") {
+        close();
+        return;
+      }
+    }
+  });
+  obs.observe(el, { subtree: true, attributes: true, attributeFilter: ["class"] });
+  const timer = setTimeout(close, fallbackMs);
+}
+
 // ── Viewer lifecycle ─────────────────────────────────────────────────────────
 function launchClover(manifestId, rawCanvasId) {
   const wrap = document.getElementById("viewer-wrap");
@@ -285,6 +311,7 @@ function launchClover(manifestId, rawCanvasId) {
     // No target canvas — open manifest at first page
     el.setAttribute("id", manifestId);
     wrap.appendChild(el);
+    closeInfoPanelAfterZoom(el, 1500);
     return;
   }
 
@@ -300,10 +327,12 @@ function launchClover(manifestId, rawCanvasId) {
       const newCanvasId = index[svcBase] || index[oldBase] || oldBase;
       el.setAttribute("id", contentStateToBlobId(buildCloverState(manifestId, newCanvasId, fragment)));
       wrap.appendChild(el);
+      closeInfoPanelAfterZoom(el, 5000);
     })
     .catch(() => {
       el.setAttribute("id", manifestId);
       wrap.appendChild(el);
+      closeInfoPanelAfterZoom(el, 1500);
     });
 }
 
