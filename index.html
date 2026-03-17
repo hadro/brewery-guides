@@ -205,29 +205,34 @@ VOLUMES.forEach((v, i) => {
   sel.appendChild(opt);
 });
 
-// Init Mirador with first volume
-let viewer = Mirador.viewer({
-  id: "mirador-container",
-  windows: [{ manifestId: VOLUMES[0].manifestId }],
+const MIRADOR_CONFIG = {
   window: { defaultView: "single", panels: { info: false, attribution: false } },
   workspaceControlPanel: { enabled: false },
   theme: { palette: { type: "dark", primary: { main: "#f0c040" } } },
-});
+};
+
+function launchMirador(manifestId) {
+  // Replace the container with a fresh node to avoid React teardown issues
+  const wrap = document.getElementById("viewer-wrap");
+  const old = document.getElementById("mirador-container");
+  if (old) old.remove();
+  const div = document.createElement("div");
+  div.id = "mirador-container";
+  wrap.appendChild(div);
+  return Mirador.viewer({ id: "mirador-container", windows: [{ manifestId }], ...MIRADOR_CONFIG });
+}
 
 function updateLinks(vol) {
   document.getElementById("nypl-link").href = vol.nyplUrl;
 }
 
+launchMirador(VOLUMES[0].manifestId);
 updateLinks(VOLUMES[0]);
 
 sel.addEventListener("change", () => {
   const vol = VOLUMES[parseInt(sel.value)];
   updateLinks(vol);
-
-  // Remove existing windows and open the new manifest
-  const windowIds = Object.keys(viewer.store.getState().windows);
-  windowIds.forEach(id => viewer.store.dispatch(Mirador.actions.removeWindow(id)));
-  viewer.store.dispatch(Mirador.actions.addWindow({ manifestId: vol.manifestId }));
+  launchMirador(vol.manifestId);
 });
 </script>
 </body>
