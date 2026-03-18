@@ -92,7 +92,8 @@
       overflow: hidden;
     }
 
-    #mirador-container {
+    clover-viewer {
+      display: block;
       position: absolute;
       inset: 0;
     }
@@ -111,93 +112,89 @@
     <div class="links">
       <a id="nypl-link" href="#" target="_blank">View on NYPL</a>
       <a href="https://hadro.github.io/brewery-guides/explorer.html">Data Explorer</a>
-      <a href="https://hadro.github.io/brewery-guides/clover.html">Clover viewer</a>
     </div>
   </div>
 </header>
 
-<div id="viewer-wrap">
-  <div id="mirador-container"></div>
-</div>
+<div id="viewer-wrap"></div>
 
-<script src="https://unpkg.com/mirador@3.3.0/dist/mirador.min.js"></script>
 <script>
 const VOLUMES = [
   {
     label: "Brewers' guide, 1896",
-    manifestId: "https://api-collections.nypl.org/manifests/bd047d10-cf0f-0131-cc6d-58d385a7bbd0",
+    manifestId: "https://hadro.github.io/brewery-guides/1896/manifest.json",
     nyplUrl: "https://digitalcollections.nypl.org/items/bd047d10-cf0f-0131-cc6d-58d385a7bbd0",
-    explorerUrl: "1896/explorer.html",
+    uuid: "bd047d10-cf0f-0131-cc6d-58d385a7bbd0",
   },
   {
     label: "Brewers' guide, 1898",
-    manifestId: "https://api-collections.nypl.org/manifests/c8613600-c4d6-0131-c359-58d385a7b928",
+    manifestId: "https://hadro.github.io/brewery-guides/1898/manifest.json",
     nyplUrl: "https://digitalcollections.nypl.org/items/c8613600-c4d6-0131-c359-58d385a7b928",
-    explorerUrl: null,
+    uuid: "c8613600-c4d6-0131-c359-58d385a7b928",
   },
   {
     label: "Tovey's directory, 1899",
-    manifestId: "https://api-collections.nypl.org/manifests/13036980-d881-0131-ed0b-58d385a7b928",
+    manifestId: "https://hadro.github.io/brewery-guides/1899/manifest.json",
     nyplUrl: "https://digitalcollections.nypl.org/items/13036980-d881-0131-ed0b-58d385a7b928",
-    explorerUrl: null,
+    uuid: "13036980-d881-0131-ed0b-58d385a7b928",
   },
   {
     label: "Tovey's directory, 1903",
-    manifestId: "https://api-collections.nypl.org/manifests/1c3611d0-c4d5-0131-5925-58d385a7bbd0",
+    manifestId: "https://hadro.github.io/brewery-guides/1903/manifest.json",
     nyplUrl: "https://digitalcollections.nypl.org/items/1c3611d0-c4d5-0131-5925-58d385a7bbd0",
-    explorerUrl: null,
+    uuid: "1c3611d0-c4d5-0131-5925-58d385a7bbd0",
   },
   {
     label: "Tovey's directory, 1904",
-    manifestId: "https://api-collections.nypl.org/manifests/e43210e0-d880-0131-d2d3-58d385a7b928",
+    manifestId: "https://hadro.github.io/brewery-guides/1904/manifest.json",
     nyplUrl: "https://digitalcollections.nypl.org/items/e43210e0-d880-0131-d2d3-58d385a7b928",
-    explorerUrl: null,
+    uuid: "e43210e0-d880-0131-d2d3-58d385a7b928",
   },
   {
     label: "Tovey's directory, 1906",
-    manifestId: "https://api-collections.nypl.org/manifests/e0d472a0-c99b-0131-3d2a-58d385a7bbd0",
+    manifestId: "https://hadro.github.io/brewery-guides/1906/manifest.json",
     nyplUrl: "https://digitalcollections.nypl.org/items/e0d472a0-c99b-0131-3d2a-58d385a7bbd0",
-    explorerUrl: null,
+    uuid: "e0d472a0-c99b-0131-3d2a-58d385a7bbd0",
   },
   {
     label: "Tovey's directory, 1913",
-    manifestId: "https://api-collections.nypl.org/manifests/08b2ae90-d7bd-0131-7a45-58d385a7b928",
+    manifestId: "https://hadro.github.io/brewery-guides/1913/manifest.json",
     nyplUrl: "https://digitalcollections.nypl.org/items/08b2ae90-d7bd-0131-7a45-58d385a7b928",
-    explorerUrl: null,
+    uuid: "08b2ae90-d7bd-0131-7a45-58d385a7b928",
   },
   {
     label: "Tovey's directory, 1914",
-    manifestId: "https://api-collections.nypl.org/manifests/4f96c920-c4d5-0131-0ccc-58d385a7bbd0",
+    manifestId: "https://hadro.github.io/brewery-guides/1914/manifest.json",
     nyplUrl: "https://digitalcollections.nypl.org/items/4f96c920-c4d5-0131-0ccc-58d385a7bbd0",
-    explorerUrl: null,
+    uuid: "4f96c920-c4d5-0131-0ccc-58d385a7bbd0",
   },
   {
     label: "Tovey's directory, 1915",
-    manifestId: "https://api-collections.nypl.org/manifests/27263780-d7bd-0131-de52-58d385a7b928",
+    manifestId: "https://hadro.github.io/brewery-guides/1915/manifest.json",
     nyplUrl: "https://digitalcollections.nypl.org/items/27263780-d7bd-0131-de52-58d385a7b928",
-    explorerUrl: null,
+    uuid: "27263780-d7bd-0131-de52-58d385a7b928",
   },
   {
     label: "Tovey's directory, 1916",
-    manifestId: "https://api-collections.nypl.org/manifests/4b912140-d7bd-0131-6aa8-58d385a7b928",
+    manifestId: "https://hadro.github.io/brewery-guides/1916/manifest.json",
     nyplUrl: "https://digitalcollections.nypl.org/items/4b912140-d7bd-0131-6aa8-58d385a7b928",
-    explorerUrl: null,
+    uuid: "4b912140-d7bd-0131-6aa8-58d385a7b928",
   },
   {
     label: "Tovey's directory, 1917",
-    manifestId: "https://api-collections.nypl.org/manifests/5a844a20-d7bd-0131-c2cd-58d385a7b928",
+    manifestId: "https://hadro.github.io/brewery-guides/1917/manifest.json",
     nyplUrl: "https://digitalcollections.nypl.org/items/5a844a20-d7bd-0131-c2cd-58d385a7b928",
-    explorerUrl: null,
+    uuid: "5a844a20-d7bd-0131-c2cd-58d385a7b928",
   },
   {
     label: "Tovey's directory, 1918",
-    manifestId: "https://api-collections.nypl.org/manifests/59b1baf0-c4d5-0131-f713-58d385a7bbd0",
+    manifestId: "https://hadro.github.io/brewery-guides/1918/manifest.json",
     nyplUrl: "https://digitalcollections.nypl.org/items/59b1baf0-c4d5-0131-f713-58d385a7bbd0",
-    explorerUrl: null,
+    uuid: "59b1baf0-c4d5-0131-f713-58d385a7bbd0",
   },
 ];
 
-// Populate dropdown
+// ── Populate dropdown ────────────────────────────────────────────────────────
 const sel = document.getElementById("vol-select");
 VOLUMES.forEach((v, i) => {
   const opt = document.createElement("option");
@@ -206,29 +203,7 @@ VOLUMES.forEach((v, i) => {
   sel.appendChild(opt);
 });
 
-const MIRADOR_CONFIG = {
-  window: { defaultView: "single", panels: { info: false, attribution: false } },
-  workspaceControlPanel: { enabled: false },
-  theme: { palette: { type: "dark", primary: { main: "#f0c040" } } },
-};
-
-function launchMirador(manifestId, canvasId) {
-  // Replace the container with a fresh node to avoid React teardown issues
-  const wrap = document.getElementById("viewer-wrap");
-  const old = document.getElementById("mirador-container");
-  if (old) old.remove();
-  const div = document.createElement("div");
-  div.id = "mirador-container";
-  wrap.appendChild(div);
-  const win = canvasId ? { manifestId, canvasId } : { manifestId };
-  return Mirador.viewer({ id: "mirador-container", windows: [win], ...MIRADOR_CONFIG });
-}
-
-function updateLinks(vol) {
-  document.getElementById("nypl-link").href = vol.nyplUrl;
-}
-
-// Decode IIIF Content State from ?iiif-content= query param
+// ── IIIF Content State helpers ───────────────────────────────────────────────
 function decodeContentState() {
   const raw = new URLSearchParams(window.location.search).get("iiif-content");
   if (!raw) return null;
@@ -241,37 +216,158 @@ function decodeContentState() {
 }
 
 function findVolumeByManifest(manifestUrl) {
-  // Match by UUID present in both URLs
   const uuidMatch = manifestUrl.match(/[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}/i);
-  if (!uuidMatch) return null;
+  if (!uuidMatch) return -1;
   const uuid = uuidMatch[0];
-  return VOLUMES.findIndex(v => v.manifestId.includes(uuid));
+  return VOLUMES.findIndex(v => v.uuid === uuid || v.manifestId.includes(uuid));
 }
 
+// ── Canvas ID translation (NYPL image URL → real canvas ID) ─────────────────
+function serviceId(service) {
+  if (!service) return "";
+  const s = Array.isArray(service) ? service[0] : service;
+  return (s && (s.id || s["@id"])) || "";
+}
+
+function buildCanvasIndex(manifest) {
+  const index = {};
+  for (const canvas of (manifest.items || [])) {
+    try {
+      const body = canvas.items[0].items[0].body;
+      const svc = serviceId(body.service);
+      if (svc) index[svc] = canvas.id;
+    } catch (e) {}
+  }
+  return index;
+}
+
+function oldCanvasToServiceBase(url) {
+  return url.replace(/\/full\/.*$/, "");
+}
+
+// ── Clover content state (SpecificResource format + blob URL workaround) ─────
+function contentStateToBlobId(stateObj) {
+  const blob = new Blob([JSON.stringify(stateObj)], { type: "application/json" });
+  return URL.createObjectURL(blob);
+}
+
+function buildCloverState(manifestId, canvasId, fragment) {
+  const csTarget = {
+    type: "SpecificResource",
+    source: {
+      id: canvasId,
+      type: "Canvas",
+      partOf: [{ id: manifestId, type: "Manifest" }],
+    },
+  };
+  if (fragment) {
+    csTarget.selector = { type: "FragmentSelector", value: fragment };
+  }
+  return {
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    id: canvasId + (fragment ? "#" + fragment : "") + "/content-state",
+    type: "Annotation",
+    motivation: ["contentState"],
+    target: csTarget,
+  };
+}
+
+// ── Close info panel (once zoom has fired or after fallback timeout) ─────────
+function closeInfoPanelAfterZoom(el, fallbackMs) {
+  let done = false;
+  function close() {
+    if (done) return;
+    done = true;
+    obs.disconnect();
+    clearTimeout(timer);
+    const btn = el.querySelector('[data-value="manifest-back"]');
+    if (btn) btn.click();
+  }
+  // Clover sets className="clover-iiif-content-state" on the OSD container
+  // exactly when it zooms to the content-state target — use that as the signal.
+  const obs = new MutationObserver(mutations => {
+    for (const m of mutations) {
+      if (m.type === "attributes" && m.attributeName === "class" &&
+          m.target.className === "clover-iiif-content-state") {
+        close();
+        return;
+      }
+    }
+  });
+  obs.observe(el, { subtree: true, attributes: true, attributeFilter: ["class"] });
+  const timer = setTimeout(close, fallbackMs);
+}
+
+// ── Viewer lifecycle ─────────────────────────────────────────────────────────
+function launchClover(manifestId, rawCanvasId) {
+  const wrap = document.getElementById("viewer-wrap");
+  const old = wrap.querySelector("clover-viewer");
+  if (old) old.remove();
+
+  const el = document.createElement("clover-viewer");
+
+  if (!rawCanvasId) {
+    // No target canvas — open manifest at first page
+    el.setAttribute("id", manifestId);
+    wrap.appendChild(el);
+    closeInfoPanelAfterZoom(el, 1500);
+    return;
+  }
+
+  // Translate NYPL image URL → real manifest canvas ID, then build blob state
+  const fragment = rawCanvasId.includes("#") ? rawCanvasId.split("#")[1] : "";
+  const oldBase  = rawCanvasId.includes("#") ? rawCanvasId.split("#")[0] : rawCanvasId;
+
+  fetch(manifestId)
+    .then(r => r.json())
+    .then(manifest => {
+      const index = buildCanvasIndex(manifest);
+      const svcBase = oldCanvasToServiceBase(oldBase);
+      const newCanvasId = index[svcBase] || index[oldBase] || oldBase;
+      el.setAttribute("id", contentStateToBlobId(buildCloverState(manifestId, newCanvasId, fragment)));
+      wrap.appendChild(el);
+      closeInfoPanelAfterZoom(el, 5000);
+    })
+    .catch(() => {
+      el.setAttribute("id", manifestId);
+      wrap.appendChild(el);
+      closeInfoPanelAfterZoom(el, 1500);
+    });
+}
+
+function updateLinks(vol) {
+  document.getElementById("nypl-link").href = vol.nyplUrl;
+}
+
+// ── Initialise ───────────────────────────────────────────────────────────────
 const contentState = decodeContentState();
 let startVolIdx = 0;
 let startCanvasId = null;
 
 if (contentState) {
   const target = contentState.target || {};
-  const manifestUrl = (target.partOf || [{}])[0].id || "";
+  const source = (target.type === "SpecificResource" && target.source) ? target.source : target;
+  const manifestUrl = (source.partOf && source.partOf[0] && source.partOf[0].id) || "";
   const volIdx = findVolumeByManifest(manifestUrl);
   if (volIdx >= 0) {
     startVolIdx = volIdx;
-    startCanvasId = (target.id || "").split("#")[0];
+    startCanvasId = (typeof source === "string" ? source : (source.id || "")).split("#")[0];
+    if (source.id && source.id.includes("#")) startCanvasId += "#" + source.id.split("#")[1];
     sel.value = volIdx;
   }
 }
 
 const startVol = VOLUMES[startVolIdx];
-launchMirador(startVol.manifestId, startCanvasId);
+launchClover(startVol.manifestId, startCanvasId);
 updateLinks(startVol);
 
 sel.addEventListener("change", () => {
   const vol = VOLUMES[parseInt(sel.value)];
   updateLinks(vol);
-  launchMirador(vol.manifestId, null);
+  launchClover(vol.manifestId, null);
 });
 </script>
+
+<script src="clover.umd.patched.js"></script>
 </body>
 </html>

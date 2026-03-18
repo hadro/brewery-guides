@@ -600,7 +600,7 @@ function showDetail(row) {
     const srcUrl = viewerUrl(row.canvas_fragment);
     if (srcUrl) links.push(`<a href="${srcUrl}" target="_blank">Open source page ↗</a>`);
     const csUrl = contentStateUrl(row.canvas_fragment);
-    if (csUrl) links.push(`<a href="${csUrl}" target="_blank">View in Mirador ↗</a>`);
+    if (csUrl) links.push(`<a href="${csUrl}" target="_blank">View in source document ↗</a>`);
     src.innerHTML = links.join(" · ");
   } else {
     src.innerHTML = "";
