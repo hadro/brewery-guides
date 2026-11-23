@@ -31,48 +31,12 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "West Superior........West Superior Brewing Co., Ham-",
+        "value": "........702 8th st.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=511,618,1405,188",
+      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=511,618,1405,47",
       "id": "https://hadro.github.io/brewery-guides/1899/0063_5131872_gemini-2.0-flash_annotations/line/2"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Hyattville........Rinehart, D. H............................L†",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=375,778,1547,214",
-      "id": "https://hadro.github.io/brewery-guides/1899/0063_5131872_gemini-2.0-flash_annotations/line/3"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Sheridan........*Sheridan Brewing Co., Paul st........L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=352,1116,1571,274",
-      "id": "https://hadro.github.io/brewery-guides/1899/0063_5131872_gemini-2.0-flash_annotations/line/4"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "........702 8th st...............................L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=0,621,150,108",
-      "id": "https://hadro.github.io/brewery-guides/1899/0063_5131872_gemini-2.0-flash_annotations/line/5"
     },
     {
       "type": "Annotation",
@@ -83,7 +47,43 @@
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=0,815,151,45",
+      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=511,665,1405,48",
+      "id": "https://hadro.github.io/brewery-guides/1899/0063_5131872_gemini-2.0-flash_annotations/line/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "........Catlin ave.....L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=511,713,1405,46",
+      "id": "https://hadro.github.io/brewery-guides/1899/0063_5131872_gemini-2.0-flash_annotations/line/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "West Superior........West Superior Brewing Co., Ham-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=511,759,1405,47",
+      "id": "https://hadro.github.io/brewery-guides/1899/0063_5131872_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hyattville........Rinehart, D. H.....L†",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=375,778,1547,214",
       "id": "https://hadro.github.io/brewery-guides/1899/0063_5131872_gemini-2.0-flash_annotations/line/6"
     },
     {
@@ -91,11 +91,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "........Catlin ave...................................L B",
+        "value": "Sheridan........*Sheridan Brewing Co., Paul st.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=0,852,148,62",
+      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=352,1116,1571,274",
       "id": "https://hadro.github.io/brewery-guides/1899/0063_5131872_gemini-2.0-flash_annotations/line/7"
     },
     {
@@ -103,11 +103,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "........mond ave......................................L",
+        "value": "........mond ave.....L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=0,904,148,98",
+      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=0,563,127,57",
       "id": "https://hadro.github.io/brewery-guides/1899/0063_5131872_gemini-2.0-flash_annotations/line/8"
     },
     {
@@ -115,11 +115,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Weyauwega........Quade & Schonick......................L B",
+        "value": "Weyauwega........Quade & Schonick.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=0,1004,151,46",
+      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=0,621,150,108",
       "id": "https://hadro.github.io/brewery-guides/1899/0063_5131872_gemini-2.0-flash_annotations/line/9"
     },
     {
@@ -127,11 +127,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "White Water........*Klinger, Nicholas........................L B",
+        "value": "White Water........*Klinger, Nicholas.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=0,1137,151,55",
+      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=0,815,151,45",
       "id": "https://hadro.github.io/brewery-guides/1899/0063_5131872_gemini-2.0-flash_annotations/line/10"
     },
     {
@@ -139,11 +139,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "White Water........Melster, H. R., George st................W B",
+        "value": "White Water........Melster, H. R., George st.....W B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=0,1195,156,43",
+      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=0,852,148,62",
       "id": "https://hadro.github.io/brewery-guides/1899/0063_5131872_gemini-2.0-flash_annotations/line/11"
     },
     {
@@ -151,11 +151,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "WYOMING.",
+        "value": "Green River........Gaensslen & Rauch.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=0,1242,168,95",
+      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=0,904,148,98",
       "id": "https://hadro.github.io/brewery-guides/1899/0063_5131872_gemini-2.0-flash_annotations/line/12"
     },
     {
@@ -163,11 +163,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Green River........Gaensslen & Rauch........................L B",
+        "value": "Lander........Lander Brewing Co.....L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=0,1341,155,44",
+      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=0,1137,151,55",
       "id": "https://hadro.github.io/brewery-guides/1899/0063_5131872_gemini-2.0-flash_annotations/line/13"
     },
     {
@@ -175,24 +175,12 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Lander........Lander Brewing Co.......................L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=0,1484,109,44",
-      "id": "https://hadro.github.io/brewery-guides/1899/0063_5131872_gemini-2.0-flash_annotations/line/14"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Laramie........Schmidt, Carl...............................L",
+        "value": "Laramie........Schmidt, Carl.....L",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131872/full/!760,760/0/default.jpg#xywh=0,2150,144,57",
-      "id": "https://hadro.github.io/brewery-guides/1899/0063_5131872_gemini-2.0-flash_annotations/line/15"
+      "id": "https://hadro.github.io/brewery-guides/1899/0063_5131872_gemini-2.0-flash_annotations/line/14"
     }
   ],
   "id": "https://hadro.github.io/brewery-guides/1899/0063_5131872_gemini-2.0-flash_annotations"

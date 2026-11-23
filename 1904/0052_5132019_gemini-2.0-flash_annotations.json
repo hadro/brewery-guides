@@ -7,18 +7,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "50 TOVEY'S OFFICIAL BREWERS' DIRECTORY,",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=816,284,1032,60"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "PENNSYLVANIA-Continued.",
+        "value": "PENNSYLVANIA—Continued.",
         "format": "text/plain",
         "language": "en"
       },
@@ -29,18 +18,29 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "“ Theobald, Frances, South and",
+        "value": "Titusville........Benke, Edward.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=588,446,1520,120"
+      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=588,446,1520,60"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Franklin sts... ..L B",
+        "value": "Titusville........Theobald, Frances, South and Franklin sts.....L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=588,506,1520,60"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tremont........Tremont Brewing Co.....A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -51,18 +51,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Fayette street. ..L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=592,582,1524,176"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "“ Uniontown Brewing Co., North",
+        "value": "Uniontown........Fayette Brewing Co., 30 East Fayette street.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -73,7 +62,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Beeson avenue. (See Pittsburg",
+        "value": "Uniontown........Uniontown Brewing Co., North Beeson avenue. (See Pittsburg Brewing Co.).....B",
         "format": "text/plain",
         "language": "en"
       },
@@ -84,18 +73,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Brewing Co.)",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=1176,828,360,52"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Washington. Crescent Brewing Co.... L B",
+        "value": "Washington........Crescent Brewing Co.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -106,7 +84,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "“ Star Brewing Co., Chartiers and",
+        "value": "Washington........Star Brewing Co., Chartiers and Star sts.....A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -117,29 +95,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Star sts... A L B",
+        "value": "Washington........Zelt & Bros, Wheeling and Oregon sts.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=724,956,1392,122"
+      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=724,1016,1392,62"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Wilkes Barre. Reichard & Weaver, 85 Water st.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=596,1040,1522,186"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "(See Pa. Central Brewing Co.)",
+        "value": "Waynesburg........Waynesburg Brewing Co.....L",
         "format": "text/plain",
         "language": "en"
       },
@@ -150,7 +117,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "“ Stegmaier Brewing Co., 230 East",
+        "value": "Wilkes Barre........Reichard & Weaver, 85 Water st. (See Pa. Central Brewing Co.).....Wilkes Barre........Stegmaier Brewing Co., 230 East Market st.....A L",
         "format": "text/plain",
         "language": "en"
       },
@@ -161,18 +128,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Market st... ..A L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=1180,1284,690,56"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Williamsport. Flock Brewing Co., 601 Franklin st. L B",
+        "value": "Williamsport........Flock Brewing Co., 601 Franklin st.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -183,22 +139,33 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "“ York Brewing Co., West and Com-",
+        "value": "Williamsport........Koch Brewing Co.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=610,1362,1516,186"
+      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=610,1362,1516,62"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "pany sts..... ...A L B",
+        "value": "York........Helb, Theo. R., King & Queen sts.....L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=1184,1512,944,64"
+      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=610,1424,1516,62"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "York........York Brewing Co., West and Company sts.....A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=610,1486,1516,62"
     },
     {
       "type": "Annotation",
@@ -216,7 +183,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Pawtucket. Hand Brewing Co., Mendon ave.. A L",
+        "value": "Pawtucket........Hand Brewing Co., Mendon ave.....A L",
         "format": "text/plain",
         "language": "en"
       },
@@ -227,7 +194,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Providence Eagle Brewing Co., Inc., 450 West",
+        "value": "Providence........Eagle Brewing Co., Inc., 450 West Exchange st.....A L",
         "format": "text/plain",
         "language": "en"
       },
@@ -238,18 +205,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Exchange st.. ..A L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=1190,1746,940,58"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "“ Hanley, James, Brewing Co., Jack-",
+        "value": "Providence........Hanley, James, Brewing Co., Jackson and Fountain sts.....A",
         "format": "text/plain",
         "language": "en"
       },
@@ -260,18 +216,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "son and Fountain sts..... A",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=1196,1836,928,58"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "“ Molter, Henry T., Cranston L",
+        "value": "Providence........Molter, Henry T., Cranston.....L",
         "format": "text/plain",
         "language": "en"
       },
@@ -282,7 +227,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "“ Narragansett Brewing Co., Depot",
+        "value": "Providence........Narragansett Brewing Co., Depot avenue (Arlington).....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -293,18 +238,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "avenue (Arlington).. LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=1200,1976,930,60"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "“ Park Brew Co., 1100 Elmwood",
+        "value": "Providence........Park Brew Co., 1100 Elmwood ave.....A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -315,33 +249,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "ave.. ...A L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=1208,2088,514,38"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "“ Providence Brewing Co., Harris",
+        "value": "Providence........Providence Brewing Co., Harris ave. and Eagle st.....L B",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=882,2110,1164,68"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "ave. and Eagle st... ..L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=1202,2160,938,58"
     },
     {
       "type": "Annotation",
@@ -359,22 +271,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Charleston Germania Brewing Co., Hayne and",
+        "value": "Charleston........Germania Brewing Co., Hayne and Anson sts.....L B",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=626,2296,1424,78"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Anson sts..... LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=828,2340,1314,84"
     },
     {
       "type": "Annotation",
@@ -392,7 +293,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Central City Black Hills Brewing Co..... LB",
+        "value": "Central City........Black Hills Brewing Co.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -403,11 +304,44 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Yankton.. *Schwenk-Barth Brewing Co., Inc.,",
+        "value": "Eureka........*Eureka Brewing Co.....L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=628,2512,1530,280"
+      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=628,2512,1530,70"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Huron........*Blume Brewing Co.....L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=628,2582,1530,70"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sioux Falls........*Sioux Falls Brewing & Malting Co.....L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=628,2652,1530,70"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Yankton........*Schwenk-Barth Brewing Co., Inc., 2d and Walnut sts.....L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=628,2722,1530,70"
     },
     {
       "type": "Annotation",
@@ -425,176 +359,22 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Chattanooga Chattanooga Brewing Co., Broad",
+        "value": "Chattanooga........Chattanooga Brewing Co., Broad and 2d sts.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=638,2838,1518,190"
+      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=638,2838,1518,94"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "McGhee and Chamberlain sts...L B",
+        "value": "Knoxville........East Tennessee Brewing Co., McGhee and Chamberlain sts.....L B",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=1216,2990,932,60"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Titusville Benke, Edward. L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=2326,544,74,50"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Tremont. Tremont Brewing Co.... ...A L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=2332,828,66,40"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Uniontown. Fayette Brewing Co., 30 East",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=2334,914,64,50"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "“ Zelt & Bros, Wheeling and Ore-",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=2334,968,64,48"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "gon sts.... .....L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=2336,1066,62,44"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Waynesburg Waynesburg Brewing Co............L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=2336,1256,62,40"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "York Koch Brewing Co.... L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=2342,1716,56,44"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "“ Helb, Theo. R., King & Queen sts... L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=2342,1760,56,48"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Eureka..... *Eureka Brewing Co.. L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=2346,1850,52,50"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Huron... *Blume Brewing Co... LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=2346,1950,52,44"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Sioux Falls *Sioux Falls Brewing & Malting Co..L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=2356,2552,42,40"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "2d and Walnut sts... LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=2356,2644,42,40"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "and 2d sts. LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=2358,2926,40,44"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Knoxville East Tennessee Brewing Co.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5132019/full/!760,760/0/default.jpg#xywh=2358,3020,40,44"
     }
   ]
 }

@@ -18,7 +18,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Chicago........* United Breweries Co., Chicago Brewery, 64 West North avenue.",
+        "value": "Chicago........* United Breweries Co., Chicago Brewery, 64 West North",
         "format": "text/plain",
         "language": "en"
       },
@@ -29,7 +29,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Chicago........Citizens' Brewery, Main st. and Archer ave.",
+        "value": "avenue.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=716,528,216,34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago........Citizens' Brewery, Main st. and",
         "format": "text/plain",
         "language": "en"
       },
@@ -40,7 +51,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Chicago........First National Bank Bldg., L B Monarch Brewery, 2419 West 21st street.",
+        "value": "Archer ave.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=710,610,324,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago........First National Monarch Brewery, 2419 West 21st",
         "format": "text/plain",
         "language": "en"
       },
@@ -51,7 +73,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Chicago........Northwestern Brewery, 2270 Cly- bourn ave.",
+        "value": "Bank Bldg., L B street.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=272,748,336,52"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago........Northwestern Brewery, 2270 Cly-",
         "format": "text/plain",
         "language": "en"
       },
@@ -62,7 +95,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Chicago........*U. S. Brewing Co., 38 South Dearborn st., L B Bartholomae & Roesing Brewing and Malting Co., 906 West 12th street.",
+        "value": "bourn ave.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=712,808,284,34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago........Bartholomae & Roesing Brewing",
         "format": "text/plain",
         "language": "en"
       },
@@ -73,7 +117,29 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Chicago........Blatz, Valentine, Brewing Co., Milwaukee, Wis.",
+        "value": "and Malting Co., 906 West 12th",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=718,900,842,52"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "street.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=716,954,174,34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago........*U. S. Brewing Blatz, Valentine, Brewing Co.,",
         "format": "text/plain",
         "language": "en"
       },
@@ -84,7 +150,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Chicago........Brand, M., Brewing Co., Elston ave. and Snow st.",
+        "value": "Co., Milwaukee, Wis.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=712,1038,446,56"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago........38 South Dear- Brand, M., Brewing Co., Elston",
         "format": "text/plain",
         "language": "en"
       },
@@ -95,18 +172,40 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Danville........White Eagle Brewing Co., 38th st. and Centre ave...A L",
+        "value": "born st., L B ave. and Snow st.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=308,1122,1244,138"
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=308,1122,1244,70"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Danville........Fecker Brewing Co., E. North st...L B",
+        "value": "Chicago........White Eagle Brewing Co., 38th........A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=308,1192,1244,68"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "st. and Centre ave.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=714,1228,928,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Danville........Fecker Brewing Co., E. North st.. L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -117,7 +216,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Danville........Central Brewing Co., 18th st. and East Broadway. See Independent Breweries Co., St. Louis.)",
+        "value": "Danville........Central Brewing Co., 18th st. and",
         "format": "text/plain",
         "language": "en"
       },
@@ -128,29 +227,73 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Danville........Heim Brewery (See St. Louis Breweries, St. Louis, Mo.)",
+        "value": "st St. Louis. East Broadway. See Indepen-",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=696,1416,820,52"
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=700,1366,856,58"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Elgin........Elgin Eagle Brewing Co., 347 North State st.......L B",
+        "value": "dent Breweries Co., St. Louis.)",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=0,1492,1560,146"
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=200,1424,1350,48"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Freeport........*Ohlendorf, William, Adams and Jackson sts.......L B",
+        "value": "Danville........Heim Brewery (See St. Louis",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=200,1472,1350,46"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Breweries, St. Louis, Mo.)",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=0,1492,1560,72"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Elgin........Elgin Eagle Brewing Co., 347 North",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=0,1564,1560,74"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "State st.. L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=692,1608,350,40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Freeport........*Ohlendorf, William, Adams and",
         "format": "text/plain",
         "language": "en"
       },
@@ -161,7 +304,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Freeport........*Schmich Bros., East Stephenson street........L B",
+        "value": "Jackson sts... L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=690,1696,958,58"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Freeport........*Schmich Bros., East Stephenson",
         "format": "text/plain",
         "language": "en"
       },
@@ -172,18 +326,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Galena........Blum, Martin, Franklin st........L B",
+        "value": "street L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=0,1762,256,60"
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=0,1786,1650,204"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Granite City........*Eulberg, Caspar, & Sons, Inc., Spring and Prospect sts.......L B",
+        "value": "Spring and Prospect sts. L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -194,29 +348,40 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Highland........Wagner Brewing Co. (See Independent Breweries Co., St. Louis.)",
+        "value": "Granite City........Wagner Brewing Co. (See Indepen-",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=0,1968,1558,62"
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=0,2018,190,54"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Highland........*Highland Brewing Co........L B",
+        "value": "dent Breweries Co., St. Louis.)",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=0,2022,1644,108"
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=0,2022,1644,54"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Joliet........Joliet Citizens Brew'g Co., Collins street........L B",
+        "value": "Highland........*Highland Brewing Co L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=0,2076,1644,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Joliet........Joliet Citizens Brew'g Co., Collins",
         "format": "text/plain",
         "language": "en"
       },
@@ -227,18 +392,40 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Joliet........Porter, E., Brewing Co., South Bluff st.......A L B",
+        "value": "street.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=0,2150,1550,170"
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=0,2150,1550,56"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Joliet........Sehring, Fred., Brewing Co., Scott and Clay sts........L B",
+        "value": "Joliet........Porter, E., Brewing Co., South",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=0,2206,1550,58"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bluff st... A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=0,2264,1550,56"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Joliet........Sehring, Fred., Brewing Co.,",
         "format": "text/plain",
         "language": "en"
       },
@@ -249,7 +436,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Kankakee........*Radeke, F. D., Brewing Co., River and Dearborn ave........L B",
+        "value": "Scott and Clay sts. L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=698,2354,942,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Kankakee........*Radeke, F. D., Brewing Co., River",
         "format": "text/plain",
         "language": "en"
       },
@@ -260,7 +458,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Kewanee........Kewanee Brewing Co., 230 South Tremont st........L B",
+        "value": "and Dearborn ave. L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=694,2446,942,58"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Kewanee........Kewanee Brewing Co., 230 South",
         "format": "text/plain",
         "language": "en"
       },
@@ -271,7 +480,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Mascoutah........*Rithmann, Matth........L B",
+        "value": "Tremont st... L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -282,40 +491,51 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Mascoutah........*Mascoutah Brewing Co........L B",
+        "value": "Minonk........*Rithmann, Matth. L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=0,2558,1648,146"
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=0,2558,1648,74"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Millstadt........Millstadt Brewery Co........L B",
+        "value": "Mascoutah........*Mascoutah Brewing Co. L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=0,2666,1646,128"
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=0,2632,1648,72"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Morris........*Gebhard, William, West Washing- ton street........L B",
+        "value": "Millstadt........Millstadt Brewery Co. L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=0,2752,222,102"
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=0,2666,1646,64"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Murphysborough........Stecher, R., Brewing Co........L B",
+        "value": "Morris........*Gebhard, William, West Washing-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=0,2730,1646,64"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ton street. L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -326,22 +546,77 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New Athens........East St. Louis-New Athens Brew'g Co., Kaskaskia and Benton streets........L B",
+        "value": "Co., Kaskaskia and Benton",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=0,2836,1556,112"
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=0,2862,1654,282"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Ottawa........Ottawa Brewing Association....A L B",
+        "value": "Galena........Blum, Martin, Franklin st........L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=0,2862,1654,282"
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=346,274,1118,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Granite City........*Eulberg, Caspar, & Sons, Inc.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=148,478,448,36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Murphysborough........Stecher, R., Brewing Co..... L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=0,492,158,66"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Athens........East St. Louis-New Athens Brew'g",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=338,706,246,40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "streets L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=708,712,178,36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ottawa........Ottawa Brewing Association...A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131738/full/!760,760/0/default.jpg#xywh=0,1436,190,48"
     }
   ]
 }

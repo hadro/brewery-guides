@@ -7,40 +7,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "THE NATIONAL BREWERS’ ACADEMY",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131541/full/!760,760/0/default.jpg#xywh=2026,518,94,36"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "and CONSULTING BUREAU, Inc.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131541/full/!760,760/0/default.jpg#xywh=2028,590,86,32"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "FOUNDED 1876",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131541/full/!760,760/0/default.jpg#xywh=2024,626,94,52"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "THEO. WAGNER",
+        "value": "THE NATIONAL BREWERS' ACADEMY",
         "format": "text/plain",
         "language": "en"
       },
@@ -51,18 +18,29 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Technical School for Brewers and Maltsters",
+        "value": "and CONSULTING BUREAU, Inc.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131541/full/!760,760/0/default.jpg#xywh=1862,712,108,232"
+      "target": "https://iiif.nypl.org/iiif/3/5131541/full/!760,760/0/default.jpg#xywh=1380,550,94,1354"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "General Control of Malthouses, Breweries and Bottling",
+        "value": "FOUNDED 1887",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131541/full/!760,760/0/default.jpg#xywh=1186,554,96,1850"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Technical School for Brewers and Malsters",
         "format": "text/plain",
         "language": "en"
       },
@@ -73,18 +51,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Departments",
+        "value": "General Control of Malthouses, Breweries and Bottling",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131541/full/!760,760/0/default.jpg#xywh=1876,984,82,62"
+      "target": "https://iiif.nypl.org/iiif/3/5131541/full/!760,760/0/default.jpg#xywh=1308,1476,54,524"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Chemical and Biological Laboratories and Experimental",
+        "value": "Departments",
         "format": "text/plain",
         "language": "en"
       },
@@ -95,18 +73,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Brewery",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131541/full/!760,760/0/default.jpg#xywh=2040,2340,88,62"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "462 WEST 35th STREET NEW YORK CITY",
+        "value": "Chemical and Biological Laboratories and Experimental",
         "format": "text/plain",
         "language": "en"
       },
@@ -117,11 +84,22 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "--- OCR End ---",
+        "value": "462 WEST 23rd STREET NEW YORK CITY",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131541/full/!760,760/0/default.jpg#xywh=1688,2512,66,448"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "---",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131541/full/!760,760/0/default.jpg#xywh=1388,2574,92,328"
     }
   ]
 }

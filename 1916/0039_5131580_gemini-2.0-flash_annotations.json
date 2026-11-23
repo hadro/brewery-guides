@@ -18,7 +18,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Baker City........ American Brewing & Crystal Ice",
+        "value": "Baker City........American Brewing & Crystal Ice Co, Dewey ave.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -29,18 +29,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Baker City........ Stofft, Carl........L",
+        "value": "Baker City........Stofft, Carl.....L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=112,566,1548,110"
+      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=112,620,1548,56"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "North Bend........ Coos Bay Brewing Co. (Charles",
+        "value": "La Grande........*Roesch, Julius.....L",
         "format": "text/plain",
         "language": "en"
       },
@@ -51,44 +51,55 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Pendleton........ *Roesch, Estate William........L B",
+        "value": "North Bend........Coos Bay Brewing Co. (Charles Thom, Prop.).....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=0,732,1666,386"
+      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=0,732,1666,48"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Portland........ *Portland Brewing Co., 20th and",
+        "value": "Pendleton........*Roesch, Estate William.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=0,1050,576,224"
+      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=0,780,1666,48"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Portland........ *Weinhard, Henry, Brewery, 475",
+        "value": "Portland........*Portland Brewing Co., 20th and Upshur sts.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=442,1088,266,34"
+      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=0,828,1666,48"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Commercial street........L B",
+        "value": "Portland........*Weinhard, Henry, Brewery, 475 Burnside st.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=704,1090,954,44"
+      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=0,924,1666,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Salem........*Salem Brewery Association, 174 Commercial street.....L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=0,1022,1666,48"
     },
     {
       "type": "Annotation",
@@ -106,7 +117,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Aliquippa........ Mutual Union Brewing Co........A L B",
+        "value": "Aliquippa........Mutual Union Brewing Co.....A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -117,18 +128,51 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Allentown........ Daeufer-Lieberman Brewing Co.",
+        "value": "Allentown........Daeufer-Lieberman Brewing Co. (No. 1), 16 South 8th st.....A L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=0,1234,1670,382"
+      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=0,1234,1670,64"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "North Front street........A L B",
+        "value": "Allentown........Daeufer-Lieberman Brewing Co. (No. 2), 6th and Union sts*.....A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=0,1362,1670,62"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Allentown........Horlacher Brew'g Co., Inc., Third and Gordon sts.....L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=0,1488,1670,64"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Allentown........Neuweiler, Louis F., & Sons, 401 North Front street.....A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=0,1552,1670,64"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Altoona........Kazmaier, John, 1808 Ninth ave.....A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -139,29 +183,29 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Altoona........ Kazmaier, John, 1808 Ninth ave. A L B",
+        "value": "Altoona........Oswald, V. A., 4th ave. and 13th st.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=148,1668,1508,126"
+      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=148,1668,1508,64"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Altoona........ Oswald, V. A., 4th ave. and 13th st. L B",
+        "value": "Altoona........Wilhelm, Schimmenger & Ramsey, 15th ave. and 13th st.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=0,1744,132,44"
+      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=148,1732,1508,62"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Altoona........ Wilhelm, Schimmenger & Ramsey,",
+        "value": "Ambridge........Schonegg, Arnold, Harmony Brewing Co., Essen st.....A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -172,7 +216,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "15th ave. and 13th st........L B",
+        "value": "Ashland........Ashland Brewing Co.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -183,161 +227,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Ambridge........ Schonegg, Arnold, Harmony",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=0,2046,1572,118"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Brewing Co., Essen st........A L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=0,2320,1662,146"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Ashland........ Ashland Brewing Co........L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=136,2704,1520,58"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Beaver Falls........ Anderton Brewery, 24th st. (See",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=138,2758,1442,48"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Independent Brewing Co., Pittsburg.)",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=210,2802,1364,98"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Bradford........ Bradford Brewing Co. (Peter",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=142,2894,1438,50"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Fensel, Prop.), 4th street........L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=0,2936,128,72"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Brookville........ Allgeier, M., Sons........L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=0,2992,130,54"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Brookville........ Brookville Brewing Co., Inc., Mill",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=144,3032,1426,56"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "and Water sts........L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=720,3088,942,40"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Thom, Prop.)........L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=0,326,80,52"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Salem........ *Salem Brewery Association, 174",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=358,356,1210,44"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "(No. 1), 16 South 8th st........A L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=1582,358,70,40"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "(No. 2), 6th and Union sts*........A L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=0,1864,1660,160"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Allentown........ Horlacher Brew'g Co., Inc., Third",
+        "value": "Beaver Falls........Anderton Brewery, 24th st. (See Independent Brewing Co., Pittsburg.).",
         "format": "text/plain",
         "language": "en"
       },
@@ -348,73 +238,40 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "and Gordon sts........L B",
+        "value": "Bennett........American Brewery, Butler Plank road. (See Independent Brewing Co., Pittsburg.)",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=0,2148,1570,54"
+      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=0,2104,1572,60"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Allentown........ Neuweiler, Louis F., & Sons, 401",
+        "value": "Bennett........Pittsburg Pure Beer Brewery, Butler and Evergreen roads. (See Pittsburg Brewing Co.)",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=0,2200,134,36"
+      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=134,2240,1436,58"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "road. (See Independent Brewing Co., Pittsburg.)",
+        "value": "Bentleyville........Acme Brewing Co.....A L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=134,2184,1436,114"
+      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=0,2392,1662,74"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Bennett........ Pittsburg Pure Beer Brewery,",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=0,2230,142,64"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Butler and Evergreen roads.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=696,2288,872,52"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "(See Pittsburg Brewing Co.)",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=0,2292,134,44"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Bernharts........ Muhlenberg Brewing Co., Kutz-",
+        "value": "Bernharts........Muhlenberg Brewing Co., Kutz-down road.....A L",
         "format": "text/plain",
         "language": "en"
       },
@@ -425,18 +282,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Bethlehem........ Uhl, Bertha, Union and Monocacy",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=0,2476,1660,104"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "streets........L B",
+        "value": "Bethlehem........Uhl, Bertha, Union and Monocacy streets.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -447,18 +293,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Bethlehem........ Widman, Jac., & Co., 2 Old York",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=0,2612,104,62"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "road........L B",
+        "value": "Bethlehem........Widman, Jac., & Co., 2 Old York road.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -469,44 +304,55 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Boswell........ Jenner Brewing Co........L B",
+        "value": "Boswell........Jenner Brewing Co.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=1202,2662,462,56"
+      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=136,2704,1520,58"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Braddock........ Home Brewery, 804 Halket ave.",
+        "value": "Braddock........Home Brewery, 804 Halket ave. (See Independent Brewing Co., Pittsburg.)",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=0,2716,134,44"
+      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=210,2802,1364,98"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "(See Independent Brewing Co.,",
+        "value": "Bradford........Bradford Brewing Co. (Peter Fensel, Prop.), 4th street.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=0,2762,128,48"
+      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=142,2894,1438,50"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Pittsburg.)",
+        "value": "Brookville........Allgeier, M., Sons.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=0,2802,132,154"
+      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=0,2992,130,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brookville........Brookville Brewing Co., Inc., Mill and Water sts.....L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131580/full/!760,760/0/default.jpg#xywh=144,3032,1426,56"
     }
   ]
 }

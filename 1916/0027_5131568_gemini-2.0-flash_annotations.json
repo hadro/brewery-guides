@@ -7,7 +7,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "MISSOURI—Continued.",
+        "value": "SUPPLEMENT TO THE BREWERS' JOURNAL. 25",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=344,344,1110,48"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "MISSOURI-Continued.",
         "format": "text/plain",
         "language": "en"
       },
@@ -18,7 +29,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Sedalia........Moerschel Brewing Co., Main st. and Missouri ave......................................L B",
+        "value": "Sedalia.",
         "format": "text/plain",
         "language": "en"
       },
@@ -29,7 +40,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Sedalia........Weigand, Henry...........................................................................................................L",
+        "value": "Moerschel Brewing Co., Main st.",
         "format": "text/plain",
         "language": "en"
       },
@@ -40,7 +51,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Washington........*Busch, John B., Brewing Co., South Jefferson st............................................L B",
+        "value": "and Missouri ave..",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=0,588,1644,152"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "South Jefferson st..",
         "format": "text/plain",
         "language": "en"
       },
@@ -51,11 +73,33 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Weston........Royal Brewing Co., Hickory and 15th sts.............................................................L B",
+        "value": "Royal Brewing Co., Hickory and",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=0,746,1560,104"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "15th sts...",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=632,814,1012,48"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "LB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=0,910,128,48"
     },
     {
       "type": "Annotation",
@@ -73,18 +117,73 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Butte........Butte Brewing Co., 220 North Wyoming street....................................................A L B",
+        "value": "Anaconda Brewing Co..",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=0,936,1658,378"
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=0,936,1658,54"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Butte........*Centennial Brewing Co., 112 North Hamilton st..................................................L B",
+        "value": "*Billings Brewing Co...",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=0,990,1658,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lehrkind, Julius..",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=0,1044,1658,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Butte Brewing Co., 220 North",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=0,1098,1658,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wyoming street..",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=0,1152,1658,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Centennial Brewing Co., 112 North",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=0,1206,1658,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hamilton st...",
         "format": "text/plain",
         "language": "en"
       },
@@ -95,7 +194,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Great Falls........*Montana Brewing Co., Central avenue......................................................................L B",
+        "value": "Dillon",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=0,1260,1658,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Montana Brewing Co., Central",
         "format": "text/plain",
         "language": "en"
       },
@@ -106,7 +216,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Havre........Havre Brewing & Malting Co..................................................................................L B",
+        "value": "*Kessler Brewing Co., 63 South",
         "format": "text/plain",
         "language": "en"
       },
@@ -117,7 +227,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Helena........*Kessler Brewing Co., 63 South Main st..............................................................L B",
+        "value": "Main st.....",
         "format": "text/plain",
         "language": "en"
       },
@@ -128,7 +238,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Kalispell........*Kalispell Malting & Brewing Co...........................................................................L B",
+        "value": "*Kalispell Malting & Brewing Co..L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -139,7 +249,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Lewistown........Lewistown Brewing Co., Inc....................................................................................L",
+        "value": "Lewistown Brewing Co., Inc.......L",
         "format": "text/plain",
         "language": "en"
       },
@@ -150,7 +260,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Missoula........Garden City Brewing Co., Madison street...............................................................L B",
+        "value": "Garden City Brewing Co., Mad-",
         "format": "text/plain",
         "language": "en"
       },
@@ -161,7 +271,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Philipsburg........*Philipsburg Brewing Co........................................................................................L B",
+        "value": "ison street..",
         "format": "text/plain",
         "language": "en"
       },
@@ -172,44 +282,66 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Red Lodge........Red Lodge Brewing Co.............................................................................................L B",
+        "value": "*Philipsburg Brewing Co.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=0,1894,1656,138"
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=0,1894,1656,70"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Silesia........Carbon Brewing Co., Inc...........................................................................................L B",
+        "value": "Red Lodge Brewing Co...",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=0,2010,1650,60"
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=0,1964,1656,68"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Townsend........Dixon, Thomas............................................................................................................L B",
+        "value": "Dixon, Thomas.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=0,2048,1650,122"
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=0,2154,134,56"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Virginia City........*Gilbert Brewing Co. (Valentine Gilbert, Proprietor), Coover and Hamilton sts.....L B",
+        "value": "Gilbert. Proprietor), Coover and",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=702,2154,858,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hamilton sts..",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=702,2200,950,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "..L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=0,2204,132,52"
     },
     {
       "type": "Annotation",
@@ -227,150 +359,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Columbus........*Columbus Brewing Co., 7th and Douglas sts........................................................L B",
+        "value": "*Columbus Brewing Co., 7th and",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=0,2330,1560,120"
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=0,2296,134,58"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Falls City........John P. Gehling..........................................................................................................L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=0,2436,136,68"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Fremont........*Fremont Brewing Co...............................................................................................L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=154,2500,1500,52"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Grand Island........Grand Island Brewing Co., 1100 Block West Front.............................................L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=158,2552,1406,50"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Hastings........Hastings Brewing Co., 2d and Minnesota sts........................................................L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=154,2690,1504,104"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Nebraska City........Otoe Brewing Co........................................................................................................L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=0,2716,142,76"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Omaha........Brunner, Peter, 1419 Canton st...............................................................................W B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=156,2784,1498,50"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Omaha........Guggenmos, Joseph, 1st street and Boulevard..........................................................W B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=280,2834,1284,50"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Omaha........Krug, Fred., Brewing Co., 1007 Jackson st.............................................................L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=212,2906,1448,128"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Omaha........Metz Bros. Brewing Co., 6th and Leavenworth sts...............................................L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=654,3008,928,68"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Anaconda........Anaconda Brewing Co.............................................................................................L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=344,344,1110,48"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Billings........*Billings Brewing Co...................................................................................................L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=702,2200,950,50"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Bozeman........Lehrkind, Julius..........................................................................................................L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=0,2204,132,52"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Butte........Tivoli Brewing Co.......................................................................................................L B",
+        "value": "Douglas sts",
         "format": "text/plain",
         "language": "en"
       },
@@ -381,7 +381,62 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Deer Lodge........*Gerstäcker, John, & Co...............................................................................................L B",
+        "value": "LB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=0,2436,136,68"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Falls City",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=0,2480,136,72"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Fremont Brewing Co......",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=154,2500,1500,52"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Grand Island.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=158,2552,1406,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Grand Island Brewing Co., 1100",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=0,2570,136,76"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Block West Front...",
         "format": "text/plain",
         "language": "en"
       },
@@ -392,18 +447,172 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Dillon........*Beaverhead Brewing Co., Inc...................................................................................L B",
+        "value": "Hastings Brewing Co., 2d and",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=0,2804,140,82"
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=0,2664,138,80"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Great Falls........American Brewing Co..............................................................................................L B",
+        "value": "Minnesota sts....",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=154,2690,1504,104"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Omaha",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=0,2716,142,76"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brunner, Peter, 1419 Canton st... WB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=156,2784,1498,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Guggenmos, Joseph, 1st street",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=280,2834,1284,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "and Boulevard",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=716,2882,940,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "66",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=4,2904,152,76"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Krug, Fred., Brewing Co., 1007",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=212,2906,1448,64"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jackson st",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=212,2970,1448,64"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "66",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=216,2988,438,78"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Metz Bros. Brewing Co., 6th and",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=654,3008,928,68"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Leavenworth sts.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=706,3064,950,48"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Busch, John B., Brewing Co.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=1566,352,70,34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tivoli Brewing Co",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=0,588,140,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Gerstäcker, John, & Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131568/full/!760,760/0/default.jpg#xywh=0,2946,156,84"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "American Brewing Co..",
         "format": "text/plain",
         "language": "en"
       },

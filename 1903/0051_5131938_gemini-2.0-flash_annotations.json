@@ -7,17 +7,6 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "SUPPLEMENT TO THE BREWERS' JOURNAL. 49",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=603,298,1238,52"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
         "value": "RHODE ISLAND.",
         "format": "text/plain",
         "language": "en"
@@ -29,7 +18,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Pawtucket  Hand Brewing Co., Mendon ave..A L",
+        "value": "Pawtucket........ Hand Brewing Co., Mendon ave..A L",
         "format": "text/plain",
         "language": "en"
       },
@@ -40,7 +29,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Providence  Eagle Brewing Co., Inc., 450 West",
+        "value": "Providence........ Eagle Brewing Co., Inc., 450 West",
         "format": "text/plain",
         "language": "en"
       },
@@ -51,18 +40,29 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃  Hanley, James, Brewing Co., Jack-",
+        "value": "Exchange st....................A L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=471,559,1430,120"
+      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=471,559,1430,60"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "son and Fountain sts....... A",
+        "value": "Providence........ Hanley, James, Brewing Co., Jack-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=471,619,1430,60"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "son and Fountain sts...............A",
         "format": "text/plain",
         "language": "en"
       },
@@ -73,18 +73,29 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃  Park Brew Co., 1100 Elmwood",
+        "value": "avenue (Arlington)..............L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=465,795,1438,126"
+      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=465,795,1438,62"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "ave.... A L B",
+        "value": "Providence........ Park Brew Co., 1100 Elmwood",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=465,857,1438,64"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ave..............................A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -95,7 +106,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "ave. and Eagle st... L B",
+        "value": "Providence........ Providence Brewing Co., Harris",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=1615,903,283,48"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ave. and Eagle st................L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -117,7 +139,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Charleston  Germania Brewing Co., Hayne and",
+        "value": "Charleston........ Germania Brewing Co., Hayne and",
         "format": "text/plain",
         "language": "en"
       },
@@ -128,7 +150,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Anson sts..... L B",
+        "value": "Anson sts........................L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -150,18 +172,62 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Sioux Falls  *Sioux Falls Brewing & Malting Co..L",
+        "value": "Central City........ *Black Hills Brewing Co...........L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=350,1296,1556,285"
+      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=350,1296,1556,57"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "and Walnut sts.. L B",
+        "value": "Eureka........ *Eureka Brewing Co................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=350,1353,1556,56"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Huron........ *Blume Brewing Co................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=350,1409,1556,58"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sioux Falls........ *Sioux Falls Brewing & Malting Co..L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=350,1467,1556,57"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Yankton........ *Schwenk-Barth Brewing Co., 2d",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=350,1524,1556,57"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "and Walnut sts...................L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -194,7 +260,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Memphis  Tennessee Brewing Co., 220 Ten-",
+        "value": "Memphis........ Tennessee Brewing Co., 220 Ten-",
         "format": "text/plain",
         "language": "en"
       },
@@ -205,11 +271,22 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Nashville  Gerst, Wm., Brewing Co., 923",
+        "value": "Nashville........ Gerst, Wm., Brewing Co., 923",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=360,1920,1534,171"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "South High st....................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=0,2103,122,50"
     },
     {
       "type": "Annotation",
@@ -227,293 +304,29 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Dallas  Dallas Brewery, Inc., Cochran and",
+        "value": "Bellville........ Frank, Herman.....................L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=360,2145,1533,133"
+      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=360,2145,1533,66"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Houston sts.... L B",
+        "value": "Dallas........ Dallas Brewery, Inc., Cochran and",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=365,2402,1437,108"
+      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=360,2211,1533,67"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "and Post Office sts... L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=945,2402,942,55"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Railroad and 2d sts. L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=435,2484,1459,120"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Meyersville  Frank, Gustav L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=363,2580,1531,118"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "San Antonio  Bongo and Weiss Beer Bottling",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=351,2655,1548,460"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "James street. L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=943,3062,944,49"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Exchange st. A L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=0,435,111,98"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "〃  Molter, Henry T., 14 Garnet st...L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=0,660,86,94"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "〃  Narragansett Brewing Co., Depot",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=0,1195,111,46"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "avenue (Arlington) LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=0,1250,108,92"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "〃  Providence Brewing Co., Harris",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=2,1339,113,46"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Central City  Black Hills Brewing Co..... L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=0,1380,98,51"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Eureka  *Eureka Brewing Co..... L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=3,1488,110,43"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Huron  *Blume Brewing Co.. L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=0,1527,103,54"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Yankton  *Schwenk-Barth Brewing Co., 2d",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=0,1582,115,91"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Chattanooga  Chattanooga Brewing Co., Broad",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=0,1677,117,44"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "and 2d sts.... L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=2,1718,113,51"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Knoxville  East Tennessee Brewing Co.,",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=0,1870,115,41"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "nessee st... L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=0,2059,118,44"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "South High st..... L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=0,2103,122,50"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Bellville  Frank, Herman. L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=0,2151,101,48"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Fort Worth  Texas Brewing Co., Trustees of...L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=0,2205,120,41"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Galveston  Galveston Brewing Co., Inc., 33d",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=0,2247,93,48"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Houston  American Brewing Association,",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=0,2302,98,43"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "〃  Houston Ice and Brewing Co.,",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=0,2445,106,44"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Washington and 4th sts... L B",
+        "value": "Houston sts........................L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -524,77 +337,187 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Works & Mfg. Co., 309 3d st..... W B",
+        "value": "Galveston........ Galveston Brewing Co., Inc., 33d",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=0,2537,110,50"
+      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=365,2402,1437,108"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃  Degen, Charles, 239 Blum st..... L",
+        "value": "and Post Office sts................L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=0,2583,117,45"
+      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=945,2402,942,55"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃  Lone Star Brewing Co., 120 Jones",
+        "value": "Railroad and 2d sts...............L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=0,2630,115,43"
+      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=435,2484,1459,120"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "street L B",
+        "value": "Houston........ Houston Ice and Brewing Co.,",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=0,2683,96,44"
+      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=351,2655,1548,52"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃  Ochs & Achbacher, 530 Oakland",
+        "value": "San Antonio........ Bongo and Weiss Beer Bottling",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=3,2775,96,48"
+      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=351,2707,1548,51"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "avenue... W B",
+        "value": "Works & Mfg. Co., 309 3d st.....W B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=0,3009,113,60"
+      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=351,2758,1548,50"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃  San Antonio Brewing Association,",
+        "value": "San Antonio........ Degen, Charles, 239 Blum st.........L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=351,2808,1548,51"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "San Antonio........ Lone Star Brewing Co., 120 Jones",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=351,2859,1548,52"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "street............................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=351,2911,1548,51"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "San Antonio........ Ochs & Achbacher, 530 Oakland",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=351,2962,1548,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "avenue............................W B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=351,3012,1548,51"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "James street......................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=943,3062,944,49"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Providence........ Narragansett Brewing Co., Depot",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=603,298,1238,52"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chattanooga........ Chattanooga Brewing Co., Broad",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=1839,310,62,35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "and 2d sts........................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=0,2205,120,41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "nessee st........................L B",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=0,3057,132,60"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "San Antonio........ San Antonio Brewing Association,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131938/full/!760,760/0/default.jpg#xywh=351,3063,1548,52"
     }
   ]
 }

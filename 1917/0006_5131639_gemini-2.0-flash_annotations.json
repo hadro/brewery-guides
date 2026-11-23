@@ -59,7 +59,7 @@
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131639/full/!760,760/0/default.jpg#xywh=2348,1710,50,102",
+      "target": "https://iiif.nypl.org/iiif/3/5131639/full/!760,760/0/default.jpg#xywh=1740,2398,126,210",
       "id": "https://hadro.github.io/brewery-guides/1917/0006_5131639_gemini-2.0-flash_annotations/line/4"
     },
     {
@@ -71,20 +71,8 @@
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131639/full/!760,760/0/default.jpg#xywh=2348,1898,50,144",
+      "target": "https://iiif.nypl.org/iiif/3/5131639/full/!760,760/0/default.jpg#xywh=1942,416,94,704",
       "id": "https://hadro.github.io/brewery-guides/1917/0006_5131639_gemini-2.0-flash_annotations/line/5"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "BROOKLYN, Ν. Υ.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131639/full/!760,760/0/default.jpg#xywh=2348,2506,50,52",
-      "id": "https://hadro.github.io/brewery-guides/1917/0006_5131639_gemini-2.0-flash_annotations/line/6"
     },
     {
       "type": "Annotation",
@@ -95,7 +83,19 @@
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131639/full/!760,760/0/default.jpg#xywh=2342,2914,50,64",
+      "target": "https://iiif.nypl.org/iiif/3/5131639/full/!760,760/0/default.jpg#xywh=2122,1376,54,544",
+      "id": "https://hadro.github.io/brewery-guides/1917/0006_5131639_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "BROOKLYN, N. Y.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131639/full/!760,760/0/default.jpg#xywh=1958,2402,74,498",
       "id": "https://hadro.github.io/brewery-guides/1917/0006_5131639_gemini-2.0-flash_annotations/line/7"
     }
   ],

@@ -7,7 +7,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "ILLINOIS—Continued.",
+        "value": "SUPPLEMENT TO THE BREWERS' JOURNAL. 15",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=344,348,1308,44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ILLINOIS-Continued.",
         "format": "text/plain",
         "language": "en"
       },
@@ -18,7 +29,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Rockford........Rockford Brewing Co., 212 Prairie street...............................................................................................A L B",
+        "value": "Rockford Rockford Brewing Co., 212 Prairie",
         "format": "text/plain",
         "language": "en"
       },
@@ -29,7 +40,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Rock Island........Rock Island Brewing Co., 7th ave. and 30th st......................................................................................L B",
+        "value": "street....",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=706,586,400,40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rock Island. Rock Island Brewing Co., 7th ave.",
         "format": "text/plain",
         "language": "en"
       },
@@ -40,7 +62,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Springfield........*Reisch Brewing Co., Inc., Rutledge and Herndon sts....................................................................L B",
+        "value": "and 30th st...",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=0,622,134,66"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Springfield. *Reisch Brewing Co., Inc., Rutledge",
         "format": "text/plain",
         "language": "en"
       },
@@ -51,7 +84,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Thornton........Bielefeld, John S., Brewing Co.......................................................................................................L B",
+        "value": "and Herndon sts.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=652,762,998,56"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Thornton Bielefeld, John S., Brewing Co...L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -62,7 +106,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Trenton........Bassler Brewing Co., Inc.........................................................................................................................L",
+        "value": "Trenton Bassler Brewing Co., Inc.",
         "format": "text/plain",
         "language": "en"
       },
@@ -73,7 +117,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Warsaw........Popel & Giller Brewing Co., 6th street.......................................................................................................A L B",
+        "value": "Warsaw Popel & Giller Brewing Co., 6th",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=0,928,132,40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "street..",
         "format": "text/plain",
         "language": "en"
       },
@@ -84,7 +139,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Waterloo........Waterloo Brewing Co. (J. S. Schorr, Prop.), No. Main st..................................................................L B",
+        "value": "Waterloo Waterloo Brewing Co. (J. S.",
         "format": "text/plain",
         "language": "en"
       },
@@ -95,22 +150,66 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Waukegan........*Waukegan Brewing Co., 306 South Utica st.........................................................................................A L B",
+        "value": "Schorr, Prop.), No. Main st....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=126,1042,1536,186"
+      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=634,1044,1016,58"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "West Hammond........West Hammond Brewing Co., 548 West State st. (P. O. address, Hammond, Indiana)...................................................................................................L B",
+        "value": "Waukegan. *Waukegan Brewing Co., 306 South",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=0,1144,1564,150"
+      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=0,1052,130,72"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Utica st......",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=126,1136,1536,92"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "West Hammond West Hammond Brewing Co,, 548",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=0,1144,1564,76"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "West State st. (P. O. address,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=0,1220,1564,74"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hammond, Indiana)",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=704,1280,950,50"
     },
     {
       "type": "Annotation",
@@ -128,7 +227,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Anderson........Norton, T. M., Brewing Co., 108 North Water st.......................................................................................A L",
+        "value": "North Water st.....",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=248,1398,334,48"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Columbia City.. Walter-Raupfer Brewing Co......L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -139,7 +249,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Columbia City........Walter-Raupfer Brewing Co..................................................................................................................L B",
+        "value": "Upper 7th st.",
         "format": "text/plain",
         "language": "en"
       },
@@ -150,18 +260,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Evansville........Cook, F. W., Brewing Co., 214 Upper 7th st.............................................................................................L B",
+        "value": "\"*Evansville Evansville Brewery Co., 1st ave.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=158,1686,1412,200"
+      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=158,1686,1412,100"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Evansville........{Evansville Brewing Association, L B Evansville Brewery Co., 1st ave. and Ingle st.",
+        "value": "Brewing and Ingle st.",
         "format": "text/plain",
         "language": "en"
       },
@@ -172,51 +282,73 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Evansville........{Evansville Brewing Association, L B Fulton Ave. Brewery, 400 Fulton avenue.",
+        "value": "Association, Fulton Ave. Brewery, 400 Fulton",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=0,1778,134,96"
+      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=158,1786,1412,100"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Ferdinand........*Ferdinand Brewing Co............................................................................................................................L",
+        "value": "L B avenue.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=140,1856,1522,108"
+      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=0,1884,128,34"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Fort Wayne........Berghoff Brewing Association, Grant ave.....................................................................................................L B",
+        "value": "Ferdinand *Ferdinand Brewing Co....",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=0,1922,1592,212"
+      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=0,1912,132,56"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Fort Wayne........*Centlivre, C. L., Brewing Co., North End Spy Run ave............................................................................L B",
+        "value": "Fort Wayne. Berghoff Brewing Association,",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=0,2074,1664,132"
+      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=0,1922,1592,106"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Huntingburgh........*Moenkhaus & Seubold............................................................................................................................L B",
+        "value": "Grant ave",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=0,2028,1592,106"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "66 *Centlivre, C. L., Brewing Co.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=0,2074,1664,66"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "North End Spy Run ave..",
         "format": "text/plain",
         "language": "en"
       },
@@ -227,40 +359,51 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Huntington........Huntington Brewing Co........................................................................................................................L B",
+        "value": "Huntingburgh *Moenkhaus & Seubold..",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=136,2158,1534,242"
+      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=0,2140,1664,66"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Indianapolis........American Brewing Co., 332 West Market st.........................................................................................L W B",
+        "value": "Indianapolis American Brewing Co., 332 West",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=0,2298,128,44"
+      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=136,2158,1534,80"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Indianapolis........Citizens Brewing Co., West and Wisconsin sts..............................................................................................A L B",
+        "value": "Market st.....",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=0,2346,134,44"
+      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=136,2238,1534,82"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Indianapolis........Home Brewing Co., Cruse and Daily sts....................................................................................................A L B",
+        "value": "66 Citizens Brewing Co., West and",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=136,2320,1534,80"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wisconsin sts....",
         "format": "text/plain",
         "language": "en"
       },
@@ -271,7 +414,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "*Indianapolis",
+        "value": "66 Home Brewing Co., Cruse and",
         "format": "text/plain",
         "language": "en"
       },
@@ -282,7 +425,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Breweries, Ltd.,",
+        "value": "Daily sts..",
         "format": "text/plain",
         "language": "en"
       },
@@ -293,7 +436,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "A L B........{Lieber, P., Brewing Co., 512 Madison ave.",
+        "value": "\"*Indianapolis Lieber, P., Brewing Co., 512 Madi-",
         "format": "text/plain",
         "language": "en"
       },
@@ -304,18 +447,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "*Indianapolis",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=0,2426,130,64"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Breweries, Ltd.,",
+        "value": "Breweries, Ltd., son ave.",
         "format": "text/plain",
         "language": "en"
       },
@@ -326,7 +458,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "A L B........{Schmidt, C. F., South End Alabama st.",
+        "value": "ALB Schmidt, C. F., South End Ala-",
         "format": "text/plain",
         "language": "en"
       },
@@ -337,7 +469,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Jasper........*Habich, Anton..................................................................................................................................................L",
+        "value": "bama st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=634,2650,326,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jasper. *Habich, Anton.",
         "format": "text/plain",
         "language": "en"
       },
@@ -348,44 +491,88 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "La Fayette........Bohrer, Geo. A., Brewing Co., 82 South 4th st...............................................................................................L B",
+        "value": "La Fayette Bohrer, Geo. A., Brewing Co., 82",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=0,2700,128,88"
+      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=152,2726,1516,54"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "La Fayette........*Thieme & Wagner Brewing Co., North 4th st...................................................................................................L B",
+        "value": "South 4th st....",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=152,2726,1516,270"
+      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=152,2780,1516,54"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "La Porte........Guenther & Zerweck, Tyler & Lake sts.......................................................................................................L B",
+        "value": "66 *Thieme & Wagner Brewing Co.,",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=0,2808,118,62"
+      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=152,2834,1516,54"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Lawrenceburgh........*Oberling, Victor, 3d and Shipping streets.....................................................................................................L B",
+        "value": "North 4th st....",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=152,2888,1516,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Porte. Guenther & Zerweck, Tyler &",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=152,2942,1516,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lake sts",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=156,2974,1426,108"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lawrenceburgh *Oberling, Victor, 3d and Shipping",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=0,3038,126,68"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "streets...",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131558/full/!760,760/0/default.jpg#xywh=722,3068,942,54"
     }
   ]
 }

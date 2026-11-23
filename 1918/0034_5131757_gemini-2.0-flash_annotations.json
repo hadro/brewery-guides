@@ -18,7 +18,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Columbus........{*Hoster-Columbus Branch, Bank and Frankford sts.",
+        "value": "Columbus........{*Hoster-Columbus Branch, Bank and",
         "format": "text/plain",
         "language": "en"
       },
@@ -29,7 +29,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Columbus........{Company, Inc., LB Hoster Branch, Front street and Livingston ave.",
+        "value": "Columbus........{Frankford sts.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131757/full/!760,760/0/default.jpg#xywh=1466,570,394,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Columbus........{Hoster Branch, Front street and",
         "format": "text/plain",
         "language": "en"
       },
@@ -40,7 +51,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Columbus........Ohio Brewing Co., South High st. and Reeb ave....................L",
+        "value": "Company, Livingston ave.",
         "format": "text/plain",
         "language": "en"
       },
@@ -51,7 +62,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Columbus........Washington Brewing Co., 2d ave. and Perry st........................L",
+        "value": "Inc., L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -62,7 +73,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Dayton........{*Dayton Breweries Co., Schantz-Thomas Branch, 1st and Beckel streets.",
+        "value": "Columbus........Ohio Brewing Co., South High st. and Reeb ave....................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -73,7 +84,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Dayton........401-412 Ludlow Building, A L B Schantz & Schwind Branch, Perry and Bayard streets.",
+        "value": "Columbus........Washington Brewing Co., 2d ave. and Perry st........................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -84,7 +95,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Dayton........Schwind Branch, 212 River st................................................",
+        "value": "Dayton........*Dayton Schantz-Thomas Branch, 1st and Beckel streets.",
         "format": "text/plain",
         "language": "en"
       },
@@ -95,7 +106,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Dayton........Hollencamp Brewing Co., Hickory and Brown sts..........................A L",
+        "value": "Dayton........Breweries Co., Schantz & Schwind Branch, Perry and Bayard streets.",
         "format": "text/plain",
         "language": "en"
       },
@@ -106,7 +117,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Dayton........Olt Brewing Co., 20 McGee st....................................................L",
+        "value": "Dayton........Hollencamp Brewing Co., Hickory and Brown sts........................A",
         "format": "text/plain",
         "language": "en"
       },
@@ -117,7 +128,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Defiance........*Diehl, Christian, Brewing Co., Inc., Water and North Clinton sts.......L",
+        "value": "Defiance........*Diehl, Christian, Brewing Co., Inc., Water and North Clinton sts........L",
         "format": "text/plain",
         "language": "en"
       },
@@ -128,7 +139,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Delphos........Steinle Brewing & Ice Co., 2d and Douglas sts..............................L",
+        "value": "Delphos........Steinle Brewing & Ice Co., 2d and Douglas sts........................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -139,7 +150,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "East Liverpool........Crockery City Brewing & Ice Co., Franklin ave. and Ravine st..........L",
+        "value": "East Liverpool........Crockery City Brewing & Ice Co., Franklin ave. and Ravine st.........L",
         "format": "text/plain",
         "language": "en"
       },
@@ -150,7 +161,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Findlay........Krantz Brewing Co., Jefferson and Clinton sts.................................L",
+        "value": "Findlay........Krantz Brewing Co., Jefferson and Clinton sts........................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -161,7 +172,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Fremont........*Fremont Brewing Co., Inc., 432 Oak street...................................L",
+        "value": "Fremont........*Fremont Brewing Co., Inc., 432 Oak street........................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -172,7 +183,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Hamilton........*Cincinnati Brewing Co., Front and Sycamore sts..............................L",
+        "value": "Hamilton........*Cincinnati Brewing Co., Front and Sycamore sts........................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -183,7 +194,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Hamilton........Mason, Martin, Brewing Co., 365 South C st.....................................",
+        "value": "Hamilton........Mason, Martin, Brewing Co., 365 South C st........................",
         "format": "text/plain",
         "language": "en"
       },
@@ -194,7 +205,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Ironton........Ironton Brewing Co., 113 North 7th street....................................L",
+        "value": "Ironton........Ironton Brewing Co., 113 North 7th street........................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -205,7 +216,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Lima........*Lima Brewing Co., Inc., East Pittsburg street..................................L",
+        "value": "Lima........*Lima Brewing Co., Inc., East Pittsburg street........................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -227,7 +238,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Mansfield........*Frank, Martin, & Son, 110 North Diamond street...........................L",
+        "value": "Mansfield........*Frank, Martin, & Son, 110 North Diamond street........................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -238,7 +249,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Mansfield........*Renner & Weber Brewing Co., 75 East 4th st.................................L",
+        "value": "Mansfield........*Renner & Weber Brewing Co., 75 East 4th st........................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -249,7 +260,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Marietta........Marietta Brewing Co., St. Clair and 2d sts...................................L",
+        "value": "Marietta........Marietta Brewing Co., St. Clair and 2d sts........................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -260,7 +271,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Marion........Marion Brewing & Bottling Co......................................................L",
+        "value": "Marion........Marion Brewing & Bottling Co........................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -271,7 +282,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Martin's Ferry........Belmont Brewing Co........................................................L",
+        "value": "Martin's Ferry........Belmont Brewing Co........................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -282,7 +293,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Middletown........*Sebald, Wm., Brewing Co., 3d and Canal sts....................................L",
+        "value": "Middletown........*Sebald, Wm., Brewing Co., 3d and Canal sts........................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -293,7 +304,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Milan........*Herb, Joseph, Brewing Co..........................................................L",
+        "value": "Milan........*Herb, Joseph, Brewing Co........................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -304,11 +315,66 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Minster........*Star Brewing Co., Inc., Ohio st................................................L",
+        "value": "Minster........*Star Brewing Co., Inc., Ohio st........................L",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131757/full/!760,760/0/default.jpg#xywh=1448,2818,626,56"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dayton........401-412 Ludlow Schwind Branch, 212 River st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131757/full/!760,760/0/default.jpg#xywh=972,1044,1122,76"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Building, A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131757/full/!760,760/0/default.jpg#xywh=954,1082,1342,100"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dayton........Olt Brewing Co., 20 McGee st........................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131757/full/!760,760/0/default.jpg#xywh=1036,1230,1298,80"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Galion........*Galion Brewing Co........................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131757/full/!760,760/0/default.jpg#xywh=874,1750,1524,96"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Massillon........Schuster Brewery, 26 Exchange street. (See Stark - Tuscarawas Breweries Co., Canton.)",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131757/full/!760,760/0/default.jpg#xywh=872,2718,1436,74"
     }
   ]
 }

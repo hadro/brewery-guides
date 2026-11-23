@@ -7,17 +7,6 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Supplement to The Brewers' Journal 24",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=788,347,1033,53"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
         "value": "MINNESOTA—Continued.",
         "format": "text/plain",
         "language": "en"
@@ -29,7 +18,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Minneapolis Lauritzen Malt Co., 1900 Third st.,",
+        "value": "Minneapolis........Lauritzen Malt Co., 1900 Third st.,",
         "format": "text/plain",
         "language": "en"
       },
@@ -40,7 +29,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 Liden, Andrew, 2210 Sverdrup st....L",
+        "value": "Minneapolis........Liden, Andrew, 2210 Sverdrup st.....L",
         "format": "text/plain",
         "language": "en"
       },
@@ -51,7 +40,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 *Minneapolis Brewing Co., Marshal",
+        "value": "Minneapolis........*Minneapolis Brewing Co., Marshal",
         "format": "text/plain",
         "language": "en"
       },
@@ -62,7 +51,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "st. and 13th ave....LB",
+        "value": "st. and 13th ave.....LB",
         "format": "text/plain",
         "language": "en"
       },
@@ -73,7 +62,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Minnesota City *Vill. Otto, Lake st....L",
+        "value": "Minnesota City........*Vill. Otto, Lake st.....L",
         "format": "text/plain",
         "language": "en"
       },
@@ -84,7 +73,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Montgomery *Richter-Washa Brewing Co....L",
+        "value": "Montgomery........*Richter-Washa Brewing Co.....L",
         "format": "text/plain",
         "language": "en"
       },
@@ -95,7 +84,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New Munich *Pitzel, Matthias....L",
+        "value": "New Munich........*Pitzel, Matthias.....L",
         "format": "text/plain",
         "language": "en"
       },
@@ -106,7 +95,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New Prague Mickus, Charles...L",
+        "value": "New Prague........Mickus, Charles.....L",
         "format": "text/plain",
         "language": "en"
       },
@@ -117,7 +106,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 Piemeisl & Rybok...L",
+        "value": "New Prague........Piemeisl & Rybok.....L",
         "format": "text/plain",
         "language": "en"
       },
@@ -128,7 +117,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New Ulm *Bender, Jacob, Front st.....LB",
+        "value": "New Ulm........*Bender, Jacob, Front st.....LB",
         "format": "text/plain",
         "language": "en"
       },
@@ -139,7 +128,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 *Hauenstein, John, Brewing Co.,",
+        "value": "New Ulm........*Hauenstein, John, Brewing Co.,",
         "format": "text/plain",
         "language": "en"
       },
@@ -150,7 +139,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Jefferson and 16th sts., South...LB",
+        "value": "Jefferson and 16th sts., South.....LB",
         "format": "text/plain",
         "language": "en"
       },
@@ -161,7 +150,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 *Schell, August, Brewing Co.......LB",
+        "value": "New Ulm........*Schell, August, Brewing Co.....LB",
         "format": "text/plain",
         "language": "en"
       },
@@ -172,7 +161,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 *Schmuker, Joseph, German st....LB",
+        "value": "New Ulm........*Schmuker, Joseph, German st.....LB",
         "format": "text/plain",
         "language": "en"
       },
@@ -183,7 +172,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Northfield *Wenner, Herman, Greenvale ave...L",
+        "value": "Northfield........*Wenner, Herman, Greenvale ave.....L",
         "format": "text/plain",
         "language": "en"
       },
@@ -194,7 +183,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Ortonville.. *Lammel, Edward, Main st....LB",
+        "value": "Ortonville........*Lammel, Edward, Main st.....LB",
         "format": "text/plain",
         "language": "en"
       },
@@ -205,7 +194,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Preston *Riedel, George....L",
+        "value": "Perham........*Schroeder, Peter.....LB",
         "format": "text/plain",
         "language": "en"
       },
@@ -216,18 +205,40 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Red Wing. *Red Wing Brewing Co., 1602 West",
+        "value": "Pine City........Buselmier, Mrs. Amalie.....L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=545,1410,1534,394"
+      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=545,1410,1534,131"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Main st.LB",
+        "value": "Preston........*Riedel, George.....L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=545,1541,1534,132"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Red Wing........*Red Wing Brewing Co., 1602 West",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=545,1673,1534,131"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Main st.....LB",
         "format": "text/plain",
         "language": "en"
       },
@@ -238,330 +249,66 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Saint Cloud. *Preisz & Wimmer Brewing Co.,",
+        "value": "Red Wing........*Remmler, A., 5th and Bush sts.....LB",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=546,1776,1526,251"
+      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=546,1776,1526,36"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 Udermann, Valentin, 6th ave. and",
+        "value": "Reed's Landing........*Burkhardt, Gottlieb.....L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=665,1988,1309,80"
+      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=1745,1775,320,44"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "4th st....L",
+        "value": "Rochester........*Schuster Brewing Co., 420 South",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=1134,2058,244,31"
+      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=546,1812,1526,36"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Saint Paul. Aiple Brewing Co., Channel near",
+        "value": "Rush City........Rush City Brewing Co.....L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=555,2091,1422,53"
+      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=546,1848,1526,37"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Edward st....LB",
+        "value": "Rushford........*Pfeiffer, John.....LB",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=785,2134,1282,113"
+      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=546,1885,1526,34"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 *Drewry & Sons, 702 Payne ave..A L B",
+        "value": "Saint Cloud........*Preisz & Wimmer Brewing Co.,",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=644,2226,45,26"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "〃 *Emmert, Fred., Brewing Co., 187",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=780,2228,1187,58"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "South Exchange st....LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=1129,2278,931,55"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "〃 Funk, M., Brewing Co., Colborne",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=788,2324,1181,60"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "and Cascade sts....L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=1123,2374,935,48"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "〃 *Hamm, Theodore, Brewing Co.,",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=782,2405,1190,72"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Minnehaha & Greenbriar sts...LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=1125,2463,931,52"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "〃 Schmidt, Jacob, Brewing Co.,",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=788,2510,1208,53"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Commercial and Hudson aves..LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=1123,2556,937,52"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "〃 *Yoerg, Anthony, Brewing Co.,",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=801,2589,1187,81"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Ohio and Ethel sts...LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=1123,2649,932,53"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Saint Peter *Engesser Brewing & Malting Co...L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=541,2676,1522,128"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "〃 *Nyssen, Hubert.LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=644,2785,1416,56"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Tower Iron Range Brewing Assoc'n LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=536,2817,1531,275"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Wabasha. Grass, ChristL",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=541,3063,1510,58"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Ν. Ε. LB†",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=2292,512,110,29"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Owatonna *Ganser, Peter....LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=2297,560,105,29"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Perham *Schroeder, Peter...LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=2292,608,110,29"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Pine City Buselmier, Mrs. Amalie....L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=2293,653,109,29"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Main st....LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=2295,830,108,43"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "〃 *Remmler, A., 5th and Bush sts..LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=2290,878,112,44"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Reed's Landing *Burkhardt, Gottlieb....L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=2293,974,109,38"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Rochester *Schuster Brewing Co., 420 South",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=2298,1120,104,34"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Rush City.. Rush City Brewing Co.....L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=2297,1158,105,46"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Rushford. *Pfeiffer, John..LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=2297,1211,105,41"
+      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=546,1919,1526,36"
     },
     {
       "type": "Annotation",
@@ -572,62 +319,271 @@
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=2298,1256,104,41"
+      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=546,1955,1526,36"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Shakopee *Engelhorn, J. M...L",
+        "value": "Saint Cloud........Udermann, Valentin, 6th ave. and",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=2304,1780,80,31"
+      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=665,1988,1309,80"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Silver Lake. Chalupsky, W....LB",
+        "value": "4th st.....L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=2300,1824,102,38"
+      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=1134,2058,244,31"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Sleepy Eye. *Steffen, Anton....L",
+        "value": "Saint Paul........Aiple Brewing Co., Channel near",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=2302,1964,100,41"
+      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=555,2091,1422,53"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Stillwater. *Wolf, Joseph, Co., 402 South Main",
+        "value": "Edward st.....LB",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=2304,2065,98,38"
+      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=785,2134,1282,113"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "street....LB",
+        "value": "Saint Paul........*Drewry & Sons, 702 Payne ave.....ALB",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=2304,2290,101,50"
+      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=644,2226,45,26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Saint Paul........*Emmert, Fred., Brewing Co., 187",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=780,2228,1187,58"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "South Exchange st.....LB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=1129,2278,931,55"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Saint Paul........Funk, M., Brewing Co., Colborne",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=788,2324,1181,60"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "and Cascade sts.....L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=1123,2374,935,48"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Saint Paul........*Hamm, Theodore, Brewing Co.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=782,2405,1190,72"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Minnehaha & Greenbriar sts.....LB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=1125,2463,931,52"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Saint Paul........Schmidt, Jacob, Brewing Co.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=788,2510,1208,53"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Commercial and Hudson aves.....LB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=1123,2556,937,52"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Saint Paul........*Yoerg, Anthony, Brewing Co.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=801,2589,1187,81"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ohio and Ethel sts.....LB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=1123,2649,932,53"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Saint Peter........*Engesser Brewing & Malting Co.....LB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=541,2676,1522,128"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Shakopee........*Nyssen, Hubert.....LB†",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=644,2785,1416,56"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tower........Iron Range Brewing Assoc'n.....LB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=536,2817,1531,275"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wabasha........Grass, Christ.....L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=541,3063,1510,58"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Shakopee........*Engelhorn, J. M.....L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=560,347,60,38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Silver Lake........Chalupsky, W.....LB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=788,347,1033,53"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sleepy Eye........*Steffen, Anton.....L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=655,1125,99,47"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Stillwater........*Wolf, Joseph, Co., 402 South Main",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=655,1182,91,34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "street.....LB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131913/full/!760,760/0/default.jpg#xywh=546,1991,1526,36"
     }
   ]
 }

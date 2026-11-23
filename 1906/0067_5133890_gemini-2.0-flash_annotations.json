@@ -43,7 +43,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "San Francisco........Bauer-Schweitzer Hop and Malt Co.,",
+        "value": "San Francisco........Bauer-Schweitzer Hop and Malt Co., 632 Sacramento st.",
         "format": "text/plain",
         "language": "en"
       },
@@ -55,36 +55,12 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "632 Sacramento st.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=684,1394,496,36",
-      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/4"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "San Francisco........Krug & Zimmermann Malting Co., 18th",
+        "value": "San Francisco........Krug & Zimmermann Malting Co., 18th and Shotwell sts.",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=250,1408,1412,78",
-      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/5"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "and Shotwell sts.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=0,1426,78,44",
-      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/6"
+      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/4"
     },
     {
       "type": "Annotation",
@@ -95,8 +71,8 @@
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=396,1478,962,104",
-      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/7"
+      "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=396,1530,962,52",
+      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/5"
     },
     {
       "type": "Annotation",
@@ -108,7 +84,7 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=756,1608,294,40",
-      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/8"
+      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/6"
     },
     {
       "type": "Annotation",
@@ -120,7 +96,7 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=122,1668,1106,48",
-      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/9"
+      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/7"
     },
     {
       "type": "Annotation",
@@ -132,55 +108,31 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=698,1738,392,54",
+      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago........Bullen, Geo., & Co., First Nationa Bank Building.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=124,1796,1542,54",
+      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago........Calumet Malting Co., Archer and Stewart aves,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=124,1906,1542,54",
       "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/10"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Chicago........Bullen, Geo., & Co., First Nationa",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=124,1796,1542,164",
-      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/11"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Bank Building.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=0,1900,94,44",
-      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/12"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Chicago........Calumet Malting Co., Archer and",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=358,1954,338,44",
-      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/13"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Stewart aves,",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=716,1954,374,36",
-      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/14"
     },
     {
       "type": "Annotation",
@@ -191,56 +143,32 @@
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=192,1984,1470,110",
-      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/15"
+      "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=192,1984,1470,56",
+      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/11"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Chicago........Fortune Bros. Malting Co., 225 South",
+        "value": "Chicago........Fortune Bros. Malting Co., 225 South Desplaines st.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=320,2088,1342,98",
-      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/16"
+      "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=192,2040,1470,54",
+      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/12"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Desplaines st.",
+        "value": "Chicago........Northwestern Malt and Grain Co., 138 Jackson Boulevard.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=666,2090,396,44",
-      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/17"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Chicago........Northwestern Malt and Grain Co.,",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=0,2122,78,48",
-      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/18"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "138 Jackson Boulevard.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=676,2184,638,40",
-      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/19"
+      "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=320,2136,1342,50",
+      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/13"
     },
     {
       "type": "Annotation",
@@ -252,79 +180,43 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=198,2200,1342,94",
-      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/20"
+      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/14"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Chicago........Rice Malt & Grain Co., Traders'",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=0,2220,100,44",
-      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/21"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Building.",
+        "value": "Chicago........Rice Malt & Grain Co., Traders' Building.",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=710,2320,262,48",
-      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/22"
+      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/15"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Chicago........Schwill, A., & Co., Fort Wayne R. R.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=650,2364,1004,58",
-      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/23"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "and 103d st. Office, Traders' Building.",
+        "value": "Chicago........Schwill, A., & Co., Fort Wayne R. R. and 103d st. Office, Traders' Building.",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=686,2414,964,48",
-      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/24"
+      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/16"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Chicago........Watkins, Fretts & Vincent, 169",
+        "value": "Chicago........Watkins, Fretts & Vincent, 169 Jackson st.",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=636,2460,918,48",
-      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/25"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Jackson st.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=716,2514,296,36",
-      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/26"
+      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/17"
     },
     {
       "type": "Annotation",
@@ -336,55 +228,31 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=626,2554,326,48",
-      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/27"
+      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/18"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Pekin........Valk, F. A., Malting Co., Elizabeth and",
+        "value": "Pekin........Valk, F. A., Malting Co., Elizabeth and 1st sts.",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=474,2596,1178,54",
-      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/28"
+      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/19"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "1st sts.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=690,2654,182,36",
-      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/29"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Peoria........Peoria Malting Co., 1820 South Wash-",
+        "value": "Peoria........Peoria Malting Co., 1820 South Washington st.",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=638,2694,1022,48",
-      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/30"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "ington st.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=684,2746,270,40",
-      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/31"
+      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/20"
     },
     {
       "type": "Annotation",
@@ -396,31 +264,19 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=778,2820,234,40",
-      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/32"
+      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/21"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Davenport........Davenport Malt and Grain Co., 5th and",
+        "value": "Davenport........Davenport Malt and Grain Co., 5th and De Soto sts.",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=638,2882,1018,44",
-      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/33"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "De Soto sts.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=686,2930,322,40",
-      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/34"
+      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/22"
     },
     {
       "type": "Annotation",
@@ -432,7 +288,7 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=632,2972,688,48",
-      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/35"
+      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/23"
     },
     {
       "type": "Annotation",
@@ -444,7 +300,7 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5133890/full/!760,760/0/default.jpg#xywh=632,3022,682,48",
-      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/36"
+      "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations/line/24"
     }
   ],
   "id": "https://hadro.github.io/brewery-guides/1906/0067_5133890_gemini-2.0-flash_annotations"

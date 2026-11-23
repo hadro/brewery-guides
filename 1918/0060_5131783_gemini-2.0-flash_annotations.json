@@ -40,6 +40,17 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
+        "value": "PENNSYLVANIA,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131783/full/!760,760/0/default.jpg#xywh=1352,676,494,40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
         "value": "Office: May Building, Fifth and Liberty Avenues,",
         "format": "text/plain",
         "language": "en"
@@ -51,11 +62,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "President, Charles F. Kirschler, Pittsburgh.",
+        "value": "Pittsburgh, Pa.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131783/full/!760,760/0/default.jpg#xywh=860,894,1176,48"
+      "target": "https://iiif.nypl.org/iiif/3/5131783/full/!760,760/0/default.jpg#xywh=1388,820,424,44"
     },
     {
       "type": "Annotation",
@@ -166,6 +177,17 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131783/full/!760,760/0/default.jpg#xywh=852,1660,1544,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "NEW YORK.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131783/full/!760,760/0/default.jpg#xywh=1410,1716,362,52"
     },
     {
       "type": "Annotation",

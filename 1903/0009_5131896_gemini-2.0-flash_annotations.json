@@ -7,17 +7,6 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Supplement to The Brewers' Journal. 7",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131896/full/!760,760/0/default.jpg#xywh=549,307,1102,58"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
         "value": "CALIFORNIA—Continued.",
         "format": "text/plain",
         "language": "en"
@@ -29,7 +18,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Lower Lake Menke, William. L",
+        "value": "Lower Lake ......................Menke, William........................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -40,7 +29,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Marysville Reissinger, Michel. L",
+        "value": "Marysville ......................Reissinger, Michel....................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -51,7 +40,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Mayfield Ducker, Christopher. L",
+        "value": "Mayfield ......................Ducker, Christopher..................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -62,7 +51,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Mendocino Sarouski, J. C. L",
+        "value": "Mendocino ......................Sarouski, J. C..........................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -73,7 +62,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Modesto Sorensen, R. A. L",
+        "value": "Modesto ......................Sorensen, R. A........................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -84,7 +73,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Mokelumne Hill Layman, Andrew J. L",
+        "value": "Mokelumne Hill ......................Layman, Andrew J......................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -95,7 +84,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Monterey Bergschicker, Wm. L",
+        "value": "Monterey ......................Bergschicker, Wm......................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -106,7 +95,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Napa City Hoffmeier, William, 1st st. L",
+        "value": "Napa City ......................Hoffmeier, William, 1st st............L",
         "format": "text/plain",
         "language": "en"
       },
@@ -117,18 +106,40 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Nevada City Hieronimus, Simon. L",
+        "value": "Nevada City ......................Hieronimus, Simon......................L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131896/full/!760,760/0/default.jpg#xywh=329,850,1536,163"
+      "target": "https://iiif.nypl.org/iiif/3/5131896/full/!760,760/0/default.jpg#xywh=329,850,1536,55"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 *Sierra Nevada Brewing Co. LB",
+        "value": "Nevada City ......................*Sierra Nevada Brewing Co.............L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131896/full/!760,760/0/default.jpg#xywh=329,905,1536,53"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "North San Juan ......................*Brown, B. R.............................A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131896/full/!760,760/0/default.jpg#xywh=329,958,1536,55"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Oakland ......................Brooklyn Brewery, 18th ave. and 14th st. (See San Francisco Breweries.)",
         "format": "text/plain",
         "language": "en"
       },
@@ -139,29 +150,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "North San Juan *Brown, B. R. AL",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131896/full/!760,760/0/default.jpg#xywh=912,1049,852,45"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Oakland Brooklyn Brewery, 18th ave. and 14th st. (See San Francisco Breweries.)",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131896/full/!760,760/0/default.jpg#xywh=897,1095,336,42"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "〃 Simons, Augusta, 49th street and Shattuck ave. L",
+        "value": "Oakland ......................Simons, Augusta, 49th street and Shattuck ave........................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -172,7 +161,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 Swan Brewing Co., Brown street bet. 59th and 60th sts. L",
+        "value": "Oakland ......................Swan Brewing Co., Brown street bet. 59th and 60th sts................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -183,7 +172,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 *Washington Brewing & Malting Co., 5 Kirkham street. AL",
+        "value": "Oakland ......................*Washington Brewing & Malting Co., 5 Kirkham street................A L",
         "format": "text/plain",
         "language": "en"
       },
@@ -194,7 +183,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Petaluma Greiss, George. L",
+        "value": "Petaluma ......................Greiss, George............................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -205,7 +194,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Placerville Giebenhain Bros. L",
+        "value": "Placerville ......................Giebenhain Bros..........................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -216,7 +205,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Port Costa Contra Costa Brewery. L",
+        "value": "Port Costa ......................Contra Costa Brewery..................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -227,7 +216,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Quincy Werner, John C. L",
+        "value": "Quincy ......................Werner, John C..........................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -238,7 +227,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Redding Bucher, Frank L",
+        "value": "Redding ......................Bucher, Frank............................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -249,18 +238,29 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Sacramento *Buffalo Brewing Co., 21st and Q streets LB",
+        "value": "Redwood City ......................*Redwood Brewing Co., Main st.........L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131896/full/!760,760/0/default.jpg#xywh=336,1639,1534,171"
+      "target": "https://iiif.nypl.org/iiif/3/5131896/full/!760,760/0/default.jpg#xywh=336,1639,1534,43"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 Sacramento Brewing Co., 12th and H sts. LB",
+        "value": "Sacramento ......................*Buffalo Brewing Co., 21st and Q streets...................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131896/full/!760,760/0/default.jpg#xywh=336,1682,1534,43"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sacramento ......................Sacramento Brewing Co., 12th and H sts.......................................L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -271,7 +271,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "St. Helena Daeweritz, George. L",
+        "value": "St. Helena ......................Daeweritz, George........................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -282,7 +282,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Salinas *Menke, J. H., San Juan st. L",
+        "value": "Salinas ......................*Menke, J. H., San Juan st..............L",
         "format": "text/plain",
         "language": "en"
       },
@@ -293,7 +293,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "San Diego San Diego Brewing Co., 32d st. and Bay Front. ALB",
+        "value": "San Diego ......................San Diego Brewing Co., 32d st. and Bay Front................................A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -304,7 +304,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "San Francisco Adams, Jacob, Folsom and 19th streets L",
+        "value": "San Francisco ......................Adams, Jacob, Folsom and 19th streets.....................................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -315,7 +315,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 Baruth & Schinkel, 1431 Pacific st. L",
+        "value": "San Francisco ......................Baruth & Schinkel, 1431 Pacific st...L",
         "format": "text/plain",
         "language": "en"
       },
@@ -326,7 +326,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 Behlmer & Freyer, 1524 Pacific ave. A L W B",
+        "value": "San Francisco ......................Behlmer & Freyer, 1524 Pacific ave......................................A L W B",
         "format": "text/plain",
         "language": "en"
       },
@@ -337,18 +337,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 Blondberg, P., 819 Alabama st. L",
+        "value": "San Francisco ......................Blondberg, P., 819 Alabama st...........L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131896/full/!760,760/0/default.jpg#xywh=879,2271,995,93"
+      "target": "https://iiif.nypl.org/iiif/3/5131896/full/!760,760/0/default.jpg#xywh=1632,2270,240,34"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 Bose & Jurgens, 512 Grove st. A L",
+        "value": "San Francisco ......................Bose & Jurgens, 512 Grove st........A L",
         "format": "text/plain",
         "language": "en"
       },
@@ -359,7 +359,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 Burnell, J. H., & Co., 9th ave. and G st. A B",
+        "value": "San Francisco ......................Burnell, J. H., & Co., 9th ave. and G st......................................A B",
         "format": "text/plain",
         "language": "en"
       },
@@ -370,7 +370,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 California Brewing Co., Douglas street, bet. 17th and 18th sts. L",
+        "value": "San Francisco ......................California Brewing Co., Douglas street, bet. 17th and 18th sts........L",
         "format": "text/plain",
         "language": "en"
       },
@@ -381,7 +381,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 Columbia Brewing Co., 326 Clementina st. L",
+        "value": "San Francisco ......................Columbia Brewing Co., 326 Clementina st...................................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -392,7 +392,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 Eagle Brewing Co. L",
+        "value": "San Francisco ......................Eagle Brewing Co..........................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -403,7 +403,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 Enterprise Brewing Co., 2019 Folsom st. ALB",
+        "value": "San Francisco ......................Enterprise Brewing Co., 2019 Folsom st.......................................A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -414,18 +414,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 *Hagemann Brew'g Co., 409 Eighth street. AL",
+        "value": "San Francisco ......................*Hagemann Brew'g Co., 409 Eighth street......................................A L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131896/full/!760,760/0/default.jpg#xywh=686,2820,1198,110"
+      "target": "https://iiif.nypl.org/iiif/3/5131896/full/!760,760/0/default.jpg#xywh=686,2820,1198,55"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 *Jackson Brewing Co., 1428 Mission street. L",
+        "value": "San Francisco ......................*Jackson Brewing Co., 1428 Mission street.....................................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -436,7 +436,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 *Japan Brewing Co., Inc., 317 Mason street. LB",
+        "value": "San Francisco ......................*Japan Brewing Co., Inc., 317 Mason street......................................L B",
         "format": "text/plain",
         "language": "en"
       },

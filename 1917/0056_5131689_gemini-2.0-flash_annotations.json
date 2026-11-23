@@ -115,7 +115,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Cleveland....................Fleischmann Malting Co., 419 Plum st.",
+        "value": "Cincinnati...................Fleischmann Malting Co., 419 Plum st.",
         "format": "text/plain",
         "language": "en"
       },
@@ -127,7 +127,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Hamilton....................Epstein Malt Co., 702 Canal rd.",
+        "value": "Cleveland....................Epstein Malt Co., 702 Canal rd.",
         "format": "text/plain",
         "language": "en"
       },
@@ -139,7 +139,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Piqua.........................Sohngen, Edw., Malt Co., Canal st.",
+        "value": "Hamilton.....................Sohngen, Edw., Malt Co., Canal st.",
         "format": "text/plain",
         "language": "en"
       },
@@ -151,7 +151,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "................................Piqua Malt Co.",
+        "value": "Piqua.........................Piqua Malt Co.",
         "format": "text/plain",
         "language": "en"
       },
@@ -211,7 +211,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Philadelphia................Perot's, Francis, Sons Malting Co",
+        "value": "Philadelphia.................Perot's, Francis, Sons Malting Co",
         "format": "text/plain",
         "language": "en"
       },
@@ -223,7 +223,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "................................808 Lafayette Building.",
+        "value": "........808 Lafayette Building.",
         "format": "text/plain",
         "language": "en"
       },
@@ -271,7 +271,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Appleton.....................Wisconsin Grain & Malt Co.",
+        "value": "Appleton......................Wisconsin Grain & Malt Co.",
         "format": "text/plain",
         "language": "en"
       },
@@ -283,7 +283,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Chilton.......................Chilton Malting Co.",
+        "value": "Chilton........................Chilton Malting Co.",
         "format": "text/plain",
         "language": "en"
       },
@@ -403,12 +403,24 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Manitowoc...................Rahr, Wm., Sons' Co., 6th and Washington sts.",
+        "value": "Manitowoc...................Rahr, Wm., Sons' Co., 6th and Wash-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131689/full/!760,760/0/default.jpg#xywh=990,2112,1408,60",
+      "id": "https://hadro.github.io/brewery-guides/1917/0056_5131689_gemini-2.0-flash_annotations/line/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "........ington sts.",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131689/full/!760,760/0/default.jpg#xywh=1344,2170,288,44",
-      "id": "https://hadro.github.io/brewery-guides/1917/0056_5131689_gemini-2.0-flash_annotations/line/33"
+      "id": "https://hadro.github.io/brewery-guides/1917/0056_5131689_gemini-2.0-flash_annotations/line/34"
     },
     {
       "type": "Annotation",
@@ -420,19 +432,31 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131689/full/!760,760/0/default.jpg#xywh=794,2212,1084,52",
-      "id": "https://hadro.github.io/brewery-guides/1917/0056_5131689_gemini-2.0-flash_annotations/line/34"
+      "id": "https://hadro.github.io/brewery-guides/1917/0056_5131689_gemini-2.0-flash_annotations/line/35"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Milwaukee...................Borchert Malting Co., 25th ave. and South Pierce st.",
+        "value": "Milwaukee...................Borchert Malting Co., 25th ave. and",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131689/full/!760,760/0/default.jpg#xywh=796,2258,1512,50",
-      "id": "https://hadro.github.io/brewery-guides/1917/0056_5131689_gemini-2.0-flash_annotations/line/35"
+      "id": "https://hadro.github.io/brewery-guides/1917/0056_5131689_gemini-2.0-flash_annotations/line/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "........South Pierce st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131689/full/!760,760/0/default.jpg#xywh=1344,2302,438,50",
+      "id": "https://hadro.github.io/brewery-guides/1917/0056_5131689_gemini-2.0-flash_annotations/line/37"
     },
     {
       "type": "Annotation",
@@ -444,30 +468,6 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131689/full/!760,760/0/default.jpg#xywh=1090,2346,1098,58",
-      "id": "https://hadro.github.io/brewery-guides/1917/0056_5131689_gemini-2.0-flash_annotations/line/36"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Milwaukee...................Interstate Malting Co., 33d ave. and Burnham st.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131689/full/!760,760/0/default.jpg#xywh=1302,2392,1004,54",
-      "id": "https://hadro.github.io/brewery-guides/1917/0056_5131689_gemini-2.0-flash_annotations/line/37"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Milwaukee...................Ladish - Stoppenbach Co., 509 Germania Building.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131689/full/!760,760/0/default.jpg#xywh=1272,2484,1034,56",
       "id": "https://hadro.github.io/brewery-guides/1917/0056_5131689_gemini-2.0-flash_annotations/line/38"
     },
     {
@@ -475,11 +475,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Milwaukee...................Milwaukee Malting Co., South Bay and Reynolds sts.",
+        "value": "Milwaukee...................Interstate Malting Co., 33d ave. and",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131689/full/!760,760/0/default.jpg#xywh=1290,2580,1000,48",
+      "target": "https://iiif.nypl.org/iiif/3/5131689/full/!760,760/0/default.jpg#xywh=1302,2392,1004,54",
       "id": "https://hadro.github.io/brewery-guides/1917/0056_5131689_gemini-2.0-flash_annotations/line/39"
     },
     {
@@ -487,11 +487,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Milwaukee...................Milwaukee-Western Malt Co., South Water st.",
+        "value": "........Burnham st.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131689/full/!760,760/0/default.jpg#xywh=1300,2672,1084,52",
+      "target": "https://iiif.nypl.org/iiif/3/5131689/full/!760,760/0/default.jpg#xywh=1346,2450,344,36",
       "id": "https://hadro.github.io/brewery-guides/1917/0056_5131689_gemini-2.0-flash_annotations/line/40"
     },
     {
@@ -499,12 +499,96 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Milwaukee...................Weschler, D. D., & Sons, Inc., 37th ave. and Burnham st.",
+        "value": "Milwaukee...................Ladish - Stoppenbach Co., 509 Ger-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131689/full/!760,760/0/default.jpg#xywh=1272,2484,1034,56",
+      "id": "https://hadro.github.io/brewery-guides/1917/0056_5131689_gemini-2.0-flash_annotations/line/41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "........mania Building.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131689/full/!760,760/0/default.jpg#xywh=1348,2540,434,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0056_5131689_gemini-2.0-flash_annotations/line/42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Milwaukee...................Milwaukee Malting Co., South Bay and",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131689/full/!760,760/0/default.jpg#xywh=1290,2580,1000,48",
+      "id": "https://hadro.github.io/brewery-guides/1917/0056_5131689_gemini-2.0-flash_annotations/line/43"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "........Reynolds sts.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131689/full/!760,760/0/default.jpg#xywh=1344,2632,354,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0056_5131689_gemini-2.0-flash_annotations/line/44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Milwaukee...................Milwaukee-Western Malt Co., South",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131689/full/!760,760/0/default.jpg#xywh=1300,2672,1084,52",
+      "id": "https://hadro.github.io/brewery-guides/1917/0056_5131689_gemini-2.0-flash_annotations/line/45"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "........Water st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131689/full/!760,760/0/default.jpg#xywh=1344,2726,250,40",
+      "id": "https://hadro.github.io/brewery-guides/1917/0056_5131689_gemini-2.0-flash_annotations/line/46"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Milwaukee...................Weschler, D. D., & Sons, Inc., 37th",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131689/full/!760,760/0/default.jpg#xywh=1276,2768,1024,50",
-      "id": "https://hadro.github.io/brewery-guides/1917/0056_5131689_gemini-2.0-flash_annotations/line/41"
+      "id": "https://hadro.github.io/brewery-guides/1917/0056_5131689_gemini-2.0-flash_annotations/line/47"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "........ave. and Burnham st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131689/full/!760,760/0/default.jpg#xywh=1368,2812,594,50",
+      "id": "https://hadro.github.io/brewery-guides/1917/0056_5131689_gemini-2.0-flash_annotations/line/48"
     },
     {
       "type": "Annotation",
@@ -516,7 +600,7 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131689/full/!760,760/0/default.jpg#xywh=1246,2864,612,44",
-      "id": "https://hadro.github.io/brewery-guides/1917/0056_5131689_gemini-2.0-flash_annotations/line/42"
+      "id": "https://hadro.github.io/brewery-guides/1917/0056_5131689_gemini-2.0-flash_annotations/line/49"
     },
     {
       "type": "Annotation",
@@ -528,7 +612,7 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131689/full/!760,760/0/default.jpg#xywh=788,2906,1072,54",
-      "id": "https://hadro.github.io/brewery-guides/1917/0056_5131689_gemini-2.0-flash_annotations/line/43"
+      "id": "https://hadro.github.io/brewery-guides/1917/0056_5131689_gemini-2.0-flash_annotations/line/50"
     },
     {
       "type": "Annotation",
@@ -540,19 +624,19 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131689/full/!760,760/0/default.jpg#xywh=792,2952,1106,54",
-      "id": "https://hadro.github.io/brewery-guides/1917/0056_5131689_gemini-2.0-flash_annotations/line/44"
+      "id": "https://hadro.github.io/brewery-guides/1917/0056_5131689_gemini-2.0-flash_annotations/line/51"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Watertown...................Hartig, Wm., Malting Co.",
+        "value": "Watertown....................Hartig, Wm., Malting Co.",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131689/full/!760,760/0/default.jpg#xywh=788,2998,1168,56",
-      "id": "https://hadro.github.io/brewery-guides/1917/0056_5131689_gemini-2.0-flash_annotations/line/45"
+      "id": "https://hadro.github.io/brewery-guides/1917/0056_5131689_gemini-2.0-flash_annotations/line/52"
     },
     {
       "type": "Annotation",
@@ -564,7 +648,7 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131689/full/!760,760/0/default.jpg#xywh=796,3050,1102,44",
-      "id": "https://hadro.github.io/brewery-guides/1917/0056_5131689_gemini-2.0-flash_annotations/line/46"
+      "id": "https://hadro.github.io/brewery-guides/1917/0056_5131689_gemini-2.0-flash_annotations/line/53"
     }
   ],
   "id": "https://hadro.github.io/brewery-guides/1917/0056_5131689_gemini-2.0-flash_annotations"

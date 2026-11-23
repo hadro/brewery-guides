@@ -7,72 +7,6 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "SUPPLEMENT TO THE BREWERS' JOURNAL. 59",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131948/full/!760,760/0/default.jpg#xywh=557,269,1150,58"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "MALTSTERS",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131948/full/!760,760/0/default.jpg#xywh=739,459,722,108"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "IN THE",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131948/full/!760,760/0/default.jpg#xywh=979,631,230,46"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "UNITED STATES.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131948/full/!760,760/0/default.jpg#xywh=430,741,1339,126"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "(Where more than one malt house is operated by the same firm the",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131948/full/!760,760/0/default.jpg#xywh=336,996,1517,86"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "address of their main office only is given.)",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131948/full/!760,760/0/default.jpg#xywh=610,1066,962,67"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
         "value": "CALIFORNIA.",
         "format": "text/plain",
         "language": "en"
@@ -84,18 +18,29 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "San Francisco  Bach, Charles, 537 Sacramento st.",
+        "value": "Sacramento........Neubourg & Co., 1016 5th st.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131948/full/!760,760/0/default.jpg#xywh=314,1317,1445,126"
+      "target": "https://iiif.nypl.org/iiif/3/5131948/full/!760,760/0/default.jpg#xywh=314,1317,1445,63"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "San Francisco  Bauer-Schweitzer Hop and Malt Co.,",
+        "value": "San Francisco........Bach, Charles, 537 Sacramento st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131948/full/!760,760/0/default.jpg#xywh=314,1380,1445,63"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "San Francisco........Bauer-Schweitzer Hop and Malt Co.,",
         "format": "text/plain",
         "language": "en"
       },
@@ -117,7 +62,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "San Francisco  Krug & Zimmermann Malting Co., 18th",
+        "value": "San Francisco........Krug & Zimmermann Malting Co., 18th",
         "format": "text/plain",
         "language": "en"
       },
@@ -139,7 +84,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "San Francisco  Zweig, H., 608 Brannan st.",
+        "value": "San Francisco........Zweig, H., 608 Brannan st.",
         "format": "text/plain",
         "language": "en"
       },
@@ -161,7 +106,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Moscow  Moscow Malting Co.",
+        "value": "Moscow........Moscow Malting Co.",
         "format": "text/plain",
         "language": "en"
       },
@@ -183,7 +128,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Chicago  Boynton, C. W., Clybourn Place",
+        "value": "Chicago........Boynton, C. W., Clybourn Place",
         "format": "text/plain",
         "language": "en"
       },
@@ -205,11 +150,22 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Chicago  Calumet Malting Co., Archer and",
+        "value": "Chicago........Bullen, Geo., & Co., 15 Pine st.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131948/full/!760,760/0/default.jpg#xywh=377,1961,1462,156"
+      "target": "https://iiif.nypl.org/iiif/3/5131948/full/!760,760/0/default.jpg#xywh=377,1961,1462,79"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago........Calumet Malting Co., Archer and",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131948/full/!760,760/0/default.jpg#xywh=377,2040,1462,77"
     },
     {
       "type": "Annotation",
@@ -227,7 +183,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Chicago  Columbia Malting Co., 1007 Royal In-",
+        "value": "Chicago........Columbia Malting Co., 1007 Royal In-",
         "format": "text/plain",
         "language": "en"
       },
@@ -249,7 +205,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Chicago  Eck, John P., Heirs, 381 East 24th st.",
+        "value": "Chicago........Eck, John P., Heirs, 381 East 24th st.",
         "format": "text/plain",
         "language": "en"
       },
@@ -260,7 +216,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Chicago  Fortune Bros. Malting Co., 225 South",
+        "value": "Chicago........Fortune Bros. Malting Co., 225 South",
         "format": "text/plain",
         "language": "en"
       },
@@ -282,7 +238,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Chicago  Northwestern Malt and Grain Co.,",
+        "value": "Chicago........Northwestern Malt and Grain Co.,",
         "format": "text/plain",
         "language": "en"
       },
@@ -304,7 +260,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Chicago  J. H. Pank & Co., 263 La Salle st.",
+        "value": "Chicago........J. H. Pank & Co., 263 La Salle st.",
         "format": "text/plain",
         "language": "en"
       },
@@ -315,7 +271,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Chicago  Rice, Malt & Grain Co., Cragin, Office",
+        "value": "Chicago........Rice, Malt & Grain Co., Cragin, Office",
         "format": "text/plain",
         "language": "en"
       },
@@ -337,7 +293,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Chicago  Schwill, A., & Co., Fort Wayne R. R.",
+        "value": "Chicago........Schwill, A., & Co., Fort Wayne R. R.",
         "format": "text/plain",
         "language": "en"
       },
@@ -359,7 +315,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Chicago  Watkins, Fretts & Vincent, 169",
+        "value": "Chicago........Watkins, Fretts & Vincent, 169",
         "format": "text/plain",
         "language": "en"
       },
@@ -381,7 +337,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Pekin  Herget, Ph.",
+        "value": "Pekin........Herget, Ph.",
         "format": "text/plain",
         "language": "en"
       },
@@ -392,7 +348,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Pekin  Valk, F. A., Malting Co., Elizabeth and",
+        "value": "Pekin........Valk, F. A., Malting Co., Elizabeth and",
         "format": "text/plain",
         "language": "en"
       },
@@ -414,7 +370,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Peoria.  Kelly, S., 1900 North Adams st.",
+        "value": "Peoria........Kelly, S., 1900 North Adams st.",
         "format": "text/plain",
         "language": "en"
       },
@@ -425,7 +381,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Peoria.  Peoria Malting Co., 1820 South Wash-",
+        "value": "Peoria........Peoria Malting Co., 1820 South Wash-",
         "format": "text/plain",
         "language": "en"
       },

@@ -7,17 +7,6 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "SUPPLEMENT TO THE BREWERS' JOURNAL. 37",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=619,321,1106,53"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
         "value": "NEW YORK—Continued.",
         "format": "text/plain",
         "language": "en"
@@ -29,7 +18,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Syracuse  Ryan's, Thomas, Consumers' Brewing Co., Butternut st A L",
+        "value": "Syracuse........Ryan's, Thomas, Consumers' Brewing Co., Butternut st................A L",
         "format": "text/plain",
         "language": "en"
       },
@@ -40,7 +29,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃  Zett, George, Brewery, 2314 Lodist L B",
+        "value": "\"........Zett, George, Brewery, 2314 Lodist........L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -51,7 +40,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Tonawanda  Tonawanda Brewing Co., Incorporated, 533 Niagara street A L B",
+        "value": "Tonawanda........Tonawanda Brewing Co., Incorporated, 533 Niagara street........A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -62,7 +51,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Troy  Conway Bros. & Kane, 2312 Seventh ave A",
+        "value": "Troy........Conway Bros. & Kane, 2312 Seventh ave................A",
         "format": "text/plain",
         "language": "en"
       },
@@ -73,18 +62,40 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃  *Fitzgerald Bros. Brewing Co., 495 River st ALB",
+        "value": "\"........*Fitzgerald Bros. Brewing Co., 495 River st................A L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=394,754,1521,252"
+      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=394,838,1521,43"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃  Isengart Brewing Co., Hoosick and 10th sts LB",
+        "value": "\"........Isengart Brewing Co., Hoosick and 10th sts................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=394,881,1521,41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"........*Kennedy & Murphy Brewing & Malting Co., 124 Ferry st................A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=394,922,1521,41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"........Quandt Brew'g Co., 848 River st........A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -95,7 +106,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃  *Kennedy & Murphy Brewing & Malting Co., 124 Ferry st A",
+        "value": "\"........*Ruscher & Co., 474 4th st................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=394,963,1521,43"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"........*Stanton, John, Brewing & Malting Co., 1428 5th ave................A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -106,18 +128,29 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃  *Stanton, John, Brewing & Malting Co., 1428 5th ave ALB",
+        "value": "\"........Stoll Brewing Co., 35 Spring ave........L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=331,1195,1591,272"
+      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=331,1286,1591,91"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Utica  *Callahan Brewery, The, 96 Catharine st ALB",
+        "value": "\"........Whelan, Denis J., 104 Jefferson st. W B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=331,1377,1591,90"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Utica........*Callahan Brewery, The, 96 Catharine st................A",
         "format": "text/plain",
         "language": "en"
       },
@@ -128,29 +161,40 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃  Eagle Brewing Co., 31 3d st A L",
+        "value": "\"........Eagle Brewing Co., 31 3d st................A L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=374,1445,1532,202"
+      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=374,1495,1532,51"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃  Gulf Brewing Co., 3d and Jay sts A",
+        "value": "\"........Gulf Brewing Co., 3d and Jay sts................A",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=960,1623,689,59"
+      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=374,1546,1532,52"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃  *Oneida Brewing Co., Court and State sts A",
+        "value": "\"........*Oneida Brewing Co., Court and State sts................A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=374,1598,1532,49"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"........West End Brewing Co., 11 Edward street................A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -161,7 +205,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃  West End Brewing Co., 11 Edward street ALB",
+        "value": "Watertown........Watertown Consumers' Brewing Co., Poplar street................A B",
         "format": "text/plain",
         "language": "en"
       },
@@ -172,18 +216,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Watertown  Watertown Consumers' Brewing Co., Poplar street AB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=775,1812,1126,57"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Woodside, L. I.  Consumers' Brewing Co. of Brooklyn, Betts' avenue L",
+        "value": "Woodside, L. I........Consumers' Brewing Co. of Brooklyn, Betts' avenue................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -194,7 +227,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Yonkers  Yonkers Brewery, Chicken Island ALB",
+        "value": "Yonkers........Yonkers Brewery, Chicken Island................A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -216,7 +249,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Akron  Burkhardt, Mrs. M., 152 Sherman street LB",
+        "value": "Akron........Burkhardt, Mrs. M., 152 Sherman street................L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -227,40 +260,62 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃  *Renner, George J., Brewing Co., 313 North Forge st LB",
+        "value": "Archbold........*Walder, Andrew................L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=415,2165,1484,127"
+      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=360,2244,1546,84"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Bryan  *Halm Brewing Co., Beach and Centre sts LB",
+        "value": "Bluffton........*Hermann, Casper................L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=360,2244,1546,254"
+      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=360,2328,1546,86"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Bucyrus  *Dostal Bros., 568 N. Rail Road st LB",
+        "value": "Bryan........*Halm Brewing Co., Beach and Centre sts................L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=367,2448,1536,123"
+      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=360,2414,1546,84"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Cambridge  Cambridge Brewing Co., 145 Steubenville ave LB",
+        "value": "Bucyrus........*Dostal Bros., 568 N. Rail Road st........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=367,2448,1536,62"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cambridge........Cambridge Brewing Co., 145 Steubenville ave................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=367,2510,1536,61"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Canal Dover........*Bernhard, Christian................L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -271,18 +326,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Canal Dover  *Bernhard, Christian LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=360,2587,1541,123"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Canton  Canton Brewing Co., 216 North Cherry st LB",
+        "value": "Canton........Canton Brewing Co., 216 North Cherry st................L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -293,121 +337,44 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃  Kropf, C., & Co ALB",
+        "value": "Chillicothe........Knecht, Jacob, & Son, Water st........L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=432,2726,1462,130"
+      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=355,2811,1534,66"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Chillicothe  Knecht, Jacob, & Son, Water st L",
+        "value": "Cincinnati........*Wissler, Otto, & Co., 2d st................L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=355,2811,1534,196"
+      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=355,2877,1534,65"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃  *Wissler, Otto, & Co., 2d st LB",
+        "value": "\"........*Adam, Henry, Straight st. and Miami Canal................L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=451,2967,1435,122"
+      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=355,2942,1534,65"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Cincinnati  *Adam, Henry, Straight st. and Miami Canal L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=645,3067,286,38"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "〃  Becker Brewing Co., Thinnis st. and South Branch rd L",
+        "value": "\"........Becker Brewing Co., Thinnis st. and South Branch rd................L",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=943,3069,936,53"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "〃  Quandt Brew'g Co., 848 River st AL B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=387,634,1442,65"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "〃  *Ruscher & Co., 474 4th st LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=0,924,135,108"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "〃  Stoll Brewing Co., 35 Spring ave LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=0,1800,113,43"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "〃  Whelan, Denis J., 104 Jefferson st. W B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=0,1987,111,46"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Archbold  *Walder, Andrew LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=888,1999,1011,70"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Bluffton  *Hermann, Casper L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131926/full/!760,760/0/default.jpg#xywh=9,2806,102,50"
     }
   ]
 }

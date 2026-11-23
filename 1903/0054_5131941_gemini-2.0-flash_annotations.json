@@ -7,29 +7,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Supplement to The Brewers’ Journal 52",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=838,357,1029,57"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "WISCONSIN—Continued.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=919,464,883,56"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Cassville *Scheibl, George L",
+        "value": "Cassville........................*Scheibl, George........................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -40,7 +18,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Chilton *Gierow & Hoch Brewing Co., Inc..L B",
+        "value": "Chilton..........................*Gierow & Hoch Brewing Co., Inc..L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -51,18 +29,29 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Chippewa Falls *Leinenkugel, J., Brewing Co.....LB",
+        "value": "Chippewa Falls..................*Leinenkugel, J., Brewing Co.....LB",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=615,706,1508,129"
+      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=615,706,1508,63"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Cross Plains *Esser, Jacob AL",
+        "value": "Columbus........................*Kurth, John H., & Co., Ludington",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=615,769,1508,66"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cross Plains.....................*Esser, Jacob.............................A L",
         "format": "text/plain",
         "language": "en"
       },
@@ -73,7 +62,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Depere Schmidt, Alex P. L",
+        "value": "Depere...........................Schmidt, Alex P..........................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -84,7 +73,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Durand Baur & Breunig, Warsha st. LB",
+        "value": "Durand...........................Baur & Breunig, Warsha st.............LB",
         "format": "text/plain",
         "language": "en"
       },
@@ -95,7 +84,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Eau Claire *Michels, Henry L",
+        "value": "Eau Claire........................*Michels, Henry..........................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -106,18 +95,29 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Fond du Lac *Bechaud Brewing Co., 515 Main st. L B",
+        "value": "Eau Claire........................*Walter, John, & Co., Elm st...........LB",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=622,1027,1508,132"
+      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=622,1027,1508,65"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Fond du Lac Sander Bros. L",
+        "value": "Fond du Lac......................*Bechaud Brewing Co., 515 Main st. L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=622,1092,1508,67"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fond du Lac......................Sander Bros...............................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -128,7 +128,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Fort Atkinson Spaeth, William, South Water st....L",
+        "value": "Fort Atkinson....................Spaeth, William, South Water st........L",
         "format": "text/plain",
         "language": "en"
       },
@@ -139,319 +139,88 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Fountain City Fountain City Brewing Co. L",
+        "value": "Fountain City....................Fountain City Brewing Co...............L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=617,1199,1525,345"
+      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=617,1199,1525,58"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Green Bay *Van Dycke, O., Brewing Co., Inc.,",
+        "value": "Fountain City....................*Koschitz, John..........................L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=725,1544,1324,65"
+      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=617,1257,1525,57"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Hartford *Schwartz, Joseph. LB",
+        "value": "Grafton..........................*Weber, William..........................L W B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=636,1630,1506,79"
+      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=617,1314,1525,56"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Highland *Semrad, John A., & Bros. L",
+        "value": "Green Bay.........................*Hagemeister Brewing Co................LB",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=637,1673,1505,89"
+      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=617,1370,1525,59"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Hillsborough Bezucha, Joseph L",
+        "value": "Green Bay.........................*Hochgreve Brewing Co...................L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=637,1724,1505,86"
+      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=617,1429,1525,58"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Hortonville Hortonville Brewing Co. L",
+        "value": "Green Bay.........................*Rahr, Henry, Sons Co., 1317 Main",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=637,1767,1507,89"
+      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=617,1487,1525,57"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Hudson Casanova Brewing Co. L",
+        "value": "street........................................LB",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=639,1815,1512,131"
+      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=1194,804,926,67"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Hudson *Hochstein, A. & J. L",
+        "value": "Green Bay.........................*Van Dycke, O., Brewing Co., Inc.,",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=850,2286,1299,70"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Janesville *Buob, Michael, Main street and",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=648,2329,1504,84"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Beloit ave. ALB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=940,2877,1228,84"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Janesville Hemming's, Wm., Sons, 55 West",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=2329,1211,73,44"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Milwaukee st. A",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=2329,1632,73,42"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Kenosha Martin, Wm. F... L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=2338,2808,64,45"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Kewaunee Mach, Anton. LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=2335,2854,70,50"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Kilbourn City Keller, Paul.. L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=2336,2902,67,48"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "and Mormon Coolie rd., and 718",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=2338,2949,64,50"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "N. 3d street.. L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=2336,2997,66,43"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Lake Independent Milwaukee Brewery.. L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=2336,3040,69,48"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Cecil Buche, E. W. L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=608,376,69,41"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Cedarburgh *Weber, John, Water st. L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=2329,501,73,43"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Columbus *Kurth, John H., & Co., Ludington",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=2329,690,73,43"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "street. LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=2359,967,43,26"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Eau Claire *Walter, John, & Co., Elm st. LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=2329,1020,73,45"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Fountain City *Koschitz, John. LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=2329,1109,73,49"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Grafton *Weber, William LWB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=2329,1163,73,43"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Green Bay *Hagemeister Brewing Co. LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=2329,1350,73,43"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Green Bay *Hochgreve Brewing Co. L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=2333,1400,69,41"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Green Bay *Rahr, Henry, Sons Co., 1317 Main",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=2329,1492,73,43"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "street. LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=2335,1540,67,43"
+      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=1208,1511,692,45"
     },
     {
       "type": "Annotation",
@@ -462,14 +231,223 @@
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=629,1899,1517,241"
+      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=1211,1590,928,60"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Janesville *Knipp, Louis F., River st. LB",
+        "value": "East Milwaukee street...................A B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=1213,2191,934,66"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jefferson........................*Heger, Rudolph..........................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=1139,2238,1010,67"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "streets........................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=1227,2578,367,43"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "and Mormon Coolie rd., and 718",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=1228,2703,844,62"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "N. 3d street................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=1228,2760,684,46"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Crosse........................*Heilemann, G., Brewing Co., 1018",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=1149,2791,926,68"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "South 3d st................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=1232,2841,932,67"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "King st........................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=1235,3069,933,70"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cecil............................Buche, E. W.............................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=838,357,1029,57"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cedarburgh......................*Weber, John, Water st..................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=919,464,883,56"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "street........................................LB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=725,1544,1324,65"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hartford.........................*Schwartz, Joseph........................LB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=636,1630,1506,79"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Highland.........................*Semrad, John A., & Bros................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=637,1673,1505,89"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hillsborough.....................Bezucha, Joseph..........................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=637,1724,1505,86"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hortonville......................Hortonville Brewing Co..................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=637,1767,1507,89"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hudson...........................Casanova Brewing Co.....................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=639,1815,1512,66"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hudson...........................*Hochstein, A. & J........................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=639,1881,1512,65"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Janesville........................*Buob, Michael, Main street and",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=629,1899,1517,121"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Beloit ave...................................A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=629,2020,1517,120"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Janesville........................*Knipp, Louis F., River st.............LB",
         "format": "text/plain",
         "language": "en"
       },
@@ -480,7 +458,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Janesville Robinson, N. B., Brewing Co., 16",
+        "value": "Janesville........................Robinson, N. B., Brewing Co., 16",
         "format": "text/plain",
         "language": "en"
       },
@@ -491,18 +469,29 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Jefferson *Heger, Rudolph. LB",
+        "value": "Jefferson........................*Jefferson Brewing & Malting Co....L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=644,2258,500,52"
+      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=850,2286,1299,70"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Jefferson *Jefferson Brewing & Malting Co....L",
+        "value": "Kenosha..........................Martin, Wm. F............................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=648,2329,1504,84"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Kewaunee.........................*Kewaunee Brewing Co...................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -513,7 +502,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Kewaunee *Kewaunee Brewing Co.. L",
+        "value": "Kilbourn City....................Keller, Paul...............................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -524,7 +513,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "La Crosse *Bartl, Franz, 12th and La Crosse",
+        "value": "La Crosse........................*Bartl, Franz, 12th and La Crosse",
         "format": "text/plain",
         "language": "en"
       },
@@ -535,7 +524,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "La Crosse *Erickson, Jacob L., 210 Mill st. L",
+        "value": "La Crosse........................*Erickson, Jacob L., 210 Mill st........L",
         "format": "text/plain",
         "language": "en"
       },
@@ -546,7 +535,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "La Crosse *Gund, John, Brewing Co., 9th st.",
+        "value": "La Crosse........................*Gund, John, Brewing Co., 9th st.",
         "format": "text/plain",
         "language": "en"
       },
@@ -557,7 +546,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "South 3d st. LB",
+        "value": "La Crosse........................*Michel, C. & J., Brewing Co......L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131941/full/!760,760/0/default.jpg#xywh=940,2877,1228,84"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Crosse........................Warninger & Houthmaker................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -568,7 +568,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "La Crosse *Michel, C. & J., Brewing Co. LB",
+        "value": "Lake.............................Independent Milwaukee Brewery..L",
         "format": "text/plain",
         "language": "en"
       },
@@ -579,7 +579,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Madison Breckheimer Brewing Co., 215",
+        "value": "Madison..........................Breckheimer Brewing Co., 215",
         "format": "text/plain",
         "language": "en"
       },

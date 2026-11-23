@@ -29,7 +29,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Canyon City *Sels, F. C., Washington st.. L B",
+        "value": "Canyon City",
         "format": "text/plain",
         "language": "en"
       },
@@ -40,18 +40,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Joseph *Rohrman, John, Main st.. LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5132012/full/!760,760/0/default.jpg#xywh=382,484,1538,122"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Klamath Falis *Castel, A., Main st.. A L B†",
+        "value": "Enterprise...",
         "format": "text/plain",
         "language": "en"
       },
@@ -62,7 +51,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Lakeview Ayres & Schlagel. L",
+        "value": "Gardiner",
         "format": "text/plain",
         "language": "en"
       },
@@ -73,7 +62,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Marshfield Marsden, Robert.. AL",
+        "value": "Grant's Pass",
         "format": "text/plain",
         "language": "en"
       },
@@ -84,7 +73,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "66 Peters & Kling. Lt",
+        "value": "Joseph",
         "format": "text/plain",
         "language": "en"
       },
@@ -95,7 +84,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Roesch, William. L",
+        "value": "Klamath Falis.",
         "format": "text/plain",
         "language": "en"
       },
@@ -106,7 +95,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "66 Portland Weiss Beer Brewing &",
+        "value": "La Grande....",
         "format": "text/plain",
         "language": "en"
       },
@@ -117,7 +106,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Bottling Co., 537 Milwaukee",
+        "value": "Lakeview..",
         "format": "text/plain",
         "language": "en"
       },
@@ -128,7 +117,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "avenue. W B",
+        "value": "Pendleton",
         "format": "text/plain",
         "language": "en"
       },
@@ -139,7 +128,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "66 *Weinhard, Henry, 475 Burnside st. L B",
+        "value": "Portland",
         "format": "text/plain",
         "language": "en"
       },
@@ -150,7 +139,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Prineville O'Neil & Geiger.. L",
+        "value": "Prineville.",
         "format": "text/plain",
         "language": "en"
       },
@@ -161,7 +150,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Roseburg Weiss, Max... L",
+        "value": "Roseburg.",
         "format": "text/plain",
         "language": "en"
       },
@@ -172,7 +161,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Commercial street.. L",
+        "value": "Salem",
         "format": "text/plain",
         "language": "en"
       },
@@ -183,7 +172,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Sellwood Wilhelm, Mary A. ALB",
+        "value": "Sellwood",
         "format": "text/plain",
         "language": "en"
       },
@@ -194,7 +183,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "The Dalles *Buchler, August.. A L B",
+        "value": "The Dalles",
         "format": "text/plain",
         "language": "en"
       },
@@ -216,7 +205,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Allegheny Allegheny Brewing Co., Bismarck",
+        "value": "Allegheny Brewing Co., Bismarck",
         "format": "text/plain",
         "language": "en"
       },
@@ -227,7 +216,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "avenue. L",
+        "value": "avenue.",
         "format": "text/plain",
         "language": "en"
       },
@@ -238,7 +227,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "66 Eberhard & Ober Brewing Co., 1",
+        "value": "Eberhard & Ober Brewing Co., 1",
         "format": "text/plain",
         "language": "en"
       },
@@ -260,7 +249,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "66 *Lutz, D., & Son Brewing Co., 11",
+        "value": "Brewing Co.)",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132012/full/!760,760/0/default.jpg#xywh=512,1906,822,52"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Lutz, D., & Son Brewing Co., 11",
         "format": "text/plain",
         "language": "en"
       },
@@ -282,7 +282,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "and Vinial sts.. ALWB",
+        "value": "and Vinial sts....",
         "format": "text/plain",
         "language": "en"
       },
@@ -293,7 +293,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "66 Ober Bros. Brewing Co., 63 Vinial",
+        "value": "Ober Bros. Brewing Co., 63 Vinial",
         "format": "text/plain",
         "language": "en"
       },
@@ -326,7 +326,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Allentown Däufer & Co., 16 South 8th st.... A L",
+        "value": "Däufer & Co., 16 South 8th st.... A L",
         "format": "text/plain",
         "language": "en"
       },
@@ -337,7 +337,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "66 Horlacher Brewing Co., Terminal",
+        "value": "Horlacher Brewing Co., Terminal",
         "format": "text/plain",
         "language": "en"
       },
@@ -348,7 +348,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Railroad and Gordon st.... L",
+        "value": "Railroad and Gordon st....",
         "format": "text/plain",
         "language": "en"
       },
@@ -359,7 +359,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "66 Lieberman's, Joseph, Sons, 6th",
+        "value": "Lieberman's, Joseph, Sons, 6th",
         "format": "text/plain",
         "language": "en"
       },
@@ -370,7 +370,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "and Union streets. ALB",
+        "value": "and Union streets.",
         "format": "text/plain",
         "language": "en"
       },
@@ -381,7 +381,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "66 Nuding Brewing Co., 114 South 7th",
+        "value": "Nuding Brewing Co., 114 South 7th",
         "format": "text/plain",
         "language": "en"
       },
@@ -392,7 +392,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "street ALB",
+        "value": "street",
         "format": "text/plain",
         "language": "en"
       },
@@ -403,7 +403,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Altoona Kazmaier, John, 1808 Ninth ave... A L",
+        "value": "Kazmaier, John, 1808 Ninth ave... A L",
         "format": "text/plain",
         "language": "en"
       },
@@ -414,7 +414,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "66 Oswald, V. A., 4th ave. and 13th st.. L",
+        "value": "Oswald, V. A., 4th ave. and 13th st.. L",
         "format": "text/plain",
         "language": "en"
       },
@@ -425,7 +425,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "66 Wilhelm, Schimmenger & Ramsey,",
+        "value": "Wilhelm, Schimmenger & Ramsey,",
         "format": "text/plain",
         "language": "en"
       },
@@ -436,7 +436,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "15th ave. and 13th st... L",
+        "value": "15th ave. and 13th st...",
         "format": "text/plain",
         "language": "en"
       },
@@ -447,7 +447,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Beaver Falls Anderton Brewing Co., 24th st...ALB",
+        "value": "Anderton Brewing Co., 24th st...ALB",
         "format": "text/plain",
         "language": "en"
       },
@@ -458,7 +458,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Bennett American Brewing Co., Butler",
+        "value": "American Brewing Co., Butler",
         "format": "text/plain",
         "language": "en"
       },
@@ -469,7 +469,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Plank road. ALB",
+        "value": "Plank road.",
         "format": "text/plain",
         "language": "en"
       },
@@ -480,7 +480,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "66 Hoehl Brewing Co., Stanton ave.. A L",
+        "value": "Hoehl Brewing Co., Stanton ave.. A L",
         "format": "text/plain",
         "language": "en"
       },
@@ -491,7 +491,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "66 Pittsburg Pure Beer Co., Butler",
+        "value": "Pittsburg Pure Beer Co., Butler",
         "format": "text/plain",
         "language": "en"
       },
@@ -524,51 +524,73 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Enterprise Ott, Frank.. L",
+        "value": "Marshfield",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5132012/full/!760,760/0/default.jpg#xywh=0,508,114,54"
+      "target": "https://iiif.nypl.org/iiif/3/5132012/full/!760,760/0/default.jpg#xywh=0,464,144,60"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Gardiner Varrelman, Frank. L",
+        "value": "Summerville",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5132012/full/!760,760/0/default.jpg#xywh=0,596,110,54"
+      "target": "https://iiif.nypl.org/iiif/3/5132012/full/!760,760/0/default.jpg#xywh=0,700,138,70"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Grant's Pass Kienlen, Eugene. L",
+        "value": "Beaver Falls.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5132012/full/!760,760/0/default.jpg#xywh=0,768,118,64"
+      "target": "https://iiif.nypl.org/iiif/3/5132012/full/!760,760/0/default.jpg#xywh=0,1050,136,40"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "La Grande *Roesch, Julius.. L",
+        "value": "*Sels, F. C., Washington st..",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5132012/full/!760,760/0/default.jpg#xywh=0,870,112,48"
+      "target": "https://iiif.nypl.org/iiif/3/5132012/full/!760,760/0/default.jpg#xywh=0,1098,138,38"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Pendleton Gambrinus Brewing Co., 791 Wash-",
+        "value": "Ott, Frank.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132012/full/!760,760/0/default.jpg#xywh=0,1182,122,52"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Varrelman, Frank..",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132012/full/!760,760/0/default.jpg#xywh=0,1426,138,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Castel, A., Main st.....",
         "format": "text/plain",
         "language": "en"
       },
@@ -579,7 +601,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Portland ington st.. LB",
+        "value": "*Roesch, Julius.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132012/full/!760,760/0/default.jpg#xywh=0,1528,132,44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Marsden, Robert.",
         "format": "text/plain",
         "language": "en"
       },
@@ -590,7 +623,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Salem *Salem Brewery Association, 174",
+        "value": "Roesch, William..",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132012/full/!760,760/0/default.jpg#xywh=0,1618,138,102"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ington st....",
         "format": "text/plain",
         "language": "en"
       },
@@ -601,18 +645,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Summerville *Ott, George. L",
+        "value": "Bottling Co., 537 Milwaukee",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5132012/full/!760,760/0/default.jpg#xywh=0,1810,134,48"
+      "target": "https://iiif.nypl.org/iiif/3/5132012/full/!760,760/0/default.jpg#xywh=512,1854,822,52"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Sumpter .*Ellis, A. W..... LB",
+        "value": "*Weinhard, Henry, 475 Burnside st. L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -623,11 +667,77 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Brewing Co.)",
+        "value": "Weiss, Max...",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132012/full/!760,760/0/default.jpg#xywh=0,1904,134,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Salem Brewery Association, 174",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132012/full/!760,760/0/default.jpg#xywh=0,1952,126,52"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Commercial street..",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132012/full/!760,760/0/default.jpg#xywh=0,2004,136,48"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wilhelm, Mary A.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132012/full/!760,760/0/default.jpg#xywh=0,2096,130,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Ott, George.",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5132012/full/!760,760/0/default.jpg#xywh=0,2148,122,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Ellis, A. W.....",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132012/full/!760,760/0/default.jpg#xywh=0,2188,138,108"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "*Buchler, August..",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132012/full/!760,760/0/default.jpg#xywh=2,2470,132,72"
     }
   ]
 }

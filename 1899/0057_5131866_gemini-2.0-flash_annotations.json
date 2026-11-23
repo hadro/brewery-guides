@@ -19,7 +19,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Charleston........Germania Brewing Co., Hayne and Anson sts.........L B",
+        "value": "Charleston........Germania Brewing Co., Hayne and Anson sts.......L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -31,7 +31,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Columbia........Seegers, John C.........L",
+        "value": "Columbia........Seegers, John C........L",
         "format": "text/plain",
         "language": "en"
       },
@@ -55,7 +55,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Yankton........Eureka Brewing Co.........L",
+        "value": "Yankton........Eureka Brewing Co........L",
         "format": "text/plain",
         "language": "en"
       },
@@ -79,7 +79,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Chattanooga........Chattanooga Brewing Co., Broad and 2d sts.........L B",
+        "value": "Chattanooga........Chattanooga Brewing Co., Broad and 2d sts........L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -91,7 +91,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Knoxville........New Knoxville Brewing Co., McGhee and Chamberlain sts.........L B",
+        "value": "Knoxville........New Knoxville Brewing Co., McGhee and Chamberlain sts........L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -103,7 +103,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Memphis........Tennessee Brewing Co., 220 Tennessee st.........L B",
+        "value": "Memphis........Tennessee Brewing Co., 220 Tennessee st........L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -115,7 +115,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Nashville........Gerst, Wm., Brewing Co., 923 South High st.........L B",
+        "value": "Nashville........Gerst, Wm., Brewing Co., 923 South High st........L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -139,7 +139,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Dallas........Dallas Brewery, Cochran and Houston sts.........L B",
+        "value": "Dallas........Dallas Brewery, Cochran and Houston sts........L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -151,7 +151,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Fort Worth........Texas Brewing Co.........L B",
+        "value": "Fort Worth........Texas Brewing Co........L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -163,11 +163,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Houston........Houston Ice and Brewing Co., Washington and 4th sts.........L B",
+        "value": "Galveston........Galveston Brewing Co., 33d and Post Office sts........L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=424,1964,1554,333",
+      "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=424,1964,1554,43",
       "id": "https://hadro.github.io/brewery-guides/1899/0057_5131866_gemini-2.0-flash_annotations/line/13"
     },
     {
@@ -175,11 +175,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Meyersville........Frank, Gustav.........L",
+        "value": "Houston........American Brewing Association, Railroad and 2d sts........L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=439,2266,1531,57",
+      "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=424,2048,1554,41",
       "id": "https://hadro.github.io/brewery-guides/1899/0057_5131866_gemini-2.0-flash_annotations/line/14"
     },
     {
@@ -187,12 +187,36 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "San Antonio........San Antonio Brewing Assoc'n.........L B",
+        "value": "Houston........Houston Ice and Brewing Co., Washington and 4th sts........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=424,2131,1554,42",
+      "id": "https://hadro.github.io/brewery-guides/1899/0057_5131866_gemini-2.0-flash_annotations/line/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Meyersville........Frank, Gustav........L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=439,2266,1531,57",
+      "id": "https://hadro.github.io/brewery-guides/1899/0057_5131866_gemini-2.0-flash_annotations/line/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "San Antonio........San Antonio Brewing Assoc'n........L B",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=434,2307,1543,211",
-      "id": "https://hadro.github.io/brewery-guides/1899/0057_5131866_gemini-2.0-flash_annotations/line/15"
+      "id": "https://hadro.github.io/brewery-guides/1899/0057_5131866_gemini-2.0-flash_annotations/line/17"
     },
     {
       "type": "Annotation",
@@ -204,30 +228,6 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=1084,2555,250,41",
-      "id": "https://hadro.github.io/brewery-guides/1899/0057_5131866_gemini-2.0-flash_annotations/line/16"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Logan........Cache Valley Brewing Co.........L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=445,2623,1532,109",
-      "id": "https://hadro.github.io/brewery-guides/1899/0057_5131866_gemini-2.0-flash_annotations/line/17"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Ogden City........Logan City Brewery.........L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=449,2716,1490,65",
       "id": "https://hadro.github.io/brewery-guides/1899/0057_5131866_gemini-2.0-flash_annotations/line/18"
     },
     {
@@ -235,11 +235,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Salt Lake City........*Becker Brewing and Malting Co., 19th st. and Lincoln ave.........L B",
+        "value": "Logan........Cache Valley Brewing Co........L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=695,2771,1278,44",
+      "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=445,2623,1532,109",
       "id": "https://hadro.github.io/brewery-guides/1899/0057_5131866_gemini-2.0-flash_annotations/line/19"
     },
     {
@@ -247,11 +247,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Salt Lake City........*Fisher, A., Brewing Co., 2d South and 3d West sts.........L B",
+        "value": "Ogden City........Logan City Brewery........L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=451,2814,1426,56",
+      "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=449,2716,1490,65",
       "id": "https://hadro.github.io/brewery-guides/1899/0057_5131866_gemini-2.0-flash_annotations/line/20"
     },
     {
@@ -259,11 +259,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Salt Lake City........*Margetts, A. B. & H. S., 317 North, cor. 2d West st.........A B",
+        "value": "Salt Lake City........*Becker Brewing and Malting Co., 19th st. and Lincoln ave........L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=1039,2956,934,47",
+      "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=695,2771,1278,44",
       "id": "https://hadro.github.io/brewery-guides/1899/0057_5131866_gemini-2.0-flash_annotations/line/21"
     },
     {
@@ -271,11 +271,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Salt Lake City........*Salt Lake City Brewing Co., 10th East and 5th South sts.........L B",
+        "value": "Salt Lake City........*Fisher, A., Brewing Co., 2d South and 3d West sts........L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=790,3003,1091,49",
+      "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=451,2814,1426,56",
       "id": "https://hadro.github.io/brewery-guides/1899/0057_5131866_gemini-2.0-flash_annotations/line/22"
     },
     {
@@ -283,11 +283,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Salt Lake City........*Wagener Brewing Co., 17 2d South street.........L B",
+        "value": "Salt Lake City........*Margetts, A. B. & H. S., 317 North, cor. 2d West st........A B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=803,3094,1087,56",
+      "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=1039,2956,934,47",
       "id": "https://hadro.github.io/brewery-guides/1899/0057_5131866_gemini-2.0-flash_annotations/line/23"
     },
     {
@@ -295,11 +295,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Central City........Faulkner & O'Connor.........L",
+        "value": "Salt Lake City........*Salt Lake City Brewing Co., 10th East and 5th South sts........L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=0,743,86,46",
+      "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=790,3003,1091,49",
       "id": "https://hadro.github.io/brewery-guides/1899/0057_5131866_gemini-2.0-flash_annotations/line/24"
     },
     {
@@ -307,11 +307,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Huron........*Blume, Helena.........L B",
+        "value": "Salt Lake City........*Wagener Brewing Co., 17 2d South street........L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=0,840,123,147",
+      "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=803,3094,1087,56",
       "id": "https://hadro.github.io/brewery-guides/1899/0057_5131866_gemini-2.0-flash_annotations/line/25"
     },
     {
@@ -319,11 +319,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Sioux Falls........*Sioux Falls Brewing Co.........L",
+        "value": "Central City........Faulkner & O'Connor........L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=0,1029,120,49",
+      "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=608,365,1156,55",
       "id": "https://hadro.github.io/brewery-guides/1899/0057_5131866_gemini-2.0-flash_annotations/line/26"
     },
     {
@@ -331,7 +331,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Yankton........*Moritz, Louis, 2d and Walnut sts.........L B",
+        "value": "Huron........*Blume, Helena........L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -343,11 +343,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Bellville........Frank, Herman.........L†",
+        "value": "Sioux Falls........*Sioux Falls Brewing Co........L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=4,1657,96,47",
+      "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=424,2007,1554,41",
       "id": "https://hadro.github.io/brewery-guides/1899/0057_5131866_gemini-2.0-flash_annotations/line/28"
     },
     {
@@ -355,11 +355,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Dallas........Mayer, Simon, 361 Elm st.........W B",
+        "value": "Yankton........*Moritz, Louis, 2d and Walnut sts........L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=0,1799,136,52",
+      "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=424,2089,1554,42",
       "id": "https://hadro.github.io/brewery-guides/1899/0057_5131866_gemini-2.0-flash_annotations/line/29"
     },
     {
@@ -367,11 +367,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Galveston........Galveston Brewing Co., 33d and Post Office sts.........L B",
+        "value": "Bellville........Frank, Herman........L†",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=12,1854,110,44",
+      "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=7,2092,124,41",
       "id": "https://hadro.github.io/brewery-guides/1899/0057_5131866_gemini-2.0-flash_annotations/line/30"
     },
     {
@@ -379,11 +379,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Houston........American Brewing Association, Railroad and 2d sts.........L B",
+        "value": "Dallas........Mayer, Simon, 361 Elm st........W B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=6,1951,97,40",
+      "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=424,2173,1554,41",
       "id": "https://hadro.github.io/brewery-guides/1899/0057_5131866_gemini-2.0-flash_annotations/line/31"
     },
     {
@@ -391,11 +391,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "San Antonio........Degen, Charles.........L",
+        "value": "San Antonio........Degen, Charles........L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=7,2092,124,41",
+      "target": "https://iiif.nypl.org/iiif/3/5131866/full/!760,760/0/default.jpg#xywh=424,2255,1554,42",
       "id": "https://hadro.github.io/brewery-guides/1899/0057_5131866_gemini-2.0-flash_annotations/line/32"
     },
     {
@@ -403,7 +403,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "San Antonio........Lone Star Brewing Co.........L B",
+        "value": "San Antonio........Lone Star Brewing Co........L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -415,7 +415,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "San Antonio........Ochs & Achbacher, Oakland st.........W B",
+        "value": "San Antonio........Ochs & Achbacher, Oakland st........W B",
         "format": "text/plain",
         "language": "en"
       },

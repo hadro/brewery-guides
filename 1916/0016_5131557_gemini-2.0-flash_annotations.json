@@ -29,7 +29,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "East Broadway. See Independent Breweries Co., St. Louis)",
+        "value": "East Broadway. See Indepen-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131557/full/!760,760/0/default.jpg#xywh=1326,546,846,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "dent Breweries Co., St. Louis)",
         "format": "text/plain",
         "language": "en"
       },
@@ -154,7 +165,18 @@
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131557/full/!760,760/0/default.jpg#xywh=760,1086,1510,124"
+      "target": "https://iiif.nypl.org/iiif/3/5131557/full/!760,760/0/default.jpg#xywh=760,1086,1510,62"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Galena........ *Eulberg, Caspar, & Sons, Inc.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131557/full/!760,760/0/default.jpg#xywh=760,1148,1510,62"
     },
     {
       "type": "Annotation",
@@ -172,11 +194,22 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Granite City........ Wagner Brewing Co. (See Independent Breweries Co., St. Louis.)",
+        "value": "Granite City........ Wagner Brewing Co. (See Indepen-",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131557/full/!760,760/0/default.jpg#xywh=764,1220,1430,94"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "dent Breweries Co., St. Louis.)",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131557/full/!760,760/0/default.jpg#xywh=1310,1284,848,60"
     },
     {
       "type": "Annotation",
@@ -216,11 +249,33 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
+        "value": "Joliet........ Porter, E., Brewing Co., South",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131557/full/!760,760/0/default.jpg#xywh=810,1460,1588,62"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bluff st........A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131557/full/!760,760/0/default.jpg#xywh=810,1522,1588,62"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
         "value": "Joliet........ Sehring, Fred., Brewing Co.,",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131557/full/!760,760/0/default.jpg#xywh=810,1460,1588,186"
+      "target": "https://iiif.nypl.org/iiif/3/5131557/full/!760,760/0/default.jpg#xywh=810,1584,1588,62"
     },
     {
       "type": "Annotation",
@@ -440,7 +495,7 @@
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131557/full/!760,760/0/default.jpg#xywh=792,2474,450,40"
+      "target": "https://iiif.nypl.org/iiif/3/5131557/full/!760,760/0/default.jpg#xywh=1046,2476,1246,64"
     },
     {
       "type": "Annotation",
@@ -451,7 +506,18 @@
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131557/full/!760,760/0/default.jpg#xywh=1046,2476,1246,192"
+      "target": "https://iiif.nypl.org/iiif/3/5131557/full/!760,760/0/default.jpg#xywh=1046,2540,1246,64"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Water st........L E",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131557/full/!760,760/0/default.jpg#xywh=1046,2604,1246,64"
     },
     {
       "type": "Annotation",
@@ -491,7 +557,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "and Jefferson sts........L I",
+        "value": "and Jefferson sts........L H",
         "format": "text/plain",
         "language": "en"
       },
@@ -528,7 +594,7 @@
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131557/full/!760,760/0/default.jpg#xywh=2280,2486,120,48"
+      "target": "https://iiif.nypl.org/iiif/3/5131557/full/!760,760/0/default.jpg#xywh=2280,556,120,54"
     },
     {
       "type": "Annotation",
@@ -539,62 +605,7 @@
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131557/full/!760,760/0/default.jpg#xywh=2284,2540,114,36"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Galena........ *Eulberg, Caspar, & Sons, Inc.,",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131557/full/!760,760/0/default.jpg#xywh=1326,546,846,54"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Joliet........ Porter, E., Brewing Co., South",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131557/full/!760,760/0/default.jpg#xywh=1310,1284,848,60"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Bluff st........A L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131557/full/!760,760/0/default.jpg#xywh=2290,2588,108,34"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Water st........L E",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131557/full/!760,760/0/default.jpg#xywh=2276,2856,124,58"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Washington st........L I",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131557/full/!760,760/0/default.jpg#xywh=1376,2994,908,74"
+      "target": "https://iiif.nypl.org/iiif/3/5131557/full/!760,760/0/default.jpg#xywh=2108,782,154,34"
     }
   ]
 }

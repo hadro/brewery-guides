@@ -29,18 +29,40 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Steam, Electric, Belt-Driven Pumps",
+        "value": "AIR",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131536/full/!760,760/0/default.jpg#xywh=376,1494,122,378"
+      "target": "https://iiif.nypl.org/iiif/3/5131536/full/!760,760/0/default.jpg#xywh=1350,2394,188,436"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "FOR",
+        "value": "Steam, Electric, Belt-Driven Pumps",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131536/full/!760,760/0/default.jpg#xywh=224,378,134,992"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "BOILER FEED",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131536/full/!760,760/0/default.jpg#xywh=824,622,128,662"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "FILTER PRESSES",
         "format": "text/plain",
         "language": "en"
       },
@@ -51,7 +73,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "FILTER PRESSES",
+        "value": "WET GRAINS",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131536/full/!760,760/0/default.jpg#xywh=376,1494,122,378"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "36-40 BRIDGE ST.",
         "format": "text/plain",
         "language": "en"
       },
@@ -73,110 +106,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "ΑΜΜΟΝΙΑ",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131536/full/!760,760/0/default.jpg#xywh=0,2460,60,202"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "BEER",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131536/full/!760,760/0/default.jpg#xywh=496,2496,88,264"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "AIR",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131536/full/!760,760/0/default.jpg#xywh=390,2682,82,188"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
         "value": "BROOKLYN, N. Y.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131536/full/!760,760/0/default.jpg#xywh=1056,2798,114,208"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "BOILER FEED",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131536/full/!760,760/0/default.jpg#xywh=224,378,134,992"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "TANK",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131536/full/!760,760/0/default.jpg#xywh=728,774,82,270"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "WELL",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131536/full/!760,760/0/default.jpg#xywh=614,916,90,290"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "HOPS",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131536/full/!760,760/0/default.jpg#xywh=498,1064,94,286"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "WET GRAINS",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131536/full/!760,760/0/default.jpg#xywh=398,1224,86,250"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "36-40 BRIDGE ST.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131536/full/!760,760/0/default.jpg#xywh=834,2400,74,104"
+      "target": "https://iiif.nypl.org/iiif/3/5131536/full/!760,760/0/default.jpg#xywh=230,1970,108,434"
     }
   ]
 }

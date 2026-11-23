@@ -29,7 +29,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "gress ave.......................A L",
+        "value": "gress ave.....A L",
         "format": "text/plain",
         "language": "en"
       },
@@ -44,29 +44,18 @@
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=152,1000,1536,166"
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=198,812,1492,44"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "street.............................A",
+        "value": "street.....A",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=688,1152,994,52"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "street.............................A L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=0,1226,124,44"
     },
     {
       "type": "Annotation",
@@ -84,6 +73,215 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
+        "value": "avenue.....A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=698,1504,980,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "and Adams sts.....A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=690,1598,992,48"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "and 14th sts., S. E.....L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=724,2052,958,44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ited, 400 E st., N. E.....L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=724,2146,958,44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "FLORIDA.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=716,2238,386,36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "and Myrtle ave.....L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=738,2354,938,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "5th ave.....L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=736,2442,940,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "GEORGIA.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=706,2534,402,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "HAWAII.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=748,2984,324,40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "535 Queen st.....L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=732,3104,942,44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Haven........ Weibel Brewing Co., 532 Oak st..A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=388,378,1128,40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Haven........ Yale Brewing Co., Inc., Ferry and",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=198,770,1492,42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "River sts.....A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=198,856,1492,42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Orange........ Weidemann Brewery Co.....L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=0,874,1686,122"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Union City........ Weber, Louise S.....W B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=156,954,1524,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Waterbury........ Eagle Brewing Co., Inc., River-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=152,1000,1536,84"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "side Park.....A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=0,1082,136,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Waterbury........ Hellmann Brewing Co., 1090 Bank",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=152,1084,1536,82"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "street.....A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=0,1176,124,44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
         "value": "Wilmington........ Bavarian Brewing Co., 5th and",
         "format": "text/plain",
         "language": "en"
@@ -95,7 +293,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Dupont streets......................A L",
+        "value": "Dupont streets.....A L",
         "format": "text/plain",
         "language": "en"
       },
@@ -128,29 +326,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "avenue.............................A L B",
+        "value": "Wilmington........ Stoeckle, Jos., Brewing Co., 5th",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=698,1504,980,50"
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=192,1510,1402,128"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "and Adams sts......................A L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=690,1598,992,48"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Wooddale.......... Biedermann, George J................L",
+        "value": "Wooddale........ Biedermann, George J.....L",
         "format": "text/plain",
         "language": "en"
       },
@@ -176,18 +363,7 @@
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=0,1784,1688,230"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "and F sts, N. W...................L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=170,1944,1432,216"
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=0,1784,1688,116"
     },
     {
       "type": "Annotation",
@@ -198,18 +374,18 @@
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=0,1976,162,54"
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=0,1900,1688,114"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "25th and Water sts., N. W........A L",
+        "value": "25th and Water sts., N. W.......A L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=0,2028,142,48"
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=170,1944,1432,54"
     },
     {
       "type": "Annotation",
@@ -220,304 +396,7 @@
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=0,2066,148,60"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "and 14th sts., S. E................L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=724,2052,958,44"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "ited, 400 E st., N. E................L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=724,2146,958,44"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "FLORIDA.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=716,2238,386,36"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Jacksonville....... Jacksonville Brewing Co., 16th st.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=0,2304,1588,50"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "and Myrtle ave.....................L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=738,2354,938,50"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Tampa............. Florida Brewing Co., 13th st. and",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=0,2496,136,44"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "5th ave.............................L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=736,2442,940,50"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "GEORGIA.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=706,2534,402,50"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Atlanta........... Atlanta Brewing & Ice Co.,",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=0,2720,122,62"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Courtland and Harris sts.......L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=144,2738,1530,112"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Augusta........... Augusta Brewing Co., 13th, Fen-",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=0,2766,136,112"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "wick and Nelson sts...............L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=152,2836,1522,102"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Macon............. Acme Brewing Co., Bay and Ham-",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=0,2856,146,78"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "mond sts............................L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=0,2906,136,68"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Savannah.......... Savannah Brew'g Co., Indian st. A L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=0,2960,110,60"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "HAWAII.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=748,2984,324,40"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Honolulu.......... *Honolulu Brewing & Malting Co.,",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=4,3052,1592,50"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "535 Queen st.......................L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=732,3104,942,44"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "New Haven........ Weibel Brewing Co., 532 Oak st..A L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=388,378,1128,40"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "New Haven........ Yale Brewing Co., Inc., Ferry and",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=198,686,1492,254"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "River sts...........................A L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=0,794,138,52"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Orange........... Weidemann Brewery Co...............L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=0,874,1686,122"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Union City........ Weber, Louise S......................W B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=156,954,1524,54"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Waterbury......... Eagle Brewing Co., Inc., River-",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=192,1510,1402,128"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "side Park...........................A L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=0,1610,136,34"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Waterbury......... Hellmann Brewing Co., 1090 Bank",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=0,2390,1586,54"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Wilmington........ Stoeckle, Jos., Brewing Co., 5th",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=0,2570,1678,212"
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=170,1998,1432,54"
     },
     {
       "type": "Annotation",
@@ -528,7 +407,117 @@
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=0,3008,106,58"
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=170,2106,1432,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jacksonville........ Jacksonville Brewing Co., 16th st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=0,2252,140,44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tampa........ Florida Brewing Co., 13th st. and",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=0,2390,1586,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Atlanta........ Atlanta Brewing & Ice Co.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=0,2570,1678,70"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Courtland and Harris sts.......L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=0,2640,1678,72"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Augusta........ Augusta Brewing Co., 13th, Fen-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=0,2712,1678,70"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "wick and Nelson sts.....L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=144,2738,1530,56"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Macon........ Acme Brewing Co., Bay and Ham-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=144,2794,1530,56"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "mond sts.....L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=0,2856,146,78"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Savannah........ Savannah Brew'g Co., Indian st. A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=0,2906,136,68"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Honolulu........ *Honolulu Brewing & Malting Co.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131554/full/!760,760/0/default.jpg#xywh=4,3052,1592,50"
     }
   ]
 }

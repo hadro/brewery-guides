@@ -18,7 +18,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Brandon........ Brandon Brewing Co................................................................................................A B",
+        "value": "Brandon........ Brandon Brewing Co.....A B",
         "format": "text/plain",
         "language": "en"
       },
@@ -29,18 +29,51 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "\"........ Beaver Brewing & Bottling Co........................................................................ALB",
+        "value": "Winnipeg........ Empire Brewing Co., Ltd.....A L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=140,548,1540,240"
+      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=140,588,1540,40"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "\"........ Manitoba Brewing & Malting Co., Ltd........................................................................ALB",
+        "value": "Winnipeg........ Beaver Brewing & Bottling Co.....A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=140,628,1540,40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Winnipeg........ *Drewry, E. L., Limited.....A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=140,668,1540,40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Winnipeg........ Manitoba Brewing & Malting Co., Ltd.....A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=140,708,1540,40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Winnipeg........ McDonogh & Shea.....A L",
         "format": "text/plain",
         "language": "en"
       },
@@ -51,11 +84,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "\"........ McDonogh & Shea................................................................................................AL",
+        "value": "Winnipeg........ Riedle, A. W.....A L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=0,780,148,98"
+      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=140,748,1540,40"
     },
     {
       "type": "Annotation",
@@ -73,7 +106,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Fairville........ Ready's Breweries, Ltd., Union and Peel streets................................................ALB",
+        "value": "Fairville........ Ready's Breweries, Ltd., Union and Peel streets.....A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -84,7 +117,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "St. John........ Jones, Simeon, Ltd., 2 Camarthan street................................................................AB",
+        "value": "St. John........ Jones, Simeon, Ltd., 2 Camarthan street.....A B",
         "format": "text/plain",
         "language": "en"
       },
@@ -106,22 +139,33 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "St. Johns........ Bennett Brewing Co., Ltd.....................................................................................ALB",
+        "value": "St. Johns........ Bennett Brewing Co., Ltd.....A L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=0,1258,1678,202"
+      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=0,1258,1678,68"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "\"........ Newfoundland Brewery, Ltd..................................................................................A B",
+        "value": "St. Johns........ *Lindberg Brewing Co.....A L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=0,1456,130,44"
+      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=0,1326,1678,66"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Johns........ Newfoundland Brewery, Ltd.....A B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=0,1392,1678,68"
     },
     {
       "type": "Annotation",
@@ -139,7 +183,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Dartmouth........ Halifax Breweries, Ltd., 50 Duke street..................................................................ALB",
+        "value": "Dartmouth........ Halifax Breweries, Ltd., 50 Duke street.....A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -150,7 +194,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Halifax........ Keith, A., & Son...................................................................................................A B",
+        "value": "Halifax........ Keith, A., & Son.....A B",
         "format": "text/plain",
         "language": "en"
       },
@@ -161,7 +205,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "\"........ Oland & Son........................................................................................................A B",
+        "value": "Halifax........ Oland & Son.....A B",
         "format": "text/plain",
         "language": "en"
       },
@@ -183,7 +227,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Barrie........ Barrie Malting & Extract Co., Ltd........................................................................ALB",
+        "value": "Barrie........ Barrie Malting & Extract Co., Ltd.....A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -194,40 +238,51 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Belleville........ *Roy, James A...................................................................................................ALB",
+        "value": "Belleville........ *Roy, James A.....A L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=0,1908,138,50"
+      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=0,1942,1678,46"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Berlin........ Berlin Lion Brewery, Ltd..................................................................................A L B",
+        "value": "Berlin........ Berlin Lion Brewery, Ltd.....A L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=686,1914,984,50"
+      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=0,1988,1678,46"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Brockville........ Bowie & Co.'s Brewery, Ltd...............................................................................AL B",
+        "value": "Brantford........ *Bixel Brewing & Malting Co.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=0,1942,1678,228"
+      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=0,2034,1678,44"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Carlsruhe........ Schwan, David.......................................................................................................L B",
+        "value": "Brockville........ Bowie & Co.'s Brewery, Ltd.....A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=0,2078,1678,46"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Carlsruhe........ Schwan, David.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -238,7 +293,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Formosa........ Heisz & Tiede........................................................................................................A",
+        "value": "Formosa........ Heisz & Tiede.....A",
         "format": "text/plain",
         "language": "en"
       },
@@ -249,18 +304,62 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Hamilton........ *Grant's Spring Brewery Co., Ltd., Mulberry st......................................................ALB",
+        "value": "Fort William........ Kakabeka Falls Brew'g Co., Ltd.....A L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=0,2258,1682,344"
+      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=0,2258,1682,50"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Hornby........ *Brain Bros..........................................................................................................A B",
+        "value": "Guelph........ *Holliday Bros.....A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=0,2308,1682,48"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Guelph........ *Sleeman & Sons.....A B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=0,2356,1682,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hamilton........ *Grant's Spring Brewery Co., Ltd., Mulberry st.....A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=0,2406,1682,48"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hamilton........ Hamilton Brewing Assn., Ltd.....A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=0,2504,1682,48"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hornby........ *Brain Bros.....A B",
         "format": "text/plain",
         "language": "en"
       },
@@ -271,7 +370,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Kingston........ Stevenson, Robert................................................................................................ALB",
+        "value": "Kenora........ Lakewood Brewery Co.....A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=0,2552,1682,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Kingston........ Stevenson, Robert.....A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -282,7 +392,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Listowel........ Watson, John..........................................................................................................ALB",
+        "value": "Listowel........ Watson, John.....A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -293,40 +403,40 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "London........ *Carling Brewing & Malting Co., Limited, Talbot st..............................................ALB",
+        "value": "London........ *Carling Brewing & Malting Co., Limited, Talbot st.....A L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=164,2786,1514,176"
+      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=164,2786,1514,58"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "\"........ Hamilton, Joseph....................................................................................................A B",
+        "value": "London........ Hamilton, Joseph.....A B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=0,2800,120,62"
+      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=164,2844,1514,60"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "\"........ *Labatt, John..........................................................................................................A B",
+        "value": "London........ *Labatt, John.....A B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=0,2844,136,66"
+      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=164,2904,1514,58"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Neustadt........ Huether, J. C..........................................................................................................L B",
+        "value": "Neustadt........ Huether, J. C.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -337,110 +447,22 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New Hamburg........ Rau, Mary................................................................................................................L B",
+        "value": "New Hamburg........ Rau, Mary.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=0,2972,1676,128"
+      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=0,2972,1676,64"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "North Bay........ New Ontario Brewing Co., Ltd...............................................................................L B",
+        "value": "North Bay........ New Ontario Brewing Co., Ltd.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=0,3084,134,66"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "\"........ *Drewry, E. L., Limited......................................................................................ALB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=0,334,50,36"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "\"........ Riedle, A. W.........................................................................................................ALB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=1604,336,70,34"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "\"........ *Lindberg Brewing Co.........................................................................................ALB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=356,328,1140,56"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Brantford........ *Bixel Brewing & Malting Co..................................................................................L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=728,1138,944,48"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Cornwall........ St. Lawrence Brewery, Ltd..................................................................................ALB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=0,1162,130,54"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Fort William........ Kakabeka Falls Brew'g Co., Ltd................................................................................ALB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=0,1214,126,52"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Guelph........ *Holliday Bros.......................................................................................................AL",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=0,1494,144,54"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "\"........ Hamilton Brewing Assn., Ltd..................................................................................AL B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=0,2886,146,70"
+      "target": "https://iiif.nypl.org/iiif/3/5131596/full/!760,760/0/default.jpg#xywh=0,3036,1676,64"
     }
   ]
 }

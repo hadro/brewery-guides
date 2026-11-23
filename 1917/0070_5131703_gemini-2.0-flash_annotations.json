@@ -235,7 +235,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Office: Rooms 311-312 Louisville Trust Co. Building. 5th and Market Sts., Louisville, Ky.",
+        "value": "Office: Rooms 311-312 Louisville Trust Co. Building.",
         "format": "text/plain",
         "language": "en"
       },
@@ -247,12 +247,24 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
+        "value": "5th and Market Sts., Louisville, Ky.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131703/full/!760,760/0/default.jpg#xywh=1080,2002,986,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0070_5131703_gemini-2.0-flash_annotations/line/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
         "value": "President, Frank Fehr, Louisville.",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131703/full/!760,760/0/default.jpg#xywh=838,2062,926,44",
-      "id": "https://hadro.github.io/brewery-guides/1917/0070_5131703_gemini-2.0-flash_annotations/line/20"
+      "id": "https://hadro.github.io/brewery-guides/1917/0070_5131703_gemini-2.0-flash_annotations/line/21"
     },
     {
       "type": "Annotation",
@@ -264,7 +276,7 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131703/full/!760,760/0/default.jpg#xywh=840,2118,1202,44",
-      "id": "https://hadro.github.io/brewery-guides/1917/0070_5131703_gemini-2.0-flash_annotations/line/21"
+      "id": "https://hadro.github.io/brewery-guides/1917/0070_5131703_gemini-2.0-flash_annotations/line/22"
     },
     {
       "type": "Annotation",
@@ -276,7 +288,7 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131703/full/!760,760/0/default.jpg#xywh=842,2172,1048,44",
-      "id": "https://hadro.github.io/brewery-guides/1917/0070_5131703_gemini-2.0-flash_annotations/line/22"
+      "id": "https://hadro.github.io/brewery-guides/1917/0070_5131703_gemini-2.0-flash_annotations/line/23"
     },
     {
       "type": "Annotation",
@@ -288,7 +300,7 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131703/full/!760,760/0/default.jpg#xywh=844,2220,1044,54",
-      "id": "https://hadro.github.io/brewery-guides/1917/0070_5131703_gemini-2.0-flash_annotations/line/23"
+      "id": "https://hadro.github.io/brewery-guides/1917/0070_5131703_gemini-2.0-flash_annotations/line/24"
     },
     {
       "type": "Annotation",
@@ -300,7 +312,7 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131703/full/!760,760/0/default.jpg#xywh=966,2320,1226,40",
-      "id": "https://hadro.github.io/brewery-guides/1917/0070_5131703_gemini-2.0-flash_annotations/line/24"
+      "id": "https://hadro.github.io/brewery-guides/1917/0070_5131703_gemini-2.0-flash_annotations/line/25"
     },
     {
       "type": "Annotation",
@@ -312,7 +324,7 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131703/full/!760,760/0/default.jpg#xywh=964,2372,1230,60",
-      "id": "https://hadro.github.io/brewery-guides/1917/0070_5131703_gemini-2.0-flash_annotations/line/25"
+      "id": "https://hadro.github.io/brewery-guides/1917/0070_5131703_gemini-2.0-flash_annotations/line/26"
     },
     {
       "type": "Annotation",
@@ -324,7 +336,7 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131703/full/!760,760/0/default.jpg#xywh=842,2452,934,44",
-      "id": "https://hadro.github.io/brewery-guides/1917/0070_5131703_gemini-2.0-flash_annotations/line/26"
+      "id": "https://hadro.github.io/brewery-guides/1917/0070_5131703_gemini-2.0-flash_annotations/line/27"
     },
     {
       "type": "Annotation",
@@ -336,7 +348,7 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131703/full/!760,760/0/default.jpg#xywh=846,2502,1006,44",
-      "id": "https://hadro.github.io/brewery-guides/1917/0070_5131703_gemini-2.0-flash_annotations/line/27"
+      "id": "https://hadro.github.io/brewery-guides/1917/0070_5131703_gemini-2.0-flash_annotations/line/28"
     },
     {
       "type": "Annotation",
@@ -348,7 +360,7 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131703/full/!760,760/0/default.jpg#xywh=846,2552,964,52",
-      "id": "https://hadro.github.io/brewery-guides/1917/0070_5131703_gemini-2.0-flash_annotations/line/28"
+      "id": "https://hadro.github.io/brewery-guides/1917/0070_5131703_gemini-2.0-flash_annotations/line/29"
     },
     {
       "type": "Annotation",
@@ -360,7 +372,7 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131703/full/!760,760/0/default.jpg#xywh=906,2646,1360,54",
-      "id": "https://hadro.github.io/brewery-guides/1917/0070_5131703_gemini-2.0-flash_annotations/line/29"
+      "id": "https://hadro.github.io/brewery-guides/1917/0070_5131703_gemini-2.0-flash_annotations/line/30"
     },
     {
       "type": "Annotation",
@@ -372,7 +384,7 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131703/full/!760,760/0/default.jpg#xywh=998,2770,1194,52",
-      "id": "https://hadro.github.io/brewery-guides/1917/0070_5131703_gemini-2.0-flash_annotations/line/30"
+      "id": "https://hadro.github.io/brewery-guides/1917/0070_5131703_gemini-2.0-flash_annotations/line/31"
     },
     {
       "type": "Annotation",
@@ -384,7 +396,7 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131703/full/!760,760/0/default.jpg#xywh=846,2840,1232,44",
-      "id": "https://hadro.github.io/brewery-guides/1917/0070_5131703_gemini-2.0-flash_annotations/line/31"
+      "id": "https://hadro.github.io/brewery-guides/1917/0070_5131703_gemini-2.0-flash_annotations/line/32"
     },
     {
       "type": "Annotation",
@@ -396,7 +408,7 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131703/full/!760,760/0/default.jpg#xywh=848,2886,1330,56",
-      "id": "https://hadro.github.io/brewery-guides/1917/0070_5131703_gemini-2.0-flash_annotations/line/32"
+      "id": "https://hadro.github.io/brewery-guides/1917/0070_5131703_gemini-2.0-flash_annotations/line/33"
     },
     {
       "type": "Annotation",
@@ -408,7 +420,7 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131703/full/!760,760/0/default.jpg#xywh=850,2940,1148,54",
-      "id": "https://hadro.github.io/brewery-guides/1917/0070_5131703_gemini-2.0-flash_annotations/line/33"
+      "id": "https://hadro.github.io/brewery-guides/1917/0070_5131703_gemini-2.0-flash_annotations/line/34"
     },
     {
       "type": "Annotation",
@@ -420,7 +432,7 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131703/full/!760,760/0/default.jpg#xywh=850,2992,1170,58",
-      "id": "https://hadro.github.io/brewery-guides/1917/0070_5131703_gemini-2.0-flash_annotations/line/34"
+      "id": "https://hadro.github.io/brewery-guides/1917/0070_5131703_gemini-2.0-flash_annotations/line/35"
     }
   ],
   "id": "https://hadro.github.io/brewery-guides/1917/0070_5131703_gemini-2.0-flash_annotations"

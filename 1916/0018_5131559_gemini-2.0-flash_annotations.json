@@ -29,7 +29,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Keip, Mgr.), 424 High st.........................LB",
+        "value": "Keip, Mgr.), 424 High st.....LB",
         "format": "text/plain",
         "language": "en"
       },
@@ -51,7 +51,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "avenue................................................ALB",
+        "value": "avenue.....A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -62,7 +62,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "streets.......................................................AL",
+        "value": "Madison........ Weber, Peter, Main and Vine",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131559/full/!760,760/0/default.jpg#xywh=2108,640,164,34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "streets.....A L",
         "format": "text/plain",
         "language": "en"
       },
@@ -84,18 +95,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "and 9th sts................................................LB",
+        "value": "and 9th sts.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131559/full/!760,760/0/default.jpg#xywh=768,816,1512,120"
+      "target": "https://iiif.nypl.org/iiif/3/5131559/full/!760,760/0/default.jpg#xywh=2088,724,186,62"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Co., West 2d st........................................LB",
+        "value": "Co., West 2d st.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -117,18 +128,29 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New Albany........ State Street Brewery (Maria",
+        "value": "West 4th and Spring sts.....L E",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131559/full/!760,760/0/default.jpg#xywh=940,1002,1340,114"
+      "target": "https://iiif.nypl.org/iiif/3/5131559/full/!760,760/0/default.jpg#xywh=940,1002,1340,58"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Nirmaier)....................................................I",
+        "value": "New Albany........ State Street Brewery (Maria",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131559/full/!760,760/0/default.jpg#xywh=940,1060,1340,56"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Nirmaier).....I",
         "format": "text/plain",
         "language": "en"
       },
@@ -139,7 +161,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Richmond........ Minck Brewing Co.............................LB",
+        "value": "Richmond........ Minck Brewing Co.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -150,7 +172,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "1622 Michigan ave.......................................LI",
+        "value": "1622 Michigan ave.....L I",
         "format": "text/plain",
         "language": "en"
       },
@@ -161,7 +183,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Tell City........ Tell City Brewing Co............................LI",
+        "value": "Tell City........ Tell City Brewing Co.....L I",
         "format": "text/plain",
         "language": "en"
       },
@@ -183,7 +205,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "son sts.......................................................LB",
+        "value": "son sts.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -205,7 +227,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Poplar st..................................................ALL",
+        "value": "Poplar st.....A L I",
         "format": "text/plain",
         "language": "en"
       },
@@ -216,7 +238,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "avenue......................................................ALE",
+        "value": "avenue.....A L E",
         "format": "text/plain",
         "language": "en"
       },
@@ -227,7 +249,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Wabash........ *Wabash Brewing Co.............................LI",
+        "value": "Wabash........ *Wabash Brewing Co.....L I",
         "format": "text/plain",
         "language": "en"
       },
@@ -260,7 +282,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "street...........................................................I",
+        "value": "street.....I",
         "format": "text/plain",
         "language": "en"
       },
@@ -282,7 +304,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Jefferson st................................................LI",
+        "value": "Jefferson st.....L I",
         "format": "text/plain",
         "language": "en"
       },
@@ -315,7 +337,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "2d street.......................................................L1",
+        "value": "2d street.....L I",
         "format": "text/plain",
         "language": "en"
       },
@@ -337,7 +359,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "and Taylor sts............................................L1",
+        "value": "and Taylor sts.....L I",
         "format": "text/plain",
         "language": "en"
       },
@@ -348,7 +370,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Iowa City........ Graf Bros., East Market st..................L1",
+        "value": "Iowa City........ Graf Bros., East Market st.....L I",
         "format": "text/plain",
         "language": "en"
       },
@@ -370,7 +392,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "and Gilbert streets.......................................L1",
+        "value": "and Gilbert streets.....L I",
         "format": "text/plain",
         "language": "en"
       },
@@ -392,7 +414,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Grove sts.....................................................L1",
+        "value": "Grove sts.....L I",
         "format": "text/plain",
         "language": "en"
       },
@@ -403,7 +425,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Strawberry Point........ Kleinlein, John.....................................I",
+        "value": "Strawberry Point........ Kleinlein, John.....I",
         "format": "text/plain",
         "language": "en"
       },
@@ -425,7 +447,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "and Ellon sts................................................LI",
+        "value": "and Ellon sts.....L I",
         "format": "text/plain",
         "language": "en"
       },
@@ -458,7 +480,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Pike street.................................................ALI",
+        "value": "Pike street.....A L I",
         "format": "text/plain",
         "language": "en"
       },
@@ -480,88 +502,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "near Ludlow st............................................L1",
+        "value": "near Ludlow st.....L I",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131559/full/!760,760/0/default.jpg#xywh=1340,2984,960,58"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Madison........ Weber, Peter, Main and Vine",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131559/full/!760,760/0/default.jpg#xywh=970,300,1074,52"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Mishawaka........ Kamm & Schellinger Brewing",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131559/full/!760,760/0/default.jpg#xywh=2284,478,116,60"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "West 4th and Spring sts...........................LE",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131559/full/!760,760/0/default.jpg#xywh=2288,580,112,58"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "South Bend........ *Muessel Brewing Co...............................LE",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131559/full/!760,760/0/default.jpg#xywh=2288,682,112,52"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "South Bend........ South Bend Brewing Association,",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131559/full/!760,760/0/default.jpg#xywh=2322,2718,76,48"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Vincennes........ *Hack & Simon, Indianapolis",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131559/full/!760,760/0/default.jpg#xywh=2288,2762,110,48"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "8th street.......................................................L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131559/full/!760,760/0/default.jpg#xywh=2338,2818,60,36"
     }
   ]
 }

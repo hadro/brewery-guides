@@ -43,7 +43,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Paterson ........ *Hinchliffe Brewing and Malting Co., Governor and Ann sts.....A L B",
+        "value": "Paterson........ *Hinchliffe Brewing and Malting Co., Governor and Ann sts..... A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -55,7 +55,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Paterson Consolidated Brewing Co., A L B { Braun Brewing Co., 293 Marshall street",
+        "value": "Paterson........ Braun Brewing Co., 293 Marshall street",
         "format": "text/plain",
         "language": "en"
       },
@@ -67,11 +67,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Paterson Consolidated Brewing Co., A L B Graham Brewing Co., Hamburgh ave. and Matlock st.",
+        "value": "Paterson",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=1113,900,885,48",
+      "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=786,898,264,43",
       "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/5"
     },
     {
@@ -79,11 +79,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Paterson Consolidated Brewing Co., A L B Graham, Jas. A., Brewing Co., Straight and Cedar sts.",
+        "value": "Consoli-",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=1155,1043,610,42",
+      "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=804,948,232,39",
       "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/6"
     },
     {
@@ -91,11 +91,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Paterson Consolidated Brewing Co., A L B Katz Bros. Burton Brewing Co., Straight and Governor sts.",
+        "value": "dated",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=1109,1081,886,56",
+      "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=833,994,201,39",
       "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/7"
     },
     {
@@ -103,12 +103,84 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Paterson Consolidated Brewing Co., A L B Sprattler & Mennel Brewing Co., Marshall and Van Winkle sts.",
+        "value": "Brewing",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=802,1041,252,42",
+      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Co.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=865,1086,143,45",
+      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ALB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=841,1132,162,39",
+      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Graham Brewing Co., Hamburgh ave. and Matlock st.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=1158,1135,702,42",
+      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Graham, Jas. A., Brewing Co., Straight and Cedar sts.",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=1113,1180,880,45",
-      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/8"
+      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Katz Bros. Burton Brewing Co., Straight and Governor sts.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=1152,1226,768,42",
+      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sprattler & Mennel Brewing Co., Marshall and Van Winkle sts.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=579,1274,373,42",
+      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/14"
     },
     {
       "type": "Annotation",
@@ -120,79 +192,79 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=1107,1274,889,43",
-      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/9"
+      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/15"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Stockton ........ Garschutz, Max, & Co., 424 Main st........................L",
+        "value": "Stockton........ Garschutz, Max, & Co., 424 Main st........................L",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=1105,1365,885,45",
-      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/10"
+      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/16"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Trenton ........ Hill, Franz........................L",
+        "value": "Trenton........ Hill, Franz........................L",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=584,1453,1505,48",
-      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/11"
+      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/17"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Trenton ........ Trenton Brewing Co., Lamberton and Lalor sts........................L B",
+        "value": "Trenton........ Trenton Brewing Co., Lamberton and Lalor sts........................L B",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=646,1496,1353,56",
-      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/12"
+      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/18"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Union Hill ........ Bermes, Estate of Daniel, Bulls Ferry rd........................L",
+        "value": "Union Hill........ Bermes, Estate of Daniel, Bulls Ferry rd........................L",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=575,1541,1511,106",
-      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/13"
+      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/19"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Union Hill ........ Peter, Wm., Brewing Co., Hudson ave. and Weehawken st..........L B",
+        "value": "Union Hill........ Peter, Wm., Brewing Co., Hudson ave. and Weehawken st..........L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=677,1640,1409,96",
-      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/14"
+      "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=677,1688,1409,48",
+      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/20"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Union Hill ........ Union Brewing Co., Boulevard and Blum st........................L",
+        "value": "Union Hill........ Union Brewing Co., Boulevard and Blum st........................L",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=677,1749,1314,96",
-      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/15"
+      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/21"
     },
     {
       "type": "Annotation",
@@ -204,7 +276,7 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=575,1821,1513,100",
-      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/16"
+      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/22"
     },
     {
       "type": "Annotation",
@@ -216,7 +288,7 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=1039,1973,589,42",
-      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/17"
+      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/23"
     },
     {
       "type": "Annotation",
@@ -228,31 +300,31 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=577,2046,1413,55",
-      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/18"
+      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/24"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Las Vegas ........ Ischann, Emil........................L†",
+        "value": "Las Vegas........ Ischann, Emil........................† L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=571,2092,1514,101",
-      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/19"
+      "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=571,2142,1514,51",
+      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/25"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Socorro ........ Illinois Brewing Co........................L B",
+        "value": "Socorro........ Illinois Brewing Co........................L B",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=579,2188,1502,45",
-      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/20"
+      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/26"
     },
     {
       "type": "Annotation",
@@ -264,7 +336,7 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=1091,2280,480,41",
-      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/21"
+      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/27"
     },
     {
       "type": "Annotation",
@@ -276,19 +348,19 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=579,2356,1411,48",
-      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/22"
+      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/28"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Albany........ *Amsdell Brewing & Malting Co., Jay, Dove and Lancaster sts.....A",
+        "value": "Albany........ *Amsdell Brewing & Malting Co., Jay, Dove and Lancaster sts..... A",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=1152,2542,927,42",
-      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/23"
+      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/29"
     },
     {
       "type": "Annotation",
@@ -300,7 +372,7 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=633,2576,1359,66",
-      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/24"
+      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/30"
     },
     {
       "type": "Annotation",
@@ -312,7 +384,7 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=701,2665,1294,71",
-      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/25"
+      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/31"
     },
     {
       "type": "Annotation",
@@ -323,8 +395,8 @@
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=635,2725,1355,144",
-      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/26"
+      "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=635,2773,1355,48",
+      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/32"
     },
     {
       "type": "Annotation",
@@ -336,7 +408,7 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=1073,2863,918,46",
-      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/27"
+      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/33"
     },
     {
       "type": "Annotation",
@@ -348,7 +420,7 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=705,2908,1374,145",
-      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/28"
+      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/34"
     },
     {
       "type": "Annotation",
@@ -360,7 +432,7 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131843/full/!760,760/0/default.jpg#xywh=693,3041,1295,58",
-      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/29"
+      "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations/line/35"
     }
   ],
   "id": "https://hadro.github.io/brewery-guides/1899/0034_5131843_gemini-2.0-flash_annotations"

@@ -10,7 +10,7 @@
         "value": "La Brasserie Champlain, Ltd. — Crown and Prince Edward sts. — Quebec, QUEBEC",
         "format": "text/plain"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131598/full/!760,760/0/default.jpg#xywh=0,498,1562,60"
+      "target": "https://hadro.github.io/brewery-guides/1916/manifest.json/canvas/56#xywh=0,530,1660,58"
     },
     {
       "type": "Annotation",
@@ -20,7 +20,7 @@
         "value": "Silver Spring Brewery, Ltd — Sherbrooke, QUEBEC",
         "format": "text/plain"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131598/full/!760,760/0/default.jpg#xywh=0,530,1660,232"
+      "target": "https://hadro.github.io/brewery-guides/1916/manifest.json/canvas/56#xywh=0,588,1660,58"
     },
     {
       "type": "Annotation",
@@ -30,7 +30,17 @@
         "value": "Spenard, J. M — Three Rivers, QUEBEC",
         "format": "text/plain"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131598/full/!760,760/0/default.jpg#xywh=0,744,114,52"
+      "target": "https://hadro.github.io/brewery-guides/1916/manifest.json/canvas/56#xywh=0,646,1660,58"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Gold Lion Brewing Co., Ltd — Valleyfield, QUEBEC",
+        "format": "text/plain"
+      },
+      "target": "https://hadro.github.io/brewery-guides/1916/manifest.json/canvas/56#xywh=0,704,1660,58"
     },
     {
       "type": "Annotation",
@@ -40,7 +50,7 @@
         "value": "Moose Jaw Brewing & Malting Co., Ltd — Moose Jaw, SASKATCHEWAN",
         "format": "text/plain"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131598/full/!760,760/0/default.jpg#xywh=0,854,1564,68"
+      "target": "https://hadro.github.io/brewery-guides/1916/manifest.json/canvas/56#xywh=0,854,1564,68"
     },
     {
       "type": "Annotation",
@@ -50,7 +60,17 @@
         "value": "Golden Lion Brewing Co., Ltd — Prince Albert, SASKATCHEWAN",
         "format": "text/plain"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131598/full/!760,760/0/default.jpg#xywh=0,934,1658,88"
+      "target": "https://hadro.github.io/brewery-guides/1916/manifest.json/canvas/56#xywh=0,934,1658,88"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Regina Brewing Co., Ltd — Regina, SASKATCHEWAN",
+        "format": "text/plain"
+      },
+      "target": "https://hadro.github.io/brewery-guides/1916/manifest.json/canvas/56#xywh=0,986,1660,54"
     },
     {
       "type": "Annotation",
@@ -60,7 +80,7 @@
         "value": "Hoeschen-Wentzler Brewing Co., Ltd — Saskatoon, SASKATCHEWAN",
         "format": "text/plain"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131598/full/!760,760/0/default.jpg#xywh=0,986,1660,162"
+      "target": "https://hadro.github.io/brewery-guides/1916/manifest.json/canvas/56#xywh=0,1040,1660,54"
     },
     {
       "type": "Annotation",
@@ -70,7 +90,7 @@
         "value": "O'Brien Brewing & Malting Co., Ltd — Dawson, YUKON TERRITORY",
         "format": "text/plain"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131598/full/!760,760/0/default.jpg#xywh=2,1264,1564,54"
+      "target": "https://hadro.github.io/brewery-guides/1916/manifest.json/canvas/56#xywh=2,1264,1564,54"
     }
   ]
 }

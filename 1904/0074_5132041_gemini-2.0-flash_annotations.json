@@ -7,17 +7,6 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "TOVEY'S OFFICIAL BREWERS' DIRECTORY,",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=876,296,1034,60"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
         "value": "LAGER BEER BREWERS' BOARD OF TRADE OF",
         "format": "text/plain",
         "language": "en"
@@ -66,7 +55,18 @@
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=642,652,1294,110"
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=642,652,1294,56"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Treasurer, F. W. Woerz, New York.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132041/full/!760,760/0/default.jpg#xywh=642,708,1294,54"
     },
     {
       "type": "Annotation",

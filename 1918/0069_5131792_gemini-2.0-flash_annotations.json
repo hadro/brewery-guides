@@ -117,11 +117,22 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Secretary, Eric Wollesen, c. o. O'Keefe Brewery Toronto, Ont.",
+        "value": "Secretary, Eric Wollesen, c. o. O'Keefe Brewery To-",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131792/full/!760,760/0/default.jpg#xywh=242,1098,1498,66"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ronto, Ont.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131792/full/!760,760/0/default.jpg#xywh=428,1174,314,50"
     }
   ]
 }

@@ -7,17 +7,6 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Supplement to The Brewers' Journal 20",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=761,353,1034,60"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
         "value": "MASSACHUSETTS—Continued.",
         "format": "text/plain",
         "language": "en"
@@ -29,7 +18,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Boston *Waldberg Brewing Co., Lotus Pl.... L",
+        "value": "Boston........*Waldberg Brewing Co., Lotus Pl.... L",
         "format": "text/plain",
         "language": "en"
       },
@@ -40,7 +29,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Fall River Enterprise Brewing Co., 50 Glas-",
+        "value": "Fall River........Enterprise Brewing Co., 50 Glasgow st...A",
         "format": "text/plain",
         "language": "en"
       },
@@ -51,18 +40,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "gow st... A",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=1121,626,355,43"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "〃 Fall River Brewing Co., 255 Colum-",
+        "value": "Fall River........Fall River Brewing Co., 255 Columbia st...A",
         "format": "text/plain",
         "language": "en"
       },
@@ -73,18 +51,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "bia st... A",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=1121,715,211,46"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "〃 King Philip Brewing Co... A L",
+        "value": "Fall River........King Philip Brewing Co........A L",
         "format": "text/plain",
         "language": "en"
       },
@@ -95,7 +62,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 Old Colony Brewing Co., Davol",
+        "value": "Fall River........Old Colony Brewing Co., Davol street........A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -106,7 +73,51 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "street.. A L B",
+        "value": "Haverhill........Essex Brewery, 168 Merrimac st. A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=756,943,1082,60"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Haverhill........Hale, George E........A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=759,974,1216,63"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Haverhill........Smith, Orlando A., & Co., 32 Church st........A B †",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=759,1037,1216,64"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lawrence........Cold Spring Brewing Co., South Union st........A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=550,1070,1423,82"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lowell........Harvard Brewing Co., Payton street........L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -117,40 +128,29 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New Bedford Dawson & Son, 641 Purchase st... A B",
+        "value": "New Bedford........Dawson & Son, 641 Purchase st... A B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=554,1251,1517,134"
+      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=554,1251,1517,67"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Pittsfield Berkshire Brewing Association,",
+        "value": "Pittsfield........Berkshire Brewing Association, Columbus ave........A L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=1918,1214,146,37"
+      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=554,1318,1517,67"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Columbus ave... A L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=1073,1353,989,65"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Springfield Hampden Brewing Co. Williman-",
+        "value": "Springfield........Hampden Brewing Co. Willimansett.",
         "format": "text/plain",
         "language": "en"
       },
@@ -161,18 +161,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "sett.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=1137,1466,138,37"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Springfield Highland Brewing Co., State",
+        "value": "Springfield........Highland Brewing Co., State street",
         "format": "text/plain",
         "language": "en"
       },
@@ -183,18 +172,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Breweries street",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=751,1534,303,52"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Co., Springfield Brewing Co., 41 Water",
+        "value": "Springfield Breweries Co., A L B........Springfield Brewing Co., 41 Water street.",
         "format": "text/plain",
         "language": "en"
       },
@@ -205,18 +183,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "A L B .street.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=825,1630,150,43"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Willimansett Hampden Brewing Co.(See Spring-",
+        "value": "Willimansett........Hampden Brewing Co. (See Springfield Breweries Co.)",
         "format": "text/plain",
         "language": "en"
       },
@@ -227,18 +194,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "field Breweries Co.)",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=1140,1728,518,57"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Worcester Bowler Bros., Lim., Lafayette and",
+        "value": "Worcester........Bowler Bros., Lim., Lafayette and Quinsigamond aves........A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -249,18 +205,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Quinsigamond aves... A L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=1142,1815,931,66"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "〃 Gindele & Reuther, 2 Canterbury",
+        "value": "Worcester........Gindele & Reuther, 2 Canterbury street........A B †",
         "format": "text/plain",
         "language": "en"
       },
@@ -271,33 +216,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "street.. A B †",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=1149,1918,265,52"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "〃 Worcester Brewing Corporation,",
+        "value": "Worcester........Worcester Brewing Corporation, East Worcester and Plum sts.. A L B",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=1097,1958,892,65"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "East Worcester and Plum sts.. A L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=1137,1994,942,79"
     },
     {
       "type": "Annotation",
@@ -315,7 +238,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Adrian Adrian City Brewery... L",
+        "value": "Adrian........Adrian City Brewery........L",
         "format": "text/plain",
         "language": "en"
       },
@@ -326,40 +249,29 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 Kaiser, R. A., 116 N. Main st......L B",
+        "value": "Adrian........Kaiser, R. A., 116 N. Main st........L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=567,2181,1519,171"
+      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=567,2181,1519,56"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Alpena *Beck Malting and Brewing Co.,",
+        "value": "Alpena........*Beck Malting and Brewing Co., First st........L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=2316,2158,81,43"
+      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=567,2237,1519,58"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "First st... L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=2316,2247,81,47"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Ann Arbor Ann Arbor Brewing Co... L B",
+        "value": "Ann Arbor........Ann Arbor Brewing Co........L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -370,7 +282,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Battle Creek Battle Creek Brewing Co. L B",
+        "value": "Battle Creek........Battle Creek Brewing Co........L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -381,7 +293,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Bay City Bay City Brewing Co., Water and",
+        "value": "Bay City........Bay City Brewing Co., Water and 22d sts........L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -392,7 +304,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "22d sts.... L B",
+        "value": "Bessemer........Bessemer Brewing Co........L",
         "format": "text/plain",
         "language": "en"
       },
@@ -403,7 +315,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Bessemer Bessemer Brewing Co.. L",
+        "value": "Calumet........Calumet Brewing Co........L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -414,18 +326,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Calumet Calumet Brewing Co... L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=2318,2486,79,43"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Charlotte Charlotte Brewing Co... A B",
+        "value": "Charlotte........Charlotte Brewing Co........A B",
         "format": "text/plain",
         "language": "en"
       },
@@ -436,40 +337,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Cheboygan Cheboygan Brew'g & Malt'g Co...L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=2316,2717,82,50"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Coldwater Doll, Benedict, West Chicago",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=2318,2762,82,55"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "street.. L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=1125,2851,504,44"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Detroit *Columbia Brewing Co., 227 Cath-",
+        "value": "Cheboygan........Cheboygan Brew'g & Malt'g Co...L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -480,154 +348,55 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "erine st.... L B",
+        "value": "Coldwater........Doll, Benedict, West Chicago street........L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=1697,2834,396,56"
+      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=653,2957,1449,28"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 *Detroit Brewing Co., Orleans and",
+        "value": "Delray........American Brewing Co., Chase street........A L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=653,2931,1449,186"
+      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=653,2985,1449,25"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Adelaide sts... L B",
+        "value": "Detroit........*Columbia Brewing Co., 227 Catherine st........L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=1886,2931,209,35"
+      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=653,3010,1449,28"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 East Side Brewing Co., 34 Jay st..L B",
+        "value": "Detroit........*Detroit Brewing Co., Orleans and Adelaide sts........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=653,3063,1449,28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Detroit........East Side Brewing Co., 34 Jay st..L B",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=658,3067,1442,70"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Haverhill Essex Brewery, 168 Merrimac st. A L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=543,838,1519,132"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "〃 Hale, George E.. A L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=756,943,1082,60"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "〃 Smith, Orlando A., & Co., 32",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=759,974,1216,127"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Church st... A B †",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=1939,1034,118,29"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Lawrence Cold Spring Brewing Co., South A L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=550,1070,1423,82"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Union st...",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=552,1119,1425,129"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Lowell Harvard Brewing Co., Payton L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=742,1488,314,51"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "street.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=1140,1553,168,43"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Delray American Brewing Co., Chase A L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=845,1587,134,42"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "street..",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131909/full/!760,760/0/default.jpg#xywh=1118,1646,204,44"
     }
   ]
 }

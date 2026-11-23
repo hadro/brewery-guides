@@ -22,7 +22,7 @@
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5132045/full/!760,760/0/default.jpg#xywh=1668,1446,48,948"
+      "target": "https://iiif.nypl.org/iiif/3/5132045/full/!760,760/0/default.jpg#xywh=1032,580,68,938"
     },
     {
       "type": "Annotation",
@@ -33,7 +33,7 @@
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5132045/full/!760,760/0/default.jpg#xywh=940,1612,38,116"
+      "target": "https://iiif.nypl.org/iiif/3/5132045/full/!760,760/0/default.jpg#xywh=1668,860,48,584"
     },
     {
       "type": "Annotation",
@@ -44,7 +44,7 @@
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5132045/full/!760,760/0/default.jpg#xywh=1974,1856,102,1100"
+      "target": "https://iiif.nypl.org/iiif/3/5132045/full/!760,760/0/default.jpg#xywh=1404,1376,46,834"
     },
     {
       "type": "Annotation",
@@ -55,7 +55,7 @@
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5132045/full/!760,760/0/default.jpg#xywh=1514,1972,48,424"
+      "target": "https://iiif.nypl.org/iiif/3/5132045/full/!760,760/0/default.jpg#xywh=1668,1446,48,948"
     },
     {
       "type": "Annotation",
@@ -73,44 +73,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "}",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5132045/full/!760,760/0/default.jpg#xywh=1514,2394,38,40"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "UNITED STATES BREWERS' ASSOCIATION, 1878-1903,",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5132045/full/!760,760/0/default.jpg#xywh=1802,2396,52,446"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "AND THE VARIOUS STATE AND LOCAL LAGER BEER AND ALE BREWERS'",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5132045/full/!760,760/0/default.jpg#xywh=1034,2400,70,284"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
         "value": "AND MALTSTERS' ASSOCIATIONS.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5132045/full/!760,760/0/default.jpg#xywh=1664,2406,48,62"
+      "target": "https://iiif.nypl.org/iiif/3/5132045/full/!760,760/0/default.jpg#xywh=1802,2396,52,446"
     },
     {
       "type": "Annotation",
@@ -128,18 +95,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "PUBLISHED IN ENGLISH AND GERMAN.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5132045/full/!760,760/0/default.jpg#xywh=726,2544,156,418"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Medal and Diploma, Antwerp Exposition, 1889,",
+        "value": "UNITED STATES BREWERS' ASSOCIATION, 1878-1903,",
         "format": "text/plain",
         "language": "en"
       },
@@ -150,29 +106,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Honorable Mention, Paris Exposition, 1878.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5132045/full/!760,760/0/default.jpg#xywh=1032,580,68,938"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Subscription $5.00 per annum, including Postage and annual supplement, Tovey's Official Brewers'",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5132045/full/!760,760/0/default.jpg#xywh=1798,474,108,1916"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "and Maltsters' Directory of the United States and Canada.",
+        "value": "AND THE VARIOUS STATE AND LOCAL LAGER BEER AND ALE BREWERS'",
         "format": "text/plain",
         "language": "en"
       },
@@ -183,7 +117,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Western Office, Monadnock Block, Chicago.",
+        "value": "Medal and Diploma, Antwerp Exposition, 1889,",
         "format": "text/plain",
         "language": "en"
       },
@@ -194,7 +128,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "London Office, 46 Cannon St., London, E. C.",
+        "value": "Honorable Mention, Paris Exposition, 1878.",
         "format": "text/plain",
         "language": "en"
       },
@@ -205,11 +139,44 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Main Office, 24 Park Place, New York.",
+        "value": "PUBLISHED IN ENGLISH AND GERMAN.",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5132045/full/!760,760/0/default.jpg#xywh=1030,1520,82,884"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Subscription $5.00 per annum, including Postage and annual supplement, Tovey's Official Brewers'",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132045/full/!760,760/0/default.jpg#xywh=1514,1972,48,424"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Western Office, Monadnock Block, Chicago.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132045/full/!760,760/0/default.jpg#xywh=1974,1856,102,1100"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Main Office, 24 Park Place, New York.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5132045/full/!760,760/0/default.jpg#xywh=726,2544,156,418"
     }
   ]
 }

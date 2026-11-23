@@ -18,7 +18,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Albany Dayton Philadelphia",
+        "value": "Dayton",
         "format": "text/plain",
         "language": "en"
       },
@@ -29,7 +29,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Baltimore Detroit Providence",
+        "value": "Detroit",
         "format": "text/plain",
         "language": "en"
       },
@@ -40,7 +40,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Boston Kansas City St. Louis",
+        "value": "Kansas City",
         "format": "text/plain",
         "language": "en"
       },
@@ -51,7 +51,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Bridgeport Montreal Toledo",
+        "value": "Montreal",
         "format": "text/plain",
         "language": "en"
       },
@@ -62,7 +62,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Chicago Newark Toronto",
+        "value": "Newark",
         "format": "text/plain",
         "language": "en"
       },
@@ -73,7 +73,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Cleveland New Haven Washington",
+        "value": "New Haven",
         "format": "text/plain",
         "language": "en"
       },
@@ -84,11 +84,55 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "POLACK",
+        "value": "Providence",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131531/full/!760,760/0/default.jpg#xywh=920,594,1346,340"
+      "target": "https://iiif.nypl.org/iiif/3/5131531/full/!760,760/0/default.jpg#xywh=1860,2430,338,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Louis",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131531/full/!760,760/0/default.jpg#xywh=1862,2488,280,56"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Toledo",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131531/full/!760,760/0/default.jpg#xywh=1860,2552,212,52"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Toronto",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131531/full/!760,760/0/default.jpg#xywh=1862,2612,252,52"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Washington",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131531/full/!760,760/0/default.jpg#xywh=1862,2670,360,62"
     },
     {
       "type": "Annotation",
@@ -117,17 +161,6 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "thereby",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131531/full/!760,760/0/default.jpg#xywh=1024,1318,362,94"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
         "value": "INSURE TRUCK SERVICE",
         "format": "text/plain",
         "language": "en"
@@ -150,7 +183,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "POLACK TYRE & RUBBER C",
+        "value": "POLACK TYRE & RUBBER C.",
         "format": "text/plain",
         "language": "en"
       },
@@ -166,6 +199,50 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131531/full/!760,760/0/default.jpg#xywh=1074,2222,1034,68"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Baltimore",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131531/full/!760,760/0/default.jpg#xywh=922,2438,302,52"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bridgeport",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131531/full/!760,760/0/default.jpg#xywh=922,2560,330,56"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cleveland",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131531/full/!760,760/0/default.jpg#xywh=924,2622,242,56"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Philadelphia",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131531/full/!760,760/0/default.jpg#xywh=926,2682,296,54"
     },
     {
       "type": "Annotation",

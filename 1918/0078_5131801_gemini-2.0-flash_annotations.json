@@ -7,11 +7,22 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Low- and Non-Alcoholic Beer Treated by Our",
+        "value": "Low- and Non-Alcoholic",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131801/full/!760,760/0/default.jpg#xywh=1006,456,1208,74"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Beer Treated by Our",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131801/full/!760,760/0/default.jpg#xywh=1004,558,1210,88"
     },
     {
       "type": "Annotation",

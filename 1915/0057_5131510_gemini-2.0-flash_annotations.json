@@ -7,17 +7,6 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "SUPPLEMENT TO THE BREWERS' JOURNAL. 59",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=324,320,1216,40"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
         "value": "OHIO.",
         "format": "text/plain",
         "language": "en"
@@ -29,7 +18,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "\"\t\tCincinnati Malting Co., 1824 Mc-",
+        "value": "Cincinnati........Ammann, William, 128 Sycamore st.",
         "format": "text/plain",
         "language": "en"
       },
@@ -40,29 +29,29 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "\"\t\tFleischmann Malting Co., 419 Plum st.",
+        "value": "Cincinnati........Cincinnati Malting Co., 1824 Mc-Micken ave.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=162,586,1474,104"
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=162,586,1474,52"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Cleveland\t\tEpstein Malt Co., 702 Canal rd.",
+        "value": "Cincinnati........Fleischmann Malting Co., 419 Plum st.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,666,1458,82"
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=162,638,1474,52"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Hamilton\t\tSohngen, Edw., Malt Co., Canal st.",
+        "value": "Hamilton........Sohngen, Edw., Malt Co., Canal st.",
         "format": "text/plain",
         "language": "en"
       },
@@ -73,18 +62,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Piqua\t\tPiqua Malt Co.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,742,1050,116"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "PENNSYLVANΙΑ.",
+        "value": "PENNSYLVANIA.",
         "format": "text/plain",
         "language": "en"
       },
@@ -95,7 +73,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Allegheny\t\tGeiselhardt, Est. Julius, 499 Ohio st.",
+        "value": "Allegheny........Geiselhardt, Est. Julius, 499 Ohio st.",
         "format": "text/plain",
         "language": "en"
       },
@@ -106,7 +84,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Easton\t\tRice, Geo. O., 131 Ferry st.",
+        "value": "Easton........Rice, Geo. O., 131 Ferry st.",
         "format": "text/plain",
         "language": "en"
       },
@@ -117,22 +95,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Philadelphia\t\tPerot's, Francis, Sons Malting Co.,",
+        "value": "Philadelphia........Perot's, Francis, Sons Malting Co., 808 Lafayette Building.",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,1010,1632,146"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "808 Lafayette Building.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,1134,102,56"
     },
     {
       "type": "Annotation",
@@ -150,7 +117,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Dayton\t\tCahill & Dunlap.",
+        "value": "Dayton........Cahill & Dunlap.",
         "format": "text/plain",
         "language": "en"
       },
@@ -172,7 +139,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Appleton\t\tWisconsin Grain & Malt Co.",
+        "value": "Appleton........Wisconsin Grain & Malt Co.",
         "format": "text/plain",
         "language": "en"
       },
@@ -183,7 +150,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Chilton\t\tChilton Malting Co.",
+        "value": "Chilton........Chilton Malting Co.",
         "format": "text/plain",
         "language": "en"
       },
@@ -194,7 +161,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Columbus\t\tKurth Co.",
+        "value": "Columbus........Kurth Co.",
         "format": "text/plain",
         "language": "en"
       },
@@ -205,7 +172,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Fond du Lac\t\tFond du Lac Malt & Grain Co.",
+        "value": "Fond du Lac........Fond du Lac Malt & Grain Co.",
         "format": "text/plain",
         "language": "en"
       },
@@ -216,7 +183,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Hartford\t\tKonrad Bros. & Werner.",
+        "value": "Hartford........Konrad Bros. & Werner.",
         "format": "text/plain",
         "language": "en"
       },
@@ -227,18 +194,29 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "\"\t\tPortz Bros. Malt & Grain Co.",
+        "value": "Hartford........Laubenstein, A. G.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,1608,1382,128"
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,1608,1382,64"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Kenosha\t\tPettit, M. H., Malting Co.",
+        "value": "Hartford........Portz Bros. Malt & Grain Co.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,1672,1382,64"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Kenosha........Pettit, M. H., Malting Co.",
         "format": "text/plain",
         "language": "en"
       },
@@ -249,7 +227,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Kewaskum\t\tRosenheimer, L., Malt & Grain Co.",
+        "value": "Kewaskum........Rosenheimer, L., Malt & Grain Co.",
         "format": "text/plain",
         "language": "en"
       },
@@ -260,7 +238,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Lomira\t\tStar Malt & Grain Co.",
+        "value": "Lomira........Star Malt & Grain Co.",
         "format": "text/plain",
         "language": "en"
       },
@@ -271,95 +249,73 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Manitowoc\t\tManitowoc Malting Co.",
+        "value": "Manitowoc........Manitowoc Malting Co.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,1850,1622,118"
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,1850,1622,58"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "\"\t\tRahr, Wm., Sons' Co., 6th and Wash-",
+        "value": "Manitowoc........Rahr, Wm., Sons' Co., 6th and Washington sts.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,1942,1620,170"
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,1942,1620,56"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "ington sts.",
+        "value": "Mayville........Buerger's Malting Co.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,2090,86,48"
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,1998,1620,58"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Milwaukee\t\tBorchert Malting Co., 25th ave. and",
+        "value": "Milwaukee........Borchert Malting Co., 25th ave. and South Pierce st.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=168,2096,1444,176"
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,2056,1620,56"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "South Pierce st.",
+        "value": "Milwaukee........Froedtert Malting Co., 478 7th st.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=636,2096,442,48"
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=168,2154,1444,60"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "\"\t\tFroedtert Malting Co., 478 7th st.",
+        "value": "Milwaukee........Interstate Malting Co., 33d ave. and Burnham st.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,2188,84,48"
+      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=168,2214,1444,58"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "\"\t\tInterstate Malting Co., 33d ave. and",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,2236,86,50"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Burnham st.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=580,2238,396,44"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "\"\t\tLadish - Stoppenbach Co.. 509 Ger-",
+        "value": "Milwaukee........Ladish - Stoppenbach Co.. 509 Germania Building.",
         "format": "text/plain",
         "language": "en"
       },
@@ -370,18 +326,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "mania Building.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=570,2334,516,48"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "\"\t\tMilwaukee Malting Co., South Bay and",
+        "value": "Milwaukee........Milwaukee Malting Co., South Bay and Reynolds sts.",
         "format": "text/plain",
         "language": "en"
       },
@@ -392,18 +337,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Reynolds sts.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=626,2426,362,52"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "\"\t\tMilwaukee-Western Malt Co., South",
+        "value": "Milwaukee........Milwaukee-Western Malt Co., South Water st.",
         "format": "text/plain",
         "language": "en"
       },
@@ -414,18 +348,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Water st.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=632,2528,246,36"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "\"\t\tWeschler, D. D., & Sons, Inc., 37th",
+        "value": "Milwaukee........Weschler, D. D., & Sons, Inc., 37th ave. and Burnham st.",
         "format": "text/plain",
         "language": "en"
       },
@@ -436,18 +359,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "ave. and Burnham st.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=652,2616,606,50"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Rubicon\t\tRubicon Malting Co.",
+        "value": "Rubicon........Rubicon Malting Co.",
         "format": "text/plain",
         "language": "en"
       },
@@ -458,7 +370,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Sheboygan\t\tSchreier, Konrad, Co.",
+        "value": "Sheboygan........Schreier, Konrad, Co.",
         "format": "text/plain",
         "language": "en"
       },
@@ -469,7 +381,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Waterloo\t\tBadger State Malt Co.",
+        "value": "Waterloo........Badger State Malt Co.",
         "format": "text/plain",
         "language": "en"
       },
@@ -480,7 +392,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Watertown\t\tHartig, Wm., Malting Co.",
+        "value": "Watertown........Hartig, Wm., Malting Co.",
         "format": "text/plain",
         "language": "en"
       },
@@ -491,66 +403,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "West Bend\t\tWest Bend Malting Co.",
+        "value": "West Bend........West Bend Malting Co.",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,2846,1192,58"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Cincinnati\t\tAmmann, William, 128 Sycamore st.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,2476,76,40"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "\"\t\tMicken ave.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,2518,82,100"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Mount Joy\t\tFrank, Philip, Malting Co.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=2,2608,80,50"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "\"\t\tLaubenstein, A. G.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,2660,446,48"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Mayville\t\tBuerger's Malting Co.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131510/full/!760,760/0/default.jpg#xywh=0,2946,48,48"
     }
   ]
 }

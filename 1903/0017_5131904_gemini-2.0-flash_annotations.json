@@ -7,17 +7,6 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "SUPPLEMENT TO THE BREWERS' JOURNAL. 15",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=566,310,1227,45"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
         "value": "ILLINOIS—Continued.",
         "format": "text/plain",
         "language": "en"
@@ -29,7 +18,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "West Hammond. Mayer, C. H. L",
+        "value": "West Hammond........ Mayer, C. H.....L",
         "format": "text/plain",
         "language": "en"
       },
@@ -40,7 +29,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Wheeling. Periolat Brewing Co. L",
+        "value": "Wheeling........ Periolat Brewing Co.....L",
         "format": "text/plain",
         "language": "en"
       },
@@ -62,7 +51,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Brazil Brazil Brewing, Ice & Power Co.,",
+        "value": "Anderson........ Norton, T. M., Brewing Co., 108 North Water st.....ALB",
         "format": "text/plain",
         "language": "en"
       },
@@ -73,18 +62,29 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Evansville Cook, F. W., Brewing Co., 214",
+        "value": "Brazil........ Brazil Brewing, Ice & Power Co., West Main st.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=331,1044,1536,103"
+      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=331,1044,1536,51"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Evansville *Evansville Brewery Co., 1st ave.",
+        "value": "Columbia City........ *Walter-Raupfer Brewing Co.....L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=331,1095,1536,52"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Evansville........ Cook, F. W., Brewing Co., 214 Upper 7th st.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -95,18 +95,73 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Fort Wayne. Berghoff Brewing Co., Grant ave. L B",
+        "value": "Evansville........ *Evansville Brewing Co., 1st ave. and Ingle st.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=326,1167,1548,324"
+      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=326,1167,1548,47"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Huntingburgh Moenkhaus & Senbold L",
+        "value": "Evansville Brewing",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=326,1214,1548,46"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Association, L B........ Fulton Ave. Brewery, 400 Fulton avenue.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=326,1260,1548,46"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ferdinand........ Ferdinand Brewing Co.....L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=326,1306,1548,47"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fort Wayne........ Berghoff Brewing Co., Grant ave. L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=326,1353,1548,46"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fort Wayne........ *Centlivre, C. L., Brewing Co., North End Spy Run ave.....L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=326,1399,1548,46"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Huntingburgh........ Moenkhaus & Senbold.....L",
         "format": "text/plain",
         "language": "en"
       },
@@ -117,7 +172,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Huntington Huntington Brewing Co L B",
+        "value": "Huntington........ Huntington Brewing Co.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -128,7 +183,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Indianapolis American Brewing Co., 315 West",
+        "value": "Indianapolis........ American Brewing Co., 315 West Ohio st.....L W B",
         "format": "text/plain",
         "language": "en"
       },
@@ -139,18 +194,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Ohio st. L W B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=914,1661,432,45"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "〃 Home Brewing Co., Cruse and",
+        "value": "Indianapolis........ Home Brewing Co., Cruse and Daily sts.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -161,18 +205,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Daily sts. L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=737,1755,614,47"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "〃 Lieber, P., Brewing Co., 512 Madi-",
+        "value": "Indianapolis........ Lieber, P., Brewing Co., 512 Madison ave.",
         "format": "text/plain",
         "language": "en"
       },
@@ -183,293 +216,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "son ave.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=921,1855,231,38"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Breweries, Schmidt, C. F., South End Ala-",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=468,1884,1313,105"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Limited, bama st.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=511,1942,298,47"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "A L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=559,1990,173,41"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Jasper. Habich, Anton L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=924,1995,240,38"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "La Fayette Bohrer, Geo. A., Brewing Co., 82",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=319,2025,1472,118"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "South 4th st. L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=326,2117,1548,223"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Lawrenceburgh *Oberling, Victor, 3d and Shipping",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=331,2316,1538,110"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "streets L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=321,2385,1558,483"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Mishawaka *Kamm & Schellinger Brewing",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=331,2829,1464,60"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Co., West 2d st. L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=327,2873,1542,163"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "cennes st. L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=434,3022,1433,131"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Anderson. Norton, T. M., Brewing Co., 108",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=0,511,113,62"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "North Water st. A L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=0,657,113,53"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "West Main st. L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=0,749,132,60"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Cambridge City. *Ingermann, John M. A L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=0,804,129,60"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Columbia City. *Walter-Raupfer Brewing Co. L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=0,900,132,50"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Crown Point. Crown Brewing Co. L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=0,957,135,41"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Upper 7th st. L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=0,1003,134,43"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Brewing and Ingle st.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=0,1287,141,43"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Association, Fulton Ave. Brewery, 400 Fulton",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=2,1485,133,37"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "L B avenue.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=0,1529,146,43"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Ferdinand Ferdinand Brewing Co. L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=0,1577,141,43"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "〃 *Centlivre, C. L., Brewing Co.,",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=2,1671,139,48"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "North End Spy Run ave. L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=2,1718,145,58"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "*Indianapolis Maus, C., West End New York st.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=9,1769,123,45"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "〃 *Thieme & Wagner Brewing Co.,",
+        "value": "Indianapolis *Indianapolis",
         "format": "text/plain",
         "language": "en"
       },
@@ -480,18 +227,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "North 4th st. L B",
+        "value": "Breweries, Maus, C., West End New York st.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=3,1863,141,48"
+      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=468,1884,1313,105"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "La Porte. *Guenther Bros., Tyler and Lake",
+        "value": "Limited, Schmidt, C. F., South End Alabama st.",
         "format": "text/plain",
         "language": "en"
       },
@@ -502,62 +249,161 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "sts. L B",
+        "value": "ALB",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=2,1958,145,49"
+      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=559,1990,173,41"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Logansport Columbia Brewing Co., 424 High st. L B",
+        "value": "Jasper........ Habich, Anton.....L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=0,2009,130,55"
+      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=319,2025,1472,60"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Madison. *Madison Brewing Co., 224 Park",
+        "value": "La Fayette........ Bohrer, Geo. A., Brewing Co., 82 South 4th st.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=0,2201,135,43"
+      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=319,2085,1472,58"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "avenue A L B",
+        "value": "La Fayette........ *Thieme & Wagner Brewing Co., North 4th st.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=0,2249,146,48"
+      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=326,2117,1548,223"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 *Weber, Peter, Main and Vine sts. A L",
+        "value": "Lawrenceburgh........ *Oberling, Victor, 3d and Shipping streets.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=0,2388,130,57"
+      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=331,2316,1538,110"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Marion. Indiana Brewing Association,",
+        "value": "Madison........ *Madison Brewing Co., 224 Park avenue.....ALB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=321,2385,1558,483"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mishawaka........ *Kamm & Schellinger Brewing Co., West 2d st.....L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=331,2829,1464,60"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Albany........ Engel & Nadorff Bros., 477 Vincennes st.....L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=434,3022,1433,131"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cambridge City........ *Ingermann, John M.....ALB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=566,310,1227,45"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Crown Point........ Crown Brewing Co.....L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=0,749,132,60"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Porte........ *Guenther Bros., Tyler and Lake sts.....L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=0,1435,139,41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Logansport........ Columbia Brewing Co., 424 High st. L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=326,1445,1548,46"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Marion........ *Weber, Peter, Main and Vine sts.....A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=2,1671,139,48"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Marion........ Indiana Brewing Association, R. R. ave.....L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=921,1855,231,38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Michigan City........ *Zorn, Philip, Brewing Co., York and 9th sts.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -568,51 +414,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "R. R. ave. L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=14,2575,137,60"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Michigan City. *Zorn, Philip, Brewing Co., York",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=0,2635,149,48"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "and 9th sts. L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=0,2662,137,86"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "New Albany. Van Dinter, L. H L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=0,2715,137,72"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "〃 Engel & Nadorff Bros., 477 Vin-",
+        "value": "New Albany........ Van Dinter, L. H.....L",
         "format": "text/plain",
         "language": "en"
       },
@@ -623,11 +425,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 Nirmaier, Veit. L",
+        "value": "New Albany........ Nirmaier, Veit.....L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=0,2815,156,68"
+      "target": "https://iiif.nypl.org/iiif/3/5131904/full/!760,760/0/default.jpg#xywh=12,2949,135,85"
     }
   ]
 }

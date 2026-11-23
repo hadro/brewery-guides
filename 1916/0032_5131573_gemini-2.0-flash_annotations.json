@@ -18,7 +18,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Canajoharie ........ Bierbauer Brewing Co., Inc......L B",
+        "value": "Canajoharie ........................ Bierbauer Brewing Co., Inc......L E",
         "format": "text/plain",
         "language": "en"
       },
@@ -29,7 +29,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Canandaigua ........ *Canandaigua Brewery, Inc....A L I",
+        "value": "Canandaigua ........................ *Canandaigua Brewery, Inc....A L I",
         "format": "text/plain",
         "language": "en"
       },
@@ -40,7 +40,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Cohoes ........ Penrose & McEniry, Inc., Lansing",
+        "value": "Cohoes ........................ Penrose & McEniry, Inc., Lansing",
         "format": "text/plain",
         "language": "en"
       },
@@ -51,7 +51,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Cohoes and Newark sts..",
+        "value": "and Newark sts........................ A",
         "format": "text/plain",
         "language": "en"
       },
@@ -62,7 +62,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Dansville ........ Keppeler, Philip........I",
+        "value": "Dansville ........................ Keppeler, Philip........................ A",
         "format": "text/plain",
         "language": "en"
       },
@@ -73,18 +73,29 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Dobbs Ferry ........ Manilla-Anchor Brewing Co.......L I",
+        "value": "Dobbs Ferry ........................ Manilla-Anchor Brewing Co.......L I",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131573/full/!760,760/0/default.jpg#xywh=822,740,1550,132"
+      "target": "https://iiif.nypl.org/iiif/3/5131573/full/!760,760/0/default.jpg#xywh=822,740,1550,66"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Dunkirk ........ *Dotterweich, Andrew, Brewing",
+        "value": "Dunkirk ........................ *Dotterweich, Andrew, Brewing",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131573/full/!760,760/0/default.jpg#xywh=822,806,1550,66"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Co., 537 Dove street.................. L E",
         "format": "text/plain",
         "language": "en"
       },
@@ -95,7 +106,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Dunkirk Co., 537 Dove street..",
+        "value": "Dunkirk ........................ Koch, Fred., Brewery, Inc., 15",
         "format": "text/plain",
         "language": "en"
       },
@@ -106,7 +117,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Dunkirk West Courtney st..",
+        "value": "West Courtney st........................ L E",
         "format": "text/plain",
         "language": "en"
       },
@@ -117,7 +128,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "East Williamsburgh ........ Enders, Wm., 1706 Madison st....L B",
+        "value": "East Williamsburgh ........................ Enders, Wm., 1706 Madison st....L H",
         "format": "text/plain",
         "language": "en"
       },
@@ -128,7 +139,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Ellenville ........ Kuhlmann, John A., Brewing Co.,",
+        "value": "Ellenville ........................ Kuhlmann, John A., Brewing Co.,",
         "format": "text/plain",
         "language": "en"
       },
@@ -139,7 +150,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Ellenville 2 Market st...",
+        "value": "2 Market st........................A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -150,7 +161,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Elmira ........ *Briggs, T., & Co., Inc., 121 East 2d",
+        "value": "Elmira ........................ *Briggs, T., & Co., Inc., 121 East 2d",
         "format": "text/plain",
         "language": "en"
       },
@@ -161,7 +172,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Elmira street..",
+        "value": "street........................A L E",
         "format": "text/plain",
         "language": "en"
       },
@@ -172,18 +183,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Elmira ........ Record Brewing Co., 735 Baldwin",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131573/full/!760,760/0/default.jpg#xywh=968,1262,1266,76"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Fort Edward ........ *Fort Edward Brewing Co........A L",
+        "value": "Fort Edward ........................ *Fort Edward Brewing Co..........A L",
         "format": "text/plain",
         "language": "en"
       },
@@ -194,7 +194,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Glens Falls ........ Glens Falls Ale Co., South st.........A",
+        "value": "Glens Falls ........................ Glens Falls Ale Co., South st.......... A",
         "format": "text/plain",
         "language": "en"
       },
@@ -205,7 +205,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Hornell ........ Schwarzenbach Brewing Co., Inc..",
+        "value": "Hornell ........................ Schwarzenbach Brewing Co., Inc.,",
         "format": "text/plain",
         "language": "en"
       },
@@ -216,7 +216,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Hornell Erie R. R. and Franklin st.....",
+        "value": "Erie R. R. and Franklin st..... A L E",
         "format": "text/plain",
         "language": "en"
       },
@@ -227,7 +227,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Hudson ........ *Evans, C. H., & Sons, Inc., Hill",
+        "value": "Hudson ........................ *Evans, C. H., & Sons, Inc., Hill",
         "format": "text/plain",
         "language": "en"
       },
@@ -238,7 +238,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Hudson and North 2d sts..",
+        "value": "and North 2d sts........................ A B",
         "format": "text/plain",
         "language": "en"
       },
@@ -249,7 +249,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Jamestown ........ Jamestown Brewing Co., Inc....L B",
+        "value": "Jamestown ........................ Jamestown Brewing Co., Inc....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -260,7 +260,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Johnstown ........ Fulton County Brewing Co., Char-",
+        "value": "Johnstown ........................ Fulton County Brewing Co., Char-",
         "format": "text/plain",
         "language": "en"
       },
@@ -271,7 +271,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Johnstown les st...",
+        "value": "les st........................A L",
         "format": "text/plain",
         "language": "en"
       },
@@ -282,7 +282,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Kingston ........ Barman, Estate Peter, F't Clinton",
+        "value": "Kingston ........................ Barman, Estate Peter, F't Clinton",
         "format": "text/plain",
         "language": "en"
       },
@@ -293,7 +293,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "........A L B",
+        "value": "ave........................A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -304,7 +304,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Lansingburgh ........ *Bolton's Sons, Inc., 2d ave. and",
+        "value": "Lansingburgh ........................ *Bolton's Sons, Inc., 2d ave. and",
         "format": "text/plain",
         "language": "en"
       },
@@ -315,7 +315,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Lansingburgh 7th st...",
+        "value": "7th st........................A B",
         "format": "text/plain",
         "language": "en"
       },
@@ -326,7 +326,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "........L B",
+        "value": "Lindenhurst, L. I. ........................ Eichhammer, Otto F., Humboldt",
         "format": "text/plain",
         "language": "en"
       },
@@ -337,18 +337,29 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Little Falls ........ Grace, James J.........A",
+        "value": "Place........................L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131573/full/!760,760/0/default.jpg#xywh=810,2006,1514,124"
+      "target": "https://iiif.nypl.org/iiif/3/5131573/full/!760,760/0/default.jpg#xywh=810,2006,1514,62"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Lockport ........ Lock City Brewing Co., 198 Chest-",
+        "value": "Little Falls ........................ Grace, James J........................ A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131573/full/!760,760/0/default.jpg#xywh=810,2068,1514,62"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lockport ........................ Lock City Brewing Co., 198 Chest-",
         "format": "text/plain",
         "language": "en"
       },
@@ -359,7 +370,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Lockport nut street",
+        "value": "nut street........................A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -370,18 +381,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Medina ........ Medina Brewery........A L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131573/full/!760,760/0/default.jpg#xywh=808,2166,1558,108"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Middletown ........ Orange County Brewery (Chas. C.",
+        "value": "Middletown ........................ Orange County Brewery (Chas. C.",
         "format": "text/plain",
         "language": "en"
       },
@@ -392,7 +392,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Newburgh ........ Leicht, Chas. K.. North rd........A L",
+        "value": "Newburgh ........................ Leicht, Chas. K., North rd..........A L",
         "format": "text/plain",
         "language": "en"
       },
@@ -403,7 +403,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New York ........ *Beadleston & Woerz, 291 West 10th",
+        "value": "New York ........................ *Beadleston & Woerz, 291 West 10th",
         "format": "text/plain",
         "language": "en"
       },
@@ -414,18 +414,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "........A L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131573/full/!760,760/0/default.jpg#xywh=2316,2392,84,38"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "New York street",
+        "value": "street........................A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -436,7 +425,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New York ........ Bernheimer & Schwartz Pilsener",
+        "value": "New York ........................ Bernheimer & Schwartz Pilsener",
         "format": "text/plain",
         "language": "en"
       },
@@ -458,7 +447,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "........A L B",
+        "value": "and 128th street........................A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -469,18 +458,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New York and 128th street.....",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131573/full/!760,760/0/default.jpg#xywh=2322,2564,78,56"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "New York ........ Central Brewing Co., 68th st. and",
+        "value": "New York ........................ Central Brewing Co., 68th st. and",
         "format": "text/plain",
         "language": "en"
       },
@@ -491,7 +469,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "........A L B",
+        "value": "East River........................A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -502,18 +480,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New York East River...",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131573/full/!760,760/0/default.jpg#xywh=2348,2684,50,30"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "New York ........ Clausen-Flanagan Brewery, 262",
+        "value": "New York ........................ Clausen-Flanagan Brewery, 262",
         "format": "text/plain",
         "language": "en"
       },
@@ -524,7 +491,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "........A L B",
+        "value": "10th ave........................A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -535,18 +502,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New York 10th ave..",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131573/full/!760,760/0/default.jpg#xywh=2350,2772,50,32"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "New York ........ Consumers' Brewing Co. of New",
+        "value": "New York ........................ Consumers' Brewing Co. of New",
         "format": "text/plain",
         "language": "en"
       },
@@ -568,18 +524,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New York ........ Doelger, Peter, Brewing Co., Inc.,",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131573/full/!760,760/0/default.jpg#xywh=2324,2884,76,62"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "........L B",
+        "value": "New York ........................ Doelger, Peter, Brewing Co., Inc.,",
         "format": "text/plain",
         "language": "en"
       },
@@ -590,7 +535,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New York 415 East 55th st....",
+        "value": "415 East 55th st........................L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -601,7 +546,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New York ........ Ebling Brewing Co., 760 St. Ann's",
+        "value": "New York ........................ Ebling Brewing Co., 760 St. Ann's",
         "format": "text/plain",
         "language": "en"
       },
@@ -612,7 +557,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "........A L B",
+        "value": "ave........................A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -623,18 +568,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New York ave....",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131573/full/!760,760/0/default.jpg#xywh=2332,3080,66,50"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "........ L E",
+        "value": "street........................A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -645,7 +579,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Dunkirk ........ Koch, Fred., Brewery, Inc., 15",
+        "value": "Elmira ........................ Mander, C. & A........................L E",
         "format": "text/plain",
         "language": "en"
       },
@@ -656,7 +590,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "........A L B",
+        "value": "Elmira ........................ Record Brewing Co., 735 Baldwin",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131573/full/!760,760/0/default.jpg#xywh=968,1262,1266,76"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Medina ........................ Medina Brewery........................A L",
         "format": "text/plain",
         "language": "en"
       },
@@ -667,40 +612,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "........A L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131573/full/!760,760/0/default.jpg#xywh=2330,2490,70,36"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Elmira ........ Mander, C. & A.........L E",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131573/full/!760,760/0/default.jpg#xywh=2350,2870,48,30"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "........A L E",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131573/full/!760,760/0/default.jpg#xywh=2316,3022,84,64"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Kingston ave...",
+        "value": "Young, Prop.), 133 Lake ave.. A L B",
         "format": "text/plain",
         "language": "en"
       },

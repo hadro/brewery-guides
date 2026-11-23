@@ -18,7 +18,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Manchester........Einkorn, George A................................................................................................L B",
+        "value": "Manchester........Einkorn, George A.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -29,7 +29,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Saginaw........National Brewing Co., Genesee ave. and Walnut st....................................................L B",
+        "value": "Saginaw........National Brewing Co., Genesee ave. and Walnut st.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -40,7 +40,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Saginaw........*Saginaw Brewing Co., 1610 South Washington ave................................................L B",
+        "value": "Saginaw........*Saginaw Brewing Co., 1610 South Washington ave.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -51,7 +51,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Sault Sainte Marie........Soo Brewing Co., Inc., 944 E. Portage ave.............................................................L B",
+        "value": "Sault Sainte Marie........Soo Brewing Co., Inc., 944 E. Portage ave.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -62,7 +62,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Wyandotte........Marx Brewing Co., Inc., Oak and Front sts..................................................................L B",
+        "value": "Wyandotte........Marx Brewing Co., Inc., Oak and Front sts.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -84,18 +84,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Iron Mountain........Henze-Tollen Brewing Co., Norway and Grant sts....................................L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131564/full/!760,760/0/default.jpg#xywh=0,382,32,34"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Ironwood........Ironwood Brewing Co...........................................................................................L B",
+        "value": "Iron Mountain........Henze-Tollen Brewing Co., Norway and Grant sts.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -106,7 +95,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Jackson........Eberle Brewing Co., Bridge and Water sts............................................................L B",
+        "value": "Ironwood........Ironwood Brewing Co.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -117,29 +106,40 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Jackson........Haehnle Brewing Co., 1917 Cooper street........................................................L B",
+        "value": "Jackson........Eberle Brewing Co., Bridge and Water sts.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131564/full/!760,760/0/default.jpg#xywh=0,588,1630,304"
+      "target": "https://iiif.nypl.org/iiif/3/5131564/full/!760,760/0/default.jpg#xywh=0,864,1624,66"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Lake Linden........Bosch Brewing Co., Centre st...........................................................................L B",
+        "value": "Jackson........Haehnle Brewing Co., 1917 Cooper street.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131564/full/!760,760/0/default.jpg#xywh=0,864,1624,200"
+      "target": "https://iiif.nypl.org/iiif/3/5131564/full/!760,760/0/default.jpg#xywh=0,930,1624,68"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Manistee........Daniels, C. H., Brewery, Mason street................................................................L B",
+        "value": "Lake Linden........Bosch Brewing Co., Centre st.....L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131564/full/!760,760/0/default.jpg#xywh=0,998,1624,66"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Manistee........Daniels, C. H., Brewery, Mason street.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -150,7 +150,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Menominee........Menominee River Brewing Co., 1612 Ogden ave......................................................A L B",
+        "value": "Marine City........Marine City Brewing Co. (Max Boiger and Jos. Moll).....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -161,7 +161,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Muskegon........*Muskegon Brewing Co., 604 Michigan ave............................................................A L B",
+        "value": "Marquette........Upper Peninsula Brewing Co., W. Washington st.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -172,7 +172,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Pontiac........Pontiac Brewery Co., Patterson street.......................................................................L B",
+        "value": "Menominee........*Leisen & Henes Brewing Co., 1200 Main street.....A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -183,7 +183,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Port Huron........Port Huron Brewing Co., 601 Michigan street..........................................................L B",
+        "value": "Menominee........Menominee River Brewing Co., 1612 Ogden ave.....A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -194,40 +194,73 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Rogers........Fisch, Frederick, Eastside 3d st...................................................................................L B",
+        "value": "Mt. Clemens........Biewer, August, Jr., Court st.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131564/full/!760,760/0/default.jpg#xywh=0,1858,1630,190"
+      "target": "https://iiif.nypl.org/iiif/3/5131564/full/!760,760/0/default.jpg#xywh=0,2012,1546,58"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Saginaw........Banner Brewing Co., 1741 Genesee ave.......................................................................L B",
+        "value": "Mt. Clemens........*Mt. Clemens Brewing Co., Front street.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131564/full/!760,760/0/default.jpg#xywh=0,2012,1546,232"
+      "target": "https://iiif.nypl.org/iiif/3/5131564/full/!760,760/0/default.jpg#xywh=0,2070,1546,58"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Saginaw........*Schemm, J. G., Brewing Co., 926 North Hamilton st..............................................L B",
+        "value": "Muskegon........*Muskegon Brewing Co., 604 Michigan ave.....A L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131564/full/!760,760/0/default.jpg#xywh=0,2192,1630,186"
+      "target": "https://iiif.nypl.org/iiif/3/5131564/full/!760,760/0/default.jpg#xywh=0,2128,1546,58"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Sebewaing........*Huron County Brewing Co.....................................................................................L B",
+        "value": "Pontiac........Pontiac Brewery Co., Patterson street.....L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131564/full/!760,760/0/default.jpg#xywh=0,2186,1546,58"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Port Huron........Kern, C., Brewing Co., River st.....L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131564/full/!760,760/0/default.jpg#xywh=0,2192,1630,92"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Port Huron........Port Huron Brewing Co., 601 Michigan street.....L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131564/full/!760,760/0/default.jpg#xywh=0,2284,1630,94"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rogers........Fisch, Frederick, Eastside 3d st.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -238,51 +271,51 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Traverse City........Traverse City Brewing Co., 719 Front st..................................................................L B",
+        "value": "Saginaw........Banner Brewing Co., 1741 Genesee ave.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131564/full/!760,760/0/default.jpg#xywh=0,2308,1552,116"
+      "target": "https://iiif.nypl.org/iiif/3/5131564/full/!760,760/0/default.jpg#xywh=2,2402,1628,80"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Ypsilanti........*Hoch Brewing Co., 414 Grove st..............................................................................L B",
+        "value": "Saginaw........*Schemm, J. G., Brewing Co., 926 North Hamilton st.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131564/full/!760,760/0/default.jpg#xywh=2,2402,1628,160"
+      "target": "https://iiif.nypl.org/iiif/3/5131564/full/!760,760/0/default.jpg#xywh=2,2482,1628,80"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Alexandria........Alexandria Brewing Association..............................................................................L B",
+        "value": "Bebewaing........*Huron County Brewing Co.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131564/full/!760,760/0/default.jpg#xywh=0,2502,1632,166"
+      "target": "https://iiif.nypl.org/iiif/3/5131564/full/!760,760/0/default.jpg#xywh=0,2502,1632,82"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Alexandria........*Wegener, Rudolph, Brewing Co..............................................................................L B",
+        "value": "Traverse City........Traverse City Brewing Co., 719 Front st.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131564/full/!760,760/0/default.jpg#xywh=0,2616,1636,148"
+      "target": "https://iiif.nypl.org/iiif/3/5131564/full/!760,760/0/default.jpg#xywh=0,2584,1632,84"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Appleton........Pulkrabet, Charles A..................................................................................................L",
+        "value": "Ypsilanti........*Hoch Brewing Co., 414 Grove st.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -293,7 +326,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Belle Plaine........*Schmitt, Mathias.......................................................................................................L",
+        "value": "Alexandria........Alexandria Brewing Association.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -304,29 +337,62 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Bemidji........Bemidji Brewing Co.....................................................................................................L",
+        "value": "Appleton........*Wegener, Rudolph, Brewing Co.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131564/full/!760,760/0/default.jpg#xywh=0,2846,1644,200"
+      "target": "https://iiif.nypl.org/iiif/3/5131564/full/!760,760/0/default.jpg#xywh=0,2846,1644,66"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Brainerd........Brainerd Brewing Co., Inc..........................................................................................L",
+        "value": "Belle Plaine........Pulkrabet, Charles A.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131564/full/!760,760/0/default.jpg#xywh=0,2980,1644,170"
+      "target": "https://iiif.nypl.org/iiif/3/5131564/full/!760,760/0/default.jpg#xywh=0,2912,1644,68"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Browersville........*Minars, Albert, Jr.....................................................................................................L",
+        "value": "Bemidji........*Schmitt, Mathias.....L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131564/full/!760,760/0/default.jpg#xywh=0,2980,1644,66"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bemidji........Bemidji Brewing Co.....L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131564/full/!760,760/0/default.jpg#xywh=0,2980,1644,84"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brainerd........Brainerd Brewing Co., Inc.....L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131564/full/!760,760/0/default.jpg#xywh=0,3064,1644,86"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Browersville........*Minars, Albert, Jr.....L",
         "format": "text/plain",
         "language": "en"
       },

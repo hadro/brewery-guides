@@ -18,7 +18,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Alta Córdoba..........Cerveceria Rio Segundo.",
+        "value": "Alta Córdoba........Cerveceria Rio Segundo.",
         "format": "text/plain",
         "language": "en"
       },
@@ -29,7 +29,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Azul.................Hermanos Piazza.",
+        "value": "Azul........Hermanos Piazza.",
         "format": "text/plain",
         "language": "en"
       },
@@ -40,7 +40,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Buenos Aires..........Compania Cerveceria Bieckert, Ltd., Calle San Juan 3334. (Brewery in Llavallol.)",
+        "value": "Buenos Aires........Compania Cerveceria Bieckert, Ltd., Calle San Juan 3334. (Brewery in Llavallol.)",
         "format": "text/plain",
         "language": "en"
       },
@@ -51,7 +51,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Buenos Aires..........Cerveceria Argentina Quilmes, Calle Brasil 731. (Brewery in Quilmes.)",
+        "value": "Buenos Aires........Cerveceria Argentina Quilmes, Calle Brasil 731. (Brewery in Quilmes.)",
         "format": "text/plain",
         "language": "en"
       },
@@ -62,7 +62,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Buenos Aires..........Cerveceria Buenos Aires, Cavia 260.",
+        "value": "Buenos Aires........Cerveceria Buenos Aires, Cavia 260.",
         "format": "text/plain",
         "language": "en"
       },
@@ -73,7 +73,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Buenos Aires..........Cerveceria Palermo, Calle Santa Fe 3253.",
+        "value": "Buenos Aires........Cerveceria Palermo, Calle Santa Fe 3253.",
         "format": "text/plain",
         "language": "en"
       },
@@ -84,7 +84,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Chivilcoy.............Luisa P. de Rothenburger.",
+        "value": "Chivilcoy........Luisa P. de Rothenburger.",
         "format": "text/plain",
         "language": "en"
       },
@@ -95,7 +95,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Corrientes............Francisco Vosalho.",
+        "value": "Corrientes........Francisco Vosalho.",
         "format": "text/plain",
         "language": "en"
       },
@@ -106,7 +106,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Rosario...............Cerveceria Schlau, Avenida Francia.",
+        "value": "Rosario........Cerveceria Schlau, Avenida Francia.",
         "format": "text/plain",
         "language": "en"
       },
@@ -117,7 +117,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Rosario...............Cerveceria Germania Calle Entre Rios 1123.",
+        "value": "Rosario........Cerveceria Germania Calle Entre Rios 1123.",
         "format": "text/plain",
         "language": "en"
       },
@@ -128,7 +128,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "San Carlos Sud....Compania Cerveceria San Carlos.",
+        "value": "San Carlos Sud........Compania Cerveceria San Carlos.",
         "format": "text/plain",
         "language": "en"
       },
@@ -139,7 +139,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Santa Fé..............Sociedad Anónima Cerveceria Santa Fé, Calle Calchines.",
+        "value": "Santa Fé........Sociedad Anónima Cerveceria Santa Fé, Calle Calchines.",
         "format": "text/plain",
         "language": "en"
       },
@@ -150,18 +150,29 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "San Juan..............Yoruet y Gutierrez.",
+        "value": "San Juan........Yoruet y Gutierrez.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131604/full/!760,760/0/default.jpg#xywh=0,1632,1270,182"
+      "target": "https://iiif.nypl.org/iiif/3/5131604/full/!760,760/0/default.jpg#xywh=0,1632,1270,92"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Tucumán...............Cerveceria del Norte.",
+        "value": "Tucumán........Juan Sarich.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131604/full/!760,760/0/default.jpg#xywh=0,1724,1270,90"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tucumán........Cerveceria del Norte.",
         "format": "text/plain",
         "language": "en"
       },
@@ -183,7 +194,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Cochabamba............Cerveceria Tiquina, Sociedad Anónima.",
+        "value": "Cochabamba........Cerveceria Tiquina, Sociedad Anónima.",
         "format": "text/plain",
         "language": "en"
       },
@@ -194,7 +205,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Cochabamba............Cerveceria Colon.",
+        "value": "Cochabamba........Cerveceria Colon.",
         "format": "text/plain",
         "language": "en"
       },
@@ -205,7 +216,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Cochabamba............Maldonado é Hijos.",
+        "value": "Cochabamba........Maldonado é Hijos.",
         "format": "text/plain",
         "language": "en"
       },
@@ -216,7 +227,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "La Paz................Cerveceria Boliviana Nacional, Sociedad Anonima, 118 Calle Recoleta.",
+        "value": "La Paz........Cerveceria Boliviana Nacional, Sociedad Anonima, 118 Calle Recoleta.",
         "format": "text/plain",
         "language": "en"
       },
@@ -227,7 +238,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "La Paz................Cerveceria El Inca, Calle Molinos.",
+        "value": "La Paz........Cerveceria El Inca, Calle Molinos.",
         "format": "text/plain",
         "language": "en"
       },
@@ -238,7 +249,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Oruro.................Cerveceria Germania.",
+        "value": "Oruro........Cerveceria Germania.",
         "format": "text/plain",
         "language": "en"
       },
@@ -249,7 +260,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Potosi................Maldonado y Hijos.",
+        "value": "Potosi........Maldonado y Hijos.",
         "format": "text/plain",
         "language": "en"
       },
@@ -260,7 +271,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Sucre.................Cerveceria Sucre, Sociedad Anonima.",
+        "value": "Sucre........Cerveceria Sucre, Sociedad Anonima.",
         "format": "text/plain",
         "language": "en"
       },
@@ -282,7 +293,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Bahia.................Antonio Viera de Andrede, Rua De Manoel Victorino.",
+        "value": "Bahia........Antonio Viera de Andrede, Rua De Manoel Victorino.",
         "format": "text/plain",
         "language": "en"
       },
@@ -293,7 +304,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Bello Horizonte......Fabrica Rhenania, Avenida Oyapok 252.",
+        "value": "Bello Horizonte........Fabrica Rhenania, Avenida Oyapok 252.",
         "format": "text/plain",
         "language": "en"
       },
@@ -304,7 +315,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Campinas..............Fabrica de Cerveja Columbia, Rua Andrade Neves 48a.",
+        "value": "Campinas........Fabrica de Cerveja Columbia, Rua Andrade Neves 48a.",
         "format": "text/plain",
         "language": "en"
       },
@@ -315,7 +326,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Campinas..............Fabrica de Cerveja Polar, Rua Dr. Moroes Salles 179.",
+        "value": "Campinas........Fabrica de Cerveja Polar, Rua Dr. Moroes Salles 179.",
         "format": "text/plain",
         "language": "en"
       },
@@ -326,7 +337,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Juiz de Fora..........Cervejaria Germania.",
+        "value": "Juiz de Fora........Cervejaria Germania.",
         "format": "text/plain",
         "language": "en"
       },
@@ -337,7 +348,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Limache...............Compania Cervceerias Unidas",
+        "value": "Limache........Compania Cervceerias Unidas",
         "format": "text/plain",
         "language": "en"
       },
@@ -348,7 +359,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Para..................Fabrica de Cervejas Paraense, Avenida de Independcia 12.",
+        "value": "Para........Fabrica de Cervejas Paraense, Avenida de Independcia 12.",
         "format": "text/plain",
         "language": "en"
       },

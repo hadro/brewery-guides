@@ -29,7 +29,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Germany. 60,630,642 American barrels",
+        "value": "Germany.................60,630,642 American barrels",
         "format": "text/plain",
         "language": "en"
       },
@@ -40,7 +40,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Great Britain and Ireland.52,500,255 〃 〃",
+        "value": "Great Britain and Ireland.52,500,255 “ “",
         "format": "text/plain",
         "language": "en"
       },
@@ -51,7 +51,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "United States 44,478,832 〃 〃",
+        "value": "United States ............44,478,832 “ “",
         "format": "text/plain",
         "language": "en"
       },
@@ -62,7 +62,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Austria-Hungary. 18,160,041 〃 〃",
+        "value": "Austria-Hungary..........18,160,041 “ “",
         "format": "text/plain",
         "language": "en"
       },
@@ -73,7 +73,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Belgium 12,491,544 〃 〃",
+        "value": "Belgium .................12,491,544 “ “",
         "format": "text/plain",
         "language": "en"
       },
@@ -84,7 +84,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "France. 8,880,216 〃 〃",
+        "value": "France................... 8,880,216 “ “",
         "format": "text/plain",
         "language": "en"
       },
@@ -95,7 +95,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Russia. 4,753,668 〃 〃",
+        "value": "Russia................... 4,753,668 “ “",
         "format": "text/plain",
         "language": "en"
       },
@@ -106,7 +106,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Sweden 2,198,498 〃 〃",
+        "value": "Sweden .................. 2,198,498 “ “",
         "format": "text/plain",
         "language": "en"
       },
@@ -117,7 +117,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Denmark. 2,132,060 〃 〃",
+        "value": "Denmark.................. 2,132,060 “ “",
         "format": "text/plain",
         "language": "en"
       },
@@ -128,7 +128,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Switzerland. 1,508,155 〃 〃",
+        "value": "Switzerland.............. 1,508,155 “ “",
         "format": "text/plain",
         "language": "en"
       },
@@ -139,7 +139,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Netherlands 1,271,536 〃 〃",
+        "value": "Netherlands .............. 1,271,536 “ “",
         "format": "text/plain",
         "language": "en"
       },
@@ -271,7 +271,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "WESTERN OFFICE:",
+        "value": "WESTERN OFFICE: LONDON OFFICE:",
         "format": "text/plain",
         "language": "en"
       },
@@ -282,7 +282,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "HOME INSURANCE BUILDING,",
+        "value": "HOME INSURANCE BUILDING, 46 CANNON ST., LONDON, E. C.,",
         "format": "text/plain",
         "language": "en"
       },
@@ -293,22 +293,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "CHICAGO, ILL.",
+        "value": "CHICAGO, ILL. ENGLAND.",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131893/full/!760,760/0/default.jpg#xywh=747,3048,294,43"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "ENGLAND.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131893/full/!760,760/0/default.jpg#xywh=1651,3051,202,31"
     }
   ]
 }

@@ -11,7 +11,7 @@
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131539/full/!760,760/0/default.jpg#xywh=2014,474,146,1622"
+      "target": "https://iiif.nypl.org/iiif/3/5131539/full/!760,760/0/default.jpg#xywh=1022,1402,72,618"
     },
     {
       "type": "Annotation",
@@ -29,22 +29,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "ESTABLISHED 1876",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131539/full/!760,760/0/default.jpg#xywh=1758,1334,118,958"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
         "value": "ISAAC GOLDMANN CO.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131539/full/!760,760/0/default.jpg#xywh=1602,1390,62,336"
+      "target": "https://iiif.nypl.org/iiif/3/5131539/full/!760,760/0/default.jpg#xywh=1884,1288,90,832"
     },
     {
       "type": "Annotation",
@@ -73,7 +62,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "200-204 WILLIAM STREET, NEW YORK",
+        "value": "200-204 WILLIAM STREET, NEW YORK.",
         "format": "text/plain",
         "language": "en"
       },
@@ -99,7 +88,7 @@
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131539/full/!760,760/0/default.jpg#xywh=2064,2420,238,512"
+      "target": "https://iiif.nypl.org/iiif/3/5131539/full/!760,760/0/default.jpg#xywh=2064,2420,238,256"
     },
     {
       "type": "Annotation",
@@ -110,29 +99,7 @@
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131539/full/!760,760/0/default.jpg#xywh=2380,750,18,106"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "{",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131539/full/!760,760/0/default.jpg#xywh=2372,2218,26,178"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "76-88 LAFAYETTE STREET",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131539/full/!760,760/0/default.jpg#xywh=2366,2458,30,168"
+      "target": "https://iiif.nypl.org/iiif/3/5131539/full/!760,760/0/default.jpg#xywh=2064,2676,238,256"
     }
   ]
 }

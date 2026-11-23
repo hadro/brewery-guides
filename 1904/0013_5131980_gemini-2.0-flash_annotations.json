@@ -7,18 +7,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "SUPPLEMENT TO THE BREWERS' JOURNAL. 11",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=578,280,1202,54"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "CALIFORNIA-Continued.",
+        "value": "CALIFORNIA—Continued.",
         "format": "text/plain",
         "language": "en"
       },
@@ -29,7 +18,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Raspiller Brewing Co...",
+        "value": "West Berkeley........ Raspiller Brewing Co.....L",
         "format": "text/plain",
         "language": "en"
       },
@@ -40,7 +29,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "*Steinacher, Joseph, Oregon st.",
+        "value": "Yreka.....*Steinacher, Joseph, Oregon st.....L",
         "format": "text/plain",
         "language": "en"
       },
@@ -62,7 +51,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Alamosa Brewery.",
+        "value": "Alamosa.....Alamosa Brewery.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -73,7 +62,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "*Crystal Springs Brewing & Ice",
+        "value": "Boulder City.....*Crystal Springs Brewing & Ice Co., Arapahoe st.....A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -84,29 +73,29 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Co., Arapahoe st...",
+        "value": "Del Norte.....*San Luis Brewery.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=928,804,962,44"
+      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=350,822,1540,66"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "*Neef Bros. Brewing Co., 1201 S.",
+        "value": "Denver.....*Neef Bros. Brewing Co., 1201 S. 5th st.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=350,822,1540,132"
+      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=350,888,1540,66"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "5th st",
+        "value": "Denver.....Good, John, 1342 Tenth street,",
         "format": "text/plain",
         "language": "en"
       },
@@ -117,40 +106,62 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Union Brewing Co., 2431 16th st.",
+        "value": "Denver.....Union Brewing Co., 2431 16th st.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=414,960,1442,278"
+      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=414,960,1442,140"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Water sts..",
+        "value": "Denver.....*Zang, Phil., Brewing Co., 7th and Water sts.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=944,1178,952,44"
+      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=414,1100,1442,138"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "*Durango Beer & Ice Co., Second st. L",
+        "value": "Durango.....*Durango Beer & Ice Co., Second st.....L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=354,1202,1544,176"
+      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=354,1202,1544,58"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Walter Brewing Co...",
+        "value": "Golden.....*Coors, Adolph.....A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=354,1260,1544,60"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pool.....Saddle Mountain Brewing Co.....A †",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=354,1320,1544,58"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pueblo.....Walter Brewing Co.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -161,7 +172,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Wickmann & Layershausen.",
+        "value": "Telluride.....Wickmann & Layershausen.....L",
         "format": "text/plain",
         "language": "en"
       },
@@ -172,7 +183,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Schneider, Ph., Brewing Co.,",
+        "value": "Trinidad.....Schneider, Ph., Brewing Co., Plum and Convent sts.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -183,18 +194,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Plum and Convent sts.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=888,1546,1010,50"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Wissler & Becker.",
+        "value": "West Cliff.....Wissler & Becker.....L",
         "format": "text/plain",
         "language": "en"
       },
@@ -205,7 +205,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Connecticut",
+        "value": "CONNECTICUT.",
         "format": "text/plain",
         "language": "en"
       },
@@ -216,7 +216,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Blakeslee, Edw., 212 Wallacest... WB",
+        "value": "Bridgeport.....Blakeslee, Edw., 212 Wallace st.....W B",
         "format": "text/plain",
         "language": "en"
       },
@@ -227,7 +227,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Meriden Brewing Co., 141 South",
+        "value": "Bridgeport.....Meriden Brewing Co., 141 South Colony st., Meriden.",
         "format": "text/plain",
         "language": "en"
       },
@@ -238,18 +238,29 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Wintter, A., & Co., 270 Housa-",
+        "value": "Bridgeport.....Wintter, A., & Co., 270 Housatonic ave.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=452,1806,1370,212"
+      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=452,1876,1370,72"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "tonic ave.",
+        "value": "Bridgeport.....Davis, Alonzo D., 18 Island Brook ave.....A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=452,1948,1370,70"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bridgeport.....Eckart Bros., 202 North ave.....L",
         "format": "text/plain",
         "language": "en"
       },
@@ -260,7 +271,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "ave.",
+        "value": "Bridgeport.....Hartmann Brewing Co., 96 Hallam street.....A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -271,7 +282,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Aetna Brewing Co., 56 Bellevue st. L B",
+        "value": "Derby.....Derby & Ansonia Brewery.....A L",
         "format": "text/plain",
         "language": "en"
       },
@@ -282,425 +293,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Fischer, Hubert, Brewery, 315",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=382,2284,1430,60"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "New England Brewing Co., Wind-",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=388,2318,1526,214"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Meriden Brewing Co., 141 South",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=376,2518,1442,48"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Colony st. (See Connecticut",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=890,2568,928,44"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Breweries Co.)",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=956,2614,422,40"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Schabel, Charles.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=562,2656,1348,56"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Fresenius', Ph., Sons, 488 Con-",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=376,2704,1444,52"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "gress ave..",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=962,2760,946,44"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Hull, Wm., & Son, 14 Whiting st.....A",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=642,2786,1264,66"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Weibel Brewing Co., 322 Oak st..AL",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=638,2844,1266,54"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Yale Brewing Co., Inc., Ferry and",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=644,2894,1182,48"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "River sts.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=958,2940,952,50"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "American Brewing Co., Winthrop",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=386,2984,1442,50"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "and Mill sts.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=970,3036,942,48"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Woodland..",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=0,422,84,62"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "ALB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=0,480,110,58"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Denver.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=0,526,90,54"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "ALB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=0,574,110,56"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "*Zang, Phil., Brewing Co., 7th and",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=0,620,90,54"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Saddle Mountain Brewing Co...... A t",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=0,678,112,84"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=0,766,64,40"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Durango",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=0,810,68,54"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Pueblo",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=0,904,84,56"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Silverton",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=0,1104,82,44"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "• Telluride",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=0,1292,92,48"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "CONNECTICUT.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=0,1390,94,48"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=0,1444,114,44"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=0,1488,100,50"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Breweries Co.,",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=0,1578,104,52"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Limited,",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=0,1674,98,52"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "ALB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=0,1734,116,36"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Colony st., Meriden.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=0,1774,94,50"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Eckart Bros., 202 North ave.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=0,1824,92,44"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=0,1874,60,40"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "ALB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=0,1916,90,50"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "street",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=0,2004,104,60"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Derby.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=0,2066,114,40"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Hartford.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=0,2202,116,52"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Derby & Ansonia Brewery A L",
+        "value": "Hartford.....Aetna Brewing Co., 56 Bellevue st.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -711,99 +304,110 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "..L B",
+        "value": "Hartford.....Fischer, Hubert, Brewery, 315 Park st.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=0,2338,126,68"
+      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=382,2284,1430,60"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "sor st....",
+        "value": "Hartford.....New England Brewing Co., Windsor st.....A L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=0,2396,94,48"
+      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=388,2318,1526,214"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": ".ALB",
+        "value": "Meriden.....Ropkins & Co., 232 Sheldon st.....A B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=0,2436,122,58"
+      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=376,2518,1442,48"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New London.",
+        "value": "Meriden.....Meriden Brewing Co., 141 South Colony st. (See Connecticut Breweries Co.)",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=0,2588,96,48"
+      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=890,2568,928,44"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "AL",
+        "value": "Meriden.....Schabel, Charles.....W B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=0,2632,120,50"
+      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=562,2656,1348,56"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "66",
+        "value": "New Haven.....Fresenius', Ph., Sons, 488 Congress ave.....L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=514,2842,82,30"
+      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=376,2704,1444,52"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Davis, Alonzo D., 18 Island Brook",
+        "value": "New Haven.....Hull, Wm., & Son, 14 Whiting st.....A",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=904,1950,930,56"
+      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=642,2786,1264,66"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Hartmann Brewing Co., 96 Hallam",
+        "value": "New Haven.....Weibel Brewing Co., 322 Oak st.....A L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=916,2100,892,30"
+      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=638,2844,1266,54"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Ropkins & Co., 232 Sheldon st.... A B",
+        "value": "New Haven.....Yale Brewing Co., Inc., Ferry and River sts.....A L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=916,2472,1012,42"
+      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=644,2894,1182,48"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New London.....American Brewing Co., Winthrop and Mill sts.....A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131980/full/!760,760/0/default.jpg#xywh=386,2984,1442,50"
     }
   ]
 }

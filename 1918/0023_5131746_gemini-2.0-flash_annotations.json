@@ -7,6 +7,17 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
+        "value": "SUPPLEMENT TO THE BREWERS' JOURNAL.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131746/full/!760,760/0/default.jpg#xywh=452,302,1112,52"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
         "value": "MINNESOTA—Continued.",
         "format": "text/plain",
         "language": "en"
@@ -18,7 +29,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New Ulm........*Schell, August, Brewing Co.......L B",
+        "value": "New Ulm........*Schell, August, Brewing Co........L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -29,7 +40,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Northfield........*Wenner, Herman, Greenvale avenue........L",
+        "value": "Northfield........*Wenner, Herman, Greenvale",
         "format": "text/plain",
         "language": "en"
       },
@@ -40,18 +51,40 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Owatonna........*Ganser, Estate Peter (Wm. C. Zamboni).......L B",
+        "value": "avenue",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131746/full/!760,760/0/default.jpg#xywh=230,612,1532,196"
+      "target": "https://iiif.nypl.org/iiif/3/5131746/full/!760,760/0/default.jpg#xywh=814,600,350,34"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Red Wing........*Red Wing Brewing Co., 1602 West Main st........L B",
+        "value": "Owatonna........*Ganser, Estate Peter (Wm. C.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131746/full/!760,760/0/default.jpg#xywh=230,612,1532,66"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Red Wing........*Red Wing Brewing Co., 1602 West",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131746/full/!760,760/0/default.jpg#xywh=230,678,1532,64"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Main st........L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -62,7 +95,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Red Wing........*Remmler, Estate Adolph, 5th and Bush sts........L B",
+        "value": "Red Wing........*Remmler, Estate Adolph, 5th and",
         "format": "text/plain",
         "language": "en"
       },
@@ -73,7 +106,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Rochester........*Schuster Brewing Co., Inc., 420 South Main st........L B",
+        "value": "Rochester........*Schuster Brewing Co., Inc., 420",
         "format": "text/plain",
         "language": "en"
       },
@@ -84,7 +117,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Saint Cloud........*Preiss Brewing Co. (Andrew Preiss, Jr., Proprietor), 9th ave. and 6th st........L B",
+        "value": "Saint Cloud........*Preiss Brewing Co. (Andrew",
         "format": "text/plain",
         "language": "en"
       },
@@ -95,7 +128,29 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Saint Paul........*Hamm, Theodore, Brewing Co., Minnehaha & Greenbriar sts........L B",
+        "value": "Preiss, Jr., Proprietor), 9th ave.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131746/full/!760,760/0/default.jpg#xywh=812,1056,858,52"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "and 6th st........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131746/full/!760,760/0/default.jpg#xywh=812,1102,950,52"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Saint Paul........*Hamm, Theodore, Brewing Co.,",
         "format": "text/plain",
         "language": "en"
       },
@@ -106,29 +161,73 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Saint Paul........Schmidt, Jacob, Brewing Co., 882 W. 7th st........L B",
+        "value": "Minnehaha & Greenbriar sts........L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131746/full/!760,760/0/default.jpg#xywh=222,1200,1546,308"
+      "target": "https://iiif.nypl.org/iiif/3/5131746/full/!760,760/0/default.jpg#xywh=222,1200,1546,52"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Saint Paul........*Yoerg Brewing Co., Ohio and Ethel sts........L B",
+        "value": "Saint Paul........Schmidt, Jacob, Brewing Co.,",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131746/full/!760,760/0/default.jpg#xywh=820,1200,942,44"
+      "target": "https://iiif.nypl.org/iiif/3/5131746/full/!760,760/0/default.jpg#xywh=222,1252,1546,50"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Saint Peter........*Engesser Brewing Co. (Mankato Loan & Trust Co., Receiver)....L B",
+        "value": "882 W. 7th st........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131746/full/!760,760/0/default.jpg#xywh=222,1302,1546,52"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Saint Paul........*Yoerg Brewing Co., Ohio and",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131746/full/!760,760/0/default.jpg#xywh=222,1354,1546,52"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ethel sts........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131746/full/!760,760/0/default.jpg#xywh=222,1406,1546,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Saint Peter........*Engesser Brewing Co. (Mankato",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131746/full/!760,760/0/default.jpg#xywh=222,1456,1546,52"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Loan & Trust Co., Receiver)........L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -150,7 +249,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Silver Lake........Silver Lake Brewing Co........L B",
+        "value": "Sleepy Eye........*Schneller, Bernard........L",
         "format": "text/plain",
         "language": "en"
       },
@@ -161,7 +260,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Sleepy Eye........*Schneller, Bernard........L",
+        "value": "Stillwater........*Wolf, Joseph, Co., 402 So. Main",
         "format": "text/plain",
         "language": "en"
       },
@@ -172,7 +271,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Stillwater........*Wolf, Joseph, Co., 402 So. Main street........L B",
+        "value": "street........L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -194,7 +293,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Virginia........Virginia Brewing Co., Spruce and Ohio sts........L B",
+        "value": "Virginia........Virginia Brewing Co., Spruce and",
         "format": "text/plain",
         "language": "en"
       },
@@ -205,7 +304,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Wabasha........Grass, Christ........L",
+        "value": "Ohio sts........L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -216,7 +315,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Winona........*Bub, Estate Peter (Clara Miller, Executrix)........L B",
+        "value": "Executrix)........L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -227,7 +326,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Winona........Park Brewing Co., Front and Walnut sts........L B",
+        "value": "Winona........Park Brewing Co., Front and",
         "format": "text/plain",
         "language": "en"
       },
@@ -238,7 +337,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Winona........*Schellhas, Wm.. Brewing Co........L B",
+        "value": "Winona........*Schellhas, Wm., Brewing Co........L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -271,7 +370,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Cape Girardeau........Cape Brewery & Ice Co., Morgan and Oak sts........L B",
+        "value": "Cape Girardeau........Cape Brewery & Ice Co., Mor-",
         "format": "text/plain",
         "language": "en"
       },
@@ -282,11 +381,33 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Hannibal........Hannibal Brewing Co., Lindell avenue........L B",
+        "value": "gan and Oak sts........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131746/full/!760,760/0/default.jpg#xywh=780,2404,976,74"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hannibal........Hannibal Brewing Co., Lindell",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131746/full/!760,760/0/default.jpg#xywh=232,2452,1436,70"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "avenue........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131746/full/!760,760/0/default.jpg#xywh=808,2516,700,52"
     },
     {
       "type": "Annotation",
@@ -304,7 +425,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Joplin........Home Brewing & Ice Co., East 7th st. and Marion ave........L B",
+        "value": "Joplin........Home Brewing & Ice Co., East 7th",
         "format": "text/plain",
         "language": "en"
       },
@@ -315,7 +436,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Kansas City........Heim, Ferd., Brewery, Agnes and Guinotte aves.",
+        "value": "st. and Marion ave........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131746/full/!760,760/0/default.jpg#xywh=812,2658,942,44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Kansas City........{Heim, Ferd., Brewery, Agnes and",
         "format": "text/plain",
         "language": "en"
       },
@@ -326,7 +458,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Kansas City........Rochester Brewery, Washington and 20th sts.",
+        "value": "*Kansas City Guinotte aves.",
         "format": "text/plain",
         "language": "en"
       },
@@ -337,7 +469,29 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Kansas City *Kansas City Breweries Co., A L B........*Muehlebach, Geo., Brewing Co., 1734 Main st........L B",
+        "value": "Breweries Co., Rochester Brewery, Washington",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131746/full/!760,760/0/default.jpg#xywh=288,2798,438,52"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ALB and 20th sts.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131746/full/!760,760/0/default.jpg#xywh=814,2844,344,44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Kansas City........*Muehlebach, Geo., Brewing Co.,",
         "format": "text/plain",
         "language": "en"
       },
@@ -348,7 +502,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Kansas City *Kansas City Breweries Co., A L B........Thoma, Leo, 20 East 24th st........W B",
+        "value": "1734 Main st........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131746/full/!760,760/0/default.jpg#xywh=810,2936,944,60"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Kansas City........Thoma, Leo, 20 East 24th st........W B",
         "format": "text/plain",
         "language": "en"
       },
@@ -364,6 +529,94 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131746/full/!760,760/0/default.jpg#xywh=228,3028,1528,74"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "........L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131746/full/!760,760/0/default.jpg#xywh=0,1174,142,32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Zamboni).........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131746/full/!760,760/0/default.jpg#xywh=0,1590,130,48"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bush sts........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131746/full/!760,760/0/default.jpg#xywh=0,1684,134,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "South Main st........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131746/full/!760,760/0/default.jpg#xywh=0,1780,130,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Silver Lake........Silver Lake Brewing Co........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131746/full/!760,760/0/default.jpg#xywh=0,1924,134,44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wabasha........Grass, Christ........L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131746/full/!760,760/0/default.jpg#xywh=0,2432,124,56"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Winona........*Bub, Estate Peter (Clara Miller,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131746/full/!760,760/0/default.jpg#xywh=0,2488,124,58"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Walnut sts........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131746/full/!760,760/0/default.jpg#xywh=410,2852,162,40"
     }
   ]
 }

@@ -7,17 +7,6 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Supplement to The Brewers' Journal 50",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131939/full/!760,760/0/default.jpg#xywh=845,290,1029,46"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
         "value": "UTAH.",
         "format": "text/plain",
         "language": "en"
@@ -29,29 +18,29 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Logan Cache Valley Brewing Co L",
+        "value": "Logan........................ Cache Valley Brewing Co........................L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131939/full/!760,760/0/default.jpg#xywh=617,458,1510,109"
+      "target": "https://iiif.nypl.org/iiif/3/5131939/full/!760,760/0/default.jpg#xywh=617,458,1510,55"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Ogden City *Becker Brewing & Malting Co., 19th st. and Lincoln ave LB",
+        "value": "Ogden City................... *Becker Brewing & Malting Co., 19th st. and Lincoln ave........................L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131939/full/!760,760/0/default.jpg#xywh=1145,554,972,49"
+      "target": "https://iiif.nypl.org/iiif/3/5131939/full/!760,760/0/default.jpg#xywh=617,513,1510,54"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Salt Lake City *Fisher, A., Brewing Co., 2d South and 3d West sts LB",
+        "value": "Salt Lake City............. *Fisher, A., Brewing Co., 2d South and 3d West sts........................L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -62,18 +51,29 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Salt Lake City *Buller, Peter, & Co., 317 North, cor. 2d West st AB",
+        "value": "Salt Lake City............. *Buller, Peter, & Co., 317 North, cor. 2d West st........................A B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131939/full/!760,760/0/default.jpg#xywh=751,634,1383,218"
+      "target": "https://iiif.nypl.org/iiif/3/5131939/full/!760,760/0/default.jpg#xywh=751,689,1383,55"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Salt Lake City Nestler & Co., 323 North 1st West street WB†",
+        "value": "Salt Lake City............. Nestler & Co., 323 North 1st West street........................W B†",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131939/full/!760,760/0/default.jpg#xywh=751,797,1383,55"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Salt Lake City............. *Salt Lake City Brewing Co., 10th East and 5th South sts........................L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -84,18 +84,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Salt Lake City *Salt Lake City Brewing Co., 10th East and 5th South sts LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131939/full/!760,760/0/default.jpg#xywh=1185,926,942,44"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Salt Lake City *Wagener Brew'g Co., 17 2d South st.L B",
+        "value": "Salt Lake City............. *Wagener Brew'g Co., 17 2d South st.L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -117,7 +106,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Alexandria Portner, Robt., Brewing Co., St. Asaph and Washington sts LB",
+        "value": "Alexandria.................. Portner, Robt., Brewing Co., St. Asaph and Washington sts........................L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -128,7 +117,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Newport News Davis, W. H., & Co., 1111 25th st., LB†",
+        "value": "Newport News.............. Davis, W. H., & Co., 1111 25th st., LB†",
         "format": "text/plain",
         "language": "en"
       },
@@ -139,7 +128,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Norfolk Consumers' Brewing Co., Church street LB",
+        "value": "Norfolk....................... Consumers' Brewing Co., Church street........................L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -150,7 +139,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Richmond Home Brewing Co., Harrison and Clay sts ALB",
+        "value": "Richmond.................... Home Brewing Co., Harrison and Clay sts........................A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -161,7 +150,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Richmond Rosenegk Brewing Co., Hermitage rd., head Leigh street LB",
+        "value": "Richmond.................... Rosenegk Brewing Co., Hermitage rd., head Leigh street........................L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -172,7 +161,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Roanoke Virginia Brewing Co., Wise ave ALB",
+        "value": "Roanoke...................... Virginia Brewing Co., Wise ave........................A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -183,7 +172,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Rosslyn Arlington Brewing Co L",
+        "value": "Rosslyn....................... Arlington Brewing Co.........................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -205,7 +194,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Aberdeen Aberdeen Brewing Co., River and Lincoln sts LB†",
+        "value": "Aberdeen.................... Aberdeen Brewing Co., River and Lincoln sts........................L B†",
         "format": "text/plain",
         "language": "en"
       },
@@ -216,7 +205,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Chelan Falls *Schindler & Son LB",
+        "value": "Chelan Falls................ *Schindler & Son........................L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -227,7 +216,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Chewelah Leible, Engelbert L",
+        "value": "Chewelah.................... Leible, Engelbert........................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -238,7 +227,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Everett Washington Brewing Co LB",
+        "value": "Everett........................ Washington Brewing Co........................L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -249,7 +238,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Miles *Bockemuehl, Bernhard L",
+        "value": "Miles.......................... *Bockemuehl, Bernhard........................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -260,7 +249,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Northport Northport Brewing Co L",
+        "value": "Northport.................... Northport Brewing Co........................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -271,7 +260,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Olympia Olympia Brewing Co L",
+        "value": "Olympia....................... Olympia Brewing Co........................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -282,7 +271,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Palouse Saunders & McGraw L",
+        "value": "Palouse....................... Saunders & McGraw........................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -293,7 +282,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Republic Republic Brewing Co LB",
+        "value": "Republic...................... Republic Brewing Co........................L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -304,7 +293,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Roslyn Roslyn Brewing Co L",
+        "value": "Roslyn........................ Roslyn Brewing Co........................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -315,7 +304,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Seattle American Brewing Co., Westlake ave. and Galer st ALWB†",
+        "value": "Seattle........................ American Brewing Co., Westlake ave. and Galer st........................A L W B†",
         "format": "text/plain",
         "language": "en"
       },
@@ -326,7 +315,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Seattle Claussen Brewing Association, 3255 21st ave. West ALB",
+        "value": "Seattle........................ Claussen Brewing Association, 3255 21st ave. West........................A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -337,7 +326,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Seattle Hemrich Bros. Brewing Co., Howard avenue and Republican street ALB",
+        "value": "Seattle........................ Hemrich Bros. Brewing Co., Howard avenue and Republican street........................A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -348,7 +337,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Seattle *Seattle Brewing and Malting Co., L B Bay View Brewing Co.",
+        "value": "Seattle........................ Bay View Brewing Co.",
         "format": "text/plain",
         "language": "en"
       },
@@ -359,7 +348,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Seattle *Seattle Brewing and Malting Co., L B Claussen-Sweeney Brewing Co.",
+        "value": "Seattle........................ Claussen-Sweeney Brewing Co.",
         "format": "text/plain",
         "language": "en"
       },
@@ -370,7 +359,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Spokane American Brewing Co L†",
+        "value": "Spokane...................... American Brewing Co.........................L†",
         "format": "text/plain",
         "language": "en"
       },
@@ -381,11 +370,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Spokane *Hieber Brewing & Malting Co., Spruce st. and 12th ave LB",
+        "value": "Spokane...................... *Hieber Brewing & Malting Co., Spruce st. and 12th ave........................L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131939/full/!760,760/0/default.jpg#xywh=1111,2952,1018,113"
+      "target": "https://iiif.nypl.org/iiif/3/5131939/full/!760,760/0/default.jpg#xywh=1111,2952,1018,57"
     }
   ]
 }

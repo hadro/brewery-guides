@@ -7,29 +7,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "20",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=724,322,72,40"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "TOVEY'S OFFICIAL BREWERS' DIRECTORY,",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=928,322,1074,44"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "MASSACHUSETTS-Continued.",
+        "value": "MASSACHUSETTS—Continued.",
         "format": "text/plain",
         "language": "en"
       },
@@ -40,7 +18,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New Bedford.",
+        "value": "New Bedford........ Dawson & Son, 641 Purchase st...A B",
         "format": "text/plain",
         "language": "en"
       },
@@ -51,40 +29,117 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "66",
+        "value": "New Bedford........ Smith Bros., Inc., 785 Purchas.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=2334,500,64,50"
+      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=946,568,1188,52"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Pittsfield.",
+        "value": "street,........ALB",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=720,610,1514,106"
+      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=1324,3030,934,38"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Springfield.",
+        "value": "First st........L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=716,756,1404,98"
+      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=2066,1392,170,32"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Springfield",
+        "value": "22d sts........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=1908,1480,328,48"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ave........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=2006,1626,230,30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Adelaide sts........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=2012,2196,230,32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rivard st........A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=1972,2370,268,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "ave........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=2076,2568,174,32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "street........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=2080,2934,176,40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pittsfield........ Berkshire Brewing Association,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=928,322,1074,44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Columbus ave........ALB",
         "format": "text/plain",
         "language": "en"
       },
@@ -95,40 +150,40 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Breweries",
+        "value": "Springfield........ Hampden Branch, Willimansett.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=908,830,1192,124"
+      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=716,756,1404,98"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "54 Fort st.,",
+        "value": "Springfield........ Highland Branch, 1273 State st.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=924,942,324,52"
+      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=908,830,1192,62"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "ALB",
+        "value": "Springfield........ Liberty Branch, Liberty st.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=988,992,164,36"
+      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=908,892,1192,62"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Springfield Branch, 54 Fort st.",
+        "value": "Springfield........ Springfield Branch, 54 Fort st.",
         "format": "text/plain",
         "language": "en"
       },
@@ -139,7 +194,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Bowler Bros., Lim., Lafayette and",
+        "value": "Worcester........ Bowler Bros., Lim., Lafayette and",
         "format": "text/plain",
         "language": "en"
       },
@@ -150,7 +205,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Quinsigamond aves...",
+        "value": "Quinsigamond aves........A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -161,7 +216,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Worcester Brewing Corporation,",
+        "value": "Worcester........ Worcester Brewing Corporation,",
         "format": "text/plain",
         "language": "en"
       },
@@ -172,7 +227,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "East Worcester and Plum sts.. ALB",
+        "value": "East Worcester and Plum sts..A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -194,18 +249,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Alpena",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=2340,1212,58,44"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "*Beck Malting & Brewing Co.,",
+        "value": "Alpena........ *Beck Malting & Brewing Co.,",
         "format": "text/plain",
         "language": "en"
       },
@@ -216,7 +260,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "First st.",
+        "value": "Ann Arbor........ Michigan Union Brewing Co., 416",
         "format": "text/plain",
         "language": "en"
       },
@@ -227,29 +271,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=2066,1392,170,32"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Ann Arbor..",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=2338,1306,60,44"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Fourth st..",
+        "value": "Fourth st........L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -260,40 +282,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "..L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=1908,1480,328,48"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Battle Creek.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=2338,1400,60,40"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Bay City.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=2338,1484,60,36"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Battle Creek Brewing Co.LB",
+        "value": "Battle Creek........ Battle Creek Brewing Co........L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -304,7 +293,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Bay City Brewing Co., Water and",
+        "value": "Bay City........ Bay City Brewing Co., Water and",
         "format": "text/plain",
         "language": "en"
       },
@@ -315,40 +304,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "22d sts.",
+        "value": "Bay City........ Kolb Brew'g Co., 3 Fitzhugh ave. L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=1302,1624,266,36"
+      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=800,1654,1436,60"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=2006,1626,230,30"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Kolb Brew'g Co., 3 Fitzhugh ave. LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=2338,1676,60,48"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Phoenix Brewing Co., 407 Arbor",
+        "value": "Bay City........ Phoenix Brewing Co., 407 Arbor",
         "format": "text/plain",
         "language": "en"
       },
@@ -359,7 +326,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Bessemer",
+        "value": "Bessemer........ Bessemer Brewing Co........L",
         "format": "text/plain",
         "language": "en"
       },
@@ -370,18 +337,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Calumet.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=1302,1756,938,52"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Calumet Brewing Co....",
+        "value": "Calumet........ Calumet Brewing Co........L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -392,7 +348,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "American Brew'g Co., Chasest. ALB",
+        "value": "Detroit........ American Brew'g Co., Chase st. A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -403,7 +359,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Auto City Brew'g Co.. McDougall",
+        "value": "Detroit........ Auto City Brew'g Co., McDougall",
         "format": "text/plain",
         "language": "en"
       },
@@ -425,62 +381,62 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Iron M",
+        "value": "Detroit........ *Columbia Brewing Co., 227 Cath-",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=2338,2002,60,50"
+      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=810,2044,1358,58"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "LB",
+        "value": "erine st........L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=2012,2196,230,32"
+      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=804,2090,1440,56"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Ironwo",
+        "value": "Detroit........ *Detroit Brewing Co., Orleans and",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=2336,2106,62,40"
+      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=804,2146,1440,56"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Jackso",
+        "value": "Detroit........ Ekhardt & Becker Brewing Co.,",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=2336,2158,62,44"
+      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=806,2230,1440,54"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Ekhardt & Becker Brewing Co.,",
+        "value": "475 Orleans st........L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=806,2230,1440,108"
+      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=806,2284,1440,54"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "*Goebel Brewing Co., Limited, 351",
+        "value": "Detroit........ *Goebel Brewing Co., Limited, 351",
         "format": "text/plain",
         "language": "en"
       },
@@ -491,40 +447,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Rivard st.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=1302,2370,570,58"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "ALB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=1972,2370,268,50"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "66",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=2340,2346,58,44"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Independent Brewing Co., Spring-",
+        "value": "Detroit........ Independent Brewing Co., Spring-",
         "format": "text/plain",
         "language": "en"
       },
@@ -546,29 +469,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Lake L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=2340,2442,58,50"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "66",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=2340,2496,58,48"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Kaiser & Schmidt, 400 Wilkins",
+        "value": "Detroit........ Kaiser & Schmidt, 400 Wilkins",
         "format": "text/plain",
         "language": "en"
       },
@@ -579,7 +480,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "street.",
+        "value": "street........L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -590,29 +491,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": ".L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=2076,2568,174,32"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Manist",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=2340,2548,58,52"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "*Kling, Ph., Brewing Co., 1424",
+        "value": "Detroit........ *Kling, Ph., Brewing Co., 1424",
         "format": "text/plain",
         "language": "en"
       },
@@ -623,7 +502,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Jefferson ave...",
+        "value": "Jefferson ave........A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -634,7 +513,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Koch, J. William, & Son, 133 Sher-",
+        "value": "Detroit........ Koch, J. William, & Son, 133 Sher-",
         "format": "text/plain",
         "language": "en"
       },
@@ -645,7 +524,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "man street.",
+        "value": "man street........W B",
         "format": "text/plain",
         "language": "en"
       },
@@ -656,7 +535,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Koppitz-Melchers Brewing Co.,",
+        "value": "Detroit........ Koppitz-Melchers Brewing Co.,",
         "format": "text/plain",
         "language": "en"
       },
@@ -667,7 +546,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "1125 Gratiot ave..",
+        "value": "1125 Gratiot ave........A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -678,7 +557,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Michigan Brewery, 1296 Military",
+        "value": "Detroit........ Michigan Brewery, 1296 Military",
         "format": "text/plain",
         "language": "en"
       },
@@ -689,187 +568,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "ave..",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=2344,2838,54,30"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=984,2988,276,30"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Mt. Cle",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=1322,2942,290,32"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Mutual Brewing Co., 617 Hastings",
+        "value": "Detroit........ Mutual Brewing Co., 617 Hastings",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=1268,2980,900,48"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "street...",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=2340,2936,58,54"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=1324,3030,934,38"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Smith Bros., Inc., 785 Purchas.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=946,568,1188,52"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Highland Branch, 1273 State st.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=2354,1580,44,32"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "*Columbia Brewing Co., 227 Cath-",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=800,1654,1436,60"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Holland",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=2340,1820,58,44"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Hough",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=2340,1910,58,50"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "66",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=810,2044,1358,58"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "*Detroit Brewing Co., Orleans and",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=804,2090,1440,112"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Adelaide sts...",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=1310,2188,590,48"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Marque",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=2336,2648,64,52"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Menom",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=2340,2746,58,48"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "ALB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131475/full/!760,760/0/default.jpg#xywh=2080,2934,176,40"
     }
   ]
 }

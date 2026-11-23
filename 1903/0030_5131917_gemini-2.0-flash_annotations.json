@@ -7,17 +7,6 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Supplement to The Brewers’ Journal 28",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131917/full/!760,760/0/default.jpg#xywh=860,278,1034,51"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
         "value": "NEVADA—Continued.",
         "format": "text/plain",
         "language": "en"
@@ -29,7 +18,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Eureka Lautenschlager, Charles. .L B",
+        "value": "Eureka........Lautenschlager, Charles..................L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -40,7 +29,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Reno Riter, Henry, 6th and Sierra sts...† L",
+        "value": "Reno........Riter, Henry, 6th and Sierra sts...† L",
         "format": "text/plain",
         "language": "en"
       },
@@ -51,7 +40,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Virginia City. Reick, John & Rosina. L",
+        "value": "Virginia City........Reick, John & Rosina........................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -62,7 +51,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Virginia City. Schweiss, Richard. L",
+        "value": "Virginia City........Schweiss, Richard..............................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -84,18 +73,29 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Manchester. Jones, True W., Brewing Co., Hancock st. A B",
+        "value": "Manchester........Jones, True W., Brewing Co., Hancock st................................A B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131917/full/!760,760/0/default.jpg#xywh=631,765,1519,165"
+      "target": "https://iiif.nypl.org/iiif/3/5131917/full/!760,760/0/default.jpg#xywh=631,765,1519,55"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Portsmouth Eldredge Brewing Co., 26 Bowst... A L",
+        "value": "Portsmouth........Eldredge Brewing Co., 26 Bow st...A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131917/full/!760,760/0/default.jpg#xywh=631,875,1519,55"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Portsmouth........Jones, Frank, Brewing Co., 85 Market st.",
         "format": "text/plain",
         "language": "en"
       },
@@ -106,7 +106,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Jones, Frank, Jones, Frank, Brewing Co., 85 Market st.",
+        "value": "Jones, Frank, Brewing Co., Limited, A B........Jones, Frank, Brewing Co., Boston, Mass.",
         "format": "text/plain",
         "language": "en"
       },
@@ -117,18 +117,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Brewing Co., Jones, Frank, Brewing Co., Boston, Mass.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131917/full/!760,760/0/default.jpg#xywh=882,1058,623,48"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Limited, Portsmouth Brewing Co., 64 Bow street.. A L",
+        "value": "Jones, Frank, Brewing Co., Limited, A B........Portsmouth Brewing Co., 64 Bow street........................................A L",
         "format": "text/plain",
         "language": "en"
       },
@@ -139,22 +128,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "A B",
+        "value": "Walpole........New Mountain Spring Brewing Co. Office: Bellows Falls, Vt....A L",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131917/full/!760,760/0/default.jpg#xywh=643,1182,1406,67"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Walpole. New Mountain Spring Brewing Co. Office: Bellows Falls, Vt.... A L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131917/full/!760,760/0/default.jpg#xywh=1220,1240,930,45"
     },
     {
       "type": "Annotation",
@@ -172,7 +150,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Atlantic City Atlantic City Brewing Co... L B",
+        "value": "Atlantic City........Atlantic City Brewing Co................L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -183,7 +161,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Camden Molt, William. L",
+        "value": "Camden........Molt, William...................................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -194,7 +172,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Camden Schnurr, Xavier, 3d and Spruce streets. L",
+        "value": "Camden........Schnurr, Xavier, 3d and Spruce streets........................................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -205,7 +183,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Camden Schwoeri, Gustav, 705 Chestnut st....L",
+        "value": "Camden........Schwoeri, Gustav, 705 Chestnut st....L",
         "format": "text/plain",
         "language": "en"
       },
@@ -216,7 +194,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Egg Harbor City. Atz, Christian. L",
+        "value": "Egg Harbor City........Atz, Christian...................................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -227,7 +205,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Elizabeth. Breidt, Peter, City Brewery Co., 600 Pearl st... A L B",
+        "value": "Elizabeth........Breidt, Peter, City Brewery Co., 600 Pearl st................................A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -238,7 +216,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Elizabeth. Rising Sun Brewing Co., Marshall and 7th sts. A L B",
+        "value": "Elizabeth........Rising Sun Brewing Co., Marshall and 7th sts................................A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -249,7 +227,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Guttenberg Meierdierck, J. H., New Boulevard near Herman ave. L",
+        "value": "Guttenberg........Meierdierck, J. H., New Boulevard near Herman ave................................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -260,7 +238,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Guttenberg Standard Malt and Hop Brewing Co., Herrman ave. and Bulls Ferry rd. L B",
+        "value": "Guttenberg........Standard Malt and Hop Brewing Co., Herrman ave. and Bulls Ferry rd........................................L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -271,7 +249,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Harrison Fritz & Weidemann Brewing Co., Harrison ave. and 7th st. L",
+        "value": "Harrison........Fritz & Weidemann Brewing Co., Harrison ave. and 7th st....................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -282,7 +260,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Harrison Hauck, Peter, Brewing Co., 505 Harrison ave. (See U. S. Brewing Co., New York City.)",
+        "value": "Harrison........Hauck, Peter, Brewing Co., 505 Harrison ave. (See U. S. Brewing Co., New York City.)",
         "format": "text/plain",
         "language": "en"
       },
@@ -293,7 +271,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Jersey City. Greenville Brewing Co., foot Bartholdi ave. L B",
+        "value": "Jersey City........Greenville Brewing Co., foot Bartholdi ave........................................L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -304,7 +282,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Jersey City. *Lembeck & Betz Eagle Brewing Co., 173 9th st. A L B",
+        "value": "Jersey City........*Lembeck & Betz Eagle Brewing Co., 173 9th st................................A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -315,7 +293,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Newark. Ballantine & Co., Freeman and Bowery sts. L",
+        "value": "Newark........Ballantine & Co., Freeman and Bowery sts........................................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -326,7 +304,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Newark. *Ballantine, P., & Sons, Front st.... A B",
+        "value": "Newark........*Ballantine, P., & Sons, Front st....A B",
         "format": "text/plain",
         "language": "en"
       },
@@ -337,7 +315,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Newark. Birkenhauer & Baumann, 194 South Orange ave. L B",
+        "value": "Newark........Birkenhauer & Baumann, 194 South Orange ave........................................L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -348,29 +326,29 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Newark. Eagle Brewing Co. of Newark, 38 Hays st. L",
+        "value": "Newark........Eagle Brewing Co. of Newark, 38 Hays st........................................L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131917/full/!760,760/0/default.jpg#xywh=1174,2657,905,125"
+      "target": "https://iiif.nypl.org/iiif/3/5131917/full/!760,760/0/default.jpg#xywh=1174,2720,905,62"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Newark. Essex County Brewing Co., 7th and Clifton aves.. L",
+        "value": "Newark........Essex County Brewing Co., 7th and Clifton aves........................................L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131917/full/!760,760/0/default.jpg#xywh=1179,2748,991,117"
+      "target": "https://iiif.nypl.org/iiif/3/5131917/full/!760,760/0/default.jpg#xywh=1179,2806,991,59"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Newark. Fehleisen & Co., 315 Orange st. L",
+        "value": "Newark........Fehleisen & Co., 315 Orange st.......L",
         "format": "text/plain",
         "language": "en"
       },
@@ -381,7 +359,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Newark. Feigenspan, Christian, (Inc.), 14 Freeman street.... A L B",
+        "value": "Newark........Feigenspan, Christian, (Inc.), 14 Freeman street................................A L B",
         "format": "text/plain",
         "language": "en"
       },

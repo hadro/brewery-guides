@@ -11,7 +11,7 @@
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131359/full/!760,760/0/default.jpg#xywh=806,412,292,1584",
+      "target": "https://iiif.nypl.org/iiif/3/5131359/full/!760,760/0/default.jpg#xywh=806,412,292,792",
       "id": "https://hadro.github.io/brewery-guides/1913/0086_5131359_gemini-2.0-flash_annotations/line/0"
     },
     {
@@ -23,7 +23,7 @@
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131359/full/!760,760/0/default.jpg#xywh=2086,520,52,762",
+      "target": "https://iiif.nypl.org/iiif/3/5131359/full/!760,760/0/default.jpg#xywh=806,1204,292,792",
       "id": "https://hadro.github.io/brewery-guides/1913/0086_5131359_gemini-2.0-flash_annotations/line/1"
     },
     {
@@ -115,24 +115,12 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "TRADE MARK",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131359/full/!760,760/0/default.jpg#xywh=1600,2410,32,102",
-      "id": "https://hadro.github.io/brewery-guides/1913/0086_5131359_gemini-2.0-flash_annotations/line/9"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
         "value": "SCHOCK'S PATENT OAT CRUSHER",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131359/full/!760,760/0/default.jpg#xywh=1776,2484,98,376",
-      "id": "https://hadro.github.io/brewery-guides/1913/0086_5131359_gemini-2.0-flash_annotations/line/10"
+      "id": "https://hadro.github.io/brewery-guides/1913/0086_5131359_gemini-2.0-flash_annotations/line/9"
     }
   ],
   "id": "https://hadro.github.io/brewery-guides/1913/0086_5131359_gemini-2.0-flash_annotations"

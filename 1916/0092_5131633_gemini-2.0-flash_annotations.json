@@ -51,7 +51,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Емп. SCHRICHTING",
+        "value": "Емп. SchrICHTING",
         "format": "text/plain",
         "language": "en"
       },
@@ -117,11 +117,22 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "402 WEST 23th STREET NEW YORK CITY",
+        "value": "402 WEST 23th STREET",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131633/full/!760,760/0/default.jpg#xywh=1244,2438,70,452"
+      "target": "https://iiif.nypl.org/iiif/3/5131633/full/!760,760/0/default.jpg#xywh=1616,2450,72,198"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "NEW YORK CITY",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131633/full/!760,760/0/default.jpg#xywh=1788,2498,54,394"
     }
   ]
 }

@@ -18,7 +18,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New York........*Beadleston & Woerz, 291 West 10th street..............................A L",
+        "value": "New York........*Beadleston & Woerz, 291 West 10th",
         "format": "text/plain",
         "language": "en"
       },
@@ -29,7 +29,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New York........Bernheimer & Schwartz Pilsener Brewing Co., Amsterdam ave. and 128th street..............................A L",
+        "value": "street. ................................A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131753/full/!760,760/0/default.jpg#xywh=1460,520,208,34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York........Bernheimer & Schwartz Pilsener",
         "format": "text/plain",
         "language": "en"
       },
@@ -40,7 +51,29 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New York........Central Brewing Co., 68th st. and East River..............................A L",
+        "value": "Brewing Co., Amsterdam ave.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131753/full/!760,760/0/default.jpg#xywh=1454,604,864,66"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "and 128th street........................A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131753/full/!760,760/0/default.jpg#xywh=1454,650,870,64"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York........Central Brewing Co., 68th st. and",
         "format": "text/plain",
         "language": "en"
       },
@@ -51,7 +84,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New York........Clausen-Flanagan Brewery, 262 10th ave..............................A L",
+        "value": "East River...............................A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131753/full/!760,760/0/default.jpg#xywh=1448,742,950,66"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York........Clausen-Flanagan Brewery, 262",
         "format": "text/plain",
         "language": "en"
       },
@@ -62,7 +106,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New York........Consumers' Brewing Co. of New York, Ltd., 54th st. and ave. A..L",
+        "value": "10th ave................................A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131753/full/!760,760/0/default.jpg#xywh=1446,834,408,56"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York........Consumers' Brewing Co. of New",
         "format": "text/plain",
         "language": "en"
       },
@@ -73,7 +128,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New York........Doelger, Peter, Brewing Co., Inc., 415 East 55th st..............................L",
+        "value": "York, Ltd., 54th st. and ave. A..L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131753/full/!760,760/0/default.jpg#xywh=1446,928,940,60"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York........Doelger, Peter, Brewing Co., Inc.,",
         "format": "text/plain",
         "language": "en"
       },
@@ -84,7 +150,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New York........Ebling Brewing Co., 760 St. Ann's ave..............................A L",
+        "value": "415 East 55th st........................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131753/full/!760,760/0/default.jpg#xywh=1450,1022,674,56"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York........Ebling Brewing Co., 760 St. Ann's",
         "format": "text/plain",
         "language": "en"
       },
@@ -95,7 +172,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New York........*Ehret, George, 217 East 92d st..............................A L",
+        "value": "ave.....................................A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131753/full/!760,760/0/default.jpg#xywh=1448,1120,186,40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York........*Ehret, George, 217 East 92d st.",
         "format": "text/plain",
         "language": "en"
       },
@@ -106,7 +194,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New York........Eichler, John, Brewing Co., 3582 3d ave..............................L",
+        "value": "New York........Eichler, John, Brewing Co., 3582",
         "format": "text/plain",
         "language": "en"
       },
@@ -117,7 +205,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New York........Elias, Henry, Brewing Co., 403 East 54th st..............................",
+        "value": "3d ave...................................L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131753/full/!760,760/0/default.jpg#xywh=1440,1254,682,58"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York........Elias, Henry, Brewing Co., 403",
         "format": "text/plain",
         "language": "en"
       },
@@ -128,7 +227,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New York........Everard, James, Breweries, 12 East 133d street..............................A L",
+        "value": "East 54th st.............................",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131753/full/!760,760/0/default.jpg#xywh=1436,1344,414,50"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York........Everard, James, Breweries, 12",
         "format": "text/plain",
         "language": "en"
       },
@@ -139,7 +249,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New York........Fidelio Brewing Co., Inc., 505 First avenue..............................A L",
+        "value": "East 133d street.......................A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131753/full/!760,760/0/default.jpg#xywh=1432,1436,890,58"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York........Fidelio Brewing Co., Inc., 505",
         "format": "text/plain",
         "language": "en"
       },
@@ -150,7 +271,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New York........Hoffmann, Jacob, Brewing Co., 211 East 55th st..............................",
+        "value": "First avenue.............................A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131753/full/!760,760/0/default.jpg#xywh=1430,1528,564,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York........Hoffmann, Jacob, Brewing Co.,",
         "format": "text/plain",
         "language": "en"
       },
@@ -161,7 +293,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New York........Hupfel's, A., Sons, Inc., St. Ann's Ave. and 161st st..............................",
+        "value": "211 East 55th st........................",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131753/full/!760,760/0/default.jpg#xywh=1438,1618,518,56"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York........Hupfel's, A., Sons, Inc., St. Ann's",
         "format": "text/plain",
         "language": "en"
       },
@@ -172,7 +315,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New York........Hupfel, J. Chris. G., Brewing Co., 229 East 38th st..............................",
+        "value": "Ave. and 161st st......................",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131753/full/!760,760/0/default.jpg#xywh=1436,1712,618,56"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York........Hupfel, J. Chris. G., Brewing Co.,",
         "format": "text/plain",
         "language": "en"
       },
@@ -183,7 +337,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New York........*Kip's Bay Brewing & Malting Co., 648 1st avenue..............................A",
+        "value": "229 East 38th st........................",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131753/full/!760,760/0/default.jpg#xywh=1432,1804,434,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York........*Kip's Bay Brewing & Malting",
         "format": "text/plain",
         "language": "en"
       },
@@ -194,7 +359,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New York........Lion Brewery of New York City, Columbus ave. and 108th st..............................",
+        "value": "Co., 648 1st avenue....................A",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131753/full/!760,760/0/default.jpg#xywh=1426,1896,884,68"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York........Lion Brewery of New York City,",
         "format": "text/plain",
         "language": "en"
       },
@@ -205,7 +381,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New York........Loewer's, Val., Gambrinus Brewery Co., 525 West 41st st..............................A L",
+        "value": "Columbus ave. and 108th st..........",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131753/full/!760,760/0/default.jpg#xywh=1424,1992,748,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York........Loewer's, Val., Gambrinus Brew-",
         "format": "text/plain",
         "language": "en"
       },
@@ -216,11 +403,33 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New York........Mayer, David, Brewing Co., 3560 3d ave..............................A L",
+        "value": "ery Co., 525 West 41st st.......A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131753/full/!760,760/0/default.jpg#xywh=1420,2074,978,82"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York........Mayer, David, Brewing Co., 3560",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131753/full/!760,760/0/default.jpg#xywh=1100,2124,1164,62"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "3d ave...................................A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131753/full/!760,760/0/default.jpg#xywh=1426,2180,222,40"
     },
     {
       "type": "Annotation",
@@ -238,7 +447,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New York........Ringler, Geo., & Co., 203 East 92d street..............................L",
+        "value": "New York........Ringler, Geo., & Co., 203 East 92d",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131753/full/!760,760/0/default.jpg#xywh=1092,2264,1180,62"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "street....................................L",
         "format": "text/plain",
         "language": "en"
       },
@@ -249,7 +469,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New York........Ruppert, Jacob, Inc., 1639 3d ave..............................A L",
+        "value": "New York........Ruppert, Jacob, Inc., 1639 3d",
         "format": "text/plain",
         "language": "en"
       },
@@ -260,7 +480,29 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New York........Schaefer, F. & M., Brewing Co., 617 Lexington ave. (Brewery, Brooklyn, N. Y.)..............................L E",
+        "value": "ave.....................................A L",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131753/full/!760,760/0/default.jpg#xywh=1424,2412,220,44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York........Schaefer, F. & M., Brewing Co.,",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131753/full/!760,760/0/default.jpg#xywh=1378,2452,880,58"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "617 Lexington ave. (Brewery,",
         "format": "text/plain",
         "language": "en"
       },
@@ -271,7 +513,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New York........*Stevenson, David, Brewing Co., 501 West 39th st..............................A L B",
+        "value": "Brooklyn, N. Y.).....................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131753/full/!760,760/0/default.jpg#xywh=1462,2546,876,58"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York........*Stevenson, David, Brewing Co.,",
         "format": "text/plain",
         "language": "en"
       },
@@ -282,7 +535,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New York........Zinser, Eugene, 201 East 88th street..............................W",
+        "value": "501 West 39th st.......................A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131753/full/!760,760/0/default.jpg#xywh=1418,2628,980,74"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "New York........Zinser, Eugene, 201 East 88th",
         "format": "text/plain",
         "language": "en"
       },
@@ -293,7 +557,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Niagara Falls........Cataract Brewing Co., Inc..............................L",
+        "value": "street....................................W B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131753/full/!760,760/0/default.jpg#xywh=1412,2730,568,56"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Niagara Falls........Cataract Brewing Co., Inc.............L",
         "format": "text/plain",
         "language": "en"
       },
@@ -304,7 +579,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Niagara Falls........Niagara Falls Brewing Co..............................A L E",
+        "value": "Niagara Falls........Niagara Falls Brewing Co.......A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -315,7 +590,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Ogdensburg........*Arnold & Co., Inc., 50 Main st..............................A B",
+        "value": "Ogdensburg........*Arnold & Co., Inc., 50 Main st....A B",
         "format": "text/plain",
         "language": "en"
       },
@@ -326,11 +601,22 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Olean........Dotterweich Brewing Co., 301 Henley st..............................L E",
+        "value": "Olean........Dotterweich Brewing Co., 301",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131753/full/!760,760/0/default.jpg#xywh=1048,2912,1204,72"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Henley st................................L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131753/full/!760,760/0/default.jpg#xywh=1410,2966,984,62"
     }
   ]
 }

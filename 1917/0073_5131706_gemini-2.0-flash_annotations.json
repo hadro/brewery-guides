@@ -251,7 +251,7 @@
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131706/full/!760,760/0/default.jpg#xywh=0,1946,60,36",
+      "target": "https://iiif.nypl.org/iiif/3/5131706/full/!760,760/0/default.jpg#xywh=0,2006,1382,54",
       "id": "https://hadro.github.io/brewery-guides/1917/0073_5131706_gemini-2.0-flash_annotations/line/20"
     },
     {
@@ -263,7 +263,7 @@
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131706/full/!760,760/0/default.jpg#xywh=0,2006,1382,108",
+      "target": "https://iiif.nypl.org/iiif/3/5131706/full/!760,760/0/default.jpg#xywh=0,2060,1382,54",
       "id": "https://hadro.github.io/brewery-guides/1917/0073_5131706_gemini-2.0-flash_annotations/line/21"
     },
     {
@@ -271,7 +271,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Treasurer, Norman S. Goldberger, Fidelio Brewing Co., Inc.. New York City.",
+        "value": "Treasurer, Norman S. Goldberger, Fidelio Brewing Co., Inc., New York City.",
         "format": "text/plain",
         "language": "en"
       },
@@ -319,12 +319,24 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
+        "value": "President, Daniel Joyce, Greensburg.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131706/full/!760,760/0/default.jpg#xywh=834,2770,170,40",
+      "id": "https://hadro.github.io/brewery-guides/1917/0073_5131706_gemini-2.0-flash_annotations/line/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
         "value": "President, A. F. Heidkamp, Lake Linden, Mich.",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131706/full/!760,760/0/default.jpg#xywh=166,2518,1308,48",
-      "id": "https://hadro.github.io/brewery-guides/1917/0073_5131706_gemini-2.0-flash_annotations/line/26"
+      "id": "https://hadro.github.io/brewery-guides/1917/0073_5131706_gemini-2.0-flash_annotations/line/27"
     },
     {
       "type": "Annotation",
@@ -336,19 +348,19 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131706/full/!760,760/0/default.jpg#xywh=170,2566,1322,48",
-      "id": "https://hadro.github.io/brewery-guides/1917/0073_5131706_gemini-2.0-flash_annotations/line/27"
+      "id": "https://hadro.github.io/brewery-guides/1917/0073_5131706_gemini-2.0-flash_annotations/line/28"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Secretary-Treasurer, Wm. F. Miller, Houghton. Mich.",
+        "value": "Secretary-Treasurer, Wm. F. Miller, Houghton, Mich.",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131706/full/!760,760/0/default.jpg#xywh=172,2616,1494,44",
-      "id": "https://hadro.github.io/brewery-guides/1917/0073_5131706_gemini-2.0-flash_annotations/line/28"
+      "id": "https://hadro.github.io/brewery-guides/1917/0073_5131706_gemini-2.0-flash_annotations/line/29"
     },
     {
       "type": "Annotation",
@@ -360,7 +372,7 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131706/full/!760,760/0/default.jpg#xywh=2,2706,1652,56",
-      "id": "https://hadro.github.io/brewery-guides/1917/0073_5131706_gemini-2.0-flash_annotations/line/29"
+      "id": "https://hadro.github.io/brewery-guides/1917/0073_5131706_gemini-2.0-flash_annotations/line/30"
     },
     {
       "type": "Annotation",
@@ -372,18 +384,6 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131706/full/!760,760/0/default.jpg#xywh=0,2828,1664,52",
-      "id": "https://hadro.github.io/brewery-guides/1917/0073_5131706_gemini-2.0-flash_annotations/line/30"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "President, Daniel Joyce, Greensburg.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131706/full/!760,760/0/default.jpg#xywh=174,2896,996,44",
       "id": "https://hadro.github.io/brewery-guides/1917/0073_5131706_gemini-2.0-flash_annotations/line/31"
     },
     {

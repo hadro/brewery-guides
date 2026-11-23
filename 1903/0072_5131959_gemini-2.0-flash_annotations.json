@@ -7,17 +7,6 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "70 Supplement to The Brewers’ Journal",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131959/full/!760,760/0/default.jpg#xywh=874,341,1029,57"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
         "value": "CHICAGO AND MILWAUKEE BREWERS' ASS'N.",
         "format": "text/plain",
         "language": "en"
@@ -67,6 +56,17 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131959/full/!760,760/0/default.jpg#xywh=634,823,1490,56"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "EXCHANGE.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131959/full/!760,760/0/default.jpg#xywh=1198,890,362,49"
     },
     {
       "type": "Annotation",
@@ -364,6 +364,17 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131959/full/!760,760/0/default.jpg#xywh=621,2791,1491,58"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Milwaukee.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131959/full/!760,760/0/default.jpg#xywh=1212,2858,303,44"
     },
     {
       "type": "Annotation",

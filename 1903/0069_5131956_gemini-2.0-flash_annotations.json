@@ -7,17 +7,6 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "SUPPLEMENT TO THE BREWERS' JOURNAL. 67",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131956/full/!760,760/0/default.jpg#xywh=579,321,1099,56"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
         "value": "INDIANA BREWERS' ASSOCIATION.",
         "format": "text/plain",
         "language": "en"
@@ -51,11 +40,22 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
+        "value": "First Vice-President, Eugene Hack, Vincennes.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131956/full/!760,760/0/default.jpg#xywh=375,636,1348,57"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
         "value": "Second Vice-President, John Meyer, New Albany.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131956/full/!760,760/0/default.jpg#xywh=375,636,1348,113"
+      "target": "https://iiif.nypl.org/iiif/3/5131956/full/!760,760/0/default.jpg#xywh=375,693,1348,56"
     },
     {
       "type": "Annotation",

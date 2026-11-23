@@ -18,7 +18,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Vincennes ........*Hack & Simon Brewing Co., Indianapolis avenue........A L B",
+        "value": "Vincennes........*Hack & Simon Brewing Co., Indianapolis avenue.....A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -40,7 +40,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Covington........*Bavarian Brewing Co., Inc., 367 Pike street........A L B",
+        "value": "Covington........*Bavarian Brewing Co., Inc., 367 Pike street.....A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -51,7 +51,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Covington........Covington Brewing Co., Baker near Ludlow st........L B",
+        "value": "Covington........Covington Brewing Co., Baker near Ludlow st.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -62,7 +62,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Henderson........Henderson Brewing Co., 5th and Water sts........L B",
+        "value": "Henderson........Henderson Brewing Co., 5th and Water sts.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -73,7 +73,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Lexington........Lexington Brewing Co., 300 East Main st........L B",
+        "value": "Lexington........Lexington Brewing Co., 300 East Main st.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -84,7 +84,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Louisville........{ *Central Consumers' Co., Inc.,",
+        "value": "Louisville........{ *Central Consumers' Co., Inc., A L B Frank Fehr Brewing Co., 430 East Green st.",
         "format": "text/plain",
         "language": "en"
       },
@@ -95,7 +95,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Louisville........Frank Fehr Brewing Co., 430 East Green st.",
+        "value": "Louisville........{ *Central Consumers' Co., Inc., A L B Phoenix Brewing Co., 1106 Baxter ave.",
         "format": "text/plain",
         "language": "en"
       },
@@ -106,7 +106,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Louisville........Phoenix Brewing Co., 1106 Baxter ave.",
+        "value": "Louisville........Falls City Brewing Co., 3000 West Broadway.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -117,7 +117,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Louisville........Falls City Brewing Co., 3000 West Broadway",
+        "value": "Louisville........Menk, Theodore, 1734 Breckenridge street.....L",
         "format": "text/plain",
         "language": "en"
       },
@@ -128,18 +128,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Louisville........Menk, Theodore, 1734 Breckenridge street........L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131740/full/!760,760/0/default.jpg#xywh=728,2828,948,52"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Louisville........Oertel, John F., Co., 1400 Story avenue........L B",
+        "value": "Louisville........Oertel, John F., Co., 1400 Story avenue.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -150,7 +139,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Louisville........Palmer, William, Brownsborough road........L",
+        "value": "Louisville........Palmer, William, Brownsborough road.....L",
         "format": "text/plain",
         "language": "en"
       },
@@ -161,40 +150,29 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "La Fayette ........*Thieme & Wagner Brewing Co., North 4th st........L B",
+        "value": "La Fayette ........*Thieme & Wagner Brewing Co., North 4th st.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131740/full/!760,760/0/default.jpg#xywh=0,256,88,48"
+      "target": "https://iiif.nypl.org/iiif/3/5131740/full/!760,760/0/default.jpg#xywh=0,454,1694,168"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "La Porte........Guenther & Zerweck, Tyler & Lake sts........L B",
+        "value": "La Porte ........Guenther & Zerweck, Tyler & Lake sts.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131740/full/!760,760/0/default.jpg#xywh=378,300,1164,40"
+      "target": "https://iiif.nypl.org/iiif/3/5131740/full/!760,760/0/default.jpg#xywh=0,622,1694,168"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Lawrenceburgh ........*Oberting, Victor, 3d and Shipping streets........L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131740/full/!760,760/0/default.jpg#xywh=0,454,1694,336"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Logansport........Columbia Brewing Co. (John G. Keip, Mgr.), 424 High st........L B",
+        "value": "Lawrenceburgh ........*Oberting, Victor, 3d and Shipping streets.....L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -205,132 +183,143 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Madison........Madison Brewing Co., 224 Park avenue........A L B",
+        "value": "Logansport ........Columbia Brewing Co. (John G. Keip, Mgr.), 424 High st.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131740/full/!760,760/0/default.jpg#xywh=0,794,1694,138"
+      "target": "https://iiif.nypl.org/iiif/3/5131740/full/!760,760/0/default.jpg#xywh=0,794,1694,70"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Madison........Weber, Peter, Main and Vine streets........A L",
+        "value": "Madison ........Madison Brewing Co., 224 Park avenue.....A L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131740/full/!760,760/0/default.jpg#xywh=164,896,1432,124"
+      "target": "https://iiif.nypl.org/iiif/3/5131740/full/!760,760/0/default.jpg#xywh=0,864,1694,68"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Michigan City........Zorn, Philip, Brewing Co., York and 9th sts........L B",
+        "value": "Madison ........Weber, Peter, Main and Vine streets.....A L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131740/full/!760,760/0/default.jpg#xywh=0,978,156,44"
+      "target": "https://iiif.nypl.org/iiif/3/5131740/full/!760,760/0/default.jpg#xywh=0,966,1694,114"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Mishawaka........Kamm & Schellinger Brewing Co., West 2d st........L B",
+        "value": "Michigan City........Zorn, Philip, Brewing Co., York and 9th sts.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131740/full/!760,760/0/default.jpg#xywh=0,966,1694,452"
+      "target": "https://iiif.nypl.org/iiif/3/5131740/full/!760,760/0/default.jpg#xywh=0,1080,1694,112"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New Albany........*Southern Indiana Brewing Co., West 4th and Spring sts........L B",
+        "value": "Mishawaka ........Kamm & Schellinger Brewing Co., West 2d st.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131740/full/!760,760/0/default.jpg#xywh=0,1326,1694,298"
+      "target": "https://iiif.nypl.org/iiif/3/5131740/full/!760,760/0/default.jpg#xywh=0,1192,1694,112"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New Albany........State Street Brewery (Maria Nirmaier)........L",
+        "value": "New Albany........*Southern Indiana Brewing Co., West 4th and Spring sts.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131740/full/!760,760/0/default.jpg#xywh=0,1532,1690,220"
+      "target": "https://iiif.nypl.org/iiif/3/5131740/full/!760,760/0/default.jpg#xywh=0,1326,1694,60"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Richmond........Minck Brewing Co........L B",
+        "value": "New Albany........State Street Brewery (Maria Nirmaier).....L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131740/full/!760,760/0/default.jpg#xywh=0,1804,1594,100"
+      "target": "https://iiif.nypl.org/iiif/3/5131740/full/!760,760/0/default.jpg#xywh=0,1304,1694,114"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "South Bend........*Muessel Brewing Co........L B",
+        "value": "Richmond........Minck Brewing Co.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131740/full/!760,760/0/default.jpg#xywh=0,1936,138,56"
+      "target": "https://iiif.nypl.org/iiif/3/5131740/full/!760,760/0/default.jpg#xywh=0,1386,1694,60"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "South Bend........South Bend Brewing Association, 1622 Michigan ave........L B",
+        "value": "South Bend........*Muessel Brewing Co.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131740/full/!760,760/0/default.jpg#xywh=0,2014,1574,74"
+      "target": "https://iiif.nypl.org/iiif/3/5131740/full/!760,760/0/default.jpg#xywh=0,1446,1694,58"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Tell City........Tell City Brewing Co........L B",
+        "value": "South Bend........South Bend Brewing Association, 1622 Michigan ave.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131740/full/!760,760/0/default.jpg#xywh=0,2050,1688,248"
+      "target": "https://iiif.nypl.org/iiif/3/5131740/full/!760,760/0/default.jpg#xywh=0,1504,1694,60"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Terre Haute........Peoples Brewing Co., 1st and Wilson sts........L B",
+        "value": "Tell City........Tell City Brewing Co.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131740/full/!760,760/0/default.jpg#xywh=0,2766,166,106"
+      "target": "https://iiif.nypl.org/iiif/3/5131740/full/!760,760/0/default.jpg#xywh=0,1606,1690,72"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Terre Haute........*Terre Haute Brewing Co., 901 Poplar st........A L B",
+        "value": "Terre Haute........Peoples Brewing Co., 1st and Wilson sts.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131740/full/!760,760/0/default.jpg#xywh=0,2968,142,94"
+      "target": "https://iiif.nypl.org/iiif/3/5131740/full/!760,760/0/default.jpg#xywh=0,1678,1690,74"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Terre Haute........*Terre Haute Brewing Co., 901 Poplar st.....A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131740/full/!760,760/0/default.jpg#xywh=0,2198,1688,50"
     }
   ]
 }

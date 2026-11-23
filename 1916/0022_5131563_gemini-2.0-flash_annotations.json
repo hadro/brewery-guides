@@ -187,7 +187,18 @@
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131563/full/!760,760/0/default.jpg#xywh=926,1234,1324,104"
+      "target": "https://iiif.nypl.org/iiif/3/5131563/full/!760,760/0/default.jpg#xywh=926,1234,1324,52"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "........Jefferson ave. A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131563/full/!760,760/0/default.jpg#xywh=926,1286,1324,52"
     },
     {
       "type": "Annotation",

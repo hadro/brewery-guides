@@ -7,18 +7,18 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Supplement to The Brewers' Journal. 41",
+        "value": "OHIO—Continued.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=657,305,1241,48"
+      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=0,1704,171,45"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Toledo Huebner Brewing Co., Limited,",
+        "value": "Toledo........Huebner Brewing Co., Limited,",
         "format": "text/plain",
         "language": "en"
       },
@@ -29,18 +29,29 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 Schmitt Brewing Co., Michigan",
+        "value": "Hamilton and Division sts.......L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=492,516,1479,127"
+      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=492,559,1479,41"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Troy *Henne, Jos., & Son, Water st.....L",
+        "value": "Toledo........Schmitt Brewing Co., Michigan",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=492,600,1479,43"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Troy........*Henne, Jos., & Son, Water st........L",
         "format": "text/plain",
         "language": "en"
       },
@@ -51,7 +62,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Upper Sandusky Upper Sandusky Brewery.........L B",
+        "value": "Upper Sandusky........Upper Sandusky Brewery.........L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -62,29 +73,73 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Wapakoneta City Brewing Co., Water st.....A L B",
+        "value": "Wapakoneta........City Brewing Co., Water st.....A L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=425,766,1546,177"
+      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=425,766,1546,59"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Youngstown Renner, George J., Jr., 203 Pike",
+        "value": "Wooster........Wooster Brewing Co...........A L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=423,941,1542,194"
+      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=425,825,1546,60"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Zanesville *Bohn, August, 1016 Marietta st...L",
+        "value": "Xenia........*Hollencamp Xenia Ale Brewing",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=425,885,1546,58"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Co., Columbus and Water sts. A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=423,941,1542,65"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Youngstown........Renner, George J., Jr., 203 Pike",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=423,1006,1542,64"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "street........A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=423,1070,1542,65"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Zanesville........*Bohn, August, 1016 Marietta st........L",
         "format": "text/plain",
         "language": "en"
       },
@@ -95,7 +150,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 Linser, Simon, Brewing Co., 350",
+        "value": "Zanesville........Linser, Simon, Brewing Co., 350",
         "format": "text/plain",
         "language": "en"
       },
@@ -117,7 +172,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Oklahoma City Moss Brewing Co,. LB",
+        "value": "Oklahoma City........Moss Brewing Co,. ........L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -128,40 +183,106 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Astoria North Pacific Brewing Co., Frank-",
+        "value": "Albany........Albany Brewing Co., 9th and",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=423,1593,1473,166"
+      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=423,1593,1473,84"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Baker City American Brewing & Crystal Ice",
+        "value": "Astoria........North Pacific Brewing Co., Frank-",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=423,1740,1550,161"
+      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=423,1677,1473,82"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Canyon City *Sels, F. C.. Washington st. LB",
+        "value": "lin ave. and 30th st........L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=422,1860,1549,235"
+      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=423,1740,1550,53"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Enterprise Ott, Frank. L",
+        "value": "Baker City........American Brewing & Crystal Ice",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=423,1793,1550,55"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Co, Dewey ave........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=423,1848,1550,53"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Baker City........*Rust, Henry........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=422,1860,1549,58"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Burns........*Locher & Berg, Third st........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=422,1918,1549,60"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Burns........*Waldenberg, Louis, Sr........A L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=422,1978,1549,59"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Canyon City........*Sels, F. C.. Washington st........L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=422,2037,1549,58"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Enterprise........Ott, Frank........L",
         "format": "text/plain",
         "language": "en"
       },
@@ -172,7 +293,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Gardiner Varrelman, Frank. L",
+        "value": "Gardiner........Varrelman, Frank........L",
         "format": "text/plain",
         "language": "en"
       },
@@ -183,7 +304,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Joseph *Rohrman, John, Main st. LB†",
+        "value": "Joseph........*Rohrman, John, Main st........L B†",
         "format": "text/plain",
         "language": "en"
       },
@@ -194,7 +315,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "La Grande *Roesch, Julius.. L",
+        "value": "La Grande........*Roesch, Julius........L",
         "format": "text/plain",
         "language": "en"
       },
@@ -205,7 +326,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Lakeview Ayres & Schlagel. L",
+        "value": "Lakeview........Ayres & Schlagel........L",
         "format": "text/plain",
         "language": "en"
       },
@@ -216,7 +337,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Marshfield Marsden, Robert. AL",
+        "value": "Marshfield........Marsden, Robert........A L",
         "format": "text/plain",
         "language": "en"
       },
@@ -227,7 +348,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Pendleton Roesch, William.. L",
+        "value": "Pendleton........Roesch, William........L",
         "format": "text/plain",
         "language": "en"
       },
@@ -238,29 +359,51 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Portland Gambrinus Brewing Co., 791 Wash-",
+        "value": "Portland........Gambrinus Brewing Co., 791 Wash-",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=417,2439,1541,168"
+      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=417,2439,1541,84"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 *Weinhard, Henry, 475 Burnside st. L B",
+        "value": "Portland........Portland Weiss Beer Brewing &",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=506,2640,1459,105"
+      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=417,2523,1541,84"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Prineville O'Neil & Geiger... L",
+        "value": "avenue........W B†",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=506,2640,1459,51"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Portland........*Weinhard, Henry, 475 Burnside st. L B",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=506,2691,1459,54"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Prineville........O'Neil & Geiger........L",
         "format": "text/plain",
         "language": "en"
       },
@@ -271,18 +414,29 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Salem *Beck, Mrs. Margarite, 174 Com-",
+        "value": "Roseburg........Weiss, Max........L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=417,2772,1539,117"
+      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=417,2772,1539,58"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "The Dalles *Buchler, August. A L B",
+        "value": "Salem........*Beck, Mrs. Margarite, 174 Com-",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=417,2830,1539,59"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Dalles........*Buchler, August........A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -293,7 +447,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "OHIO—Continued.",
+        "value": "near Cherry st...LB",
         "format": "text/plain",
         "language": "en"
       },
@@ -304,29 +458,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Hamilton and Division sts.......L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=0,590,175,103"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "near Cherry st... LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=0,710,177,87"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "street A L B",
+        "value": "Youngstown........*Smith's, John, Sons Brewing Co.,",
         "format": "text/plain",
         "language": "en"
       },
@@ -337,29 +469,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 *Smith's, John, Sons Brewing Co.,",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=0,821,171,64"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "OKLAHOMA.",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=0,970,178,103"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "OREGON.",
+        "value": "532 W. Federal street........A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -370,7 +480,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Albany Albany Brewing Co., 9th and",
+        "value": "OKLAHOMA.",
         "format": "text/plain",
         "language": "en"
       },
@@ -381,18 +491,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Lyons sts. LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=2,1159,178,56"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "lin ave. and 30th st.. LB",
+        "value": "Lyons sts........L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -403,18 +502,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Co, Dewey ave... LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=0,1299,183,69"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "〃 *Rust, Henry.. LB",
+        "value": "Grant's Pass........Kienlen, Eugene........L",
         "format": "text/plain",
         "language": "en"
       },
@@ -425,7 +513,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Burns *Locher & Berg, Third st. LB",
+        "value": "ington st........L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -436,7 +524,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 *Waldenberg, Louis, Sr. A L B",
+        "value": "Bottling Co., 537 Milwaukee",
         "format": "text/plain",
         "language": "en"
       },
@@ -447,7 +535,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "ington st. LB",
+        "value": "mercial street........L",
         "format": "text/plain",
         "language": "en"
       },
@@ -458,7 +546,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "〃 Portland Weiss Beer Brewing &",
+        "value": "Sellwood........Wilhelm, Mary A...........A L B",
         "format": "text/plain",
         "language": "en"
       },
@@ -469,18 +557,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Bottling Co., 537 Milwaukee",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=0,1704,171,45"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "avenue. WB†",
+        "value": "Summerville........*Ott, George........L",
         "format": "text/plain",
         "language": "en"
       },
@@ -491,55 +568,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Roseburg Weiss, Max.. L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=0,1850,165,56"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "mercial street.. L",
+        "value": "Sumpter........*Ellis & Zizelman........L B",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=0,1901,182,103"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Sellwood Wilhelm, Mary A. A L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=0,1994,180,70"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Summerville *Ott, George.... L",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=0,2206,141,43"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Sumpter *Ellis & Zizelman. LB",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131930/full/!760,760/0/default.jpg#xywh=0,2733,147,68"
     }
   ]
 }

@@ -7,17 +7,6 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "A. M. HAMMERSCHLAG",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131971/full/!760,760/0/default.jpg#xywh=2297,368,62,2013"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
         "value": "J. C. HAMMERSCHLAG",
         "format": "text/plain",
         "language": "en"
@@ -51,33 +40,33 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
+        "value": "CELEBRATED DOUBLE-REFINED",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131971/full/!760,760/0/default.jpg#xywh=1754,806,123,384"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "BREWERS' SYRUP",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131971/full/!760,760/0/default.jpg#xywh=1738,1212,161,1183"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
         "value": "FOR LAGER AND ALE",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131971/full/!760,760/0/default.jpg#xywh=1599,1328,83,804"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "ALSO MALTOSE FOR THE",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131971/full/!760,760/0/default.jpg#xywh=2365,1318,22,726"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "FULL PARTICULARS ON APPLICATION",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131971/full/!760,760/0/default.jpg#xywh=2371,2042,16,239"
     }
   ]
 }

@@ -19,11 +19,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Calgary........................*Calgary Brewing & Malting Co.,",
+        "value": "Calgary.....*Calgary Brewing & Malting Co.,",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=0,950,1608,192",
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=0,950,1608,96",
       "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/1"
     },
     {
@@ -31,11 +31,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Edmonton....................*Edmonton Brewing & Malting",
+        "value": "Ltd.....ALB",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=0,1096,1696,230",
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=0,1096,1696,58",
       "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/2"
     },
     {
@@ -43,7 +43,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Co., Ltd.....................................................................................A L B",
+        "value": "Calgary.....Mountain Spring Brewing Co.,",
         "format": "text/plain",
         "language": "en"
       },
@@ -55,7 +55,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Co., Ltd.....................................................................................A L B",
+        "value": "Ltd.....ALB",
         "format": "text/plain",
         "language": "en"
       },
@@ -67,12 +67,60 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Co., Ltd.....................................................................................L B",
+        "value": "Edmonton.....*Edmonton Brewing & Malting",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=0,1292,1692,116",
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=0,1154,1696,58",
       "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Co., Ltd.....ALB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=0,1212,1696,56",
+      "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lethbridge.....Lethbridge Brewing & Malting",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=0,1268,1696,58",
+      "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Strathcona.....Strathcona Brewing & Malting",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=0,1380,1608,78",
+      "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Co., Ltd.....LB",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=744,1438,948,62",
+      "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/9"
     },
     {
       "type": "Annotation",
@@ -84,43 +132,43 @@
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=512,1538,830,54",
-      "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/6"
+      "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/10"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Cranbrook.....................Cranbrook Brewing Co.....................................................................................A L B",
+        "value": "Cranbrook.....Cranbrook Brewing Co.....ALB",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=0,1604,1690,80",
-      "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/7"
+      "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/11"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Cumberland..................Kerrigan, Jas................................................................................................................A",
+        "value": "Kerrigan.....Kerrigan, Jas.....A",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=0,1640,1606,192",
-      "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/8"
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=0,1640,1606,48",
+      "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/12"
     },
     {
       "type": "Annotation",
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Cumberland..................Pilsener Brewing Co., Ltd. (see",
+        "value": "Cumberland.....Pilsener Brewing Co., Ltd. (see",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=242,2222,1444,162",
-      "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/9"
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=0,1736,1606,48",
+      "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/13"
     },
     {
       "type": "Annotation",
@@ -131,55 +179,7 @@
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=656,2360,934,74",
-      "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/10"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Vancouver, B. C.)......................................................................................L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=158,2840,460,34",
-      "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/11"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Grand Forks..................Grand Forks Brewing Co.....................................................................................A L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=688,2860,892,56",
-      "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/12"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Merritt...........................Forschner, L..............................................................................................................A L B",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=214,2882,394,40",
-      "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/13"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "supplementing",
-      "body": {
-        "type": "TextualBody",
-        "value": "Nanaimo.......................Empire Brewery (Peter Weigle,",
-        "format": "text/plain",
-        "language": "en"
-      },
-      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=688,2906,750,56",
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=0,1784,1606,48",
       "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/14"
     },
     {
@@ -187,11 +187,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Columbia Breweries, Vancouver, B. C.).........................................................A L B",
+        "value": "Vancouver, B. C.).....LB",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=214,2924,426,52",
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=158,2840,460,34",
       "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/15"
     },
     {
@@ -199,11 +199,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Nelson..........................Nelson Brewing Co., Ltd.....................................................................................A L B",
+        "value": "Grand Forks.....Grand Forks Brewing Co.....AL B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=684,2954,814,60",
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=688,2860,892,56",
       "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/16"
     },
     {
@@ -211,11 +211,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "New Westminster.........Nelson, Nels...................................................................................................................A",
+        "value": "Merritt.....Forschner, L.....ALB",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=172,2978,456,44",
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=214,2882,394,40",
       "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/17"
     },
     {
@@ -223,11 +223,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Revelstoke.....................Enterprise Brewing Co................................................................................................A L",
+        "value": "Nanaimo.....Empire Brewery (Peter Weigle,",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=682,3000,980,60",
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=688,2906,750,56",
       "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/18"
     },
     {
@@ -235,11 +235,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Revelstoke.....................Guiletto, Jas.............................................................................................................A L B",
+        "value": "Columbia Breweries, Vancou-",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=262,3026,318,40",
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=214,2924,426,52",
       "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/19"
     },
     {
@@ -247,11 +247,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Ltd.....................................................................................A L B",
+        "value": "Nelson.....Nelson Brewing Co., Ltd.....ALB",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=0,352,32,36",
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=684,2954,814,60",
       "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/20"
     },
     {
@@ -259,11 +259,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Calgary........................Mountain Spring Brewing Co.,",
+        "value": "New Westminster.....Nelson, Nels.....A",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=576,428,726,96",
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=172,2978,456,44",
       "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/21"
     },
     {
@@ -271,11 +271,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Ltd.....................................................................................A L B",
+        "value": "Revelstoke.....Enterprise Brewing Co.....AL",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=6,664,168,76",
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=682,3000,980,60",
       "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/22"
     },
     {
@@ -283,11 +283,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Lethbridge...................Lethbridge Brewing & Malting",
+        "value": "Revelstoke.....Guiletto, Jas.....ALB",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=0,708,130,68",
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=262,3026,318,40",
       "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/23"
     },
     {
@@ -295,11 +295,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Medicine Hat................Medicine Hat Brewing Co., Ltd. A L B",
+        "value": "Co., Ltd.....ALB",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=0,758,120,58",
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=0,1046,1608,96",
       "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/24"
     },
     {
@@ -307,11 +307,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Strathcona....................Strathcona Brewing & Malting",
+        "value": "Medicine Hat.....Medicine Hat Brewing Co., Ltd.....AL B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=0,1380,1608,78",
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=0,1688,1606,48",
       "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/25"
     },
     {
@@ -319,11 +319,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Fernie...........................Fernie-Fort Steele Brewing Co.,",
+        "value": "Fernie.....Fernie-Fort Steele Brewing Co.,",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=0,1504,124,52",
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=144,1814,1550,24",
       "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/26"
     },
     {
@@ -331,11 +331,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Ltd.....................................................................................A L B",
+        "value": "Ltd.....ALB",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=0,1556,142,48",
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=144,1838,1550,22",
       "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/27"
     },
     {
@@ -343,11 +343,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Grand Forks..................Hartinger, Frank.....................................................................................................A L",
+        "value": "Grand Forks.....Hartinger, Frank.....AL",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=1350,1684,334,36",
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=144,1904,1550,22",
       "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/28"
     },
     {
@@ -355,11 +355,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Kamloops......................Imperial Brewing Co..................................................................................................A L",
+        "value": "Kamloops.....Imperial Brewing Co.....AL",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=144,1770,1550,358",
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=144,1948,1550,24",
       "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/29"
     },
     {
@@ -367,11 +367,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Michel Prairie...............Elk Valley Brewing Co., Ltd.....................................................................................L B",
+        "value": "Michel Prairie.....Elk Valley Brewing Co., Ltd.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=156,2074,1528,124",
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=156,2136,1528,62",
       "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/30"
     },
     {
@@ -379,7 +379,7 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Prop.).................................................................................................................L",
+        "value": "Prop.).....L",
         "format": "text/plain",
         "language": "en"
       },
@@ -391,11 +391,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Nanaimo.......................Lansdowne Brewery Co...................................................................................................A",
+        "value": "Nanaimo.....Lansdowne Brewery Co.....A",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=734,2416,586,54",
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=242,2276,1444,54",
       "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/32"
     },
     {
@@ -403,11 +403,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Nanaimo.......................*Union Brewing Co. (see British",
+        "value": "Nanaimo.....*Union Brewing Co. (see British",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=1326,2434,354,38",
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=242,2330,1444,54",
       "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/33"
     },
     {
@@ -415,11 +415,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Phoenix.........................Phoenix Brewing Co., Ltd.....................................................................................L B",
+        "value": "ver, B. C.).....ALB",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=156,2460,1526,58",
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=734,2416,586,54",
       "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/34"
     },
     {
@@ -427,11 +427,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Princeton......................Nelson Brewing Co., Ltd.....................................................................................A L B",
+        "value": "Phoenix.....Phoenix Brewing Co., Ltd.....L B",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=156,2498,1520,74",
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=156,2460,1526,58",
       "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/35"
     },
     {
@@ -439,11 +439,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Rossland........................Le Roy Brewing Co.................................................................................................A L B",
+        "value": "Princeton.....Nelson Brewing Co., Ltd.....ALB",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=156,2552,1522,62",
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=156,2498,1520,74",
       "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/36"
     },
     {
@@ -451,11 +451,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Trail................................Union Brewery...................................................................................................................L",
+        "value": "Rossland.....Le Roy Brewing Co.....ALB",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=156,2592,1520,76",
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=156,2552,1522,62",
       "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/37"
     },
     {
@@ -463,11 +463,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Vancouver....................Canadian Brewing & Malting Co.",
+        "value": "Trail.....Union Brewery.....L",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=154,2640,1522,68",
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=156,2592,1520,76",
       "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/38"
     },
     {
@@ -475,11 +475,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Vancouver....................Vancouver Breweries, Ltd.",
+        "value": "Vancouver.....Canadian Brewing & Malting Co.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=156,2730,1520,74",
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=154,2640,1522,68",
       "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/39"
     },
     {
@@ -487,11 +487,11 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Vancouver....................Union Brewing Co., Nanaimo.",
+        "value": "Vancouver.....Vancouver Breweries, Ltd.",
         "format": "text/plain",
         "language": "en"
       },
-      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=154,2788,520,44",
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=156,2730,1520,74",
       "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/40"
     },
     {
@@ -499,12 +499,24 @@
       "motivation": "supplementing",
       "body": {
         "type": "TextualBody",
-        "value": "Vancouver....................Pilsener Brewing Co., Cumberland",
+        "value": "Vancouver.....Union Brewing Co., Nanaimo.",
+        "format": "text/plain",
+        "language": "en"
+      },
+      "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=154,2788,520,44",
+      "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "supplementing",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vancouver.....Pilsener Brewing Co., Cumberland",
         "format": "text/plain",
         "language": "en"
       },
       "target": "https://iiif.nypl.org/iiif/3/5131684/full/!760,760/0/default.jpg#xywh=688,2788,984,66",
-      "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/41"
+      "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations/line/42"
     }
   ],
   "id": "https://hadro.github.io/brewery-guides/1917/0051_5131684_gemini-2.0-flash_annotations"
